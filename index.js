@@ -32,9 +32,27 @@ const loadModel = async () => {
     }
 }
 
-const predict = (model, tokenizedInput) => {
-    let inputIds = tf.tensor(tokenizedInput.getIds(), undefined, "int32");
-    let attentionMask = tf.tensor(tokenizedInput.getAttentionMask(), undefined, "int32");
+const maxLength = 512;
+const PAD_IDX = 0;
+
+const pad = (inputIds, attentionMask) => {
+    let dif = maxLength - inputIds.length;
+    let padding = Array(dif).fill(0);
+    inputIds = Array.from(inputIds).concat(padding);
+    attentionMask = Array.from(attentionMask).concat(padding);
+    return {inputIds, attentionMask};
+}
+
+
+const predict = (model, encoding) => {
+
+    let {inputIds, attentionMask} = pad(encoding.input_ids, encoding.attention_mask);
+    inputIds = tf.tensor(
+        inputIds, undefined, "int32"
+    );
+    attentionMask = tf.tensor(
+        attentionMask, undefined, "int32"
+    );
 
     let modelInput = {
         "input_ids": inputIds.reshape([1, -1]),
@@ -96,9 +114,10 @@ async function main() {
     document.contract = contract;
     document.paragraphs = paragraphs;
     document.encodedParagraphs = encodedParagraphs;
+    document.tf = tf;
 
     console.log("Predicting");
-    let predictions = encodedParagraphs.map(paragraph => predict(model, paragraph));
+    let predictions = encodedParagraphs.map(encoding => predict(model, encoding));
     console.log("done!");
 }
 
