@@ -35,6 +35,7 @@
   },
   "dependencies": {
     "@tensorflow/tfjs": "^3.19.0",
+    "@tensorflow/tfjs-backend-wasm": "^3.19.0",
     "hf-tokenizers-wasm": "^0.1.0"
   }
 }
