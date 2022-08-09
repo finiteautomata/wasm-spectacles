@@ -39,14 +39,26 @@ const loadModel = async () => {
     }
 }
 
+/// TODO ESTO ESTA A MANO, ES LO QUE HAY
 const maxLength = 512;
 const PAD_IDX = 0;
+const CLS_IDX = 101;
+const SEP_IDX = 102;
 
 const pad = (inputIds, attentionMask) => {
-    let dif = maxLength - inputIds.length;
-    let padding = Array(dif).fill(0);
-    inputIds = Array.from(inputIds).concat(padding);
-    attentionMask = Array.from(attentionMask).concat(padding);
+    inputIds = [CLS_IDX, ...inputIds, SEP_IDX];
+    attentionMask = [0, ...attentionMask, 0];
+
+    if (inputIds.length > maxLength) {
+        inputIds = inputIds.slice(0, maxLength);
+        attentionMask = attentionMask.slice(0, maxLength);
+    }
+    else {
+        let dif = maxLength - inputIds.length;
+        let padding = Array(dif).fill(0);
+        inputIds = Array.from(inputIds).concat(padding);
+        attentionMask = Array.from(attentionMask).concat(padding);
+    }
     return {inputIds, attentionMask};
 }
 
@@ -101,23 +113,27 @@ const decode = (prediction, tokenizedInput) => {
     // First, get the prediction for each token
 
     let tokenPreds = prediction.argMax(1).arraySync();
-    let wordIds = tokenizedInput.getWordIds();
+    let wordIds = [-1, ...tokenizedInput.word_ids];
     let currentWordId = null;
 
-    console.log(tokenPreds);
-    for (let i = 1; i < prediction.shape[0]; ++i) {
-        let token = tokenizedInput.getTokens()[i];
+    let out = "";
+    for (let i = 1; (i < prediction.shape[0]) && (i < tokenizedInput.tokens.length); ++i) {
+        // This is because unaligned tokenization
+        let token = tokenizedInput.tokens[i-1];
         let pred = tokenPreds[i];
         let wordId = wordIds[i];
 
         if (wordId !== currentWordId) {
             // Starts new word
             currentWordId = wordId;
-            console.log(`${token} (${id2label[pred]})`);
+            let label = id2label[pred];
+            if (label !== "O")
+                out += `${token} (${label})`;
+            else
+                out += token + " ";
         }
-
     }
-
+    console.log(out);
 }
 
 
@@ -128,7 +144,7 @@ async function main() {
     console.log("Loading model...");
     let model = await loadModel();
     console.log("done!");
-    let url = "https://raw.githubusercontent.com/finiteautomata/wasm-spectacles/master/data/flextronics.txt";
+    let url = "assets/flextronics.txt";
     let contract = await loadContract(url);
 
     let paragraphs = contract.split("\n").map(normalize).filter(line => line.length > 0);
@@ -141,11 +157,15 @@ async function main() {
     document.contract = contract;
     document.paragraphs = paragraphs;
     document.encodedParagraphs = encodedParagraphs;
-    document.tf = tf;
 
     console.log("Predicting");
-    let predictions = encodedParagraphs.map(encoding => {encoding, predict(model, encoding)});
+    let predictions = encodedParagraphs.map(encoding => [encoding, predict(model, encoding)]);
     console.log("done!");
+
+    for (let [encoding, prediction] of predictions) {
+        console.log("==============================");
+        decode(prediction, encoding);
+    }
 }
 
 main();
