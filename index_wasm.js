@@ -9,7 +9,7 @@ import {setWasmPaths} from '@tensorflow/tfjs-backend-wasm';
 setWasmPaths("http://localhost:8080/assets/");
 
 // Set the backend to WASM and wait for the module to be ready.
-// tf.setBackend('wasm').then(() => main());
+tf.setBackend('wasm').then(() => main());
 
 class Tokenizer {
   constructor(json) {
@@ -96,31 +96,6 @@ const loadContract = async (url) => {
     return contract;
 }
 
-const decode = (prediction, tokenizedInput) => {
-    // Decode the prediction
-    // First, get the prediction for each token
-
-    let tokenPreds = prediction.argMax(1).arraySync();
-    let wordIds = tokenizedInput.getWordIds();
-    let currentWordId = null;
-
-    console.log(tokenPreds);
-    for (let i = 1; i < prediction.shape[0]; ++i) {
-        let token = tokenizedInput.getTokens()[i];
-        let pred = tokenPreds[i];
-        let wordId = wordIds[i];
-
-        if (wordId !== currentWordId) {
-            // Starts new word
-            currentWordId = wordId;
-            console.log(`${token} (${id2label[pred]})`);
-        }
-
-    }
-
-}
-
-
 async function main() {
 
     let tokenizer = await Tokenizer.from_pretrained("finiteautomata/ner-leg");
@@ -144,7 +119,7 @@ async function main() {
     document.tf = tf;
 
     console.log("Predicting");
-    let predictions = encodedParagraphs.map(encoding => {encoding, predict(model, encoding)});
+    let predictions = encodedParagraphs.map(encoding => predict(model, encoding));
     console.log("done!");
 }
 
