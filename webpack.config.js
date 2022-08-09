@@ -11,4 +11,11 @@ module.exports = {
   plugins: [
     new CopyWebpackPlugin(['index.html'])
   ],
+  devServer: {
+    static: {
+      directory: path.resolve(__dirname, './assets'),
+      publicPath: '/assets'
+    }
+  }
 };
+
