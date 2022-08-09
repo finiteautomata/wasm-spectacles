@@ -1,0 +1,142 @@
+EX-10.2 2 flextronics-fireeyedatapro.htm EXHIBIT 10.2
+
+fireeyelogoa01.jpg
+Exhibit 10.2
+
+
+
+To
+Flextronics Design and Manufacturing Services Agreement
+Between
+Flextronics Telecom Systems, Ltd. and FireEye, Inc
+
+
+
+
+This  to the Flextronics Design and Manufacturing Services Agreement (hereinafter referred to as the “” or “Addendum”) is dated and made effective as of 9th day of April 2018 (the “Addendum Effective Date”), and is by and between Flextronics Telecom Systems, Ltd., with a place of business located at Level 3, Alexander House, 35 Cybercity, Ebene, Mauritius, including some of its affiliates and wholly owned subsidiaries in accordance with Section 12.10(i) of the Agreement (hereinafter collectively referred to as “Flextronics” or “Service Provider”) and FireEye, Inc., a Delaware corporation, with offices located at 601 McCarthy Blvd., Milpitas, CA 95035, and FireEye Ireland Limited, a company organized and existing under the laws of Ireland, having a place of business at First Floor, Block B, City Gate Park, Mahon, Cork, Ireland (hereinafter referred to collectively as “FireEye” or “Customer” as defined in the Agreement). This Addendum is an amendment to the Flextronics Design and Manufacturing Services Agreement (and referred to as the “Agreement”) that was entered into by the parties on or about September 28, 2012.
+
+For clarity, this Addendum only applies if and to the extent to Personal Data relating to FireEye and its personnel that is received by Service Provider from or on behalf of FireEye for Processing as a data importer while performing those functions or activities as required by the Agreement.
+
+The parties hereby agree as follows:
+
+
+1. General Definitions. All capitalized terms not otherwise defined herein shall have the meanings set forth in the Agreement.
+
+2. Scope of Addendum. As of the Addendum Effective Date and for any period of time thereafter during which Service Provider is a data importer and has possession of or access to FireEye Personal Data in connection with the Services until expiration or termination of the Agreement, Service Provider shall have implemented at its Facilities, and shall thereafter maintain policies, procedures and practices that satisfy the applicable requirements set forth in this . Additionally, at all times during the duration of the Agreement and for any period of time thereafter during which Service Provider is a data importer and has possession of or access to FireEye Personal Data in connection with the Services, Service Provider shall maintain compliance with all applicable Data Protection Laws, including, when it comes into force, Regulation 2016/EC/679 (“General Data Protection Regulation” or “GDPR"). Notwithstanding the foregoing, if Service Provider cannot provide such compliance for whatever reasons, it agrees to promptly inform FireEye of its inability to comply, in which case the FireEye is entitled to suspend the transfer of Personal Data and/or terminate the related Design Services or Work as provided in Section 11.2 of the Agreement.
+
+
+
+
+
+
+
+3. Data Processing/Privacy Definitions. For purposes of this , "Personal Data", "Process(ing)" and “Data Subject(s)” will have the meaning given to these terms in accordance with the applicable country-specific Data Protection Laws, including but not limited to, the EU General Data Protection Directive (GDPR). During the term of the Agreement:
+
+“FireEye Personal Data” means the Personal Data about FireEye and its personnel that Service Provider receives from FireEye, or otherwise Processes for or on behalf of FireEye in order to provide the Services (including any products) under the Agreement.
+
+“Data Protection Laws” means any law covering "Personal Data", "Process(ing)" and “Data Subject(s)”, including the GDPR and all other country’s privacy laws, including Member State’s data protection laws and regulations applicable to Service Provider as a data importer of FireEye Personal Data in the performance of the Services under the Agreement.
+
+“Facilities” or “Facility” means the Service Provider’s facility(s) used now or in the future to perform Design Services and/or Work pursuant to the Agreement that have access, store, Process or use FireEye Personal Data.
+
+“Member State” means a country that is a member of the European Union or the European Economic Area.
+
+“Personnel” means all workers, including but not limited to Service Provider’s employees, temporary personnel, and others employed or contracted by Service Provider that have access, store, Process or use FireEye Personal Data.
+
+Service(s) means the Design Services and/or Work provided by Service Provider pursuant to the Agreement.
+
+“Subcontractor” means Service Provider’s vendors, agents, subcontractors, and all other persons, entities, or organizations, exclusive of non-contingent FireEye employees who are subject to the direction, supervision, and control of Service Provider.
+
+“Sub-processor” means any Subcontractor engaged by Service Provider to Process FireEye Personal Data who are identified in Appendix 1 of this Addendum.
+
+4. Processing. In performing its obligations in the Agreement, if Service Provider at any time from the Addendum Effective Date and until termination of the Services or the Agreement undertakes Processing of Personal Data for or on behalf of FireEye, Service Provider will process all Personal Data fairly and lawfully, respecting the Data Subject's privacy, and in accordance with all Data Protection Laws applicable to such Processing of Personal Data. Service Provider will take reasonable measures to require that all of its Personnel and each of its Sub-processors process all Personal Data in a similar manner as further described in Section 5 below. Service Provider will only Process FireEye Personal Data for the purposes of and in compliance with the terms set out in the Agreement or this  and in compliance with mutually agreed FireEye's instructions as issued from time to time. Service Provider will not (i) obtain any rights to any Personal Data by virtue of complying with its obligations in the Agreement and/or this Addendum; (ii) except with respect to approved Sub-processors or pursuant to applicable law, transfer or disclose any Personal Data (in part or in whole) to any third party, except as stipulated in this , (iii) except as technically necessary to perform its obligations under the Agreement, transfer, access or store any Personal Data outside of the country in which the applicable Service Provider Facility is established ( the “Country Of Origination”), including via cloud services, without the explicit prior consent of FireEye, or (iv) Process or use any Personal Data for its own purposes or benefit. Service Provider will keep all Personal Data confidential and secure.
+
+5. Third Parties & Sub-processors. Service Provider may subcontract its processing work that relates to Personal Data under the Agreement only with prior written consent of FireEye. Additionally, Service
+
+
+
+
+Provider must provide a list of current Sub-processors under Appendix 1 of this Addendum. Such sub-processor list shall include the identities of those Sub-processors and their country of location and have been consented to by FireEye. If Service Provider decides at a later date to use Sub-processors, Service Provider must inform FireEye in writing. Service Provider must inform FireEye prior to any changes or replacements of Sub-processors and request FireEye’s explicit approval for such change. FireEye shall not unreasonably object to such changes or replacements. If Service Provider is authorized by FireEye to subcontract to a third party any of its performance obligations under the Agreement with respect to Processing FireEye Personal Data, Service Provider shall require that its Sub-processors also maintain adequate measures (reasonably appropriate to such subcontractor’s storage, maintenance or processing activities) that comply in all material respects with the relevant obligations in this Addendum, including, but not limited to, the obligations of data privacy, confidentiality, information security and international transfers. Subject to the limitations set forth herein and in Section 10.6 of the Agreement, to the extent caused by Service Provider will be held accountable and liable to FireEye for any Personal Data privacy violations or security breaches within the Service scope, to the extent caused by Service Provider’s breach of its obligations under this Addendum.
+
+6. International Transfers. All transfers of FireEye Personal Data outside of the Country Of origination by Service Provider (if any) will be in strict compliance with the relevant provisions of the Data Protection Laws in the originating country. Where the Personal Data originates in the EU, transfers can only occur either to a country with adequate Data Protection Laws or pursuant to Privacy Shield, the EU Standard Contractual Clauses, or Binding Corporate Rules. All transfers of Personal Data by Service Provider not technically necessary to perform its obligations under the Agreement will be done with the prior written consent of FireEye and will be made in strict accordance with applicable Data Protection Laws or contractual obligations on such transfers provided such contractual obligations do not violate applicable Data Protection Laws. All transfers of Personal Data outside of Canada, or countries within Asia Pacific and Latin America will be done so in accordance with applicable Data Protection Laws.
+
+7. Cooperation & Enquiries. Service Provider will inform FireEye without undue delay if Service Provider receives any enquiry, complaint or claim from any court, governmental official, third parties or individuals (including but not limited to the Data Subjects) arising out of the Services and will provide FireEye reasonable support and cooperation in a timely manner in responding to any such request. Should FireEye, on the basis of applicable law, be obliged to provide access or information to a Data Subject about the Processing of Personal Data relating to him or her, Service Provider will, without levying a fee, reasonably assist FireEye in providing such access or information.
+
+8. Confidentiality & Information Security. In addition to any other agreement and/or terms governing confidentiality between the parties, Service Provider will adopt adequate (taking into account the nature of Processing and the information available to Service Provider) technical and organizational measures reasonably necessary to secure the Personal Data and to prevent unauthorized access, alteration or loss of the same, including measures required by applicable Data Protection Laws. Service Provider will also ensure confidentiality of the Personal Data, including taking appropriate measures to ensure the same of its Personnel and Sub-processors. At the reasonable written request of FireEye, Service Provider will provide the former with a comprehensive and up-to-date data protection and security concept for the FireEye Personal Data obtained under the Agreement while performing the Services under the Agreement.
+
+9. Privacy Violations, Security and Data Breach Incidents. When known or reasonably suspected by Service Provider while performing the Services under the Agreement, Service Provider will inform FireEye promptly if: (i) Service Provider or its Personnel infringe the applicable Data Protection Laws or obligations under the Agreement, (ii) significant failures during the Processing occur, or (iii) third parties have unauthorized or unintended access to the Personal Data. The parties are aware that the applicable Data Protection Law may impose a duty to inform the competent authorities or affected Data Subjects in the event of the loss or unlawful disclosure of Personal Data or access to it. These incidents should therefore be notified by Service Provider to FireEye without delay, regardless of their origin. This also applies to serious operational faults or where there is any suspicion of an infringement of provisions relating to the
+
+
+
+
+
+
+protection of Personal Data or other irregularities in the handling of Personal Data belonging to FireEye. In consultation with FireEye, Service Provider must take appropriate measures, within the Service scope, to address the Breach, including, where appropriate, measures to secure the Personal Data and work in good faith to reduce risk to the Data Subjects whose Personal Data was involved. Service Provider must coordinate the messaging related to any privacy violation, security breach or data breach incident with the FireEye prior to making any public disclosures.
+
+10. Inspection & Audit Rights. Upon at least 30 days prior written notice as described in Section 12.11 of the Agreement and subject to the obligations herein, FireEye may inspect Service Provider's operating Facilities or conduct an audit (each an “Audit”), Service Provider’s security, manufacturing processes, quality processes and environmental systems controls used for processing FireEye Personal Data to ascertain compliance with this  at FireEye’s expense (although FireEye shall in no way be responsible for any expenses or costs incurred by Service Provider’s commercially reasonable support in assisting FireEye with the Audit or allowing FireEye to inspect their Facilities, and in the event a violation of Service Provider’s obligations under this Addendum is found that has the potential to compromise FireEye Personal Data, Service Provider shall be responsible for all reasonable costs and expenses incurred by FireEye in conducting the Audit). To the extent applicable to Service Provider’s obligations under this Addendum, this Audit may include, but is not limited to, the verification of whether the procedures for the technical and organizational requirements of data protection and information security are appropriate in accordance with FireEye’s Third Party Information Security Requirements Addendum (or similar obligations negotiated by the parties either in an agreement and/or separate amendment/addendum). Service Provider will provide FireEye with any reasonably necessary information and documents during the Audit. The Audit may be carried out once a year by FireEye’s data protection officer or a mutually accepted authorized representative unless a violation of Service Provider’s obligations under this  is found, and in such an event, FireEye may conduct another Audit within six months or if FireEye reasonably believes that Service Provider is not complying with the obligations contained in this Addendum. All Audits will be performed during normal working hours; subject to Service Provider’s reasonable security, safety, and confidentiality requirements; and in such a way that the Audit does not disrupt or compromise Service Provider’s infrastructure or ability to process normal business operations. In addition, Service Provider will reasonably allow and assist in the Audit of its obligations (at its own expense) under this Addendum. In addition, Service Provider will cooperate with any audit ordered by a relevant Data Protection Authority that arises from its performance under the Agreement.
+
+Notwithstanding the forgoing, any Audit, shall not entitle FireEye to view, or in any way access records and/or processes:
+
+i. Not directly related to FireEye Data Processed by Service Provider;
+ii. Not directly related to the Design Services or Work provided to FireEye under the Agreement;
+iii. In violation of applicable laws; and/or
+iv. In violation of Service Provider’s confidentiality obligations owed to a third party
+
+For clarity, Audits will only be performed if the parties have mutually agreed in writing on the scope of the Audit prior to any Audit. FireEye will provide prior written notice, including a written explanation of the reason for the Audit, to the Service Provider no later than 30 days before any such Audit commences. Prior to any Audit, both parties shall agree to pursue, in good faith, other means of reconciling the documents that would render such Audits not necessary. The mutually accepted third party auditor will sign Service Provider’s standard, confidential disclosure agreement, which will limit the third party auditor’s rights to disclose to FireEye anything other than the results of Service Provider’s compliance or non-compliance with the Audit. Audit Costs and expenses shall be mutually agreed upon between the parties in writing prior to any Audit.
+
+11. Indemnity. Subject to the remaining provisions of this Section 11, the parties hereby agree that Service Provider shall have the obligation of defense and indemnification for any Claim incurred by or assessed against any Customer Indemnitee by third party for any willful or negligent acts or omissions by Service Provider or any violation of this Addendum or the Data Protection Laws but to the extent such violation has been caused by the Service Provider’s willful or negligent acts or omissions while Processing FireEye Personal Data as a data importer under this Addendum and this obligation shall be added to the Agreement as Section 10.2(d).
+
+Notwithstanding anything contained in the Agreement, this Addendum or any other amendment or addendum, the parties agree (i) that if one party is held liable for a violation of the Data Protection Laws committed by the other party, the latter will, to the extent to which it is liable, indemnify the other party for any cost, charge, damages, expenses or loss it has incurred as part of its obligations to indemnify under Sections 10.1 and 10.2, as applicable; and (ii) the limitations and exceptions in Section 10.6 (Limitation of Liability) of the Agreement, including Service Provider’s total liability cap, applies to this Section 11.
+
+The non-indemnifying party shall:
+
+(i)    promptly notify the other party upon learning of a Claim; and
+(ii)    cooperate in the defense and settlement of the Claim.
+
+12. Return of Personal Data. Following termination of the Agreement, Service Provider, except to the extent prohibited by applicable law, at the sole discretion and written request of FireEye, will return to FireEye or destroy and delete all FireEye Personal Data subject to Processing. Service Provider must certify in writing to FireEye that it has complied with the foregoing obligations.
+
+13. Counterparts. This Addendum may be executed in counterparts, each of which when executed and delivered shall constitute an original of the Addendum, but all the counterparts shall together constitute the same document. No counterpart shall be effective until each party has executed at least one counterpart. Facsimile or electronic signatures shall be binding to the same extent as original signatures.
+
+14. Integration. Except as otherwise set forth in this Addendum, all terms and conditions contained in the Agreement and not amended herein shall remain in full force and effect. In the event of a conflict between the Agreement and this Addendum or any other confidentiality term in an agreement between the parties, the order of precedence in respect of the Processing of FireEye Personal Data shall be: this Addendum and then the Agreement.
+
+IN WITNESS WHEREOF, the parties hereto have executed this Addendum through their authorized representatives identified below.
+
+On behalf of the data exporter: FireEye, Inc.
+Name (written out in full): Joe Zuccaro
+Position: Sr. Director - Contracts
+Address: 601 McCarthy Blvd, Milpitas, CA
+
+Other information necessary in order for the contract to be binding (if any):
+Signature /s/ Joe Zuccaro
+On behalf of the data exporter: FireEye Ireland Limited
+Name (written out in full): Ruth.Kelleher
+Position: Director, FireEye Ireland Limited
+Address: 2 ParK Place, City Gate Park, Cork, Ireland
+
+Other information necessary in order for the contract to be binding (if any):
+Signature /s/ Ruth Kelleher
+
+
+On behalf of the data importer: Flextronics Telecom Systems, Ltd.
+Name (written out in full): Manny Marimuthu
+Position: Director
+Address:
+
+Other information necessary in order for the contract to be binding (if any):
+Signature /s/ Manny Marimuthu
+
+
+
+Appendix 1 to the Addendum
+List of agreed Sub-processors
+
+Name of Sub-processor
+Country Location of Sub-processor
+none
+
+
+
+
+
+
+
+
