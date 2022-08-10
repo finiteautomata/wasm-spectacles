@@ -1,0 +1,326 @@
+EX-10.1 2 ex101fourthamendmenttocred.htm EXHIBIT 10.1
+Exhibit 10.1
+
+FOURTH AMENDMENT TO CREDIT AGREEMENT
+
+This FOURTH AMENDMENT TO CREDIT AGREEMENT (this “Amendment”) entered into on May 1, 2019, is among EARTHSTONE ENERGY HOLDINGS, LLC, a Delaware limited liability company (“Borrower”), EARTHSTONE OPERATING, LLC, a Texas limited liability company (“EO”), EF NON-OP, LLC, a Texas limited liability company (“EF”), SABINE RIVER ENERGY, LLC, a Texas limited liability company (“Sabine”), EARTHSTONE LEGACY PROPERTIES, LLC, a Texas limited liability company (“ELP”), LYNDEN USA OPERATING, LLC, a Texas limited liability company (“LUO”), BOLD ENERGY III LLC, a Texas limited liability company (“BE”) and BOLD OPERATING, LLC, a Texas limited liability company (“BO”), as guarantors (EO, EF, Sabine, ELP, LUO, BE and BO, each a “Guarantor” and collectively, the “Guarantors”); each Lender (defined below) who is a signatory hereto and BOKF, NA dba BANK OF TEXAS, a national banking association, as administrative agent (“Agent”) for the Lenders. The party or parties are sometimes individually referred to herein as a “Party” or collectively referred to as “Parties.”
+
+R E C I T A L S
+WHEREAS, Borrower, Agent and the lenders from time to time party thereto (each a “Lender” and collectively, the “Lenders”) are parties to that certain Credit Agreement dated as of May 9, 2017, as amended by that certain First Amendment to Credit Agreement dated as of October 11, 2017, that certain Second Amendment to Credit Agreement dated as of December 1, 2017 and that certain Third Amendment to Credit Agreement dated as of May 23, 2018 (as may be further amended, modified or restated from time to time prior to the date hereof, the “Existing Credit Agreement”, and as amended by this Amendment and as further amended, modified or restated from time to time, the “Credit Agreement”), whereby the Lenders agreed to make available to Borrower a credit facility upon the terms and conditions set forth therein; and
+
+WHEREAS, Borrower has requested that Agent and the Lenders amend certain provisions of the Credit Agreement as provided herein; and
+
+WHEREAS, subject to the terms hereof, the Agent and the Lenders are willing to agree to the amendment of certain provisions of the Credit Agreement as set forth herein.
+
+NOW, THEREFORE, for and in consideration of the mutual covenants and agreements contained herein, and other good and valuable consideration, the receipt and sufficiency of which are
+hereby acknowledged , the Parties to this Amendment hereby agree as follows:
+
+SECTION 1.    Defined Terms. Except as may otherwise be provided herein, all capitalized terms which are defined in the Credit Agreement shall have the same meaning herein as therein, all of such terms and their definitions being incorporated herein by reference. For the purposes of this Amendment, (a) “Existing Lender” means each institution that is a party hereto that is a Lender under the Existing Credit Agreement and (b) “New Lender” means each institution that is a party hereto that is not a Lender under the Existing Credit Agreement.
+
+SECTION 2.    Amendments to Credit Agreement. Subject to the conditions precedent set forth in Section 3 hereof:
+
+(a)    Section 1.02 of the Credit Agreement is amended by adding the following new defined terms in proper alphabetical order:
+
+
+
+
+
+“Beneficial Ownership Certification” means a certification regarding beneficial ownership required by the Beneficial Ownership Regulation, which certification shall be substantially similar in form and substance to the form of Certification Regarding Beneficial Owners of Legal Entity Customers published jointly, in May 2018, by the Loan Syndications and Trading Association and Securities Industry and Financial Markets Association.
+
+“Beneficial Ownership Regulation” means 31 C.F.R. § 1010.230.
+
+(b)    Article I of the Credit Agreement is amended by adding the following as a new Section 1.05:
+“Section 1.05    Divisions. For all purposes under the Loan Documents, in connection with any division or plan of division under Delaware law (or any comparable event under a different jurisdiction’s laws): (a) if any asset, right, obligation or liability of any Person becomes the asset, right, obligation or liability of a different Person, then it shall be deemed to have been transferred from the original Person to the subsequent Person, and (b) if any new Person comes into existence, such new Person shall be deemed to have been organized on the first date of its existence by the holders of its equity interests at such time.”
+(c)    Section 7.11 of the Credit Agreement is amended by adding the following as a new sentence to the end thereof: “All information set forth or disclosed in any Beneficial Ownership Certification is true and correct in all respects.”
+
+(d)    Section 8.01(l) of the Credit Agreement is amended by adding the following as a new sentence to the end thereof: “From time to time all documentation and other information required by regulatory authorities under the Beneficial Ownership Regulation.”
+
+(e)    Annex I to the Credit Agreement is hereby replaced with Annex I to this Amendment.
+
+SECTION 3. Conditions of Effectiveness. The obligations of Agent and the Lenders to amend the Credit Agreement as provided herein are subject to the fulfillment of the following conditions precedent:
+
+(a)    Agent shall have received counterparts of this Amendment, which shall have been executed by the Lenders, Borrower and the Guarantors.
+
+(b)    Borrower shall have made payment of all fees and expenses due and owing under the Credit Agreement including such fees and expenses specified in Section 8 hereof.
+
+(c)    All representations and warranties set forth in each of the Loan Documents shall be true and correct.
+
+(d)    No Material Adverse Effect shall have occurred.
+
+(e)    No Default or Event of Default shall have occurred.
+
+SECTION 4.    Borrowing Base Redetermination. The Lenders have agreed that the amount of the Borrowing Base shall be increased to $325,000,000 and the Monthly Reduction Amount shall be reaffirmed at $0, until the Borrowing Base and Monthly Reduction Amount are further redetermined pursuant to the terms of Section 2.08 of the Credit Agreement.
+
+
+2
+
+
+
+SECTION 5.    New Lenders; Reallocation of Maximum Credit Amount.
+
+(a)    The Agent, the Borrower, the Lenders and Issuing Bank consent to the following: (i) each New Lender becoming a “Lender” under and as defined in the Credit Agreement, (ii) the reallocation of the Maximum Credit Amounts so that each Lender’s Maximum Credit Amount and Percentage Share is as set forth on Annex I attached hereto, and (iii) the reallocation of the participations in Letters of Credit and Swing Line Loans in accordance with each Lender’s Percentage Share as set forth on Annex I attached hereto. On the date of this Amendment, after giving effect to such reallocation of the Maximum Credit Amounts, the Maximum Credit Amount and Percentage Share of each Lender shall be as set forth on Annex I attached hereto. The reallocation of the Maximum Credit Amounts among the Lenders, including any assignment by an Existing Lender of a portion of its rights, interests, liabilities and obligations under the Credit Agreement to New Lenders, shall be deemed to have been consummated on the date of this Amendment pursuant to the terms of the Assignment Agreement attached as Exhibit E to the Credit Agreement as if the Lenders had executed an Assignment Agreement with respect to such reallocation. The Administrative Agent hereby waives the $3,500.00 processing fee set forth in Section 12.06(b)(iv) of the Credit Agreement with respect to the assignments and reallocations contemplated by this Section 5.
+
+(b)    Each New Lender represents and agrees as follows: (i) it has received a copy of the Existing Credit Agreement, and has received or has been accorded the opportunity to receive copies of the most recent financial statements delivered pursuant to Section 8.01 thereof, and such other documents and information as it deems appropriate to make its own credit analysis and decision to enter into this Amendment, (ii) it has, independently and without reliance upon the Agent, any other agent, any Lender or any arranger, and based on such documents and information as it has deemed appropriate, made its own credit analysis and decision to enter into this Amendment, (iii) it will perform in accordance with their terms all of the obligations which by the terms of the Loan Documents are required to be performed by it as a Lender and agrees that on the date of this Amendment, it will become a party to the Credit Agreement and be bound by all the terms and provisions thereof.
+
+SECTION 6.    Representations and Warranties. Borrower and each Guarantor represents and warrants to Agent and the Lenders, with full knowledge that Agent and the Lenders are relying on the following representations and warranties in executing this Amendment, as follows:
+
+(a)    It has the power and authority to execute, deliver and perform this Amendment, and all organizational action on the part of itself, as applicable, requisite for the due execution, delivery and performance of this Amendment has been duly and effectively taken.
+
+(b)    This Amendment and each other document executed and delivered in connection herewith constitute its legal, valid and binding obligation, to the extent it is a party thereto, enforceable against it in accordance with their respective terms, except as enforceability may be limited by applicable bankruptcy, insolvency, or similar laws affecting the enforcement of creditors’ rights generally or by equitable principles relating to enforceability.
+
+(c)    This Amendment does not and will not violate any provisions of (i) its Charter Documents; (ii) any contract, agreement, or instrument to which it is a party; or (iii) any requirement of any governmental authority to which it is subject. Its execution of this Amendment will not result in the creation or imposition of any lien upon its properties other than those permitted by the Credit Agreement and this Amendment.
+
+(d)    Its execution, delivery and performance of this Amendment does not require the consent or approval of any other Person, including, without limitation, any regulatory authority or governmental body
+
+3
+
+
+
+of the United States of America or any state thereof or any political subdivision of the United States of America or any state thereof.
+
+(e)    As of the date of this Amendment, it is solvent and has taken no action such as may invoke applicable bankruptcy, insolvency, or similar laws affecting the enforcement of creditors’ rights generally or by equitable principles relating to enforceability.
+
+(f)    No Default or Event of Default exists, and all of the representations and warranties made by it contained in the Credit Agreement are true and correct in all material respects on and as of this date (except to the extent such representations and warranties expressly refer to an earlier or other date, in which case they shall be true and correct as of such earlier or other date). The conditions set forth in Section 3(c) through (e) of this Amendment have been satisfied.
+
+Except to the extent expressly set forth herein to the contrary, nothing in this Section 6 is intended to amend any of the representations or warranties contained in the Agreement.
+
+SECTION 7.    Reference to and Effect on the Credit Agreement.
+
+(a)    Upon and after the execution of this Amendment by each of the parties hereto, each reference in the Credit Agreement to “this Agreement”, “hereunder”, “hereof” or words of like import referring to the Credit Agreement, and each reference in the other Loan Documents to “the Credit Agreement”, “thereunder”, “thereof” or words of like import referring to the Credit Agreement, shall mean and be a reference to the Credit Agreement as modified hereby. This Amendment shall constitute a Loan Document.
+
+(b)    Except as specifically amended by this Amendment, the Credit Agreement shall remain in full force and effect and is hereby ratified and confirmed.
+
+SECTION 8.    Fees, Cost, and Expenses. Borrower agrees to pay all reasonable legal fees and expenses to be incurred in connection with the preparation, reproduction, execution and delivery of this Amendment and the other instruments and documents to be delivered in connection with the transactions associated herewith, including reasonable attorneys’ fees and out-of-pocket expenses of Agent, and agrees to save Agent harmless from and against any and all liabilities with respect to or resulting from any delay in paying or omission to pay such fees. Borrower agrees to pay any fees required to be paid in connection with this Amendment pursuant to the Fee Letter.
+
+SECTION 9.    Extent of Amendment. Except as otherwise expressly provided herein, neither the Credit Agreement nor the other Loan Documents are amended, modified or affected by this Amendment. Borrower and each Guarantor hereby ratifies and confirms that (i) except as expressly amended hereby, all of the terms, conditions, covenants, representations, warranties and all other provisions of the Credit Agreement, as applicable, remain in full force and effect, (ii) each of the other Loan Documents to which it is a party are and remain in full force and effect in accordance with their respective terms, and (iii) the Collateral granted by it is unimpaired by this Amendment.
+
+Nothing contained in this Amendment nor any past indulgence by Agent and/or the Lenders, nor any other action or inaction on behalf of Agent and/or the Lenders (i) shall constitute or be deemed to constitute a waiver of any unknown or future Defaults or Events of Default which may now or in the future exist under the Credit Agreement or the other Loan Documents, or (ii) shall constitute or be deemed to constitute an election of remedies by Agent and/or the Lenders or a waiver of any of the rights or remedies
+
+4
+
+
+
+of Agent and/or the Lenders provided in the Credit Agreement or the other Loan Documents or otherwise afforded at law or in equity.
+
+SECTION 10.    Grant and Affirmation of Security Interest. Borrower and each Guarantor hereby confirms and agrees that (i) any and all liens, security interests and other security or Collateral granted by it and now or hereafter held by Lenders as security for payment and performance of the Obligations are hereby renewed and carried forth to secure payment and performance of all of the Obligations, and (ii) the Loan Documents, as such may be amended in accordance herewith, are and remain legal, valid and binding obligations, enforceable in accordance with their respective terms, except as enforceability may be limited by applicable bankruptcy, insolvency, or similar laws affecting the enforcement of creditors’ rights generally or by equitable principles relating to enforceability.
+
+SECTION 11.     Claims; Release. As additional consideration to the execution, delivery, and performance of this Amendment by the parties hereto and to induce Agent and the Lenders to enter into this Amendment, Borrower and each Guarantor hereby represents and warrants that it does not know of any defenses, counterclaims or rights of setoff to the payment of any Obligations of Borrower or any Guarantor to Agent and/or the Lenders. In consideration of the amendments contained herein, Borrower and each Guarantor hereby waives and releases each of the Lenders and Agent from any and all claims and defenses, known or unknown, with respect to the Credit Agreement and the other Loan Documents and the transactions contemplated thereby.
+
+SECTION 12.    Execution and Counterparts. This Amendment may be executed in any number of counterparts and by different Parties hereto in separate counterparts, each of which when so executed and delivered shall be deemed to be an original and all of which taken together shall constitute but one and the same instrument. Delivery of an executed counterpart of this Amendment by facsimile or other electronic transmission (such as Portable Document Format) and other Loan Documents shall be equally as effective as delivery of a manually executed counterpart of this Amendment and such other Loan Documents.
+
+SECTION 13.    Governing Law. This Amendment shall be governed by and construed in accordance with the laws of the State of Texas.
+
+SECTION 14.    Headings. Section headings in this Amendment are included herein for convenience and reference only and shall not constitute a part of this Amendment for any other purpose.
+
+SECTION 15.    NO ORAL AGREEMENTS. THE RIGHTS AND OBLIGATIONS OF EACH OF THE PARTIES TO THE LOAN DOCUMENTS SHALL BE DETERMINED SOLELY FROM WRITTEN AGREEMENTS, DOCUMENTS, AND INSTRUMENTS, AND ANY PRIOR ORAL AGREEMENTS BETWEEN SUCH PARTIES ARE SUPERSEDED BY AND MERGED INTO SUCH WRITINGS. THIS AMENDMENT AND THE OTHER WRITTEN LOAN DOCUMENTS EXECUTED BY BORROWER, GUARANTOR, AGENT AND/OR THE LENDERS (TOGETHER WITH ANY FEE LETTERS AS THEY RELATE TO THE PAYMENT OF FEES AFTER THE CLOSING DATE) REPRESENT THE FINAL AGREEMENT BETWEEN SUCH PARTIES, AND MAY NOT BE CONTRADICTED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS, OR SUBSEQUENT ORAL AGREEMENTS BY SUCH PARTIES. THERE ARE NO UNWRITTEN ORAL AGREEMENTS BETWEEN SUCH PARTIES.
+
+[signature pages to follow]
+
+5
+
+
+
+IN WITNESS WHEREOF, the Parties hereto have caused this Amendment to be duly executed and delivered by their proper and duly authorized officers as of the date first written above.
+
+
+BORROWER:
+
+EARTHSTONE ENERGY HOLDINGS, LLC
+a Delaware limited liability company
+
+    By:
+/s/ Mark Lumpkin, Jr.
+      Mark Lumpkin, Jr.
+      Executive Vice President and
+Chief Financial Officer
+
+
+                                                                        
+
+GUARANTORS:
+ EARTHSTONE OPERATING, LLC,
+a Texas limited liability company
+EF NON-OP, LLC,
+a Texas limited liability company
+SABINE RIVER ENERGY, LLC,
+a Texas limited liability company
+EARTHSTONE LEGACY PROPERTIES, LLC,
+a Texas limited liability company
+LYNDEN USA OPERATING, LLC,
+a Texas limited liability company
+BOLD ENERGY III LLC,
+a Texas limited liability company
+BOLD OPERATING, LLC,
+a Texas limited liability company
+
+    Each by:
+/s/ Mark Lumpkin, Jr.
+      Mark Lumpkin, Jr.
+      Executive Vice President and
+Chief Financial Officer
+
+
+
+
+
+
+
+
+Signature Page to Fourth Amendment to Credit Agreement
+
+
+LENDER AND AGENT:
+
+BOKF, NA dba BANK OF TEXAS,
+as Agent and Lender
+
+By:
+/s/ Martin W. Wilson
+  Martin W. Wilson
+  Senior Vice President
+
+
+Signature Page to Fourth Amendment to Credit Agreement
+
+
+LENDER:
+
+WELLS FARGO BANK, NATIONAL ASSOCIATION,
+as Lender
+
+By:
+/s/ Greg Smothers
+  Greg Smothers
+  Director
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+Signature Page to Fourth Amendment to Credit Agreement
+
+
+LENDER:
+
+ROYAL BANK OF CANADA,
+as Lender
+
+
+By:
+/s/ Kristan Spivey
+  Kristan Spivey
+  Authorized Signatory
+
+
+
+
+
+
+
+Signature Page to Fourth Amendment to Credit Agreement
+
+
+LENDER:
+
+SUNTRUST BANK,
+as Lender
+
+
+By:
+/s/ Arize Agumadu
+  Arize Agumadu
+  Vice President
+
+
+
+
+
+Signature Page to Fourth Amendment to Credit Agreement
+
+
+LENDER:
+
+KEYBANK NATIONAL ASSOCIATION,
+as Lender
+
+
+By:
+/s/ David M. Bornstein
+  David M. Bornstein
+  Senior Vice President
+
+
+
+
+
+
+
+Signature Page to Fourth Amendment to Credit Agreement
+
+
+LENDER:
+
+IBERIABANK,
+as Lender
+
+
+By:
+/s/ Blakey Norris
+  Blakey Norris
+  Vice President
+
+
+
+
+
+
+
+Signature Page to Fourth Amendment to Credit Agreement
+
+
+LENDER:
+
+PNC BANK, NATIONAL ASSOCIATION,
+as Lender
+
+
+By:
+/s/ Denise S. Davis
+  Denise S. Davis
+  Vice President
+
+
+
+
+
+
+Signature Page to Fourth Amendment to Credit Agreement
+
+
+LENDER:
+
+CITIZENS BANK, NATIONAL ASSOCIATION,
+as Lender
+
+
+By:
+/s/ David Slye
+  David Slye
+
+  Managing Director
+
+
+
+
+Signature Page to Fourth Amendment to Credit Agreement

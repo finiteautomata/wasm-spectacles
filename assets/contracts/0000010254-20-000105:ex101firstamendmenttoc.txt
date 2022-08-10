@@ -1,0 +1,509 @@
+EX-10.1 2 ex101firstamendmenttoc.htm EXHIBIT 10.1
+Execution Version
+
+
+
+
+FIRST AMENDMENT
+TO
+CREDIT AGREEMENT
+Dated as of September 28, 2020
+Among
+EARTHSTONE ENERGY HOLDINGS, LLC,
+as Borrower,
+
+EARTHSTONE ENERGY, INC.,
+as Parent,
+
+WELLS FARGO BANK, NATIONAL ASSOCIATION,
+as Administrative Agent and Issuing Bank,
+ROYAL BANK OF CANADA,
+as Syndication Agent,
+
+TRUIST BANK,
+as Documentation Agent,
+
+and
+
+The Lenders Party Thereto
+________________________________
+
+WELLS FARGO SECURITIES, LLC
+RBC CAPITAL MARKETS
+Joint Lead Arrangers and Joint Bookrunners
+
+________________________________
+
+
+
+
+
+
+FIRST AMENDMENT TO CREDIT AGREEMENT
+THIS FIRST AMENDMENT TO CREDIT AGREEMENT (this “First Amendment”) dated as of September 28, 2020, is among Earthstone Energy Holdings, LLC, a Delaware limited liability company (the “Borrower”); Earthstone Energy, Inc., a Delaware corporation (the “Parent”); each of the undersigned guarantors (the “Guarantors”, and together with the Borrower and the Parent, the “Obligors”); each of the Lenders party hereto; and Wells Fargo Bank, National Association (in its individual capacity, “Wells Fargo”), as administrative agent for the Lenders (in such capacity, together with its successors in such capacity, the “Administrative Agent”).
+R E C I T A L S
+A.    The Borrower, the Parent, the Administrative Agent and the Lenders are parties to that certain Credit Agreement dated as of November 21, 2019 (the “Credit Agreement”), pursuant to which the Lenders have made certain credit available to and on behalf of the Borrower.
+B.    The Borrower and the Guarantors are parties to that certain Guarantee and Collateral Agreement, dated as of November 21, 2019 (as amended, restated, amended and restated, supplemented or otherwise modified), made by each of the Loan Parties party thereto in favor of the Administrative Agent.
+
+C.    The Parent is party to that certain Parent Guarantee, dated as of November 21, 2019 (as amended, restated, amended and restated, supplemented or otherwise modified), in favor of the Administrative Agent.
+D.    The Borrower has requested and the Administrative Agent and the Lenders party hereto have agreed to amend the Credit Agreement, subject to the terms and conditions of this First Amendment.
+E.    NOW, THEREFORE, to induce the Administrative Agent and the Lenders to enter into this First Amendment and in consideration of the promises and the mutual covenants herein contained, for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:
+Section 1.Defined Terms. Each capitalized term used herein but not otherwise defined herein has the meaning given such term in the Credit Agreement, as amended by this First Amendment (unless otherwise indicated). Unless otherwise indicated, all section references in this First Amendment refer to sections of the Credit Agreement.
+Section 2.    Amendments to Credit Agreement.
+2.1    Amendment to Cover Page. The cover page of the Credit Agreement is hereby amended by replacing the reference to “SUNTRUST BANK” with “TRUIST BANK”.
+
+1    
+
+
+2.2    Amendment to Introductory Paragraph. The introductory paragraph of the Credit Agreement is hereby amended by replacing the reference to “SunTrust Bank” with “Truist Bank”.
+2.3    Amendments to Section 1.02 – Certain Defined Terms.
+(a)    The following definitions are hereby amended and restated in their entirety to read as follows:
+“Aggregate Elected Borrowing Base Commitments” means (a) on the First Amendment Effective Date, $240,000,000 and (b) at any time thereafter, an amount determined in accordance with Section 2.07(g).
+“Agreement” means this Credit Agreement, including any schedules and exhibits hereto, as amended by the First Amendment, and as the same may from time to time be amended, modified, supplemented or restated.
+“Applicable Margin” means, for any day, with respect to any ABR Loan or Eurodollar Loan, or with respect to the Commitment Fee Rate, as the case may be, the rate per annum set forth in the Borrowing Base Utilization Grid below based upon the Borrowing Base Utilization Percentage then in effect:
+Borrowing Base Utilization Grid
+  <25%
+≥25%, but
+<50%
+≥50%, but
+<75%
+≥75%, but
+<90%
+≥90%
+ABR Loans
+1.00%
+1.25%
+1.50%
+1.75%
+2.00%
+Eurodollar Loans
+2.00%
+2.25%
+2.50%
+2.75%
+3.00%
+Commitment Fee Rate
+0.375%
+0.375%
+0.50%
+0.50%
+0.50%
+
+Notwithstanding the foregoing, if the Consolidated Leverage Ratio for the Reference Period ending on the last day of any fiscal quarter or fiscal year, as applicable, exceeds 1.50 to 1.00, then the Applicable Margin set forth in the above grid with respect to ABR Loans and Eurodollar Loans (but, for purposes of clarity, not the Commitment Fee Rate) will, in each case, increase by 0.25% during the period from and including the first day immediately following the date the financial statements and the related compliance certificate are delivered pursuant to Section 8.01(a) or Section 8.01(b), as applicable, and Section 8.01(c) for such fiscal quarter or fiscal year, as applicable, through and including the date of delivery of the financial statements and the related compliance certificate pursuant to Section 8.01(a) or Section 8.01(b), as applicable, and Section 8.01(c) for the immediately succeeding fiscal quarter. Each change in the Applicable Margin and Commitment Fee Rate shall apply during the period commencing on the effective date of such change and ending on the date immediately preceding the effective date of the next such change; provided, however, that if at any time the Borrower fails to deliver (i) a Reserve Report pursuant to Section 8.11(a) or (ii) the financial statements and the related
+
+2    
+
+
+compliance certificate pursuant to Section 8.01(a) or Section 8.01(b), as applicable, and Section 8.01(c), then, if so elected by the Majority Lenders, the “Applicable Margin” means the rate per annum set forth on the grid when the Borrowing Base Utilization Percentage is at its highest level.
+In the event that the certified calculation of the Consolidated Leverage Ratio previously delivered pursuant to Section 8.01(c) was inaccurate (and such inaccuracy is discovered while any Commitments or Loans are outstanding), and such inaccuracy, if corrected, would have led to the application of a higher Applicable Margin for the Loans for any period (an “Applicable Period”) than the Applicable Margin applied for such Applicable Period, then, to the extent any Commitments or Loans are outstanding at such time, (i) the Borrower shall as soon as practicable deliver to the Administrative Agent the correct certified calculation of the Consolidated Leverage Ratio for such Applicable Period, (ii) the Applicable Margin shall be determined as if the level for such higher Applicable Margin were applicable for such Applicable Period, and (iii) the Borrower shall within ten (10) Business Days of written demand thereof by the Administrative Agent pay to the Administrative Agent the accrued additional interest owing as a result of such increased Applicable Margin for the Loans for such Applicable Period, which payment shall be promptly applied by the Administrative Agent in accordance with this Agreement.
+“Bail-In Action” means the exercise of any Write-Down and Conversion Powers by the applicable Resolution Authority in respect of any liability of an Affected Financial Institution.
+“Bail-In Legislation” means (a) with respect to any EEA Member Country implementing Article 55 of Directive 2014/59/EU of the European Parliament and of the Council of the European Union, the implementing law, regulation rule or requirement for such EEA Member Country from time to time which is described in the EU Bail-In Legislation Schedule and (b) with respect to the United Kingdom, Part I of the United Kingdom Banking Act 2009 (as amended from time to time) and any other law, regulation or rule applicable in the United Kingdom relating to the resolution of unsound or failing banks, investment firms or other financial institutions or their affiliates (other than through liquidation, administration or other insolvency proceedings).
+“EBITDAX” means, for any period, Consolidated Net Income for such period plus to the extent not otherwise added to Consolidated Net Income, the aggregate amount of dividends and distributions actually paid in cash during such period to the Borrower and its Restricted Subsidiaries by (x) any Unrestricted Subsidiary or (y) any Person in which the Borrower or any Consolidated Restricted Subsidiary has an interest (which interest does not cause the net income of such other Person to be consolidated with the net income of the Borrower and the Consolidated Restricted Subsidiaries in accordance with GAAP), in the case of each of the
+
+3    
+
+
+foregoing clauses (x) and (y), with respect to its Equity Interests, plus the following expenses or charges to the extent deducted from Consolidated Net Income in such period: the sum of (a) (i) interest expense, (ii) income taxes, franchise or similar taxes, and (iii) depreciation, depletion, amortization, exploration and abandonment expenses, (b) distributions in connection with Equity Interests owned by management employees of the Borrower and its Restricted Subsidiaries permitted under this Agreement; (c) any actual expenses or charges directly incurred in connection with any issuance of Equity Interests, Investment, acquisition, disposition, recapitalization or the incurrence or repayment of Debt permitted to be incurred hereunder (including, for the avoidance of doubt, Debt under the Loan Documents) including a refinancing thereof (whether or not successful) and any amendment or modification to the terms of any such transactions, including any Transaction Expenses, in an aggregate amount not to exceed five percent (5%) of EBITDAX (prior to giving effect thereto) for any period of four consecutive fiscal quarters of the Borrower, and provided that the Borrower has delivered to the Administrative Agent a certificate from a Financial Officer of the Borrower certifying, in good faith, as to such expenses or charges, in such detail, and together with such supporting documentation therefor, as may be reasonably requested by the Administrative Agent; (d) solely to the extent (i) covered by indemnification provisions in any agreement and (ii) actually reimbursed, expenses incurred in connection with any Disposition or other Investment permitted hereunder; (e) any extraordinary, unusual or nonrecurring expenses or losses to the extent such amounts are non-cash; and (f) all other noncash charges, minus the sum of (1) all noncash income added to Consolidated Net Income; (2) gains on asset Dispositions, disposals and abandonments outside of the ordinary course of business and (3) to the extent not otherwise deducted from Consolidated Net Income, the aggregate amount of all Pass-Through Restricted Payment Related Proceeds of Unrestricted Subsidiary Cash Distributions received by the Borrower or any Restricted Subsidiary during such period in an amount equal to the aggregate amount of Pass-Through Restricted Payments actually made by the Borrower or any Restricted Subsidiary pursuant to Pass-Through Restricted Payments during such period. For the purposes of calculating EBITDAX for any Reference Period, (i) if during such Reference Period the Borrower or any Consolidated Restricted Subsidiary shall have made any Material Disposition, EBITDAX for such Reference Period shall be reduced by an amount equal to the EBITDAX (if positive) attributable to the Property that is the subject of such Material Disposition for such Reference Period or increased by an amount equal to the EBITDAX (if negative) attributable thereto for such Reference Period, (ii) if during such Reference Period the Borrower or any Consolidated Restricted Subsidiary shall have made a Material Acquisition, EBITDAX for such Reference Period shall be calculated after giving pro forma effect thereto as if such Material Acquisition occurred on the first day of such Reference Period and (iii) if during such Reference Period a Consolidated Subsidiary shall be redesignated as either a Consolidated Unrestricted Subsidiary or a Consolidated Restricted Subsidiary, EBITDAX shall be calculated after giving pro forma effect to such redesignation, as if such redesignation had occurred on the first day of such Reference
+
+4    
+
+
+Period. Notwithstanding anything herein to the contrary: EBITDAX for the Reference Period ending on December 31, 2019 shall be calculated by multiplying EBITDAX for the fiscal quarter ending on such date by four (4); EBITDAX for the Reference Period ending on March 31, 2020 shall be calculated by multiplying EBITDAX for the two consecutive fiscal quarters ending on such date by two (2); and EBITDAX for the Reference Period ending on June 30, 2020 shall be calculated by multiplying EBITDAX for the three consecutive fiscal quarters ending on such date by four-thirds (4/3).
+“Permitted Holders” means (i) EnCap and (ii) such other Persons as the Majority Lenders shall expressly consent to in writing as “Permitted Holders”.
+“Write-Down and Conversion Powers” means, (a) with respect to any EEA Resolution Authority, the write-down and conversion powers of such EEA Resolution Authority from time to time under the Bail-In Legislation for the applicable EEA Member Country, which write-down and conversion powers are described in the EU Bail-In Legislation Schedule, and (b) with respect to the United Kingdom, any powers of the applicable Resolution Authority under the Bail-In Legislation to cancel, reduce, modify or change the form of a liability of any UK Financial Institution or any contract or instrument under which that liability arises, to convert all or part of that liability into shares, securities or obligations of that person or any other person, to provide that any such contract or instrument is to have effect as if a right had been exercised under it or to suspend any obligation in respect of that liability or any of the powers under that Bail-In Legislation that are related to or ancillary to any of those powers.
+(b)    The following definitions are hereby added where alphabetically appropriate to read as follows:
+“Affected Financial Institution” means (a) any EEA Financial Institution or (b) any UK Financial Institution.
+“April 2021 Redetermination” has the meaning assigned to such term in Section 2.07(a).
+“Consolidated Cash Balance” means, at any time, (a) the aggregate amount of cash and Cash Equivalents, in each case, held or owned by (whether directly or indirectly), credited to the account of, or otherwise reflected as an asset on the balance sheet of, the Borrower and its Restricted Subsidiaries less (b) the sum of (i) any restricted cash or Cash Equivalents to pay bona fide royalty obligations, working interest obligations, production payments, vendor payments, suspense payments, severance and ad valorem taxes, payroll, payroll taxes, other taxes, employee wage and benefit payments and trust and fiduciary obligations or other obligations of the Borrower or any Restricted Subsidiary to third parties and for which the Borrower or such Restricted Subsidiary either (x) has issued checks or has initiated wires or ACH transfers (but which amounts have not, as of such time, been subtracted from
+
+5    
+
+
+the balance in the relevant account of the Borrower or such Restricted Subsidiary) or (y) reasonably anticipates in good faith that it will issue checks or initiate wires or ACH transfers within five (5) Business Days thereafter, (ii) other amounts permitted to be paid by the Borrower or its Restricted Subsidiaries in accordance with this Agreement and the other Loan Documents for which the Borrower or such Subsidiary has issued checks or has initiated wires or ACH transfers (but which amounts have not, as of such time, been subtracted from the balance in the relevant account of the Borrower or such Restricted Subsidiary), (iii) while and to the extent refundable, any cash or Cash Equivalents held by the Borrower or any Restricted Subsidiary constituting purchase price deposits pursuant to a binding and enforceable purchase and sale agreement with an unaffiliated third party containing customary provisions regarding the payment and refunding of such deposits, (iv) any cash or Cash Equivalents held by the Borrower or any Restricted Subsidiary in good faith to fund any customary deposit in the nature of earnest money with respect to, or the purchase price of, any future acquisition permitted under this Agreement, (v) any cash constituting proceeds from an issuance of common Equity Interests (other than Disqualified Capital Stock) of, or additional common equity contributions to, the Borrower (such amounts described in this clause (v), “Cash Equity Proceeds”); provided that such Cash Equity Proceeds shall be excluded from the calculation of Consolidated Cash Balance (a) only so long as (1) such Cash Equity Proceeds are to be used for the sole purpose of acquiring Oil and Gas Properties (a “Use of Proceeds”) and (2) the Borrower notifies the Administrative Agent, substantially contemporaneously with the receipt of such Cash Equity Proceeds, of the intended Use of Proceeds and (b) only during the period from and including the date such Cash Equity Proceeds are received by the Borrower to but excluding the earlier to occur of (1) the date that is 30 days following the date such Cash Equity Proceeds are received by the Borrower and (2) the date on which the definitive acquisition agreement for the acquisition relating to such Use of Proceeds is terminated for any reason, (vi) cash held to cash collateralize Letters of Credit and (vii) any proceeds of a Borrowing made in the preceding 5 Business Days, which the Borrower expects to use to fund the purchase price or deposits of any acquisition permitted under this Agreement (to the extent such use of proceeds is certified to by the Borrower in the applicable Borrowing Request).
+“Consolidated Cash Balance Threshold” means, at any time, the greater of (a) $25,000,000 and (b) 10% of the Loan Limit then in effect.
+“First Amendment” means that certain First Amendment to Credit Agreement, dated as of September 28, 2020, among the Borrower, the Parent, the Guarantors, the Administrative Agent and the Lenders party thereto.
+“First Amendment Effective Date” has the meaning assigned to such term in the First Amendment.
+
+6    
+
+
+“Pass-Through Restricted Payment” has the meaning assigned to such term in Section 9.04(a)(vi).
+“Pass-Through Restricted Payment Related Proceeds” has the meaning assigned to such term in Section 9.04(a)(vi).
+“Resolution Authority” means an EEA Resolution Authority or, with respect to any UK Financial Institution, a UK Resolution Authority.
+“UK Financial Institution” means any BRRD Undertaking (as such term is defined under the PRA Rulebook (as amended from time to time) promulgated by the United Kingdom Prudential Regulation Authority) or any person falling within IFPRU 11.6 of the FCA Handbook (as amended from time to time) promulgated by the United Kingdom Financial Conduct Authority, which includes certain credit institutions and investment firms, and certain affiliates of such credit institutions or investment firms.
+“UK Resolution Authority” means the Bank of England or any other public administrative authority having responsibility for the resolution of any UK Financial Institution.
+“Unrestricted Subsidiary Cash Distribution” a cash distribution made by an Unrestricted Subsidiary with respect to its Equity Interests to the Borrower or the Restricted Subsidiary that holds Equity Interests in such Unrestricted Subsidiary.
+(c)    Clause (a) of the definition of “Consolidated Net Income” is hereby amended by adding the following parenthetical to the end thereof:
+(other than any Pass-Through Restricted Payment Related Proceeds actually paid by the Borrower pursuant to a Pass-Through Restricted Payment)
+2.4    Amendment to Section 1.06(b). Section 1.06(b) is hereby amended by replacing the reference to “Sections 9.05(k), 9.05(l), 9.05(m), 9.05(n) and 9.05(p)” contained therein with “Sections 9.05(k), 9.05(l), 9.05(m), 9.05(n), 9.05(p) and 9.05(q)”.
+2.5    Amendments to Section 2.03. Section 2.03 is hereby amended as follows:
+(a)    clause (v) therein is hereby amended by deleting “and” from the end thereof;
+
+(b)    clause (vi) therein is hereby renumbered to be clause (vii);
+
+(c)    a new clause (vi) is hereby inserted immediately following clause (v) therein to read as follows:
+
+(vi)    the Consolidated Cash Balance (without regard to the requested Borrowing) does not, and the pro forma Consolidated Cash Balance (immediately
+
+7    
+
+
+after giving effect to the requested Borrowing) will not, exceed the Consolidated Cash Balance Threshold; and
+
+(d)    The second to the last sentence of Section 2.03 is hereby amended and restated in its entirety to read as follows:
+Each Borrowing Request shall constitute a representation that (a) the amount of the requested Borrowing shall not cause the total Revolving Credit Exposures to exceed the Loan Limit and (b) after giving pro forma effect to the requested Borrowing, the Consolidated Cash Balance shall not exceed the Consolidated Cash Balance Threshold.
+2.6    Amendment to Section 2.07(a). Section 2.07(a) is hereby amended and restated in its entirety to read as follows:
+(a)    First Amendment Borrowing Base. For the period from and including the First Amendment Effective Date to but excluding the next Redetermination Date, the amount of the Borrowing Base shall be $240,000,000. Notwithstanding the foregoing, the Borrowing Base may be subject to further adjustments in between Scheduled Redeterminations from time to time pursuant to Section 2.07(e), Section 2.07(f) or Section 8.12(c). For purposes of this Agreement, the determination of the Borrowing Base on the First Amendment Effective Date provided for in the first sentence of this Section 2.07(a) shall constitute the November 1, 2020 Scheduled Redetermination.
+2.7    Amendment to Section 2.07(b). The first sentence of Section 2.07(b) is hereby amended and restated in its entirety to read as follows:
+The Borrowing Base shall be redetermined on April 1, 2021 (the “April 2021 Redetermination”) and, thereafter, semi-annually in accordance with this Section 2.07 (each, a “Scheduled Redetermination”), and, subject to Section 2.07(d), such redetermined Borrowing Base shall become effective and applicable to the Borrower, the Administrative Agent, the Issuing Banks and the Lenders on or about April 1, 2021 (in the case of the April 2021 Redetermination), and on or about May 1 and November 1 of each year, commencing November 1, 2021.
+2.8    Amendment to Section 2.07(c). Section 2.07(c) is hereby amended by replacing the phrase “then on or before April 15th and October 15th of such year following the date of delivery” therein with the phrase “then on or before April 15th and October 15th of such year following the date of delivery (or in the case of the April 2021 Redetermination, on or about March 15, 2021)”.
+2.9    Amendment to Section 2.07(d). Section 2.07(d) is hereby amended by replacing the phrase “then on May 1st or November 1st, as applicable,” therein with the phrase “then on May 1st or November 1st (or in the case of the April 2021 Redetermination, on or about April 1, 2021), as applicable,”.
+
+8    
+
+
+2.10    Amendment to Section 3.04(c). Section 3.04(c) is hereby amended by adding a new clause (vi) to the end thereof to read as follows:
+(vi)    If, at the end of the fifth (5th) Business Day after any Borrowing, the proceeds of which were intended to be used by the Borrower pursuant to clause (vii) of the definition of Consolidated Cash Balance, the Borrower has not used the proceeds of such Borrowing as specified in the Borrowing Request for such Borrowing (the amount of such proceeds that have not been so used, the “Unused Proceeds”), such event shall not be a Default, but instead the Borrower shall, on the next succeeding Business Day, prepay the Borrowings in an aggregate principal amount equal to such Unused Proceeds. To the extent that there are funds of the Borrower or any of its Restricted Subsidiaries on deposit in, or credited to, any Deposit Account, Securities Account or other account maintained with the Administrative Agent (or any Affiliate thereof) or any Lender (or any Affiliate thereof) on any date that the Borrower is required to prepay Loans pursuant to this Section 3.04(c)(vi), the Borrower (on its own behalf and on behalf of the Restricted Subsidiaries) hereby irrevocably authorizes and instructs the Administrative Agent or such Lender to apply such funds to the prepayment of Loans.
+2.11    Amendments to Section 6.02. Section 6.02 is hereby amended as follows:
+(a)    a new subsection (d) is hereby inserted immediately following subsection (d) to read as follows:
+(d)    At the time of and immediately after giving effect to such Borrowing or the issuance, amendment, renewal or extension of such Letter of Credit, as applicable, the Consolidated Cash Balance shall not exceed the Consolidated Cash Balance Threshold.
+(b)    The phrase “as to the matters specified in Section 6.02(a) and (b)” therein is replaced with the phrase “Section 6.02(a), Section 6.02(b) and Section 6.02(d)”.
+2.12    Amendment to Section 7.27. Section 7.27 is hereby amended and restated in its entirety to read as follows.
+Section 7.27    Affected Financial Institution. No Loan Party is an Affected Financial Institution.
+2.13    Amendment to Section 8.01(c). Section 8.01(c) is hereby amended by (a) replacing the “and” immediately prior to clause (v) with a comma and (b) adding a new clause (vi) to the end thereof to read as follows:
+and (vi) setting forth in reasonable detail (A) the aggregate amount of all Investments made by the Borrower pursuant to each of Section 9.05(k), Section 9.05(p) and Section 9.05(q), (B) the aggregate amount of all Unrestricted Subsidiary Cash Distributions received by the Borrower and its Restricted Subsidiaries and (C) the
+
+9    
+
+
+aggregate amount of all Pass-Through Restricted Payments made pursuant to Section 9.04(a)(vi), in each case, during such fiscal quarter or fiscal year, as applicable.
+2.14    Amendment to Section 8.11(a). Section 8.11(a) is hereby amended by adding the following sentence to the end thereof:
+Notwithstanding the foregoing, in connection with the April 2021 Redetermination, the Borrower shall furnish to the Administrative Agent and the Lenders a Reserve Report on or about March 1, 2021, evaluating the Oil and Gas Properties of the Loan Parties as of as of January 1, 2021, which Reserve Report shall be prepared by one or more Approved Petroleum Engineers.
+2.15    Amendment to Article VIII. Article VIII is hereby amended by adding a new Section 8.19 to the end thereof to read as follows:
+Section 8.19    Consolidated Cash Balance Information. Upon the request of the Administrative Agent, such request to be delivered no more than once during any five (5) Business Day period, the Borrower shall provide to the Administrative Agent, on the Business Day next succeeding such request, (a) a certificate of a Financial Officer in substantially the form of Exhibit J, certifying as to the amount of the Consolidated Cash Balance, and (b) attaching thereto, summary and balance statements, in a form reasonably acceptable to the Administrative Agent, for each Deposit account, Securities Account, Commodity Account, or other account in which any Consolidated Cash Balance is held, credited or carried.
+2.16    Amendment to Section 9.04(a). The word “and” immediately before clause (v) of Section 9.04(a) is hereby deleted and clause (v) of Section 9.04(a) is hereby replaced in its entirety with the following clauses (v) and (vi):
+(v) the Borrower may make Restricted Payments in cash, so long as both before and immediately after giving effect to such Restricted Payment, (A) no Default, Event of Default or Borrowing Base Deficiency has occurred and is continuing or would result therefrom, (B) the total Revolving Credit Exposures does not exceed 80% of the Loan Limit then in effect and (C) the Consolidated Leverage Ratio is equal to or less than 2.50 to 1.00, as the Consolidated Leverage Ratio is recomputed on such date using (I) Consolidated Total Debt outstanding on such date and (II) EBITDAX for the Reference Period ending on the last day of the fiscal quarter immediately preceding such date for which financial statements are available, and (vi) the Borrower may make Restricted Payments in cash to the Parent (each such Restricted Payment, a “Pass-Through Restricted Payment”) so long as (A) each such Pass-Through Restricted Payment is funded solely with (and in no greater amount than) the proceeds (such proceeds, the “Pass-Through Restricted Payment Related Proceeds”) of an Unrestricted Subsidiary Cash Distribution received by the Borrower or an Restricted Subsidiary on the same day as the Borrower makes such Pass-Through Restricted Payment to the Parent; and (B) the aggregate amount of each
+
+10    
+
+
+such Pass-Through Restricted Payment does not exceed the Pass-Through Restricted Payment Related Proceeds.
+2.17    Amendment to Section 9.05(k). Section 9.05(k) is hereby amended and restated in its entirety to read as follows:
+(k)    in addition to any Investments in Unrestricted Subsidiaries and joint venture entities permitted under Section 9.05(q), additional Investments in Unrestricted Subsidiaries and joint venture entities in an aggregate amount at any one time outstanding not to exceed $20,000,000 (net of the fair market value of any dividends, distributions, or any return of capital received by the applicable Loan Party in respect of Investments previously made pursuant to this clause (k)), so long as both before and immediately after giving effect to each such Investment, (A) no Default, Event of Default or Borrowing Base Deficiency has occurred and is continuing or would result therefrom, (B) the total Revolving Credit Exposures does not exceed 80% of the Loan Limit then in effect and (C) the Consolidated Leverage Ratio is equal to or less than 2.50 to 1.00, as the Consolidated Leverage Ratio is recomputed on such date using (I) Consolidated Total Debt outstanding on such date and (II) EBITDAX for the Reference Period ending on the last day of the fiscal quarter immediately preceding such date for which financial statements are available;
+2.18    Amendment to Section 9.05(p). Section 9.05(p) is hereby amended and restated in its entirety to read as follows:
+(p)    other Investments (valued at the time each such Investment is made), in the aggregate at any time outstanding, not to exceed $20,000,000 (net of the fair market value of any dividends, distributions, or any return of capital received by the applicable Loan Party in respect of Investments previously made pursuant to this clause (p)), so long as both before and immediately after giving effect to each such Investment, (A) no Default, Event of Default or Borrowing Base Deficiency has occurred and is continuing or would result therefrom, (B) the total Revolving Credit Exposures does not exceed 80% of the Loan Limit then in effect and (C) the Consolidated Leverage Ratio is equal to or less than 2.50 to 1.00, as the Consolidated Leverage Ratio is recomputed on such date using (I) Consolidated Total Debt outstanding on such date and (II) EBITDAX for the Reference Period ending on the last day of the fiscal quarter immediately preceding such date for which financial statements are available;
+2.19    Amendment to Section 9.05. Section 9.05 is hereby amended by adding a new subsection (q) to the end thereof to read as follows:
+(q)    Investments in Unrestricted Subsidiaries and joint venture entities; provided that each such Investment is funded solely with cash proceeds from common equity capital contributions (other than proceeds of Disqualified Capital Stock) received by the Borrower from the holders of its Equity Interests within thirty (30) days prior to the making of such Investment.
+
+11    
+
+
+2.20    Amendment to Section 12.19. Section 12.19 is hereby amended by replacing (a) each reference to “EEA Financial Institution” therein with the term “Affected Financial Institution” and (b) each reference to “an EEA Resolution Authority” and “any EEA Resolution Authority” therein with the phrase “the applicable Resolution Authority”.
+2.21    Amendment to Exhibits.
+(a)    Exhibit B to the Credit Agreement is hereby amended and restated in its entirety to read as set forth on Exhibit B to this First Amendment.
+(b)    The Credit Agreement is hereby amended by adding a new Exhibit J thereto to read as set forth on Exhibit J to this First Amendment.
+(c)    The Table of Contents to the Credit Agreement is hereby amended to add the following references where alphabetically appropriate in the ANNEXES, EXHIBITS AND SCHEDULES portion thereof to read as follows:
+Exhibit J    Form of Consolidated Cash Balance Certificate
+Section 3.    Conditions of Effectiveness. This First Amendment will become effective on the date on which each of the following conditions precedent are satisfied or waived (the “First Amendment Effective Date”):
+(a)    The Administrative Agent shall have received from the Borrower, Parent, each Guarantor and the Required Lenders, counterparts (in such number as may be requested by the Administrative Agent) of this First Amendment signed on behalf of such Person.
+(b)    No Default shall have occurred and be continuing as of the First Amendment Effective Date.
+(c)    The Administrative Agent shall have received such other documents as the Administrative Agent or its special counsel may reasonably require.
+The Administrative Agent is hereby authorized and directed to declare this First Amendment to be effective when it has received documents confirming compliance with the conditions set forth in this Section 3 or the waiver of such conditions as agreed to by the Required Lenders. Such declaration shall be final, conclusive and binding upon all parties to the Credit Agreement for all purposes.
+Section 4.    Miscellaneous.
+(a)    Confirmation. The provisions of the Credit Agreement, as amended by this First Amendment, shall remain in full force and effect following the effectiveness of this First Amendment.
+(b)    Ratification and Affirmation; Representations and Warranties. Each Obligor hereby: (a) acknowledges the terms of this First Amendment; (b) ratifies and affirms its obligations
+
+12    
+
+
+under, and acknowledges, renews and extends its continued liability under, each Loan Document to which it is a party and agrees that each Loan Document to which it is a party remains in full force and effect, except as expressly amended hereby; (c) agrees that from and after the First Amendment Effective Date each reference to the Credit Agreement in the other Loan Documents shall be deemed to be a reference to the Credit Agreement, as amended by this First Amendment; and (d) represents and warrants to the Lenders that as of the date hereof, after giving effect to the terms of this First Amendment: (i) all of the representations and warranties contained in each Loan Document to which it is a party are true and correct in all material respects (except that any representation and warranty that is qualified by materiality shall be true and correct in all respects), except to the extent any such representations and warranties are expressly limited to an earlier date, in which case, such representations and warranties shall continue to be true and correct in all material respects (except that any representation and warranty that is qualified by materiality shall be true and correct in all respects) as of such specified earlier date and (ii) no Default has occurred and is continuing.
+(c)    Counterparts. This First Amendment may be executed by one or more of the parties hereto in any number of separate counterparts, and all of such counterparts taken together shall be deemed to constitute one and the same instrument. Delivery of an executed counterpart of a signature page of this First Amendment by facsimile, electronic communications, as an attachment to an email or other similar electronic means shall be effective as delivery of a manually executed counterpart of this First Amendment.
+(d)    NO ORAL AGREEMENT. THIS FIRST AMENDMENT, THE CREDIT AGREEMENT AND THE OTHER LOAN DOCUMENTS EXECUTED IN CONNECTION HEREWITH AND THEREWITH REPRESENT THE FINAL AGREEMENT BETWEEN THE PARTIES AND MAY NOT BE CONTRADICTED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS, OR UNWRITTEN ORAL AGREEMENTS OF THE PARTIES. THERE ARE NO SUBSEQUENT ORAL AGREEMENTS BETWEEN THE PARTIES.
+(e)    GOVERNING LAW. THIS FIRST AMENDMENT (INCLUDING, BUT NOT LIMITED TO, THE VALIDITY AND ENFORCEABILITY HEREOF) SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF TEXAS.
+(f)    Loan Document. This First Amendment is a “Loan Document” as defined and described in the Credit Agreement and all of the terms and provisions of the Credit Agreement relating to Loan Documents shall apply hereto.
+(g)    Payment of Expenses. In accordance with Section 12.03, the Borrower agrees to pay or reimburse the Administrative Agent for all of its reasonable and documented out-of-pocket costs and expenses incurred in connection with this First Amendment, any other documents prepared in connection herewith and the transactions contemplated hereby, including, without limitation, the reasonable fees and disbursements of counsel to the Administrative Agent.
+(h)    Severability. Any provision of this First Amendment or any other Loan Document held to be invalid, illegal or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of such invalidity, illegality or unenforceability without affecting the
+
+13    
+
+
+validity, legality and enforceability of the remaining provisions hereof or thereof; and the invalidity of a particular provision in a particular jurisdiction shall not invalidate such provision in any other jurisdiction.
+(i)    Successors and Assigns. This First Amendment shall be binding upon and inure to the benefit of the parties hereto and their respective successors and assigns.
+[Signature Pages Follow]
+
+
+14    
+
+
+
+IN WITNESS WHEREOF, the parties hereto have caused this First Amendment to be duly executed and delivered by their proper and duly authorized officer(s) as of the day and year first above written.
+
+
+BORROWER:
+  EARTHSTONE ENERGY HOLDINGS, LLC
+
+        By:
+/s/ Mark Lumpkin, Jr.
+  Name:
+Mark Lumpkin, Jr.
+  Title:
+Executive Vice President and Chief Financial Officer
+
+
+PARENT:
+  EARTHSTONE ENERGY, INC.
+
+        By:
+/s/ Mark Lumpkin, Jr.
+  Name:
+Mark Lumpkin, Jr.
+  Title:
+Executive Vice President and Chief Financial Officer
+
+
+GUARANTORS:
+  EARTHSTONE ENERGY, INC.
+
+        By:
+/s/ Mark Lumpkin, Jr.
+  Name:
+Mark Lumpkin, Jr.
+  Title:
+Executive Vice President and Chief Financial Officer
+          SABINE RIVER ENERGY, LLC
+        By:
+/s/ Mark Lumpkin, Jr.
+  Name:
+Mark Lumpkin, Jr.
+  Title:
+Executive Vice President and Chief Financial Officer
+
+
+
+Signature Page – First Amendment to Credit Agreement
+Earthstone Energy Holdings, LLC
+
+
+
+    LYNDEN USA OPERATING, LLC
+        By:
+/s/ Mark Lumpkin, Jr.
+  Name:
+Mark Lumpkin, Jr.
+  Title:
+Executive Vice President and Chief Financial Officer
+          BOLD ENERGY III LLC
+        By:
+/s/ Mark Lumpkin, Jr.
+  Name:
+Mark Lumpkin, Jr.
+  Title:
+Executive Vice President and Chief Financial Officer
+          BOLD OPERATING, LLC
+        By:
+/s/ Mark Lumpkin, Jr.
+  Name:
+Mark Lumpkin, Jr.
+  Title:
+Executive Vice President and Chief Financial Officer
+
+
+
+
+
+
+
+
+Signature Page – First Amendment to Credit Agreement
+Earthstone Energy Holdings, LLC
+
+
+
+ADMINISTRATIVE AGENT, ISSUING BANK AND LENDER:
+  WELLS FARGO BANK, NATIONAL ASSOCIATION
+
+        By:
+/s/ Edward Pak
+  Name:
+Edward Pak
+  Title:
+Director
+
+
+
+
+Signature Page – First Amendment to Credit Agreement
+Earthstone Energy Holdings, LLC
+
+
+
+LENDER:
+  ROYAL BANK OF CANADA
+
+        By:
+/s/ Kristan Spivey
+  Name:
+Kristan Spivey
+  Title:
+Authorized Signatory
+
+
+Signature Page – First Amendment to Credit Agreement
+Earthstone Energy Holdings, LLC
+
+
+
+LENDER:
+  TRUIST BANK
+
+        By:
+/s/ Benjamin L. Brown
+  Name:
+Benjamin L. Brown
+  Title:
+Director
+
+
+Signature Page – First Amendment to Credit Agreement
+Earthstone Energy Holdings, LLC
+
+
+
+LENDER:
+  CITIZENS BANK, N.A.
+        By:
+/s/ Kelly Graham
+  Name:
+Kelly Graham
+  Title:
+Vice President
+
+
+
+Signature Page – First Amendment to Credit Agreement
+Earthstone Energy Holdings, LLC
+
+
+
+LENDER:
+  KEYBANK NATIONAL ASSOCIATION
+        By:
+/s/ George E. McKean
+  Name:
+George E. McKean
+  Title:
+Senior Vice President
+
+
+
+Signature Page – First Amendment to Credit Agreement
+Earthstone Energy Holdings, LLC
+
+
+
+LENDER:
+  PNC BANK, NATIONAL ASSOCIATION
+        By:
+/s/ John Engel
+  Name:
+John Engel
+  Title:
+Vice President
+
+
+Signature Page – First Amendment to Credit Agreement
+Earthstone Energy Holdings, LLC
+
+
+
+LENDER:
+  U.S. BANK NATIONAL ASSOCIATION
+        By:
+/s/ John C. Lozano
+  Name:
+John C. Lozano
+  Title:
+Senior Vice President
+
+
+
+Signature Page – First Amendment to Credit Agreement
+Earthstone Energy Holdings, LLC
+
+
+
+
+
+LENDER:
+  IBERIABANK, a Division of First Horizon Bank
+        By:
+/s/ W. Bryan Chapman
+  Name:
+W. Bryan Chapman
+  Title:
+Market President-Energy Lending
+                                                            
+
+Signature Page – First Amendment to Credit Agreement
+Earthstone Energy Holdings, LLC
+
+
+
+EXHIBIT B-1
+FORM OF BORROWING REQUEST
+[ ], 20[ ]
+Earthstone Energy Holdings, LLC, a limited liability company duly formed and existing under the laws of the state of Delaware (the “Borrower”), pursuant to Section 2.03 of the Credit Agreement dated as of November 21, 2019 (together with all amendments, restatements, supplements or other modifications thereto, the “Credit Agreement”) among the Borrower, Earthstone Energy, Inc., a Delaware corporation, as Parent, Wells Fargo Bank, National Association, as Administrative Agent and as Issuing Bank; and the other agents and lenders (the “Lenders”) which are or become parties thereto (unless otherwise defined herein, each capitalized term used herein is defined in the Credit Agreement), hereby requests a Borrowing as follows:
+(i)    Aggregate amount of the requested Borrowing is $[ ];
+(ii)    Date of such Borrowing is [ ], 20[ ];
+(iii)    Requested Borrowing is to be [an ABR Borrowing] [a Eurodollar Borrowing];
+(iv)    In the case of a Eurodollar Borrowing, the initial Interest Period applicable thereto is [ ];
+(v)    Amount of the Borrowing Base in effect on the date hereof is $[ ];
+(vi)    Amount of Aggregate Elected Borrowing Base Commitments in effect on the date hereof is $[ ];
+(vii)    Total Revolving Credit Exposures on the date hereof (i.e., outstanding principal amount of Loans and total LC Exposure), excluding Swingline Exposure is $[ ];
+(viii)    Pro forma total Revolving Credit Exposures (giving effect to the requested Borrowing), excluding Swingline Exposure, is $[ ];
+(ix)    The Consolidated Cash Balance (without regard to the requested Borrowing) does not, and the pro forma Consolidated Cash Balance (immediately after giving effect to the requested Borrowing) will not, exceed the Consolidated Cash Balance Threshold; and
+(x)    Location and number of the Borrower’s account to which funds are to be disbursed, which shall comply with the requirements of Section 2.05 of the Credit Agreement, is as follows:
+[________________________]
+[________________________]
+[________________________]
+[________________________]
+[________________________]
+
+EXHIBIT B-1
+     
+
+
+The undersigned certifies that he/she is the [ ] of Earthstone Energy Holdings, LLC, and that as such he/she is authorized to execute this certificate on behalf of the Borrower. The undersigned further certifies, represents and warrants on behalf of the Borrower that the Borrower is entitled to receive the requested Borrowing under the terms and conditions of the Credit Agreement.
+    EARTHSTONE ENERGY HOLDINGS, LLC
+
+
+By: ______________________________________
+Name:
+Title:
+
+EXHIBIT B-1
+     
+
+
+EXHIBIT J
+FORM OF CONSOLIDATED CASH BALANCE CERTIFICATE
+
+Reference is made to Credit Agreement dated as of November 21, 2019 (together with all amendments, restatements, supplements or other modifications thereto, the “Credit Agreement”) among the Earthstone Energy Holdings, LLC, a limited liability company duly formed and existing under the laws of the state of Delaware (the “Borrower”), Earthstone Energy, Inc., a Delaware corporation, as Parent, Wells Fargo Bank, National Association, as Administrative Agent and as Issuing Bank; and the other agents and lenders which are or become parties thereto (unless otherwise defined herein, each capitalized term used herein is defined in the Credit Agreement). The undersigned hereby certifies on behalf of the Borrower (and not individually) as follows:
+
+(a)    The Consolidated Cash Balance as of the date hereof is $_______________.
+
+(b)    Attached hereto are summary and balance statements, in a form reasonably acceptable to the Administrative Agent, for each Deposit Account, Securities Account, Commodity Account, or other account in which any Consolidated Cash Balance is held, credited or carried as of the date hereof.
+
+The undersigned is the [                ] of the Borrower, and as such he/she is authorized to execute this certificate on behalf of the Borrower.
+
+EXECUTED AND DELIVERED this [          ] day of [          ].
+
+EARTHSTONE ENERGY HOLDINGS, LLC
+
+
+By: ______________________________________
+Name:
+Title:
+
+
+     

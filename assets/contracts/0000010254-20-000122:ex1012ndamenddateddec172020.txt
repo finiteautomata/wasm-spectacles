@@ -1,0 +1,340 @@
+EX-10.1 3 ex1012ndamenddateddec172020.htm EX-10.1
+
+Exhibit 10.1
+
+SECOND AMENDMENT
+TO
+CREDIT AGREEMENT
+Dated as of December 17, 2020
+Among
+EARTHSTONE ENERGY HOLDINGS, LLC,
+as Borrower,
+
+EARTHSTONE ENERGY, INC.,
+as Parent,
+
+Wells Fargo Bank, National Association,
+as Administrative Agent and Issuing Bank,
+Royal Bank of CAnada,
+as Syndication Agent,
+
+TRUIST bank,
+as Documentation Agent,
+
+and
+
+The Lenders Party Thereto
+________________________________
+
+Wells Fargo Securities, LLC
+RBC CAPITAL MARKETS
+Joint Lead Arrangers and Joint Bookrunners
+
+________________________________
+
+
+1
+
+
+
+
+SECOND AMENDMENT TO CREDIT AGREEMENT
+THIS SECOND AMENDMENT TO CREDIT AGREEMENT (this “Second Amendment”) dated as of December 17, 2020, is among Earthstone Energy Holdings, LLC, a Delaware limited liability company (the “Borrower”); Earthstone Energy, Inc., a Delaware corporation (the “Parent”); each of the undersigned guarantors (the “Guarantors”, and together with the Borrower and the Parent, the “Obligors”); each of the Lenders party hereto; and Wells Fargo Bank, National Association (in its individual capacity, “Wells Fargo”), as administrative agent for the Lenders (in such capacity, together with its successors in such capacity, the “Administrative Agent”).
+R E C I T A L S
+A.    The Borrower, the Parent, the Administrative Agent and the Lenders are parties to that certain Credit Agreement dated as of November 21, 2019 (as amended, restated, amended and restated, supplemented or otherwise modified prior to the date hereof, the “Credit Agreement”), pursuant to which the Lenders have made certain credit available to and on behalf of the Borrower.
+B.    The Borrower and the Guarantors are parties to that certain Guarantee and Collateral Agreement, dated as of November 21, 2019 (as amended, restated, amended and restated, supplemented or otherwise modified), made by each of the Loan Parties party thereto in favor of the Administrative Agent.
+
+C.    The Parent is party to that certain Parent Guarantee, dated as of November 21, 2019 (as amended, restated, amended and restated, supplemented or otherwise modified), in favor of the Administrative Agent.
+D.    The Borrower has requested and the Administrative Agent and the Lenders party hereto have agreed to amend the Credit Agreement, subject to the terms and conditions of this Second Amendment.
+E.    NOW, THEREFORE, to induce the Administrative Agent and the Lenders to enter into this Second Amendment and in consideration of the promises and the mutual covenants herein contained, for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:
+Section 1.Defined Terms. Each capitalized term used herein but not otherwise defined herein has the meaning given such term in the Credit Agreement, as amended by this Second Amendment (unless otherwise indicated). Unless otherwise indicated, all section references in this Second Amendment refer to sections of the Credit Agreement.
+Section 2.Amendments to Credit Agreement.
+2.1Amendments to Section 1.02 – Certain Defined Terms.
+
+
+
+
+(a)The following definitions are hereby amended and restated in their entirety to read as follows:
+“Aggregate Elected Borrowing Base Commitments” means (a) on the Second Amendment Effective Date, $360,000,000 and (b) at any time thereafter, an amount determined in accordance with Section 2.07(g).
+“Agreement” means this Credit Agreement, including any schedules and exhibits hereto, as amended by the First Amendment and the Second Amendment, and as the same may from time to time be amended, modified, supplemented or restated.
+“Applicable Margin” means, for any day, with respect to any ABR Loan or Eurodollar Loan, or with respect to the Commitment Fee Rate, as the case may be, the rate per annum set forth in the Borrowing Base Utilization Grid below based upon the Borrowing Base Utilization Percentage then in effect:
+Borrowing Base Utilization Grid
+<25%
+≥25%, but
+<50%
+≥50%, but
+<75%
+≥75%, but
+<90%
+≥90%
+ABR Loans 1.75% 2.00% 2.25% 2.50% 2.75%
+Eurodollar Loans 2.75% 3.00% 3.25% 3.50% 3.75%
+Commitment Fee Rate 0.375% 0.375% 0.50% 0.50% 0.50%
+
+Notwithstanding the foregoing, if the Consolidated Leverage Ratio for the Reference Period ending on the last day of any fiscal quarter or fiscal year, as applicable, commencing on the last day of the fiscal quarter ending following the date on which the Independence Acquisition is consummated, is less than 1.50 to 1.00, then the Applicable Margin set forth in the above grid with respect to ABR Loans and Eurodollar Loans (but, for purposes of clarity, not the Commitment Fee Rate) will, in each case, decrease by 0.25% during the period from and including the first day immediately following the date the financial statements and the related compliance certificate are delivered pursuant to Section 8.01(a) or Section 8.01(b), as applicable, and Section 8.01(c) for such fiscal quarter or fiscal year, as applicable, through and including the date of delivery of the financial statements and the related compliance certificate pursuant to Section 8.01(a) or Section 8.01(b), as applicable, and Section 8.01(c) for the immediately succeeding fiscal quarter. Each change in the Applicable Margin and Commitment Fee Rate shall apply during the period commencing on the effective date of such change and ending on the date immediately preceding the effective date of the next such change; provided, however, that if at any time the Borrower fails to deliver (i) a Reserve Report pursuant to Section 8.11(a) or (ii) the financial statements and the related compliance certificate pursuant to Section 8.01(a) or Section 8.01(b), as applicable, and Section 8.01(c), then, if so elected by the Majority Lenders, the
+1
+
+
+
+“Applicable Margin” means the rate per annum set forth on the grid when the Borrowing Base Utilization Percentage is at its highest level.
+    In the event that the certified calculation of the Consolidated Leverage Ratio previously delivered pursuant to Section 8.01(c) was inaccurate (and such inaccuracy is discovered while any Commitments or Loans are outstanding), and such inaccuracy, if corrected, would have led to the application of a higher Applicable Margin for the Loans for any period (an “Applicable Period”) than the Applicable Margin applied for such Applicable Period, then, to the extent any Commitments or Loans are outstanding at such time, (i) the Borrower shall as soon as practicable deliver to the Administrative Agent the correct certified calculation of the Consolidated Leverage Ratio for such Applicable Period, (ii) the Applicable Margin shall be determined as if the level for such higher Applicable Margin were applicable for such Applicable Period, and (iii) the Borrower shall within ten (10) Business Days of written demand thereof by the Administrative Agent pay to the Administrative Agent the accrued additional interest owing as a result of such increased Applicable Margin for the Loans for such Applicable Period, which payment shall be promptly applied by the Administrative Agent in accordance with this Agreement.
+(b)The following definitions are hereby added where alphabetically appropriate to read as follows:
+“Independence Acquired Companies” means the collective reference to Independence Resources Management, LLC, a Delaware limited liability company, Independence Resources Technologies, LLC, a Delaware limited liability company, Independence Resources Land Company A, LLC, a Delaware limited liability company, and Independence Resources Land Company B, LLC, a Delaware limited liability company.
+“Independence Acquisition” means the acquisition, directly or indirectly, by the Borrower of all of the issued and outstanding limited liability company interests of the Independence Acquired Companies pursuant to the terms and conditions of the Independence Acquisition Documents.
+“Independence Acquisition Documents” means (a) that certain Purchase and Sale Agreement, by and among Independence Resources Holdings, LLC, a Delaware limited liability company, as seller, and the Borrower and the Parent, collectively, as purchaser, dated [ ], 2020, as amended, restated, supplemented or otherwise modified from time to time; and (b) all bills of sale, assignments, agreements, instruments and documents executed and delivered in connection therewith, as amended.
+
+“Independence Acquisition Properties” means the Oil and Gas Properties and other Properties of the Independence Acquired Companies acquired by the
+2
+
+
+
+Borrower or its Subsidiaries pursuant to the Independence Acquisition Documents.
+
+“Independence Reserve Report” means the reserve report dated October 7, 2020 with an effective date of October 1, 2020 and prepared by the Borrower with respect to the Independence Acquisition Properties.
+“Second Amendment” means that certain Second Amendment to Credit Agreement, dated as of December [ ], 2020, among the Borrower, the Parent, the Guarantors, the Administrative Agent and the Lenders party thereto.
+“Second Amendment Effective Date” has the meaning assigned to such term in the Second Amendment.
+Section 2.2Amendment to Section 2.07(a). Section 2.07(a) is hereby amended and restated in its entirety to read as follows:
+(a)    Second Amendment Borrowing Base. For the period from and including the Second Amendment Effective Date to but excluding the next Redetermination Date, the amount of the Borrowing Base shall be $360,000,000. Notwithstanding the foregoing, the Borrowing Base may be subject to further adjustments in between Scheduled Redeterminations from time to time pursuant to Section 2.07(e), Section 2.07(f) or Section 8.12(c).
+Section 2.3Amendment to Section 9.01(a). Section 9.01(a) is hereby amended and restated in its entirety to read as follows:
+(a)    Consolidated Leverage Ratio. The Borrower will not permit, as of the last day of any fiscal quarter of the Borrower, commencing with the fiscal quarter ending December 31, 2020, the Consolidated Leverage Ratio for the Reference Period ending on such day, to exceed 3.50 to 1.00.
+Section 2.4Amendment to Section 9.02(g). Section 9.02(g) is hereby amended by replacing the reference therein to “the Consolidated Leverage Ratio does not exceed 4.00 to 1.00” with the phrase “the Consolidated Leverage Ratio does not exceed 3.50 to 1.00”.
+Section 2.5Amendment to Section 9.02(h). Section 9.02(h) is hereby amended by replacing the reference therein to “the Consolidated Leverage Ratio does not exceed 4.00 to 1.00” with the phrase “the Consolidated Leverage Ratio does not exceed 3.50 to 1.00”.
+Section 2.6Amendment to Section 12.02(b). Section 12.02(b) is hereby amended by replacing the phrase “release any Guarantor (except as set forth in the Guaranty Agreement or as permitted by this Agreement) or release all or substantially all of the Collateral” contained therein with “release any Guarantor (except as set forth in the Guaranty Agreement or as permitted by this Agreement) or release or subordinate all or substantially all of the Collateral”.
+3
+
+
+
+Section 2.Amendment to Schedules. Schedule 7.14 is hereby amended and restated in its entirety to read as set forth on Schedule 7.14 hereto.
+Section 3.Assignment and Assumption. On the Second Amendment Effective Date, immediately prior to giving effect to the amendments in Section 2 of this Second Amendment, each of Wells Fargo Bank, National Association, Royal Bank of Canada, Truist Bank, Citizens Bank, N.A., Keybank National Association, PNC Bank, National Association, U.S. Bank National Association, and Iberiabank, a division of First Horizon Bank (each an “Existing Lender”, and collectively, the “Existing Lenders”) has, in consultation with the Borrower, agreed to, and, for an agreed consideration, does hereby reallocate its Maximum Credit Amount, Commitment and Loans (and participations in Letters of Credit and LC Disbursements) to allow each of BBVA Bank, and Fifth Third Bank (each, a “New Lender”, and collectively, the “New Lenders”) to become a party to the Credit Agreement as a Lender by acquiring an interest in the Aggregate Maximum Credit Amount and the total Commitments (the “Reallocation”). On the Second Amendment Effective Date, and after giving effect to the Reallocation: (a) the Maximum Credit Amount and Applicable Percentage of each Lender (including the New Lenders) shall be as set forth on Annex I attached to this Second Amendment, which Annex I supersedes and replaces Annex I to the Credit Agreement (and Annex I to the Credit Agreement is hereby amended and restated in its entirety to read as set forth on Annex I attached hereto); and (b) each New Lender shall become a party to the Credit Agreement, as amended by this Second Amendment, as a “Lender” and have all of the rights and obligations of a Lender under the Credit Agreement, as amended by this Second Amendment, and the other Loan Documents. Each of the Administrative Agent, each Existing Lender, the Issuing Bank and the Borrower hereby consents and agrees to the Reallocation, including each New Lender’s acquisition of interest in the Maximum Credit Amount and Commitments and each Existing Lender’s assignment of its Maximum Credit Amount, Commitment, Loans and participations in Letters of Credit to the extent necessary to effect the Reallocation. With respect to the Reallocation, each Existing Lender shall be deemed to have sold and assigned its Maximum Credit Amount, Commitment, Loans and participations in Letters of Credit, and each New Lender shall be deemed to have acquired the Maximum Credit Amount, Commitment, Loans and participations in Letters of Credit allocated to it from each Existing Lender, pursuant to the terms and conditions of the Assignment and Assumption attached as Exhibit G to the Credit Agreement (the “Assignment Agreement”), as if each Existing Lender and each New Lender had executed such Assignment Agreement with respect to the Reallocation, pursuant to which, (i) each New Lender shall be an “Assignee”, (ii) each Existing Lender shall be an “Assignor” and (iii) the term “Effective Date” shall be the Second Amendment Effective Date as defined herein. The Administrative Agent hereby waives the fee payable to the Administrative Agent pursuant to Section 12.04(b) of the Credit Agreement in connection with the Assignment and Assumption. On the Second Amendment Effective Date, the Administrative Agent shall take the actions specified in Section 12.04(b)(iv), including recording the assignments described herein in the Register, and such assignments shall be effective for purposes of the Credit Agreement.
+Section 4.Conditions of Effectiveness. This Second Amendment will become effective on the date on which each of the following conditions is satisfied or waived in
+4
+
+
+
+accordance with Section 12.02 (such date, the “Second Amendment Effective Date”), which date must occur on or prior to February 15, 2021 (the “Outside Date”):
+(a)Counterparts. The Administrative Agent shall have received from the Borrower, the Parent, each Guarantor and the Lenders (including the New Lenders), counterparts (in such number as may be requested by the Administrative Agent) of this Second Amendment signed on behalf of such Person.
+(b)Fees and Expenses. The Administrative Agent and the Lenders shall have received all fees and other amounts due and payable on or prior to the Second Amendment Effective Date, including to the extent invoiced, reimbursement or payment of all reasonable out-of-pocket expenses required to be reimbursed or paid by the Borrower under the Credit Agreement.
+(c)Independence Acquisition Closing. The Independence Acquisition shall have been (or contemporaneously with the Second Amendment Effective Date shall be) consummated in accordance with the terms of the Independence Acquisition Documents without giving effect to any waiver, modification or consent thereunder that is adverse to the interests of the Lenders (in their capacities as such) without the written consent of the Lenders, and in connection therewith the Borrower (and/or one or more of its Subsidiaries) shall have acquired (directly or indirectly) all of the proved Oil and Gas Properties evaluated in the Independence Reserve Report.
+(d)Acquisition Certificate. The Administrative Agent shall have received an officer’s certificate from the Borrower, certifying that (i) the Independence Acquisition has been consummated in accordance with applicable law and the terms of the Independence Acquisition Documents without giving effect to any waiver, modification or consent thereunder that is adverse to the interests of the Lenders (in their capacities as such), (ii) the Borrower (and/or one or more of its Subsidiaries) has acquired (directly or indirectly) all of the proved Oil and Gas Properties evaluated in the Independence Reserve Report; and (iii) true and complete executed copies of all Independence Acquisition Documents have been delivered to the Administrative Agent (together with all amendments, supplements, waivers or consents with respect to any provision thereof).
+(e)Mortgages. The Administrative Agent shall have received duly executed and notarized deeds of trust and/or mortgages or supplements to existing deeds of trust and/or mortgages in form reasonably satisfactory to the Administrative Agent, to the extent necessary so that the Mortgaged Properties represent at least 85% of the total value of the proved Oil and Gas Properties evaluated in the most recently delivered Reserve Report and the Independence Reserve Report (on a combined basis).
+(f)Title. The Administrative Agent shall have received, together with title information previously delivered to the Administrative Agent, title information reasonably satisfactory to the Administrative Agent setting forth the status of title to at least 85% of the total value of the proved Oil and Gas Properties evaluated in the most recently delivered Reserve Report and the Independence Reserve Report (on a combined basis).
+5
+
+
+
+(g)Payoff of Existing Indebtedness of Independence Acquired Companies. The Administrative Agent shall have received evidence, in form and substance reasonably satisfactory to the Administrative Agent, that all outstanding indebtedness of the Independence Acquired Companies under that certain Credit Agreement dated as of December 22, 2015 among Independence Resources Management, LLC, as Borrower, Independence Resources Holdings, LLC and Independence Resources Manager, LLC, as parent entities, each of the lenders from time to time party thereto, and Wells Fargo Bank, N.A. as administrative agent for the lenders, as amended, restated, amended and restated, supplemented or otherwise modified prior to the date hereof, shall have been, or substantially concurrently with the Second Amendment Effective Date, will be, repaid in full, all commitments in respect thereof have been terminated, and all security and guarantees in respect thereof discharged and released.
+(h)Releases. The Administrative Agent shall have received (a) evidence reasonably satisfactory to it that all Liens on the Properties of the Independence Acquired Companies (provided that Liens permitted under Section 9.03 may exist) have been released or terminated, subject only to the filing of applicable terminations, releases or assignments and (b) duly executed recordable releases and terminations with respect thereto, in form and substance satisfactory to the Administrative Agent.
+(i)Lien Search Results. The Administrative Agent shall have received appropriate UCC search certificates reflecting no prior Liens encumbering the Properties of each Independence Acquired Company in its jurisdiction of organization, other than those being assigned or released on or prior to the Second Amendment Effective Date or Liens permitted by Section 9.03 of the Credit Agreement.
+(j)Environmental Condition. The Administrative Agent shall be satisfied with the environmental condition of the Independence Acquisition Properties.
+(k)Secretary’s Certificate. The Administrative Agent shall have received a certificate of the Secretary, Assistant Secretary or a Responsible Officer of each of the Independence Acquired Companies, setting forth (i) resolutions of the members, board of directors or other appropriate governing body with respect to the authorization of such Independence Acquired Company to execute and deliver the Loan Documents to which it is a party and to enter into the transactions contemplated in those documents, (ii) the officers of such Independence Acquired Company who are authorized to sign the Loan Documents to which such Independence Acquired Company is a party and who will, until replaced by another officer or officers duly authorized for that purpose, act as its representative for the purposes of signing documents and giving notices and other communications in connection with the Credit Agreement and the transactions contemplated hereby, (iii) specimen signatures of such authorized officers, and (iv) the limited liability company agreement and certificate of formation (or equivalent organizational documents) of such Independence Acquired Company, certified as being true and complete. The Administrative Agent and the Lenders may conclusively rely on such certificates until the Administrative Agent receives notice in writing from the Borrower to the contrary.
+6
+
+
+
+(l)Certificates of Good Standing. The Administrative Agent shall have received a certificate of the appropriate State agency where each Independence Acquired Company is formed or incorporated with respect to the existence, qualification and good standing of such Independence Acquired Company.
+(m)Joinder Documentation. The Administrative Agent shall have received (i) from each Independence Acquired Company that is not an Immaterial Subsidiary counterparts (in such number as may be requested by the Administrative Agent) of an Assumption Agreement (as such term is defined in the Guaranty Agreement), which Assumption Agreement shall be in form and substance reasonably satisfactory to the Administrative Agent, signed on behalf of each such Independence Acquired Company and (ii) from the Borrower and/or its Subsidiaries, as applicable, counterparts (in such number as may be requested by the Administrative Agent) of a Supplement (as such term is defined in the Guaranty Agreement), which Supplement shall be in form and substance reasonably satisfactory to the Administrative Agent, signed on behalf of the Borrower. In connection with the execution and delivery of each Supplement, the Administrative Agent have received certificates, together with undated, blank stock powers for each such certificate, representing all of the issued and outstanding Equity Interests of each Independence Acquired Company owned by the Borrower or any Material Subsidiary, to the extent such Equity Interests are certificated.
+(n)Legal Opinion. The Administrative Agent shall have received an opinion of Haynes and Boone, LLP, special counsel to the Borrower with respect to each Independence Acquired Company, in form and substance reasonably satisfactory to the Administrative Agent.
+(o)No Default. As of the Second Amendment Effective Date (both before and immediately after giving effect to the Independence Acquisition), no Default shall have occurred and be continuing.
+The Administrative Agent is hereby authorized and directed to declare this Second Amendment to be effective when it has received documents confirming compliance with the conditions set forth in this Section 4 or the waiver of such condition in accordance with Section 12.02 of the Credit Agreement. Such declaration shall be final, conclusive and binding upon all parties to the Credit Agreement for all purposes. For purposes of determining compliance with the conditions specified in this Section 4, each Lender that has signed this Amendment shall be deemed to have consented to, approved or accepted, or to be satisfied with, each document or other matter required thereunder to be consented to or approved by or acceptable or satisfactory to such Lender, unless the Administrative Agent shall have received written notice from such Lender prior to the Second Amendment Effective Date specifying its objection thereto. Notwithstanding anything to the contrary contained herein, if the Second Amendment Effective Date does not occur on or prior to 5:00 p.m. (Houston time) on the Outside Date, then it shall be deemed that none of the conditions contained in this Section 4 shall be satisfied, and the Second Amendment Effective Date shall not occur.
+Section 5.Control Agreements. On or prior to the expiration of fifteen (15) Business Days (or such later date that the Administrative Agent may agree to in writing, in its sole discretion) following the Second Amendment Effective Date, the Borrower shall deliver to the
+7
+
+
+
+Administrative Agent duly executed Control Agreements with respect to each Deposit Account, Commodity Account and Securities Account of the Independence Acquired Companies (other than, in each case, Excluded Accounts) in existence on the Second Amendment Effective Date.
+Section 6.Miscellaneous.
+(a)Confirmation. The provisions of the Credit Agreement, as amended by this Second Amendment, shall remain in full force and effect following the effectiveness of this Second Amendment.
+(b)Ratification and Affirmation; Representations and Warranties. Each Obligor hereby: (a) acknowledges the terms of this Second Amendment; (b) ratifies and affirms its obligations under and the Liens granted by, and acknowledges, renews and extends its continued liability under, each Loan Document to which it is a party and agrees that each Loan Document to which it is a party remains in full force and effect, except as expressly amended hereby; (c) agrees that from and after the Second Amendment Effective Date each reference to the Credit Agreement in the other Loan Documents shall be deemed to be a reference to the Credit Agreement, as amended by this Second Amendment; and (d) represents and warrants to the Lenders that as of the date hereof, after giving effect to the terms of this Second Amendment: (i) all of the representations and warranties contained in each Loan Document to which it is a party are true and correct in all material respects (except that any representation and warranty that is qualified by materiality shall be true and correct in all respects), except to the extent any such representations and warranties are expressly limited to an earlier date, in which case, such representations and warranties shall continue to be true and correct in all material respects (except that any representation and warranty that is qualified by materiality shall be true and correct in all respects) as of such specified earlier date and (ii) no Default has occurred and is continuing.
+(c)Counterparts. This Second Amendment may be executed by one or more of the parties hereto in any number of separate counterparts, and all of such counterparts taken together shall be deemed to constitute one and the same instrument. Delivery of an executed counterpart of a signature page of this Second Amendment by facsimile, electronic communications, as an attachment to an email or other similar electronic means shall be effective as delivery of a manually executed counterpart of this Second Amendment.
+(d)NO ORAL AGREEMENT. THIS SECOND AMENDMENT, THE CREDIT AGREEMENT AND THE OTHER LOAN DOCUMENTS EXECUTED IN CONNECTION HEREWITH AND THEREWITH REPRESENT THE FINAL AGREEMENT BETWEEN THE PARTIES AND MAY NOT BE CONTRADICTED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS, OR UNWRITTEN ORAL AGREEMENTS OF THE PARTIES. THERE ARE NO SUBSEQUENT ORAL AGREEMENTS BETWEEN THE PARTIES.
+(e)GOVERNING LAW. THIS SECOND AMENDMENT (INCLUDING, BUT NOT LIMITED TO, THE VALIDITY AND ENFORCEABILITY HEREOF) SHALL BE
+8
+
+
+
+GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF TEXAS.
+(f)Loan Document. This Second Amendment is a “Loan Document” as defined and described in the Credit Agreement and all of the terms and provisions of the Credit Agreement relating to Loan Documents shall apply hereto.
+(g)Payment of Expenses. In accordance with Section 12.03, the Borrower agrees to pay or reimburse the Administrative Agent for all of its reasonable and documented out-of-pocket costs and expenses incurred in connection with this Second Amendment, any other documents prepared in connection herewith and the transactions contemplated hereby, including, without limitation, the reasonable fees and disbursements of counsel to the Administrative Agent.
+(h)Severability. Any provision of this Second Amendment or any other Loan Document held to be invalid, illegal or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of such invalidity, illegality or unenforceability without affecting the validity, legality and enforceability of the remaining provisions hereof or thereof; and the invalidity of a particular provision in a particular jurisdiction shall not invalidate such provision in any other jurisdiction.
+(i)Successors and Assigns. This Second Amendment shall be binding upon and inure to the benefit of the parties hereto and their respective successors and assigns.
+[Signature Pages Follow]
+
+9
+
+
+
+IN WITNESS WHEREOF, the parties hereto have caused this Second Amendment to be duly executed and delivered by their proper and duly authorized officer(s) as of the day and year Second above written.
+
+BORROWER:
+EARTHSTONE ENERGY HOLDINGS, LLC
+
+
+
+By: ______________________________________
+Name:
+Title:
+
+By: /s/ Mark Lumpkin, Jr.
+Name: Mark Lumpkin, Jr.
+Title: Executive Vice President and Chief Financial Officer
+
+PARENT:
+EARTHSTONE ENERGY, INC.
+
+
+
+By: ______________________________________
+Name:
+Title:
+
+By: /s/ Mark Lumpkin, Jr.
+Name: Mark Lumpkin, Jr.
+Title: Executive Vice President and Chief Financial Officer
+
+
+GUARANTORS:
+EARTHSTONE OPERATING, LLC
+By: /s/ Mark Lumpkin, Jr.
+Name: Mark Lumpkin, Jr.
+Title: Executive Vice President and Chief Financial Officer
+
+
+SABINE RIVER ENERGY, LLC
+By: /s/ Mark Lumpkin, Jr.
+Name: Mark Lumpkin, Jr.
+Title: Executive Vice President and Chief Financial Officer
+    Signature Page – Second Amendment to Credit Agreement
+    Earthstone Energy Holdings, LLC
+
+
+
+
+LYNDEN OPERATING, LLC
+By: /s/ Mark Lumpkin, Jr.
+Name: Mark Lumpkin, Jr.
+Title: Executive Vice President and Chief Financial Officer
+
+
+BOLD ENERGY III LLC
+By: /s/ Mark Lumpkin, Jr.
+Name: Mark Lumpkin, Jr.
+Title: Executive Vice President and Chief Financial Officer
+
+
+BOLD OPERATING, LLC
+By: /s/ Mark Lumpkin, Jr.
+Name: Mark Lumpkin, Jr.
+Title: Executive Vice President and Chief Financial Officer
+
+    Signature Page – Second Amendment to Credit Agreement
+    Earthstone Energy Holdings, LLC
+
+
+
+ADMINISTRATIVE AGENT,
+WELLS FARGO BANK, NATIONAL
+ISSUING BANK AND LENDER:
+ASSOCIATION
+By: /s/ Edward Pak
+Name: Edward Pak
+Title: Director
+
+
+    Signature Page – Second Amendment to Credit Agreement
+    Earthstone Energy Holdings, LLC
+
+
+
+LENDER:
+ROYAL BANK OF CANADA
+By: /s/ Kristan Spivey
+Name: Kristan Spivey
+Title: Authorized Signatory
+    Signature Page – Second Amendment to Credit Agreement
+    Earthstone Energy Holdings, LLC
+
+
+
+LENDER:
+TRUIST BANK
+By: /s/ Benjamin L. Brown
+Name: Benjamin L. Brown
+Title: Director
+
+    Signature Page – Second Amendment to Credit Agreement
+    Earthstone Energy Holdings, LLC
+
+
+
+LENDER:
+CITIZENS BANK, N.A.
+By: /s/ Kelly Graham
+Name: Kelly Graham
+Title: Vice President
+    Signature Page – Second Amendment to Credit Agreement
+    Earthstone Energy Holdings, LLC
+
+
+
+LENDER:
+KEYBANK NATIONAL ASSOCIATION
+By: /s/ George E. McKean
+Name: George E. McKean
+Title: Senior Vice President
+    Signature Page – Second Amendment to Credit Agreement
+    Earthstone Energy Holdings, LLC
+
+
+
+LENDER:
+PNC BANK, NATIONAL ASSOCIATION
+By: /s/ Denise S. Davis
+Name: Denise S. Davis
+Title: Director
+    Signature Page – Second Amendment to Credit Agreement
+    Earthstone Energy Holdings, LLC
+
+
+
+LENDER:
+U.S. BANK NATIONAL ASSOCIATION
+By: /s/ John C. Lozano
+Name: John C. Lozano
+Title: Senior Vice President
+    Signature Page – Second Amendment to Credit Agreement
+    Earthstone Energy Holdings, LLC
+
+
+
+LENDER:
+BBVA BANK
+By: /s/ Julia Barnhill
+Name: Julia Barnhill
+Title: Vice President
+
+    Signature Page – Second Amendment to Credit Agreement
+    Earthstone Energy Holdings, LLC
+
+
+
+LENDER:
+FIFTH THIRD BANK, NATIONAL
+ASSOCIATION
+By: /s/ Dan Condley
+Name: Dan Condley
+Title: Managing Director
+
+    Signature Page – Second Amendment to Credit Agreement
+    Earthstone Energy Holdings, LLC
+
+
+
+LENDER:
+IBERIABANK, A DIVISION OF FIRST
+HORIZON BANK
+By: /s/ W. Bryan Chapman
+Name: W. Bryan Chapman
+Title: Market President-Energy Lending
+
+    Signature Page – Second Amendment to Credit Agreement
+    Earthstone Energy Holdings, LLC

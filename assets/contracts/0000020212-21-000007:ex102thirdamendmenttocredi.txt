@@ -1,0 +1,137 @@
+EX-10.2 3 ex102thirdamendmenttocredi.htm EX-10.2
+
+THIRD AMENDMENT TO CREDIT AGREEMENT
+This THIRD AMENDMENT TO CREDIT AGREEMENT (this “Third Amendment”), dated as of February 1, 2021 and effective as of the Effective Date (as hereinafter defined), is made and entered into by and among CHURCHILL DOWNS INCORPORATED, a Kentucky corporation (“Borrower”), the other Credit Parties, each of the Lenders (as hereinafter defined) party hereto, and JPMORGAN CHASE BANK, N.A., as administrative agent under the Credit Agreement referred to below (in such capacity, “Administrative Agent”).
+RECITALS
+A.Borrower and the Lenders party hereto are parties to that certain Credit Agreement, dated as of December 27, 2017 (as amended by that certain First Amendment to Credit Agreement, dated as of March 16, 2020, that certain Second Amendment to Credit Agreement, dated as of April 28, 2020, and as further amended, amended and restated, supplemented or otherwise modified from time to time, the “Credit Agreement”) by and among Borrower, the subsidiaries of Borrower party thereto as guarantors, the banks, financial institutions and other entities from time to time party thereto as lenders (including the L/C Lenders and the Swingline Lender) (collectively, the “Lenders”), Administrative Agent and as collateral agent under the Credit Agreement (in such capacity, “Collateral Agent”).
+B. Borrower has requested that the Lenders party hereto agree to amend the Credit Agreement subject to, and in accordance with, the terms and conditions set forth herein.
+C.Borrower, the Lenders party hereto, constituting the Required Revolving Lenders and the Required Lenders, and the Administrative Agent, are willing to agree to enter into this Third Amendment, subject to the conditions and on the terms set forth below.
+AGREEMENT
+NOW, THEREFORE, for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, Borrower, each of the other Credit Parties and each of the Lenders party hereto agree as follows:
+1.Definitions. Except as otherwise expressly provided herein, capitalized terms used in this Third Amendment (including in the Recitals above) shall have the meanings given in the Credit Agreement, and the rules of construction set forth in the Credit Agreement shall apply to this Third Amendment.
+2.Amendment to Credit Agreement. The definition of Financial Covenant Relief Condition set forth in Section 1.01 of the Credit Agreement is hereby amended to:
+(a)delete the term “dividends” as set forth therein and replace such term with the terms “Restricted Payments” and
+(b)delete the terms “$26.0 million” as set forth therein and replace such terms with the terms “$226.0 million”.
+3.Representations and Warranties. To induce the Lenders party hereto to agree to this Third Amendment, Borrower and each of the other Credit Parties represent to the Lenders and Administrative Agent that as of the date hereof and as of the Effective Date (before and after giving effect to all of the transactions occurring on the Effective Date):
+(a)Borrower and each Restricted Subsidiary (i) is a corporation, partnership, limited liability company or other entity duly organized, validly existing and in good standing under the laws of the jurisdiction of its organization; (ii)(1) has all requisite corporate or other power and authority and (2) has all governmental licenses, authorizations, consents and approvals necessary to own its Property and carry on its business as now being conducted; and (iii) is qualified to do business and is in good standing in all jurisdictions in which the nature of the business conducted by it makes such qualification necessary; except, in the case of clauses (ii)(2) and (iii) where the failure thereof individually or in the aggregate would not reasonably be expected to have a Material Adverse Effect;
+(b)Borrower and each Restricted Subsidiary has all necessary corporate or other organizational power, authority and legal right to execute, deliver and perform its obligations under this Third Amendment and each other Credit Document to which it is a party and to consummate the transactions herein and therein contemplated; the execution, delivery and performance by Borrower and each Restricted Subsidiary of this Third
+
+
+Amendment and each other Credit Document to which it is a party and the consummation of the transactions herein and therein contemplated have been duly authorized by all necessary corporate, partnership or other organizational action on its part; and this Third Amendment has been duly and validly executed and delivered by each Credit Party and constitutes, and each of the other Credit Documents to which it is a party when executed and delivered by such Credit Party will constitute, its legal, valid and binding obligation, enforceable against each Credit Party, as applicable, in accordance with its terms, except as such enforceability may be limited by (a) bankruptcy, insolvency, fraudulent conveyance, reorganization, moratorium or similar laws of general applicability from time to time in effect affecting the enforcement of creditors’ rights and remedies and (b) the application of general principles of equity (regardless of whether such enforceability is considered in a proceeding in equity or at law);
+(c)none of the execution, delivery and performance by any Credit Party of this Third Amendment nor the consummation of the transactions herein contemplated do or will (i) conflict with or result in a breach of, or require any consent (which has not been obtained and is in full force and effect) under (x) any Organizational Document of any Credit Party or (y) any applicable Requirement of Law (including, without limitation, any Gaming/Racing Law) or (z) any order, writ, injunction or decree of any Governmental Authority binding on any Credit Party, or tortiously interfere with, result in a breach of, or require termination of, any term or provision of any Contractual Obligation of any Credit Party or (ii) constitute (with due notice or lapse of time or both) a default under any such Contractual Obligation or (iii) result in or require the creation or imposition of any Lien (except for the Liens created pursuant to the Security Documents) upon any Property of any Credit Party pursuant to the terms of any such Contractual Obligation, except with respect to (i)(y), (i)(z), (ii) or (iii) which would not reasonably be expected to result in a Material Adverse Effect; and
+(d)no Default or Event of Default has occurred and is continuing.
+4.Effectiveness of this Third Amendment. This Third Amendment shall be effective on the date (the “Effective Date”) on which all of the following conditions are satisfied or waived:
+(a)Borrower, the other Credit Parties, Administrative Agent and each Lender who has consented hereto (constituting collectively the Required Revolving Lenders and the Required Lenders) have delivered their fully executed signature pages hereto to Administrative Agent;
+(b)(i) no Default or Event of Default shall have occurred and be continuing, (ii) each of the representations and warranties contained in Section 3 of this Third Amendment shall be true and correct and (iii) Administrative Agent shall have received an Officer’s Certificate of Borrower, dated the Effective Date, certifying that the conditions set forth in this clause (b) have been satisfied;
+(c)On or prior to the Effective Date, Administrative Agent and each Lender party hereto shall have received at least three (3) Business Days prior to the Effective Date all documentation and other information reasonably requested in writing at least ten (10) Business Days prior to the Effective Date by Administrative Agent and such Lender, as applicable, that Administrative Agent and such Lender, as applicable, reasonably determine is required by regulatory authorities from the Credit Parties under applicable “know your customer” and anti-money laundering rules and regulations, including without limitation the Act;
+(d)No later than three (3) Business Days prior to the Effective Date, to the extent Borrower qualifies as a “legal entity customer” under the Beneficial Ownership Regulation and to the extent requested by Administrative Agent or any Lender at least ten (10) Business Days prior to the Effective Date, Administrative Agent and each such Lender, as applicable, shall have received a Beneficial Ownership Certification in relation to Borrower; and
+(e) to the extent invoiced at least two (2) Business Days prior to the Effective Date (unless otherwise agreed by Borrower), all costs and expenses (including, without limitation, reasonable legal fees and expenses of Cahill Gordon & Reindel LLP) of Administrative Agent in respect of the transactions contemplated herein, shall have been paid to the extent due.
+5.Acknowledgments.
+(a)Borrower and each other Credit Party acknowledges and agrees that, both before and after giving effect to this Third Amendment, Borrower and each other Credit Party is, jointly and severally, indebted to the Lenders and the other Secured Parties for the Obligations, without defense, counterclaim or offset of any kind.
+
+
+Borrower and each other Credit Party hereby ratifies and reaffirms the validity, enforceability and binding nature of such Obligations both before and after giving effect to this Third Amendment (except as the enforceability thereof may be limited by bankruptcy, insolvency or similar laws affecting creditors’ rights generally and subject to general principles of equity).
+(b)Borrower and each other Credit Party hereby ratifies and reaffirms its obligations under the Credit Documents to which it is a party and its prior grant and the validity and enforceability (except as the enforceability thereof may be limited by bankruptcy, insolvency or similar laws affecting creditors’ rights generally and subject to general principles of equity) of the Liens and security interests granted to Collateral Agent for the benefit of the Secured Parties to secure all of the Obligations by Borrower and each other Credit Party pursuant to the Credit Documents to which any of Borrower or such other Credit Party is a party and hereby confirms and agrees that, after giving effect to this Third Amendment, all such Liens and security interests are, and each such Credit Document is, and shall continue to be, in full force and effect and each is hereby ratified and confirmed in all respects.
+6.Miscellaneous.
+(a)THIS THIRD AMENDMENT AND ANY CLAIMS, CONTROVERSIES, DISPUTES, OR CAUSES OF ACTION (WHETHER ARISING UNDER CONTRACT LAW, TORT LAW OR OTHERWISE) BASED UPON OR RELATING TO THIS THIRD AMENDMENT SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAW OF THE STATE OF NEW YORK WITHOUT GIVING EFFECT TO ANY CHOICE OF LAW PRINCIPLES THAT WOULD APPLY THE LAW OF ANOTHER JURISDICTION.
+(b)EACH PARTY HERETO AGREES THAT SECTIONS 13.09(b), (c), (d) AND (e) OF THE CREDIT AGREEMENT SHALL APPLY TO THIS THIRD AMENDMENT MUTATIS MUTANDIS.
+(c)This Third Amendment may be executed in one or more duplicate counterparts and, subject to the other terms and conditions of this Third Amendment, when signed by all of the parties listed below shall constitute a single binding agreement. Delivery of an executed signature page to this Third Amendment by facsimile transmission or other electronic transmission (including portable document format (“.pdf”) or similar format) shall be as effective as delivery of a manually signed counterpart of this Third Amendment. This Third Amendment, the Credit Agreement and the other Credit Documents constitute the entire contract among the parties thereto relating to the subject matter hereof and supersede any and all previous agreements and understandings, oral or written, relating to the subject matter hereof.
+(d)Wherever possible, each provision of this Third Amendment shall be interpreted in such manner as to be effective and valid under applicable Law, but if any provision of this Third Amendment shall be prohibited by or invalid under applicable Law, such provision shall be ineffective only to the extent of such prohibition or invalidity, without invalidating the remainder of such provisions or the remaining provisions of this Third Amendment.
+(e)Except as amended hereby, all of the provisions of the Credit Agreement and the other Credit Documents shall remain in full force and effect except that each reference to the “Credit Agreement”, or words of like import in any Credit Document, shall mean and be a reference to the Credit Agreement as amended hereby. This Third Amendment shall be deemed a “Credit Document” as defined in the Credit Agreement.
+(f)This Third Amendment shall not extinguish the obligations for the payment of money outstanding under the Credit Agreement or discharge or release the priority of any Credit Document (or any other security therefor). Nothing herein contained shall be construed as a substitution or novation of the obligations outstanding under the Credit Agreement, any of the other Credit Documents or the instruments, documents and agreements securing the same, which shall remain in full force and effect. Nothing in this Third Amendment shall be construed as a release or other discharge of Borrower or any other Credit Party from any of its obligations and liabilities under the Credit Agreement or the other Credit Documents.
+[REMAINDER OF PAGE INTENTIONALLY LEFT BLANK]
+
+
+
+
+
+
+IN WITNESS WHEREOF, the parties have caused this Third Amendment to be duly executed as of the day and year first above written, to be effective as of the Effective Date.
+
+Borrower:
+CHURCHILL DOWNS INCORPORATED
+By: /s/ Marcia A. Dall
+Name: Marcia A. Dall
+Title: Executive Vice President and Chief Financial Officer
+
+
+
+
+ARLINGTON PARK RACECOURSE, LLC
+BB DEVELOPMENT LLC
+CALDER RACE COURSE, INC.
+CHURCHILL DOWNS INTERACTIVE GAMING, LLC
+CHURCHILL DOWNS MANAGEMENT COMPANY, LLC
+CHURCHILL DOWNS RACETRACK, LLC
+CHURCHILL DOWNS TECHNOLOGY INITIATIVES COMPANY
+DERBY CITY GAMING, LLC
+HCRH, LLC
+LLN PA, LLC
+MAGNOLIA HILL, LLC
+MVGR, LLC
+PID, LLC
+SW GAMING LLC
+TROPICAL PARK, LLC
+YOUBET.COM, LLC
+
+By: /s/ Marcia A. Dall         
+Name: Marcia A. Dall
+Title: Treasurer
+
+
+
+ARLINGTON OTB CORP.
+CHURCHILL DOWNS LOUISIANA VIDEO POKER COMPANY, L.L.C.
+CHURCHILL DOWNS LOUISIANA HORSERACING COMPANY, L.L.C.
+VIDEO SERVICES, L.L.C.
+
+By: /s/ Michael W. Anderson
+Name: Michael W. Anderson
+Title: Secretary
+
+UNITED TOTE COMPANY
+
+By: /s/ Benjamin C. Murr    
+Name: Benjamin C. Murr
+Title: Treasurer
+
+QUAD CITY DOWNS, INC.
+
+By: /s/ Bradley K. Blackwell
+Name: Bradley K. Blackwell
+Title: Secretary
+
+OCEAN DOWNS LLC
+OCEAN ENTERPRISE 589 LLC
+OLD BAY GAMING AND RACING, LLC
+RACING SERVICES LLC
+
+By: /s/ Bobbi Sample    
+Name: Bobbi Sample
+Title: General Manager
+
+
+
+JPMORGAN CHASE BANK, N.A., as Administrative Agent and a Lender
+
+By:
+Name:
+Title:
+
+
+
+
+
+
+
+The undersigned Lender hereby consents to this Third Amendment with respect to 100% of the outstanding principal amount of the Revolving Loans and Revolving Commitments held by such Lender:
+as a Lender,
+
+By:
+Name:
+Title:
+
+If two signatures required:
+By:
+Name:
+Title:

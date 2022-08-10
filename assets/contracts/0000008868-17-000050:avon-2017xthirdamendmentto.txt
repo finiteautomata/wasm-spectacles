@@ -1,0 +1,156 @@
+EX-10.1 2 avon-2017xthirdamendmentto.htm EXHIBIT 10.1
+EXHIBIT 10.1
+
+
+THIRD AMENDMENT TO CREDIT AGREEMENT
+THIS THIRD AMENDMENT TO CREDIT AGREEMENT (this “Third Amendment”), dated as of December 21, 2017, is entered into by and among Avon Products, Inc., a New York corporation (“API”), Avon International Operations, Inc., a Delaware corporation (the “Borrower”) and each Bank party hereto. Unless otherwise defined herein, capitalized terms used herein shall have the meaning provided in the Credit Agreement referred to below.
+PRELIMINARY STATEMENTS
+WHEREAS, API, the Borrower, the Banks from time to time party thereto, Citibank, N.A., as administrative agent and collateral agent (in each such capacity, the “Administrative Agent”) and the other parties thereto entered into that certain Revolving Credit Agreement, dated as of June 5, 2015 (as amended by (i) that certain First Amendment to Credit Agreement and General Security Agreement, dated as of December 7, 2015 and (ii) that certain Second Amendment to Credit Agreement and General Security Agreement and First Amendment to API Limited Recourse Guaranty, dated as of August 1, 2016, the “Credit Agreement”); and
+WHEREAS, the Borrower has requested that the Required Banks agree to amend, and the Required Banks have agreed to amend, the Credit Agreement to make certain changes as provided in Section 1 hereof, in each case, upon the terms and subject to the conditions set forth herein and effective as of the Third Amendment Effective Date (as hereinafter defined).
+NOW, THEREFORE, in consideration of the premises and further valuable consideration, the receipt and sufficiency of which is hereby acknowledged, the parties hereto agree as follows:
+Section 1. Amendments to the Credit Agreement on the Third Amendment Effective Date. On the Third Amendment Effective Date, the Credit Agreement is hereby amended as follows:
+(a)     The definition of “Consolidated EBIT” appearing in Section 1.01 of the Credit Agreement is hereby amended by (i) deleting the text “(calculated after giving effect to any such add-backs)” appearing in clauses (vi) and (vii) of said definition and inserting the following new text in lieu thereof “(for such purpose, calculated inclusive of such permitted add-backs in the manner set forth in the illustration appearing in the last sentence of this definition)” and (ii) inserting the following sentence at the end of the definition thereof:
+“For purposes of calculating Consolidated EBITDA as provided in clauses (vi) and (vii) above, by way of example, if Consolidated EBITDA for a given period (determined without regard to any add-backs pursuant to clause (vi) or (vii)) is $85.0 million and add-backs of the type described in clauses (vi) and (vii) equal $20.0 million, “permitted add-backs” under clauses (vi) and (vii) would equal $15.0 million. Permitted add-backs of $15.0 million equates to 15% of Consolidated EBITDA (determined inclusive of permitted add-backs), i.e. $85.0 million plus $15.0 million or $100.0 million.”
+(b)     Section 7.02(d) of the Credit Agreement is hereby amended by deleting the table set forth in such Section in its entirety and inserting the following new table in lieu thereof:
+
+
+
+
+Fiscal Quarter Ended
+Applicable Interest Coverage Ratio
+December 31, 2017
+2.75 to 1.00
+March 31, 2018
+2.75 to 1.00
+June 30, 2018
+2.75 to 1.00
+September 30, 2018
+2.75 to 1.00
+December 31, 2018
+3.00 to 1.00
+March 31, 2019 and thereafter
+3.50 to 1.00
+
+(c)     Section 7.02(e) of the Credit Agreement is hereby amended by deleting the table set forth in such Section in its entirety and inserting the following new table in lieu thereof:
+Fiscal Quarter Ended
+Applicable Total Leverage Ratio
+December 31, 2017
+4.00 to 1.00
+March 31, 2018
+4.00 to 1.00
+June 30, 2018
+3.75 to 1.00
+September 30, 2018
+3.75 to 1.00
+December 31, 2018 and thereafter
+3.50 to 1.00
+
+(d)     Exhibit E to the Credit Agreement is hereby amended by modifying Schedule 1 thereto to (i) delete the text “(calculated after giving effect to any such add-backs)” in each place it appears therein and inserting the following new text in lieu thereof “(for such purpose, calculated inclusive of such permitted add-backs in the manner set forth in the illustration appearing in the last sentence of this definition)” and (ii) insert the following footnote “A” at the end of such new text:
+“For purposes of calculating Consolidated EBITDA as provided in clauses (vi) and (vii) above, by way of example, if Consolidated EBITDA for a given period (determined without regard to any add-backs pursuant to clause (vi) or (vii)) is $85.0 million and add-backs of the type described in clauses (vi) and (vii) equal $20.0 million, “permitted add-backs” under clauses (vi) and (vii) would equal $15.0 million. Permitted add-backs of $15.0 million equates to 15% of Consolidated EBITDA (determined inclusive of permitted add-backs), i.e. $85.0 million plus $15.0 million or $100.0 million.”
+Section 2.     Conditions to Third Amendment Effective Date. This Third Amendment shall become effective on and as of the date (the “Third Amendment Effective Date”) when, and only when, each of the following conditions shall have been satisfied:
+(a)    the Administrative Agent or its counsel shall have received:
+(i)    counterparts of this Third Amendment duly executed by API, the Borrower and Banks constituting the Required Banks; and
+(ii)    such certificates of resolutions or other action, incumbency certificates and/or other certificates of Responsible Officers of API and the Borrower as the Administrative Agent may reasonably require evidencing the identity, authority and capacity of each
+
+2
+
+Responsible Officer thereof authorized to act as a Responsible Officer in connection with this Third Amendment;
+(b)    the Administrative Agent or its counsel shall have received a certificate from a Responsible Officer of the Borrower certifying that:
+(i)    no Default or Event of Default has occurred and is continuing on and as of the Third Amendment Effective Date; and
+(ii)    the representations and warranties of API and the Borrower set forth in Article 5 of the Credit Agreement are true and correct in all material respects (or in all respects if the applicable representation or warranty is qualified by material adverse effect or materiality) on and as of the Third Amendment Effective Date (except to the extent such representations and warranties are expressly made as of a specified date in which event such representations and warranties shall be true and correct in all material respects as of such date);
+(c)    the Borrower shall have paid to the Administrative Agent an amendment fee for the account of the Banks that have delivered an executed counterpart of this Third Amendment to the Administrative Agent by no later than 5:00 pm (New York City time) on December 20, 2017, in an aggregate amount equal to 0.25% of the principal amount of the Commitments of such Banks as of the Third Amendment Effective Date; and
+(d)    all fees and expenses required to be paid hereunder and/or pursuant to the Credit Agreement and invoiced at least two Business Days before the Third Amendment Effective Date shall have been paid in full in cash or will be paid in full in cash on the Third Amendment Effective Date.
+Section 3.     Reference to and Effect on Credit Documents.
+(a)     On and after the Third Amendment Effective Date, each reference in the Credit Agreement to “this Agreement”, “hereunder”, “hereof” or words of like import referring to the Credit Agreement and each reference in each of the other Credit Documents to “the Credit Agreement”, “thereunder”, “thereof” or words of like import referring to the Credit Agreement shall mean and be a reference to the Credit Agreement as amended by this Third Amendment.
+(b)     On and after the Third Amendment Effective Date, each reference in the Credit Agreement to the “Compliance Certificate” shall mean and be a reference to Exhibit E to the Credit Agreement as amended by this Amendment.
+(c)     This Third Amendment is an amendment as referred to in the definition of Credit Documents and shall for all purposes constitute a Credit Document.
+(d)     On and after the Third Amendment Effective Date, the Credit Agreement and each of the other Credit Documents, as specifically amended by this Third Amendment, are and shall continue to be in full force and effect and are hereby in all respects ratified and confirmed. The execution, delivery and effectiveness of this Third Amendment shall not, except as expressly provided herein, operate as a waiver of any right, power or remedy of any Bank or the Administrative Agent under any of the Credit Documents.
+
+3
+
+Section 4.     Costs and Expenses. The Borrower agrees to pay or reimburse all reasonable and documented out-of-pocket costs and expenses of the Administrative Agent in connection with the preparation, execution, delivery and administration of this Third Amendment (including, without limitation, the reasonable and documented fees and expenses of a single counsel for the Administrative Agent) in accordance with the terms of Section 11.10 of the Credit Agreement.
+Section 5.     Execution in Counterparts. This Third Amendment may be executed in any number of counterparts and by different parties hereto in separate counterparts, each of which when so executed shall be deemed to be an original and all of which taken together shall constitute but one and the same agreement. Delivery of an executed counterpart of a signature page to this Third Amendment by telecopier or other electronic transmission (i.e., “pdf”, “tif” or similar format) shall be effective as delivery of a manually executed counterpart of this Third Amendment.
+Section 6.     Governing Law. THIS THIRD AMENDMENT SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAW OF THE STATE OF NEW YORK.
+[The remainder of this page intentionally left blank.]
+
+
+4
+
+IN WITNESS WHEREOF, the parties hereto have caused this Third Amendment to be executed by their respective officers thereunto duly authorized as of the date first above written.
+AVON PRODUCTS, INC.
+
+
+By:/s/Jamie Wilson________
+Name: Jamie Wilson
+Title: Executive Vice President and Chief Financial Officer
+
+
+AVON INTERNATIONAL OPERATIONS, INC.
+
+
+By:/s/Robert Loughran_______
+Name: Robert Loughran
+Title: President
+
+
+
+
+
+
+CITIBANK, N.A.,
+as a Bank
+
+
+By:/s/Robert Kane______
+Name: Robert Kane
+Title: Vice President
+
+
+
+BANK OF AMERICA, N.A.,
+as a Bank
+
+
+By:/s/ J. Casey Cosgrove__
+Name: J. Casey Cosgrove
+Title: Director
+
+
+
+GOLDMAN SACHS BANK USA,
+as a Bank
+
+
+By:/s/Chris Lam___________
+Name: Chris Lam
+Title: Authorized Signatory
+
+
+HSBC BANK USA, NA,
+as a Bank
+
+
+By:/s/Alan Vitulich________
+Name: Alan Vitulich
+Title: Director
+
+
+SUNTRUST BANK,
+as a Bank
+
+
+By:/s/Jason Crowley_______
+Name: Jason Crowley
+Title: Vice President
+
+
+
+
+
+THE NORTHERN TRUST COMPANY,
+as a Bank
+
+
+By:/s/Eric Siebert_______
+Name: Eric Siebert
+Title: SVP

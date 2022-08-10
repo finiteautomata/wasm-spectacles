@@ -1,0 +1,444 @@
+EX-10.2 3 exhibit102-scheduletotheis.htm EXHIBIT 10.2
+Execution Copy
+Ref. No. CB25-792
+
+
+
+
+SCHEDULE
+
+to the
+
+ISDA 2002 Master Agreement
+
+dated as of March 20, 2019
+
+between
+
+CITIBANK, N.A.,
+a national banking association organized under the laws of the United States,
+acting through its Office located in New York, London, Singapore, Sydney
+(“Party A”)
+
+and
+
+FARMER BROS. CO.,
+a corporation organized and existing
+under the laws of Delaware
+(“Party B”)
+
+
+Part 1
+Termination Provisions
+
+In this Agreement:
+
+(a)    “Specified Entity” means for the purpose of Section 5(a)(v) of this Agreement, (i) in relation to Party A, Citigroup Global Markets Limited, Citigroup Global Markets Inc., Citigroup Global Markets Commercial Corp., Citicorp Securities Services, Inc., Citibank Europe PLC, Citigroup Global Markets Deutschland AG, Citigroup Energy Inc., Citibank Japan Ltd., Citibank Canada, Citigroup Energy Canada ULC, and Citigroup Financial Products Inc. (individually a “Section 5(a)(v) Affiliate”), and (ii) in relation to Party B, Not Applicable.
+
+(b)    “Specified Transaction” will have the meaning specified in Section 14 of this Agreement. For purposes of clause (c) of such definition, Specified Transaction includes any securities options, margin loans, short sales, any agreement governing the purchase, sale, transfer, exchange or option of a commodity, or any other commodity trading transaction and any other similar transaction now existing or hereafter entered into between Party A (or any Section 5(a)(v) Affiliate) and Party B (or any Affiliate of Party B). For this purpose, “commodity” means any tangible or intangible commodity of any type or
+
+30
+
+Execution Copy
+Ref. No. CB25-792
+
+
+description, including without limitation power, natural gas, petroleum (and the products and by-products thereof), emissions allowances, precious metals and coal.
+
+(c)    The “Cross Default” provisions of Section 5(a)(vi) will apply to Party A and will apply to Party B., provided that Section 5(a)(vi) is hereby amended by deleting the words “, or becoming capable at such time of being declared” in the seventh line thereof,
+
+For purposes of Section 5(a)(vi), the following provisions apply:
+
+“Specified Indebtedness” shall have the meaning set forth in Section 14 of this Agreement, provided, however, that Specified Indebtedness shall not include deposits received in the course of a party’s ordinary banking business.
+
+“Threshold Amount” means
+
+(i) with respect to Party A, 2% of the stockholders’ equity of Party A; and
+(ii) with respect to Party B, USD 10,000,000
+
+including the U.S. Dollar equivalent, as determined by the Calculation Agent, on the date of any default, event of default or other similar condition or event of any obligation stated in any other currency.
+
+For purposes of the above, stockholders’ equity shall be determined by reference to the relevant party's most recent consolidated (quarterly, in the case of a U.S. incorporated party) balance sheet and shall include, in the case of a U.S. incorporated party, legal capital, paid-in capital, retained earnings and cumulative translation adjustments. Such balance sheet shall be prepared in accordance with accounting principles that are generally accepted in such party's country of organization.
+
+(d)    The “Credit Event Upon Merger” provisions of Section 5(b)(v) of this Agreement will apply to Party A and will apply to Party B.
+
+(e)    The “Automatic Early Termination” provisions of Section 6(a) will not apply to Party A and will not apply to Party B; provided, however, that with respect to a party, where the Event of Default specified in Section 5(a)(vii)(1), (3), (4), (5), (6) or to the extent analogous thereto, (8) is governed by a system of law which does not permit termination to take place after the occurrence of the relevant Event of Default, then the Automatic Early Termination provisions of Section 6(a) will apply to such party.
+
+(f)    “Termination Currency” will have the meaning specified in Section 14 of this Agreement.
+
+(g)    “Additional Termination Event” will apply. It shall constitute an Additional Termination Event, Party B shall be the sole Affected Party and Party A shall be the party entitled to determine the Close-out Amount, if at any time:
+
+31
+
+Execution Copy
+Ref. No. CB25-792
+
+
+(i)     the Credit Agreement (as defined below) shall for any reason, cease to be in full force and effect;
+(ii)     Party A or an Affiliate of Party A shall for any reason cease to be a party to the Credit Agreement;
+(iii) all or any portion of the Collateral (as defined in the Credit Support Documents) shall be released from the Lien(s) (as defined in the Credit Support Documents) of the Credit Support Documents, other than a release of collateral that is specifically permitted by the Credit Agreement or consented to by all Required Lenders or other necessary parties under the Credit Agreement;
+(iii) the obligations of Party B with respect to Transactions hereunder are no longer guaranteed pursuant to the Loan Guaranty (as such term is defined in the Credit Agreement); or
+(iv) the obligations of Party B under this Agreement shall for any reason not be secured or not be secured equally and ratably and on a pari passu basis with the Lenders (as defined in the Credit Agreement) under and pursuant to the Loan Guaranty and Collateral Documents each as defined in the Credit Agreement, other than in connection with a release of collateral that is specifically permitted by the Credit Agreement or consented to by all Required Lenders or other necessary parties under the Credit Agreement;
+in each case, other than (i) in connection with any assignment by Party A or any refinancing, amendment or restatement of the Credit Agreement or replacement with a new credit agreement in respect of which Party A or any Affiliate of Party A is a party, or (ii) Party A otherwise provides its written consent to an event that would otherwise constitue an Additional Termination Event or to any refinancing, amendment or restatement that effects or would result in any such event. As used herein and throughout this Agreement, “Credit Agreement” means that certain Amended and Restated Credit Agreement dated as of November 6, 2018 among FARMER BROS. CO., The other Loan Parties Party Thereto, The Lenders Party Thereto, CITIBANK, N.A. and PNC BANK, NATIONAL ASSOCIATION, as Co-Syndication Agents, BANK OF AMERICA, N.A., REGIONS BANK, and SUNTRUST BANK, as Co-Documentation Agents and JPMORGAN CHASE BANK, N.A., as Administrative Agent and Sole Bookrunner and Sole Lead Arranger, as may be amended, restated, supplemented, extended, refinanced or otherwise modified or replaced from time to time.
+
+
+(h)    Amendments to Section 5(a). Section 5(a) of the Agreement is hereby modified as follows:
+(i)    Section 5(a)(i) is hereby amended by replacing each occurrence of the word “first” with “third”;
+(ii)    Section 5(a)(v) is hereby amended by replacing the words “one Local Business Day” with “three Local Business Days” in clause (2) thereof; and
+(iii)    Section 5(a)(vii) is hereby amended by (i) replacing each occurrence of the words “15 days” with the words “30 days.”
+
+32
+
+Execution Copy
+Ref. No. CB25-792
+
+
+
+Part 2
+Tax Representations
+
+(a)    Payer Representations. For the purpose of Section 3(e) of this Agreement, Party A will make the following representation and Party B will make the following representation:
+
+It is not required by any applicable law, as modified by the practice of any relevant governmental revenue authority, of any Relevant Jurisdiction to make any deduction or withholding for or on account of any Tax from any payment (other than interest under Section 9(h) of this Agreement) to be made by it to the other party under this Agreement. In making this representation, it may rely on (i) the accuracy of any representations made by the other party pursuant to Section 3(f) of this Agreement, (ii) the satisfaction of the agreement contained in Section 4(a)(i) or 4(a)(iii) of this Agreement and the accuracy and effectiveness of any document provided by the other party pursuant to Section 4(a)(i) or 4(a)(iii) of this Agreement and (iii) the satisfaction of the agreement of the other party contained in Section 4(d) of this Agreement, except that it will not be a breach of this representation where reliance is placed on clause (ii) above and the other party does not deliver a form or documents under Section 4(a)(iii) by reason of material prejudice to its legal or commercial position.
+
+(b)    Payee Representations. For the purpose of Section 3(f) of the Agreement, Party A and Party B make the representations specified below, if any:
+
+The following representation will apply to Party A:
+
+It is a national banking association organized under the laws of the United States and its U.S. taxpayer identification number is 13-5266470. It is “exempt” within the meaning of Treasury Regulation sections 1.6041-3(p) and 1.6049-4(c) from information reporting on Form 1099 and backup withholding.
+
+The following representation will apply to Party B:
+
+It is a corporation created or organized in the United States or under the laws of the United States and its U.S. taxpayer identification number is 82-2659061. It is “exempt” within the meaning of Treasury Regulation sections 1.6041-3(p) and 1.6049-4(c) from information reporting on Form 1099 and backup withholding.
+
+
+Part 3
+Agreement to Deliver Documents
+
+For the purpose of Section 4(a) of this Agreement:
+
+I. Tax forms, documents or certificates to be delivered are:
+
+
+33
+
+Execution Copy
+Ref. No. CB25-792
+
+
+Party required to deliver document
+Form/Document/Certificate
+Date by which to be delivered
+Party B
+As required under Section 4(a)(i) of the Agreement, IRS Form W-9, IRS Form W-8BEN, IRS Form W-8BEN-E, IRS Form W-8ECI, IRS Form W-8EXP and/or IRS Form W-8IMY, whichever is relevant or such other form or document prescribed by the IRS from time to time.
+Promptly upon execution of this Agreement; and promptly upon learning that any form previously provided by Party B has become obsolete or incorrect.
+
+
+II. Other documents to be delivered are:
+
+Party required to deliver document
+Form/Document/Certificate
+Date by which to be delivered
+Covered by Section 3(d)
+(a) Party A and Party B
+Evidence reasonably satisfactory to the other party of the (i) authority of such party and any Credit Support Provider to enter into the Agreement, any Credit Support Document and any Transactions and (ii) authority and genuine signature of the individual signing the Agreement and any Credit Support Document on behalf of such party to execute the same.
+As soon as practicable after execution of this Agreement and, if requested by the other party, as soon as practicable after execution of any Confirmation of any other Transaction (provided that such requirement shall be deemed to be satisfied if such documents or substantially similar documents are delivered to the Administrative Agent under and in accordance with the Credit Agreement).
+Yes
+(b) Party B
+A certificate of an authorized officer for Party B certifying the authority, names and true signatures of the officers signing this Agreement or any Credit Support Document and the officers or other entities or agents, including the Investment Advisor, authorized to sign any Confirmations or approve any Transactions, reasonably satisfactory in form and substance to Party A.
+Upon execution of this Agreement and as necessary for any further documentation (provided that such requirement shall be deemed to be satisfied if such documents or substantially similar documents are delivered to the Administrative Agent under and in accordance with the Credit Agreement).
+Yes
+(c) Party A
+The party’s Consolidated Reports of Condition and Income for a Bank with Domestic and Foreign Offices – FFIEC 031.
+Upon request, provided, however, that such financials are “deemed “ to be delivered hereunder on the date the same shall be posted on the website: http://www.citigroup.com/citi/fin/reg.htm
+Yes
+
+34
+
+Execution Copy
+Ref. No. CB25-792
+
+
+(d) Party B
+Party B’s Credit Support Provider’s annual report containing audited consolidated financial statements prepared in accordance with accounting principles that are generally accepted in Party B’s country of organization and certified by independent certified public accountants for each fiscal year.
+If not publicly available on EDGAR or on Party B’s website, as soon as available and in any event within 120 days (or as soon as practicable after becoming publicly available) after the end of each of its fiscal years (provided that such requirement shall be deemed to be satisfied if such annual report or substantially similar financial statements are publicly available or otherwise delivered to the Administrative Agent under and in accordance with the Credit Agreement).
+Yes
+(e) Party B
+Party B’s Credit Support Provider’s unaudited consolidated financial statements, the consolidated balance sheet and related statements of income for each fiscal quarter prepared in accordance with accounting principles that are generally accepted in Party B’s country of organization.
+If not publicly available on EDGAR or on Party B’s website, as soon as available and in any event within 60 days (or as soon as practicable after becoming publicly available) after the end of each of its fiscal quarters (provided that such requirement shall be deemed to be satisfied if such documents or substantially similar documents are delivered to the Administrative Agent under and in accordance with the Credit Agreement).
+Yes
+                        Part 4
+Miscellaneous
+
+(a)    Addresses for Notices. For the purpose of Section 12(a) of this Agreement:
+
+Address for notices or communications to Party A:
+
+With respect to a particular Transaction, all notices or communications to Party A shall be sent to the address or facsimile number indicated in the Confirmation of that Transaction.
+
+Address:    Capital Markets Documentation Unit
+388 Greenwich Street
+17th Floor
+New York, New York 10013
+
+Attention:     Director of Derivative Operations
+
+Facsimile No.:    212 816 5550
+
+35
+
+Execution Copy
+Ref. No. CB25-792
+
+
+
+Address for notices or communications to Party B:
+
+Address:    Farmer Bros. Co.
+1912 Farmer Brothers Drive
+Northlake, TX 76262
+
+Attention:    Legal Department
+
+Email:        LegalDepartment@farmerbros.com
+
+(b)    Process Agent. For the purpose of Section 13(c) of this Agreement:
+
+Party B appoints as its Process Agent: Not applicable
+
+(c)    Offices. The provisions of Section 10(a) will apply to this Agreement.
+
+(d)    Multibranch Party. For the purpose of Section 10(b) of this Agreement:
+
+Party A is a Multibranch Party and may enter into a Transaction through any of the following offices: New York, London, Singapore and Sydney.
+
+Party B is not a Multibranch Party.
+
+(e)    Calculation Agent. The Calculation Agent will be Party A, unless it is a Defaulting Party, in which case Party B may appoint a Leading Dealer to act as substitute Calculation Agent. The cost of such substitute Calculation Agent (if any) shall be borne equally by Party A and Party B. For purposes hereof, a “Leading Dealer” means a leading dealer in the relevant market and product that is not an Affiliate of either of the parties. When a Confirmation issued under this Agreement provides that the Calculation Agent is Party A, that statement shall be deemed to incorporate this entire paragraph by reference, provided however, that in the event of any inconsistency between this Agreement and a Confirmation the Confirmation shall prevail.
+
+
+36
+
+Execution Copy
+Ref. No. CB25-792
+
+
+(f)    Credit Support Document. Credit Support Document means solely in regard to Party B, the Loan Guaranty and Collateral Documents as defined in the Credit Agreement, provided that, (i) a release of collateral that is specifically permitted by the Credit Agreement or consented to by all Required Lenders or other necessary parties under the Credit Agreement, (ii) any assignment by Party A or any refinancing, amendment or restatement of the Credit Agreement or replacement with a new credit agreement in respect of which Party A or any affiliate is a party, or (iii) any such event or any refinancing, amendment or restatement that effect or would result in any such event to which Party A has provided its written consent, shall not constitute an Event of Default under Section 5(a)(iii)(2) of this Agreement.
+
+(g)    Credit Support Provider. The Credit Support Provider for Party A is not applicable. The Credit Support Provider for Party B is each Loan Guarantor as defined in the Credit Agreement; provided that no person providing a guaranty of the performance or obligations of Party B (each such person, a “Guarantor”) shall be deemed to be a guarantor of Party B’s performance or obligations under this Agreement or in connection with any Transaction (a “Swap Obligation”) if such Guarantor is not an “Eligible Contract Participant” as defined in § 1(a)(18) of the Commodity Exchange Act and the applicable rules issued by the Commodity Futures Trading Commission and/or the Securities and Exchange Commission (collectively, and as now or hereafter in effect, "the ECP Rules") at the time such guaranty became effective with respect to such Swap Obligation and to the extent that the providing of such guaranty by such Guarantor would violate the ECP Rules.
+
+(h)    Governing Law. This Agreement will be governed by and construed in accordance with the laws of the State of New York.
+
+(i)    Jurisdiction. Section 13(b)(i) of the Agreement is hereby amended by deleting in line 2 of paragraph 2 the word “non-” and by deleting paragraph (iii) thereof. The following shall be added at the end of Section 13(b): “Nothing in this provision shall prohibit a party from bringing an action to enforce a money judgment in any other jurisdiction.”
+
+(j)“Affiliate” will have the meaning specified in Section 14 of this Agreement.
+
+(k)    Absence of Litigation. For the purpose of Section 3(c): “Specified Entity” means in relation to Party A, any Affiliate of Party A, and in relation to Party B, any Affiliate of Party B.
+
+(l)No Agency. The provisions of Section 3(g) will apply to this Agreement.
+
+(m)Additional Representation will apply. For the purpose of Section 3 of this Agreement, each of the following will constitute an Additional Representation of the relevant party specified below, and each such party will be deemed to represent to the other party on the date on which it enters into a Transaction that (absent a written agreement between the parties that expressly imposes affirmative obligations to the contrary for that Transaction):
+
+“(h)    Relationship Between Parties.
+
+
+37
+
+Execution Copy
+Ref. No. CB25-792
+
+
+(1) No Reliance. It is acting for its own account, and it has made its own independent decisions to enter into that Transaction and as to whether that Transaction is appropriate or proper for it based upon its own judgment and upon advice from such advisors as it has deemed necessary. It is not relying on any communication (written or oral) of the other party as investment advice or as a recommendation to enter into that Transaction; it being understood that information and explanations related to the terms and conditions of a Transaction shall not be considered investment advice or a recommendation to enter into that Transaction. It has not received from the other party any assurance or guarantee as to the expected results of that Transaction.
+
+(2) Evaluation and Understanding. It is capable of evaluating and understanding (on its own behalf or through independent professional advice), and understands and accepts, the terms, conditions and risks of that Transaction. It is also capable of assuming, and assumes, the financial and other risks of that Transaction.
+
+(3) Status of Parties. The other party is not acting as a fiduciary for or an advisor to it in respect of that Transaction.
+
+(i)    Risk Management. Party B alone represents that this Agreement has been, and each Transaction hereunder has been or will be, as the case may be, entered into for the purpose of managing its borrowings or investments, hedging its underlying assets or liabilities or in connection with its line of business (including financial intermediation services) and not for the purpose of speculation.
+
+(k)    ERISA. The assets that are used in connection with the execution, delivery and performance of this Agreement and the Transactions entered into pursuant hereto are not (i) the assets of an “employee benefit plan” (within the meaning of Section 3(3)) of the Employee Retirement Income Security Act of 1974, as amended (“ERISA”) or other plan subject to Title I of ERISA, (ii) a plan described in Section 4975 of the Internal Revenue Code of 1986, as amended (the “Code”), (iii) an entity whose underlying assets include “plan assets” by reason of Department of Labor regulation section 2510.3-101 (as modified by Section 3(42) of ERISA), or (iv) a governmental plan that is subject to any federal, state, or local law that is substantially similar to the provisions of Section 406 of ERISA or Section 4975 of the Code.”
+
+(n)    Netting of Payments. Either party may notify the other in writing, not less than one Local Business Day in advance of one or more Scheduled Settlement Dates, that with regard to payments due on that date, Multiple Transaction Payment Netting will apply. Except to the extent that such advance written notice shall have been given, Multiple Transaction Payment Netting will not apply for purposes of Section 2(c) of this Agreement; provided, however, that for each of the following groups of Transactions, Party A and Party B hereby elect to net payments of all amounts payable on the same day in the same currency (and through the same Office of Party A) by specifying that Multiple Transaction Payment Netting will apply
+
+38
+
+Execution Copy
+Ref. No. CB25-792
+
+
+(and therefore that Section 2(c)(ii) of the Agreement will not apply) with respect to each of the following groups of Transactions:
+
+(i)
+FX Transactions entered into by the parties;
+(ii)    Currency Option Transactions entered into by the parties;
+(iii)    Commodity Option Transactions entered into by the parties (on a Commodity by Commodity basis to the extent operationally feasible); and
+(iv)    Commodity Transactions other than Option Transactions (on a Commodity by Commodity basis to the extent operationally feasible).
+
+The starting date for the election commences upon entering the first Transaction under the Agreement with respect to either of the above groups of Transactions.
+
+
+
+
+
+Part 5
+Other Provisions
+
+(a)    Waiver of Right to Trial by Jury. Each party hereby irrevocably waives, to the fullest extent permitted by applicable law, any right it may have to a trial by jury in respect of any suit, action or proceeding relating to this Agreement.
+
+(b)    Severability. Except as otherwise provided in Sections 5(b)(i) or 5(b)(ii) of this Agreement in the event that any one or more of the provisions contained in this Agreement should be held invalid, illegal, or unenforceable in any jurisdiction, the validity, legality and enforceability of the remaining provisions contained herein shall not in any way be affected or impaired thereby. The parties shall endeavor, in good faith negotiations, to replace the invalid, illegal or unenforceable provisions with valid provisions, the economic effect of which comes as close as possible to that of the invalid, illegal or unenforceable provisions.
+
+(c)    Escrow Payments. If by reason of the time difference between the cities in which payments are to be made, it is not possible for simultaneous payments to be made on any date on which both parties are required to make payments hereunder, either party may at its option and in its sole discretion notify the other party that payments on that date are to be made in escrow. In this case the deposit of the payment due earlier on that date shall be made by 2:00 p.m. (local time at the place for the earlier payment) on that date with an escrow agent selected by the party giving the notice, accompanied by irrevocable payment instructions (i) to release the deposited payment to the intended recipient upon receipt by the escrow agent of the required deposit of the corresponding payment from the other party on the same date accompanied by the irrevocable payment instructions to the same effect or (ii) if the required deposit of the corresponding payment is not made on that same date, to return the payment deposited to the party that paid it into escrow. The party that elects to have payments made in escrow shall pay the costs of the escrow arrangements and shall cause those arrangements to provide that the intended recipient of the payment due to be deposited first shall be entitled to interest on that deposited payment for each day in the period of its deposit at the rate offered by the escrow agent for that day for overnight deposits in the relevant currency in the office where
+
+39
+
+Execution Copy
+Ref. No. CB25-792
+
+
+it holds that deposited payment (at 11:00 am. local time on that day) if that payment is not released by 5:00 p.m. on the date it is deposited for any reason other than the intended recipient’s failure to make the escrow deposit it is required to make hereunder in a timely fashion.
+
+(d)    Recording of Conversations. Each party hereto consents to the recording of its telephone conversations relating to this Agreement or any potential Transaction.
+
+(e)    Limitation of Liability. No party shall be required to pay or be liable to the other party for any consequential, indirect or punitive damages, opportunity costs or lost profits.
+
+(f)    2002 Master Agreement Protocol. The parties agree that the definitions and provisions contained in Annexes 1 to 16 and Section 6 of the 2002 Master Agreement Protocol published by the International Swaps and Derivatives Association, Inc. on 15th July, 2003 are incorporated into and apply to this Agreement.
+
+(g)    HIRE Act Protocols. The parties agree that the definitions and provisions contained in the (x) Attachment to the 2010 Short Form HIRE Act Protocol and (y) 2015 Section 871(m) Protocol, in each case as published by the International Swaps and Derivatives Association, Inc. are incorporated into and apply to this Agreement as if set forth in full herein.
+
+(h)    Foreign Account Tax Compliance Act. The parties agree that the definitions and provisions contained in the ISDA 2012 FATCA Protocol as published by the International Swaps and Derivatives Association, Inc. on August 15, 2012, are incorporated into and apply to the Agreement as if set forth in full herein.
+
+(i)    Conditions Precedent.
+
+(i)
+The condition precedent in Section 2(a)(iii)(1) of this Agreement does not apply to a payment and delivery owing by a party if the other party shall have satisfied in full all its payment or delivery obligations under Section 2(a)(i) of this Agreement and shall at the relevant time have no future payment or delivery obligations, whether absolute or contingent, under Section 2(a)(i) of this Agreement.
+
+(ii)
+Section 2(a) is hereby amended by adding the following Section 2(a)(iv) at the end thereof:
+
+"(iv)
+If an Event of Default has occurred and is continuing in relation to a party that does not have any Unpaid Obligations, then the condition precedent specified in Section 2(a)(iii)(1) will cease to be a condition precedent to each obligation of the other party under Section 2(a)(i) upon the first Local Business Day following the date falling 60 calendar days after the Defaulting Party provides notice by courier to the Non-defaulting Party (1) specifying the Event of Default that has occurred and is continuing and (2) requesting such Event of Default cease to be a condition precedent to each obligation as the result of this Section 2(a)(iv). Nothing in this Section 2(a)(iv) will be construed as a waiver of the applicable Event of Default, and each subsequent occurrence of the same
+
+40
+
+Execution Copy
+Ref. No. CB25-792
+
+
+Event of Default or the occurrence of a different Event of Default will be treated separately.
+
+“Unpaid Obligations” means, for purposes of Section 2(a)(iv) immediately above, (1) any amounts that previously became payable by such party under Section 2(a)(i) and remain unpaid and (2) each obligation under Section 2(a)(i) that was previously required to be settled by delivery and has not been so settled, in each case together with interest that would be owed on such obligations, if any, as contemplated under this Agreement."
+
+Part 6
+FX Transactions and Currency Option Transactions
+
+(a)
+The 1998 FX and Currency Option Definitions.
+
+(i)
+The provisions of the 1998 FX and Currency Option Definitions as published by ISDA, Emerging Markets Traders Association and The Foreign Exchange Committee (the "FX Definitions"), are hereby incorporated herein in their entirety and shall apply to FX Transactions and Currency Option Transactions entered into by the Offices of the parties specified in Part 4 of this Schedule. FX Transactions and Currency Option Transactions are each deemed to be "Transactions" pursuant to the ISDA Master Agreement.
+
+(ii)
+Unless otherwise agreed to by the parties, all FX and Currency Option Transactions entered into between the parties prior to the date of this Agreement shall be deemed to be Transactions for purposes of this Agreement. The confirmation of all FX and Currency Option Transactions via any electronic media, telex, facsimile or writing shall constitute a "Confirmation" as referred to in this Agreement even where not so specified in the Confirmation. Such Confirmations will supplement, form a part of, and be subject to this Agreement.
+
+(b)    Article 3 General Terms Relating to Currency Option Transactions.
+
+The FX Definitions are hereby amended by adding the following new Section 3.9:
+
+“Section 3.9 Discharge and Termination of Options. Unless otherwise agreed, any Call or Put written by a party will automatically be terminated and discharged, in whole or in part, as applicable, against a Call or Put, respectively, written by the other party, such termination and discharge to occur automatically upon the payment in full of the last Premium payable in respect of such Currency Option Transaction; provided, that such termination and discharge may only occur in respect of Currency Option Transactions with the same material terms, including but not limited to:
+
+
+41
+
+Execution Copy
+Ref. No. CB25-792
+
+
+(i)
+each being with respect to the same Put Currency and the same Call Currency (i.e., a Put may only be discharged against another Put and not against a Call);
+(ii)
+each having the same Expiration Date and Expiration Time;
+(iii)
+each being of the same style (i.e., either both being of American or European Style);
+(iv)    each having the same Strike Price;
+(v)
+neither of which shall have been exercised;
+(vi)
+each of which has been entered into by the same pair of Offices of the parties; and
+(vii)
+each having the same procedures for exercise;
+
+and, upon the occurrence of such termination and discharge, neither party shall have any further obligation to the other party in respect of the relevant Currency Option Transactions terminated and discharged. In the case of a partial termination and discharge (i.e., where the relevant Currency Option Transactions are for different amounts of the Currency Pair), the remaining portion of the Currency Option Transaction shall continue to be a Currency Option Transaction for all purposes hereunder.”
+
+Part 7
+Additional Provisions for Commodity Derivative Transactions
+
+(a)    Definitions. The 2005 ISDA Commodity Definitions as published by the International Swaps and Derivatives Association, Inc. and otherwise as amended, supplemented or modified from time to time (the “Commodity Definitions”), are incorporated by reference in this Agreement and the relevant Confirmations with respect to “Transactions”, as defined by the Commodity Definitions, except as otherwise specifically provided in the relevant Confirmation.
+
+(b)    Rounding. For purposes of preparing any calculations referred to in the Commodity Definitions, unless otherwise agreed to and specified in a Confirmation, rounding conventions for commodity pricing shall be as follows:
+
+Megawatt Hours:
+rounded to the nearest fourth decimal place
+MMBtu:
+rounded to the nearest fourth decimal place
+Gallons
+rounded to the nearest fourth decimal place
+Barrels:
+rounded to the nearest third decimal place
+
+
+Part 8
+Dodd-Frank Title VII Provisions
+
+(b)    Eligible Contract Participant. At the time of each Transaction entered into under this Agreement, each of Party A and Party B represents to the other that it is an eligible contract participant as defined in Section 1a(18) of the U.S. Commodity Exchange Act (“CEA”) and CFTC Regulations
+
+42
+
+Execution Copy
+Ref. No. CB25-792
+
+
+promulgated thereunder (an “ECP”). For the avoidance of doubt, notwithstanding anything to the contrary in any guarantee, credit agreement, loan agreement, security agreement or otherwise, the parties hereby expressly agree that any guaranty or other credit support provided by any Credit Support Provider of Party B shall exclude any “Excluded Swap Obligations” (as defined in the Credit Agreement).
+
+(d)    Covered Agreement. The parties agree that this Agreement shall be considered a “Protocol Covered Agreement” or a “Covered Agreement,” as applicable, for purposes of the ISDA August 2012 DF Protocol and the ISDA March 2013 DF Protocol, as applicable.
+
+(f)    Certain Permitted Disclosures. Party A is required to report information related to swap, derivatives and other transactions with counterparties to appropriate regulators.  Notwithstanding anything to the contrary in any agreement, including, without limitation, any non-disclosure or confidentiality agreement between Party A and Party B, as a counterparty to a swap, derivatives, or other transaction, Party B hereby consents to the disclosure of information: (a) to the extent required or  permitted by any applicable law, rule or regulation which mandates reporting and/or retention of transaction and similar information or to the extent required by order or directive regarding reporting and/or retention of transaction or similar information issued by any authority, body or agency in accordance with which Party A is required or accustomed to act, including, without limitation, reporting required to be made to swap or trade data repositories or systems or services operated by such repositories (“Reporting Requirements”) or (b) to and between Party A’s head office, branches or affiliates, or any persons or entities who provide services to such other party or its head office, branches or affiliates, in each case, in connection with such Reporting Requirements.
+
+(g)    Certain Dodd-Frank Disclosures. Party A and certain of its affiliates (“Citi”) are registered with the CFTC as a U.S. swap dealer. As a swap dealer, these entities are required to provide Party B with certain disclosures including information regarding the material risks and characteristics of particular transaction types and material incentives and conflicts of interest. The parties agree that these disclosures may be provided through the Citi Velocity website. Please log on to https://www.citivelocity.com/menu/DoddFrankMaterialDisclosures for access to these disclosures. If Party B does not have a Velocity username and password, please use the following username: citidisclosures and password: welcome1 for access. Contact the Citi representative for Party B with any questions regarding this information.
+
+(h)    Applicability of Dodd-Frank Margin Requirements. Party B represents as of the date hereof (which representation shall be deemed to repeated on each date on which a Transaction is entered into) that Party B is not a “financial end user” as defined in the Margin Requirements. For purposes of the foregoing, the term “Margin Requirements” means the Margin and Capital Requirements for Covered Swap Entities; Final Rule adopted by the Department of the Treasury, Federal Reserve System, Federal Deposit Insurance Corporation, Farm Credit Administration and Federal Housing Finance Agency, published at 80 FR 74840 (November 30, 2015) Reg. __.2.
+
+
+Part 9
+U.S. QFC Mandatory Contractual Requirements
+(a) ISDA 2018 U.S. Resolution Stay Protocol (“U.S. Stay Protocol”). The parties agree that the definitions and provisions contained in the ISDA 2018 U.S. Stay Protocol and Attachment thereto as published by the International Swaps and Derivatives Association, Inc. on July 31, 2018 are hereby incorporated into and apply to this Agreement as if set forth in full herein. For these purposes, the following terms as used in
+
+43
+
+Execution Copy
+Ref. No. CB25-792
+
+
+the U.S. Stay Protocol shall have the following mean-ings: “Regulated Entity” shall mean Party A and “Protocol Covered Agree-ment” or “Covered Agreement”, as applicable, shall mean this Agreement.
+
+IN WITNESS WHEREOF, the parties have executed this document on the respective dates specified below with effect from the date specified on the first page of this document.
+
+
+CITIBANK, N.A.
+
+
+
+By: /s/ Candice E. Somerville
+Name: Candice E. Somerville
+Title: Assistant General Counsel
+Date: 3/26/2019
+  FARMER BROS. CO.
+
+
+
+By: /s/ David G. Robson
+Name: David G. Robson
+Date: 3/26/2019
+
+
+
+44

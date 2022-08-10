@@ -1,0 +1,103 @@
+EX-10.2 3 exhibit102tomarch172021rep.htm EX-10.2
+
+SECOND AMENDMENT dated as of March 16, 2021 (this “Amendment Agreement”) to the Revolving Credit Agreement dated as of April 23, 2019 (as amended by the First Amendment dated July 27, 2020 and as further amended, supplemented or otherwise modified from time to time prior to the date hereof, the “Existing Credit Agreement” and as amended, supplemented or otherwise modified by this Amendment Agreement, the “Credit Agreement”) among Ford Motor Company (the “Company”), the several lenders from time to time party thereto and JPMorgan Chase Bank, N.A., as administrative agent (the “Administrative Agent”). Unless otherwise defined herein, terms defined in the Existing Credit Agreement and used herein shall have the meanings given to them in the Existing Credit Agreement.
+WHEREAS, the Company has requested that the Existing Credit Agreement be amended as provided herein; and
+WHEREAS, in order to effect the foregoing, the Company and the other parties hereto desire to amend, as of the Amendment Effective Date (as defined in Section 2 below), the Existing Credit Agreement, subject to the terms and conditions set forth herein;
+NOW, THEREFORE, in consideration of the foregoing and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto hereby agree as follows:
+Section 1.Amendment of the Existing Credit Agreement. Effective as of the Amendment Effective Date, the Existing Credit Agreement is hereby amended to delete the stricken text (indicated textually in the same manner as the following example: stricken text) and to add the underlined text (indicated textually in the same manner as the following example: underlined text) as set forth in the pages of the Credit Agreement attached as Exhibit A hereto.
+Section 2.Effectiveness of this Amendment Agreement. This Amendment Agreement shall become effective upon receipt by the Administrative Agent of duly executed counterparts hereof that, when taken together, bear the signatures of the Company, the Lenders party hereto (who constitute the Required Lenders) (the date on which such condition shall be satisfied, the “Amendment Effective Date”).
+Section 3.Effect of this Amendment Agreement.
+(a)Except as expressly set forth herein, this Amendment Agreement shall not by implication or otherwise limit, impair, constitute a waiver of or otherwise affect the rights and remedies of the Lenders or the Administrative Agent under the Existing Credit Agreement or any other Loan Document and shall not alter, modify, amend or in any way affect any of the terms, conditions, obligations, covenants or agreements contained in the Existing Credit Agreement or any other provision of the Existing Credit Agreement or of any other Loan Document, all of which are ratified and affirmed in all respects and shall continue in full force and effect. Nothing herein contained shall be construed as a substitution or novation of the obligations outstanding under the Existing Credit Agreement, which shall remain in full force and effect, except in each case as amended, restated, replaced and superseded hereby or by the Credit Agreement, or any instruments executed in connection herewith or therewith. Nothing herein shall be deemed to entitle the Company to a consent to, or a waiver, amendment, modification or other change of, any of the terms, conditions, obligations, covenants or agreements contained in the Credit Agreement or any other Loan Document in similar or different circumstances.
+
+
+
+(b)On and after the Amendment Effective Date, each reference in the Existing Credit Agreement to “this Agreement”, “hereunder”, “hereof”, “herein”, or words of like import, and each reference to the “Credit Agreement” in any other Loan Document shall be deemed a reference to the Credit Agreement. This Amendment Agreement shall constitute a “Loan Document” for all purposes of the Credit Agreement and the other Loan Documents.
+Section 4.Governing Law. THIS AMENDMENT AGREEMENT AND THE RIGHTS AND OBLIGATIONS OF THE PARTIES UNDER THIS AMENDMENT AGREEMENT SHALL BE GOVERNED BY, AND CONSTRUED AND INTERPRETED IN ACCORDANCE WITH, THE LAW OF THE STATE OF NEW YORK.
+Section 5.Costs and Expenses. The Company agrees to reimburse the Administrative Agent for its reasonable out-of-pocket expenses in connection with this Amendment Agreement, including the reasonable fees, charges and disbursements of a single primary counsel.
+Section 6.Counterparts. This Amendment Agreement may be executed in any number of counterparts and by different parties hereto in separate counterparts, each of which when so executed and delivered shall be deemed an original, but all such counterparts together shall constitute but one and the same instrument. Delivery of any executed counterpart of a signature page of this Amendment Agreement by facsimile or electronic transmission shall be as effective as delivery of a manually executed counterpart hereof. The words “execution,” “signed,” “signature,” and words of like import in this Amendment Agreement shall be deemed to include electronic signatures or electronic records, each of which shall be of the same legal effect, validity or enforceability as a manually executed signature or the use of a paper-based recordkeeping system, as the case may be, to the extent and as provided for in any applicable law, including the Federal Electronic Signatures in Global and National Commerce Act, the New York State Electronic Signatures and Records Act, or any other similar state laws based on the Uniform Electronic Transactions Act.
+Section 7.Headings. The headings of this Amendment Agreement are for purposes of reference only and shall not limit or otherwise affect the meaning hereof.
+[Remainder of page intentionally blank]
+
+
+
+IN WITNESS WHEREOF, the parties hereto have caused this Amendment Agreement to be duly executed and delivered by their respective duly authorized officers or representatives as of the day and year first above written.
+
+
+FORD MOTOR COMPANY
+
+By: /s/ David A. Webb
+Name: David A. Webb
+Title: Vice President and Treasurer
+
+
+
+
+
+JPMORGAN CHASE BANK, N.A.
+as Administrative Agent
+
+By: /s/ Robert P. Kellas
+Name: Robert P. Kellas
+Title: Executive Director
+
+
+EXHIBIT A
+Amendments to Credit Agreement
+[See attached.]
+
+
+
+CONFORMED TO THE FIRSTSECOND AMENDMENT,
+DATED AS OF JULY 27MARCH 16, 20202021
+
+
+
+
+REVOLVING CREDIT AGREEMENT
+among
+FORD MOTOR COMPANY,
+The Several Lenders from Time to Time Parties Hereto
+and
+JPMORGAN CHASE BANK, N.A.,
+as Administrative Agent,
+Dated as of April 23, 2019,
+as amended by the First Amendment dated as of July 27, 2020
+and as further amended by the Second Amendment dated as of March 16, 2021
+
+
+
+
+JPMorgan Chase Bank, N.A.,
+as Bookrunner and Lead Arranger
+
+Barclays Bank PLC, BNP Paribas Securities Corp., Citigroup Global Markets Inc., Commerz Markets LLC, Credit Agricole Corporate and Investment Bank, Deutsche Bank Securities Inc., Goldman Sachs Bank USA, Industrial and Commercial Bank of China Limited, New York Branch, Wells Fargo Securities, LLC, Merrill Lynch, Pierce, Fenner & Smith Incorporated, Mizuho Bank, LTD., Morgan Stanley MUFG Loan Partners LLC, RBC Capital Markets, Societe Generale, Sumitomo Mitsui Banking Corporation,
+as Bookrunners and Lead Arrangers
+
+Bank of America, N.A., Barclays Bank PLC, BNP Paribas, Citibank, N.A., Commerz Markets LLC, Credit Agricole Corporate and Investment Bank, Deutsche Bank Securities Inc., Goldman Sachs Bank USA, Industrial and Commercial Bank of China Limited, New York Branch, Wells Fargo Bank, N.A., Mizuho Bank, Ltd., Morgan Stanley MUFG Loan Partners LLC, Royal Bank of Canada, Societe Generale, Sumitomo Mitsui Banking Corporation,
+as Co-Syndication Agents
+
+
+
+Eurocurrency Loan, the term “Business Day” shall also exclude any day on which banks are not open for dealings in Dollar deposits in the London Interbank market.
+“Capital Stock”: any and all shares, interests, participations or other equivalents (however designated) of capital stock of a corporation, any and all equivalent ownership interests in a Person (other than a corporation) and any and all warrants, rights or options to purchase any of the foregoing, excluding, for all purposes, any Indebtedness that is convertible into or exchangeable for any of the foregoing.
+“Change in Tax Law”: as defined in Section 2.15(a).
+“Change of Control”: the occurrence of either (a) more than 50% of the Voting Stock of the Company being held by a Person or Persons (other than Permitted Holders) who “act as a partnership, limited partnership, syndicate or other group for the purpose of acquiring, holding or disposing of securities” of the Company within the meaning of Section 13(d)(3) of the Exchange Act or (b) Continuing Directors ceasing to constitute at least a majority of the board of directors of the Company.
+“Code”: the Internal Revenue Code of 1986, as amended from time to time.
+“Commitment”: as to any Lender, the 2022 Commitments and the 2023 Commitments.
+“Commitment Period”: with respect to the Commitments of any Facility, the period from and including the Effective Date to the Revolving Termination Date applicable to such Facility.
+“Commonly Controlled Entity”: an entity, whether or not incorporated, that is part of a group that includes the Company and that is treated as a single employer under section 414(b) or (c) of the Code.
+“Compliance Certificate”: a certificate duly executed by a Responsible Officer, substantially in the form of Exhibit B.
+“Conduit Lender”: any special purpose corporation organized and administered by any Lender for the purpose of making Loans otherwise required to be made by such Lender and designated by such Lender in a written instrument; provided, that the designation by any Lender of a Conduit Lender shall not relieve the designating Lender of any of its obligations to fund a Loan under this Agreement if, for any reason, its Conduit Lender fails to fund any such Loan, and the designating Lender (and not the Conduit Lender) shall have the sole right and responsibility to deliver all consents and waivers required or requested under this Agreement with respect to its Conduit Lender, and provided, further, that no Conduit Lender shall (a) be entitled to receive any greater amount pursuant to Section 2.14, 2.15, 2.16 or 10.5 than the designating Lender would have been entitled to receive in respect of the extensions of credit made by such Conduit Lender or (b) be deemed to have any Commitment.
+“Consolidated Total Assets”: at any date, with respect to any Person, the amount set forth opposite the caption “total assets” (or any like caption) on a consolidated balance sheet (or the equivalent) of such Person and its consolidated Subsidiaries.
+“Consolidated Total Automotive Assets”: at any date, the consolidated total automotive assets of the Company and its consolidated Subsidiaries as of the most recent consolidated financial statements of the Company delivered pursuant to Section 6.1.
+
+
+(i)    the net proceeds of the sale of the Principal Domestic Manufacturing Property leased pursuant to such arrangement; or
+(ii)    the fair market value of the Principal Domestic Manufacturing Property so leased at the time of entering into such arrangement (as determined by any two of the following: the Chairman of the Board of the Company, its President, any Executive Vice President of the Company, any Group Vice President of the Company, any Vice President of the Company, its Treasurer or its Controller);
+to the retirement of Funded Debt of the Company; provided, however, that the amount to be applied to the retirement of Funded Debt of the Company shall be reduced by the principal amount of Funded Debt voluntarily retired by the Company within 120 days after such sale.
+7.7    Restricted Payments. The Company will not directly or indirectly (a) declare or pay any dividends or return any capital to the holders of its Capital Stock (including any option holders) or make any other distribution, payment or delivery of property, securities or cash to the holders of its Capital Stock (all of the foregoing, “Dividends”), or (b) make any payment (whether in cash, securities or other property), including any sinking fund or similar deposit, on account of the redemption, retirement, purchase, or otherwise acquisition, cancellation or termination, directly or indirectly, for consideration, of any shares of any class of its Capital Stock or any option, warrant or other right to acquire any such Capital Stock (all of the foregoing, “Repurchases” and each a “Repurchase”), in each case other than (i) dividends payable solely in its common Capital Stock, (ii) dividends, distributions or other issuances, in each case, of rights to purchase Capital Stock pursuant to a stockholder rights plan, (iii) dividends in respect of preferred shares and (iv) mandatory repurchases of preferred shares issued pursuant to any “private investment in public equity” transaction; provided that, so long as no Default or Event of Default exists or would exist after giving effect to any declaration or payment of Dividends or Repurchases:
+(a)    the Company may redeem in whole or in part any of its Capital Stock for another class of its Capital Stock;
+(b)    the Company may repurchase shares of, or make payments in respect of, its Capital Stock held by officers, directors and employees of the Company and/or any of its Subsidiaries, so long as such repurchase or payment is made pursuant to, and in accordance with the terms of, management and/or employee stock plans, stock subscription agreements or shareholder agreements;
+(c)    the Company may repurchase shares of its Capital Stock pursuant to an open market share repurchase program, other buy-back program or otherwise so long as the primary purpose of such program or other repurchase is to offset the dilutive effects of an issuance of its Capital Stock in connection with management and/or employee stock plans;
+(d)    the Company may redeem, retire, purchase or otherwise acquire, directly or indirectly, for consideration, any shares of any class of its Capital Stock from Subsidiaries;
+(e)    the Company may, at its discretion, enter into, and pay for the net cost of,make payments in respect of, any bond hedge, call spread, agreements, capped call, warrant or similar agreements when the execution of such agreements is contemporaneous with the public offering of convertible or exchangeable debt securities, mandatory convertible securities, or convertible preferred securities (convertible securities);

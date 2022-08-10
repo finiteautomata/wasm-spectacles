@@ -1,0 +1,181 @@
+EX-10.3 4 exhibit1032019364-dayj.htm EXHIBIT 10.3
+EXHIBIT 10.3
+
+JAPAN LOCAL CURRENCY ADDENDUM
+JAPAN LOCAL CURRENCY ADDENDUM, dated as of September 5, 2019, to the Credit Agreement (as defined below), among Caterpillar Financial Services Corporation, Caterpillar Finance Kabushiki Kaisha, the Japan Local Currency Banks (as defined below), Citibank, N.A., as Agent, and MUFG Bank, Ltd., as Japan Local Currency Agent.
+ARTICLE I
+Definitions
+SECTION 1.01. Defined Terms. As used in this Addendum, the following terms shall have the meanings specified below:
+“Credit Agreement” means the Credit Agreement (2019 364-Day Facility), dated as of September 5, 2019, among Caterpillar Inc., Caterpillar Financial Services Corporation, Caterpillar International Finance Designated Activity Company, Caterpillar Finance Kabushiki Kaisha, the financial institutions from time to time party thereto as Banks, Citibank, N.A., as Agent, Citibank Europe plc, UK Branch, as Local Currency Agent, and MUFG Bank, Ltd., as Japan Local Currency Agent, as the same may be amended, waived, modified or restated from time to time.
+“Japan Local Currency Advance” means any Advance, denominated in Japanese Yen, made to CFKK pursuant to Sections 2.03C and 2.03D of the Credit Agreement and this Addendum. A Japan Local Currency Advance shall bear interest at the rate specified in Schedule II.
+“Japan Local Currency Bank” means each Bank listed on the signature pages of this Addendum or which becomes a party hereto pursuant to an Assignment and Acceptance or an Assumption and Acceptance.
+SECTION 1.02. Terms Generally. Unless otherwise defined herein, terms defined in the Credit Agreement shall have the same meanings in this Addendum. Wherever the context may require, any pronoun shall include the corresponding masculine, feminine and neuter forms. The words “include”, “includes” and “including” shall be deemed to be followed by the phrase “without limitation”. All references herein to Sections and Schedules shall be deemed references to Sections of and Schedules to this Addendum unless the context shall otherwise require.
+
+
+
+
+
+ARTICLE II
+The Credits
+SECTION 2.01. Japan Local Currency Advances. (a)  This Addendum (as the same may be amended, waived, modified or restated from time to time) is the “Japan Local Currency Addendum” as defined in the Credit Agreement and is, together with the borrowings made hereunder, subject in all respects to the terms and provisions of the Credit Agreement except to the extent that the terms and provisions of the Credit Agreement are modified by or are inconsistent with this Addendum, in which case this Addendum shall control.
+(b)  Any modifications to the interest payment dates, Interest Periods, interest rates and any other special provisions applicable to Japan Local Currency Advances under this Addendum are set forth on Schedule II. If Schedule II states “None” or “Same as Credit Agreement” with respect to any item listed thereon, then the corresponding provisions of the Credit Agreement, without modification, shall govern this Addendum and the Japan Local Currency Advances made pursuant to this Addendum.
+(c)  Any special borrowing procedures or funding arrangements for Japan Local Currency Advances under this Addendum, any provisions for the issuance of promissory notes to evidence the Japan Local Currency Advances made hereunder and any additional information requirements applicable to Japan Local Currency Advances under this Addendum are set forth on Schedule III. If no such special procedures, funding arrangements, provisions or additional requirements are set forth on Schedule III, then the corresponding procedures, funding arrangements, provisions and information requirements set forth in the Credit Agreement shall govern this Addendum.
+SECTION 2.02. Maximum Borrowing Amounts. (a)  The Total Japan Local Currency Commitment, and the Japan Local Currency Commitment for each Japan Local Currency Bank party to this Addendum as of the date hereof, are set forth on Schedule I.
+(b)  Upon at least five (5) Business Days prior irrevocable written notice to the Agent, the Japan Local Currency Agent and the Japan Local Currency Banks, CFKK may from time to time permanently reduce the Total Japan Local Currency Commitment under this Addendum in whole, or in part ratably among the Japan Local Currency Banks, in an aggregate minimum Dollar Amount of $10,000,000, and integral multiples of $1,000,000 in excess thereof; provided, however, that the amount of the Total Japan Local Currency Commitment may not be reduced below the aggregate principal amount of the outstanding Japan Local Currency Advances with respect thereto. Any such reduction shall be allocated pro rata among all the Japan Local Currency Banks party to this Addendum by reference to their Japan Local Currency Commitments.
+ARTICLE III
+Representations and Warranties
+
+2
+
+
+Each of CFSC and CFKK makes and confirms each representation and warranty applicable to it or any of its Subsidiaries contained in Article IV of the Credit Agreement. Each of CFSC and CFKK represents and warrants to each of the Japan Local Currency Banks party to this Addendum that no Event of Default, or event which would constitute an Event of Default but for the requirement that notice be given or time elapse or both, has occurred and is continuing, and no Event of Default, or event which would constitute an Event of Default but for the requirement that notice be given or time elapse or both, shall arise as a result of the making of Japan Local Currency Advances hereunder or any other transaction contemplated hereby.
+ARTICLE IV
+Miscellaneous Provisions
+SECTION 4.01. Amendment; Termination. (a)  This Addendum (including the Schedules hereto) may not be amended without the prior written consent of the Majority Japan Local Currency Banks hereunder and subject to the provisions of Section 8.01 of the Credit Agreement.
+(b)  This Addendum may not be terminated without the prior written consent of each Japan Local Currency Bank party hereto, CFSC and CFKK unless there are no Japan Local Currency Advances or any other amounts outstanding hereunder, in which case no such consent of any Japan Local Currency Bank shall be required; provided, however, that this Addendum shall terminate on the date that the Credit Agreement terminates in accordance with its terms.
+SECTION 4.02. Assignments. Section 8.07 of the Credit Agreement shall apply to assignments by Japan Local Currency Banks of obligations, Japan Local Currency Commitments and Japan Local Currency Advances hereunder; provided, however, that a Japan Local Currency Bank may not assign any obligations, Japan Local Currency Commitments or rights hereunder to any Person which is not (or does not simultaneously become) a Bank under the Credit Agreement.
+SECTION 4.03. Notices, Etc. Except as otherwise provided herein, all notices, demands, requests, consents and other communications provided for hereunder shall be given in writing or by any telecommunication device capable of creating a written record (including electronic mail), and addressed to the party to be notified as follows:
+(a)    if to CFKK, at Caterpillar Finance Kabushiki Kaisha, SBS Tower 14F, 4-10-1 Yoga, Setagaya-ku, Tokyo 158-0097, Japan, Attention: Managing Director (Facsimile No. 813-5797-4522), with a copy to CFSC at its address and facsimile number or electronic mail address referenced in Section 8.02 of the Credit Agreement;
+(b)    if to CFSC, at its address and facsimile number or electronic mail address referenced in Section 8.02 of the Credit Agreement;
+(c)    if to the Japan Local Currency Agent, at MUFG Bank, Ltd., Osaka Corporate Banking Group, Osaka Corporate Banking Division No. 3, Corporate Banking Department No. 3, 3-5-6, Fushimimachi, Chuo-ku, Osaka-shi, Osaka 541-8530, Japan, Attention: Mr. Kazuki Takehara (Telecopy No.: 06-6206-9039 / 81-06-6206-9039) (Telephone No.:
+
+3
+
+
+06-6206-9036 / 81-06-6206-9036) with a copy to the Agent at its address and facsimile number or electronic mail address referenced in Section 8.02 of the Credit Agreement;
+(d)    if to a Japan Local Currency Bank, at its address (and facsimile number or electronic mail address) set forth in Schedule I or in the Assignment and Acceptance or Assumption and Acceptance pursuant to which such Japan Local Currency Bank became a party hereto;
+(e)    if to the Agent, at its address at Bank Loan Syndications, 1615 Brett Rd., Building No. 3, New Castle, Delaware 19720, Attention: Bank Loan Syndications, Telecopier No. 646-274-5080 (glagentofficeops@citi.com), with a copy to Citibank, N.A., 388 Greenwich Street, New York, New York, 10013, Attention: Lisa Stevens Harary (E-Mail Address: lisa.stevensharary@citi.com);
+or as to each party, at such other address as shall be designated by such party in a written notice to the other parties.
+All notices, demands, requests, consents and other communications described in this Section 4.03 shall be effective (i) if delivered by hand, including any overnight courier service, upon personal delivery, (ii) if delivered by mail, when deposited in the mails and (iii) if delivered by electronic mail or any other telecommunications device, when transmitted to an electronic mail address (or by another means of electronic delivery) as provided in this Section 4.03; provided, however, that notices and communications to the Japan Local Currency Agent pursuant to Article II or V hereof or Article II of the Credit Agreement shall not be effective until received by the Japan Local Currency Agent.
+SECTION 4.04. Ratification of Guaranty. By its execution of this Addendum, CFSC ratifies and confirms its guaranty contained in Article IX of the Credit Agreement with respect to the Japan Local Currency Advances made pursuant to this Addendum which Guaranty remains in full force and effect.
+SECTION 4.05. Sharing of Payments, Etc. If any Japan Local Currency Bank shall obtain any payment (whether voluntary, involuntary, through the exercise of any right of set-off, or otherwise) on account of the Japan Local Currency Advances made by it (other than pursuant to Section 2.02(c), 2.05(d), 2.10, 2.12 or 8.04 of the Credit Agreement) in excess of its ratable share of payments on account of the Japan Local Currency Advances obtained by all the Japan Local Currency Banks, such Japan Local Currency Bank shall forthwith purchase from the other Japan Local Currency Banks such participations in the Japan Local Currency Advances made by them as shall be necessary to cause such purchasing Japan Local Currency Bank to share the excess payment ratably with each of them, provided, however, that if all or any portion of such excess payment is thereafter recovered from such purchasing Japan Local Currency Bank, such purchase from each other Japan Local Currency Bank shall be rescinded and each such other Japan Local Currency Bank shall repay to the purchasing Japan Local Currency Bank the purchase price to the extent of such recovery together with an amount equal to such other Japan Local Currency Bank’s ratable share (according to the proportion of (i) the amount of such other Japan Local Currency Bank’s required repayment to (ii) the total amount so recovered from the purchasing Japan Local Currency
+
+4
+
+
+Bank) of any interest or other amount paid or payable by the purchasing Japan Local Currency Bank in respect of the total amount so recovered. CFKK agrees that any Japan Local Currency Bank so purchasing a participation from another Japan Local Currency Bank pursuant to this Section 4.05 may, to the fullest extent permitted by law, exercise all its rights of payment (including the right of set-off) with respect to such participation as fully as if such Japan Local Currency Bank were the direct creditor of CFKK in the amount of such participation.
+SECTION 4.06. Applicable Law. THIS ADDENDUM SHALL BE GOVERNED BY AND INTERPRETED AND ENFORCED IN ACCORDANCE WITH THE LAW OF THE STATE OF NEW YORK (WITHOUT REGARD FOR CONFLICT OF LAW PRINCIPLES THAT WOULD RESULT IN THE APPLICATION OF ANY LAW OTHER THAN THE INTERNAL LAW OF THE STATE OF NEW YORK).
+SECTION 4.07 Execution in Counterparts. This Addendum may be executed in any number of counterparts and by different parties hereto in separate counterparts, each of which when so executed shall be deemed to be an original and all of which taken together shall constitute one and the same agreement.
+ARTICLE V
+The Japan Local Currency Agent
+SECTION 5.01 Appointment; Nature of Relationship. MUFG Bank, Ltd. is appointed by the Japan Local Currency Banks as the Japan Local Currency Agent hereunder and under the Credit Agreement, and each of the Japan Local Currency Banks irrevocably authorizes the Japan Local Currency Agent to act as the contractual representative of such Japan Local Currency Bank with the rights and duties expressly set forth herein and in the Credit Agreement applicable to the Japan Local Currency Agent. The Japan Local Currency Agent agrees to act as such contractual representative upon the express conditions contained in this Article V. Notwithstanding the use of the defined term “Japan Local Currency Agent,” it is expressly understood and agreed that the Japan Local Currency Agent shall not have any fiduciary responsibilities to any Japan Local Currency Bank or other Bank by reason of this Addendum and that the Japan Local Currency Agent is merely acting as the representative of the Japan Local Currency Banks with only those duties as are expressly set forth in this Addendum and the Credit Agreement. In its capacity as the Japan Local Currency Banks’ contractual representative, the Japan Local Currency Agent (i) does not assume any fiduciary duties to any of the Banks, (ii) is a “representative” of the Japan Local Currency Banks within the meaning of Section 9-102 of the Uniform Commercial Code and (iii) is acting as an independent contractor, the rights and duties of which are limited to those expressly set forth in this Addendum and the Credit Agreement. Each of the Japan Local Currency Banks agrees to assert no claim against the Japan Local Currency Agent on any agency theory or any other theory of liability for breach of fiduciary duty, all of which claims each Bank waives.
+SECTION 5.02 Powers. The Japan Local Currency Agent shall have and may exercise such powers under this Addendum and the Credit Agreement as are specifically delegated to the Japan Local Currency Agent by the terms of each thereof, together with such powers as are reasonably incidental thereto. The Japan Local Currency Agent shall have neither any implied
+
+5
+
+
+duties or fiduciary duties to the Japan Local Currency Banks or the Banks, nor any obligation to the Japan Local Currency Banks or the Banks to take any action hereunder or under the Credit Agreement except any action specifically provided by this Addendum or the Credit Agreement required to be taken by the Japan Local Currency Agent.
+SECTION 5.03 General Immunity. Neither the Japan Local Currency Agent nor any of its respective directors, officers, agents or employees shall be liable to any of the Borrowers or any Bank for any action taken or omitted to be taken by it or them hereunder or under the Credit Agreement or in connection herewith or therewith except to the extent such action or inaction is found in a final non-appealable judgment by a court of competent jurisdiction to have arisen from the gross negligence or willful misconduct of such Person.
+SECTION 5.04 No Responsibility for Advances, Creditworthiness, Collateral, Recitals, Etc. [Intentionally Omitted. See Sections 7.03 and 7.04 of the Credit Agreement for these provisions.]
+SECTION 5.05 Action on Instructions of Japan Local Currency Banks. The Japan Local Currency Agent shall in all cases be fully protected in acting, or in refraining from acting, hereunder and under the Credit Agreement in accordance with written instructions signed by Majority Japan Local Currency Banks (except with respect to actions that require the consent of all of the Banks as provided in the Credit Agreement, including, without limitation, Section 8.01 thereof), and such instructions and any action taken or failure to act pursuant thereto shall be binding on all of the Japan Local Currency Banks. The Japan Local Currency Agent shall be fully justified in failing or refusing to take any action hereunder and under the Credit Agreement unless it shall first be indemnified to its satisfaction by the Japan Local Currency Banks pro rata against any and all liability, cost and expense that it may incur by reason of taking or continuing to take any such action.
+SECTION 5.06 Employment of Agents and Counsel. The Japan Local Currency Agent may execute any of its duties hereunder and under the Credit Agreement by or through employees, agents, and attorneys-in-fact, and shall not be answerable to the Banks or the Japan Local Currency Banks, except as to money or securities received by it or its authorized agents, for the default or misconduct of any such agents or attorneys-in-fact selected by it with reasonable care. The Japan Local Currency Agent shall be entitled to advice of counsel concerning the contractual arrangement among the Japan Local Currency Agent and the Japan Local Currency Banks, as the case may be, and all matters pertaining to its duties hereunder and under the Credit Agreement.
+SECTION 5.07 Reliance on Documents; Counsel. [Intentionally Omitted. See Section 7.03 of the Credit Agreement for these provisions.]
+SECTION 5.08 Other Transactions. The Japan Local Currency Agent may accept deposits from, lend money to, and generally engage in any kind of trust, debt, equity or other transaction, in addition to those contemplated by this Addendum or the Credit Agreement, with CFSC, CFKK or any of their respective Subsidiaries in which the Japan Local Currency Agent is not prohibited hereby from engaging with any other Person.
+
+6
+
+
+SECTION 5.09 Bank Credit Decision. [Intentionally Omitted. See Section 7.07 of the Credit Agreement for these provisions.]
+SECTION 5.10 Successor Japan Local Currency Agent. The Japan Local Currency Agent (i) may resign at any time by giving written notice thereof to the Agent, the Japan Local Currency Banks and the Borrowers, and may appoint one of its Affiliates as successor Japan Local Currency Agent and (ii) may be removed at any time with or without cause by the Majority Japan Local Currency Banks. Upon any such resignation or removal, the Majority Japan Local Currency Banks, with the consent of the Agent, shall have the right to appoint (unless, in the case of the resignation of the Japan Local Currency Agent, the resigning Japan Local Currency Agent has appointed one of its Affiliates as successor Japan Local Currency Agent), on behalf of the Borrowers and the Japan Local Currency Banks, a successor Japan Local Currency Agent. If no successor Japan Local Currency Agent shall have been so appointed and shall have accepted such appointment within thirty days after the retiring Japan Local Currency Agent’s giving notice of resignation or the Majority Japan Local Currency Banks’ removal of the retiring Japan Local Currency Agent, then the retiring Japan Local Currency Agent may appoint, on behalf of the Borrowers and the Japan Local Currency Banks, a successor Japan Local Currency Agent, which need not be one of its Affiliates. Notwithstanding anything herein to the contrary, so long as no Event of Default, or event which would constitute an Event of Default but for the requirement that notice be given, time elapse or both, has occurred and is continuing, each such successor Japan Local Currency Agent shall be subject to written approval by CFSC and CFKK, which approval shall not be unreasonably withheld. Such successor Japan Local Currency Agent shall be a commercial bank having capital and retained earnings of at least $500,000,000. Upon the acceptance of any appointment as the Japan Local Currency Agent hereunder by a successor Japan Local Currency Agent, such successor Japan Local Currency Agent shall thereupon succeed to and become vested with all the rights, powers, privileges and duties of the retiring Japan Local Currency Agent, and the retiring Japan Local Currency Agent shall be discharged from its duties and obligations hereunder and under the Credit Agreement. After any retiring Japan Local Currency Agent’s resignation hereunder as Japan Local Currency Agent, the provisions of this Article V shall continue in effect for its benefit in respect of any actions taken or omitted to be taken by it while it was acting as the Japan Local Currency Agent hereunder and under the Credit Agreement.
+
+IN WITNESS WHEREOF, the parties hereto have caused this Addendum to be duly executed as a deed by their duly authorized officers, all as of the date and year first above written.
+CATERPILLAR FINANCE KABUSHIKI KAISHA
+
+
+By:___________________________
+Name:
+Title:
+
+
+CATERPILLAR FINANCIAL SERVICES CORPORATION
+
+
+By:___________________________
+Name:
+Title:
+CITIBANK, N.A., as the Agent
+
+
+
+By:___________________________
+Name:
+Title:
+MUFG BANK, LTD., as the Japan Local Currency Agent
+
+
+
+By:___________________________
+Name: Yoshikazu Shimauchi
+Title: Managing Director, Head of Osaka
+Corporate Banking Division No.3
+MUFG BANK, LTD., as the Japan Local Currency Bank
+
+
+
+By:___________________________
+Name: Yoshikazu Shimauchi
+Title: Managing Director, Head of Osaka
+Corporate Banking Division No.3
+
+SCHEDULE I
+to Japan Local Currency Addendum
+Japan Local Currency Banks
+Japan Local Currency Commitments
+Total Japan Local Currency Commitment
+Applicable Lending Office
+Japan Local Currency Bank Name
+Japan Local Currency Commitment
+MUFG Bank, Ltd.
+US $100,000,000
+
+Total Japan Local Currency Commitment:
+ 
+US $100,000,000
+
+
+Japan Local Currency Bank Name
+Applicable Japan Local Currency Lending Office
+MUFG Bank, Ltd.
+MUFG Bank, Ltd.,
+Osaka Corporate Banking Group
+Osaka Corporate Banking Division No. 3
+Corporate Banking Department No. 3
+3-5-6, Fushimimachi, Chuo-ku, Osaka-shi, Osaka 541-8530, Japan
+Attention: Mr. Kazuki Takehara
+(Telephone No.: 06-6206-9036 / 81-06-6206-9036)
+(Facsimile No.: 06-6206-9039 / 81-06-6206-9039)
+
+SCHEDULE II
+to Japan Local Currency Addendum
+MODIFICATIONS
+1.    Business Day Definition:
+“Business Day”: Same as Credit Agreement.
+2.    Interest Payment Dates: Same as Credit Agreement. (See Section 2.07 of Credit Agreement).
+3.
+Interest Periods: Same as Credit Agreement. (See definition of “Interest Period”, Section 1.01, and Section 2.07(d) of Credit Agreement).
+4.    Interest Rates:
+Each Japan Local Currency Advance that is a TIBO Rate Advance shall bear interest from and including the first day of the Interest Period applicable thereto to (but not including) the last day of such Interest Period at a rate per annum equal to the sum of (i) the TIBO Rate for such Japan Local Currency Advance for such Interest Period plus (ii) the Applicable Margin as in effect from time to time during such Interest Period; provided, however, after the occurrence and during the continuance of an Event of Default or an event that would constitute an Event of Default but for the requirement that notice be given or time elapse or both, the provisions of Section 2.07(d) of the Credit Agreement shall be applicable. Each Japan Local Currency Advance that is a Japan Base Rate Advance shall bear interest during any Interest Period at a per annum rate equal to the sum of (i) the Japan Base Rate plus (ii) the Applicable Margin in effect from time to time during such Interest Period. The terms of Section 2.07 and the other provisions of the Credit Agreement shall otherwise govern the accrual and payment of interest on Japan Local Currency Advances.
+5.    Other:
+Additional Conditions Precedent: None
+Current Termination Date for Addendum: The “Current Termination Date” under the Credit Agreement.
+Extended Termination Date for Addendum: The “Extended Termination Date” under the Credit Agreement.
+Term Loan Repayment Date: The “Term Loan Repayment Date” under the Credit Agreement.
+Prepayment Notices: CFKK shall be permitted to prepay a Japan Local Currency Advance subject to the provisions of Section 8.04(b) of the Credit Agreement, on any Business Day, provided, in the case of any prepayment, notice thereof is given to the Japan Local Currency Agent (with a copy to the Agent) not later than 10:00 a.m. (Tokyo time) at least three (3) Business Days prior to the date of such prepayment.
+
+SCHEDULE III
+to Japan Local Currency Addendum
+
+
+OTHER PROVISIONS
+1.    Borrowing Procedures:
+(a)    Notice of Japan Local Currency Borrowing shall be given by CFKK to the Japan Local Currency Agent (with a copy to the Agent) not later than 10:00 a.m. (Tokyo time) on the third Business Day prior to the date of the proposed Japan Local Currency Borrowing (or not later than 10:00 a.m. (Tokyo time) on the Business Day of the proposed Japan Local Currency Borrowing if such proposed Japan Local Currency Borrowing is requested on a same-day basis), and the Japan Local Currency Agent shall give each Japan Local Currency Bank prompt notice thereof in accordance with Section 4.03.
+(b)    Each Notice of Japan Local Currency Borrowing shall be addressed to the Japan Local Currency Agent at its address set forth in Section 4.03 and shall specify the bank account to which the Japan Local Currency Advances are to be made.
+2.    Funding Arrangements:
+Minimum amounts/increments for Japan Local Currency Borrowings, repayments and prepayments:
+Same as Credit Agreement.
+3.    Promissory Notes: None required.
+
+
+
+
+7

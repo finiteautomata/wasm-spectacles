@@ -1,0 +1,260 @@
+EX-10.1 2 exhibit101creditagreem.htm EXHIBIT 10.1
+
+Exhibit 10.1
+
+AMENDMENT NO. 5 TO CREDIT AGREEMENT
+This Amendment No. 5 to Credit Agreement, dated as of July 30, 2020 (this “Amendment”) is among MTS SYSTEMS CORPORATION, a Minnesota corporation (the “Company”), JPMORGAN CHASE BANK, N.A., as Administrative Agent (the “Administrative Agent”) and as Swingline Lender (the “Swingline Lender”), JPMORGAN CHASE BANK, N.A., U.S. BANK NATIONAL ASSOCIATION and WELLS FARGO BANK, NATIONAL ASSOCIATION, as Issuing Banks (collectively, the “Issuing Banks” and each, an “Issuing Bank”), and the Revolving Lenders party hereto. Capitalized terms not otherwise defined herein having the definitions provided therefor in the Credit Agreement referenced below.
+W I T N E S S E T H:
+WHEREAS, the Company, the Foreign Subsidiary Borrowers from time to time party thereto, the Lenders from time to time party thereto and the Administrative Agent are parties to that certain Credit Agreement, dated as of July 5, 2016 (as amended, restated, supplemented or otherwise modified from time to time prior to the date hereof, the “Credit Agreement”; the Credit Agreement, as amended by this Amendment, the “Amended Credit Agreement”);
+WHEREAS, the Company has requested that the Administrative Agent, the Swingline Lender, the Issuing Banks and the Required Revolving Lenders agree to certain amendments to the Credit Agreement; and
+WHEREAS, the Administrative Agent, the Swingline Lender, the Issuing Banks and the Revolving Lenders party hereto have agreed to so amend the Credit Agreement upon the terms and subject to the conditions set forth herein.
+NOW, THEREFORE, in consideration of the mutual agreements, provisions and covenants contained herein, the parties hereto agree as follows:
+1.Amendments to the Credit Agreement. Effective as of the date of satisfaction of the conditions precedent set forth in Section 2 below (such date, the “Amendment No. 5 Effective Date”), the parties hereto agree that the Credit Agreement is hereby amended as follows:
+(a)Section 1.01 of the Credit Agreement is amended to insert, in the appropriate alphabetical location, the following new definitions:
+““Amendment No. 5 Effective Date” means July 30, 2020.”
+““Consolidated Cash Balance” means, at any time, (a) the aggregate amount of cash and cash equivalents, marketable securities, treasury bonds and bills, certificates of deposit, investments in money market funds, and commercial paper, in each case, held or owned by (either directly or indirectly), credited to the account of or would otherwise be required to be reflected as an asset on the balance sheet of the Company and its Subsidiaries less (b) Excluded Cash.”
+““Excluded Cash” means (a) any restricted cash or cash equivalents to pay royalty obligations, working interest obligations, suspense payments, severance taxes, payroll, payroll taxes, other taxes, employee wage and benefit payments and trust and fiduciary obligations or other obligations of the Company and its Subsidiaries to third parties and for which the Company and its Subsidiaries have issued checks or has initiated wires or ACH transfers (or, in the Company’s discretion, will issue checks or initiate wires or ACH transfers within five (5) Business Days) in order to pay, and (b) any cash or cash equivalents constituting purchase price deposits held in escrow by an unaffiliated third party pursuant to a binding and enforceable purchase and sale agreement with an unaffiliated third party containing customary provisions regarding the payment and refunding of such deposits.”
+
+
+
+(b)The definition of “Adjusted LIBO Rate” appearing in Section 1.01 of the Credit Agreement is hereby amended to delete the phrase “, when used in reference to the Tranche B Term Loans,” appearing therein.
+(c)Clause (b) of the definition of “Applicable Rate” appearing in Section 1.01 of the Credit Agreement is hereby amended and restated in its entirety to read as follows:
+“(b)    with respect to any Eurocurrency Revolving Loan, any ABR Revolving Loan or with respect to the commitment fees or commissions on outstanding performance and commercial Letters of Credit payable hereunder on any date, as the case may be, the applicable rate per annum set forth below under the caption “Commitment Fee Rate”, “Eurocurrency Spread for Revolving Loans”, “ABR Spread for Revolving Loans” or “Performance and Commercial L/C Rate”, as the case may be, based upon the Total Leverage Ratio applicable on such date:
+  Total Leverage Ratio
+Commitment Fee Rate
+Eurocurrency
+Spread for
+Revolving
+Loans
+ABR
+Spread for
+Revolving
+Loans
+Performance and
+Commercial L/C
+Rate
+Category 1:
+< 2.50 to 1.00
+0.20%
+2.00%
+1.00%
+1.00%
+Category 2:
+> 2.50 to 1.00 but
+< 3.00 to 1.00
+0.25%
+2.25%
+1.25%
+1.125%
+Category 3:
+ 3.00 to 1.00 but
+< 3.50 to 1.00
+0.30%
+ 2.50%
+1.50%
+1.25%
+Category 4:
+ 3.50 to 1.00 but
+< 4.25 to 1.00
+0.35%
+2.75%
+1.75%
+1.375%
+Category 5:
+ 4.25 to 1.00
+0.45%
+3.25%
+2.25%
+1.50%
+
+For purposes of the foregoing,
+(i) if at any time the Company fails to deliver the Financials on or before the date the Financials are due pursuant to Section 5.01, Category 5 shall be deemed applicable for the period commencing three (3) Business Days after the required date of delivery and ending on the date which is three (3) Business Days after the Financials are actually delivered, after which the Category shall be determined in accordance with the table above as applicable;
+(ii) adjustments, if any, to the Category then in effect shall be effective three (3) Business Days after the Administrative Agent has received the applicable Financials (it being understood and agreed that each change in Category shall apply during the period commencing on the effective date of such change and ending on the date immediately preceding the effective date of the next such change); and
+(iii) notwithstanding the foregoing, Category 5 shall be deemed to be applicable from and after the Amendment No. 5 Effective Date until the Administrative Agent’s receipt of the applicable Financials for the Company’s first fiscal quarter ending after the Amendment No. 5 Effective Date and adjustments to the Category then in effect shall thereafter be effected in accordance with the preceding paragraphs.”
+(d)Section 4.02 of the Credit Agreement is hereby amended to:
+(i)
+insert the following new paragraph (c) immediately after paragraph (b) thereof:
+“(c)    The Consolidated Cash Balance on and as of the date of such Borrowing does not exceed $125,000,000, before and after giving effect to such Borrowing and to the application of the proceeds therefrom on or around such date, but in any event, not to exceed two Business Days after such date; provided that this paragraph (c) shall not apply to any Term Loan Borrowing.”
+and
+
+2
+
+
+(ii)
+replace the phrase “the matters specified in paragraphs (a) and (b) of this Section” appearing therein with the phrase “the matters specified in paragraphs (a), (b) and, if applicable, (c) of this Section”.
+(e)Section 6.12(a) of the Credit Agreement is hereby amended and restated in its entirety to read as follows:
+“(a) Maximum Total Leverage Ratio. Except with the written consent of the Required Revolving Lenders, the Company will not permit the ratio (the “Total Leverage Ratio”), determined as of the end of each of its fiscal quarters ending on and after the Amendment No. 4 Effective Date, of (i) Consolidated Total Indebtedness to (ii) Consolidated EBITDA for the period of four (4) consecutive fiscal quarters ending with the end of such fiscal quarter, all calculated for the Company and its Subsidiaries on a consolidated basis, to be greater than the ratio set forth below opposite the day or the period in which such fiscal quarter ends:
+Day or Period
+Ratio
+Amendment No. 4 Effective Date through June 30, 2020
+5.00:1.00
+September 30, 2020 through December 31, 2020
+4.75:1.00
+March 31, 2021 through September 30, 2021
+4.25:1.00
+December 31, 2021 and thereafter
+3.75:1.00
+Notwithstanding the foregoing, so long as (x) none of the Company or any Subsidiary shall make any Restricted Payment from and after the Amendment No. 5 Effective Date through and including June 30, 2021 and (y) none of the Company or any Subsidiary shall make any Permitted Acquisition or other acquisition from and after the Amendment No. 5 Effective Date through and including December 31, 2021 (any such action described in the foregoing clauses (x) and (y), a “Specified Event”), the Company will not permit the Total Leverage Ratio, determined as of the end of each of its fiscal quarters ending on and after the Amendment No. 5 Effective Date, to be greater than the ratio set forth below opposite the day or the period in which such fiscal quarter ends (for the avoidance of doubt, subject at all times to the immediately succeeding proviso, in lieu of the ratios set forth in the table above):
+Day or Period
+Ratio
+September 30, 2020 through March 31, 2021
+6.00:1.00
+June 30, 2021
+5.75:1.00
+September 30, 2021 through December 31, 2021
+5.50:1.00
+March 31, 2022 through June 30, 2022
+4.75:1.00
+September 30, 2022
+4.25:1.00
+December 31, 2022 and thereafter
+3.75:1.00
+; provided that it is understood and agreed that, notwithstanding anything to the contrary contained in this Agreement or any other Loan Document, immediately upon the occurrence of any Specified Event following the Amendment No. 5 Effective Date, on and after the date of the occurrence of such Specified Event, the maximum Total Leverage Ratio permitted under this Section 6.12(a) shall be determined by the first table of ratios set forth in this Section 6.12(a) (and not, for the avoidance of doubt, the second table of ratios set forth in this Section 6.12(a) set forth immediately above this proviso, which second table of ratios shall be of no further force or effect).”
+
+3
+
+
+(f)Section 6.12(b) of the Credit Agreement is hereby amended to replace the grid set forth therein with the following:
+“Day or Period
+Ratio
+Amendment No. 4 Effective Date through March 31, 2021
+3.00:1.00
+June 30, 2021 through September 30, 2021
+3.25:1.00
+December 31, 2021 and thereafter
+3.50:1.00”
+
+2.Conditions Precedent. The effectiveness of this Amendment is subject to the conditions precedent that the Administrative Agent shall have received:
+
+(a)counterparts to (i) this Amendment, duly executed by each of the Company, the Administrative Agent, the Swingline Lender, each Issuing Bank and the Required Revolving Lenders and (ii) the Consent and Reaffirmation attached as Exhibit A hereto, duly executed by the Subsidiary Guarantors; and
+
+(b)payment and/or reimbursement of the Administrative Agent’s and its affiliates’ reasonable fees and documented out-of-pocket expenses (including, to the extent invoiced no less than two (2) Business Days prior to the Amendment No. 5 Effective Date (except as otherwise reasonably agreed by the Company), reasonable fees and out-of-pocket expenses of counsel for the Administrative Agent) in connection with this Amendment and any other Loan Documents.
+
+3.Representations and Warranties. To induce the Administrative Agent, the Swingline Lender, the Issuing Banks and the Revolving Lenders party hereto to enter into this Amendment, the Company hereby represents and warrants to the Administrative Agent, the Swingline Lender, the Issuing Banks and the Revolving Lenders party hereto, that:
+
+(a)This Amendment and the Credit Agreement as modified hereby constitute legal, valid and binding obligations of the Company, enforceable in accordance with their terms, subject to applicable bankruptcy, insolvency, reorganization, moratorium or other laws affecting creditors’ rights generally and subject to general principles of equity, regardless of whether considered in a proceeding in equity or at law; and
+
+(b)As of the date hereof and immediately after giving effect to the terms of this Amendment, (i) no Default has occurred and is continuing, and (ii) the representations and warranties of the Company set forth in the Credit Agreement are true and correct in all material respects (provided that any representation or warranty that is qualified by materiality, Material Adverse Effect or similar language is true and correct in all respects), except to the extent that such representations and warranties specifically refer to an earlier date, in which case they were true and correct in all material respects (provided that any representation or warranty that is qualified by materiality, Material Adverse Effect or similar language was true and correct in all respects) as of such earlier date.
+
+4.Reference to and Effect on the Credit Agreement.
+
+(a)Upon the effectiveness hereof, each reference in the Credit Agreement to “this Agreement,” “hereunder,” “hereof,” “herein,” or words of like import, and each reference in any other Loan Document to the Credit Agreement (including, without limitation, by means of words like “thereunder,” “thereof,” and words of like import), shall mean and be a reference to the Credit Agreement as amended hereby, and this Amendment and the Credit Agreement shall be read together and construed as a single instrument referred to herein as the Amended Credit Agreement.
+
+(b)Except as expressly amended hereby, the Credit Agreement and all other documents, instruments and agreements executed and/or delivered in connection therewith shall remain in full force and effect and are hereby reaffirmed, ratified and confirmed.
+
+
+4
+
+
+(c)The liens and security interests in favor of the Administrative Agent for the benefit of the Secured Parties securing payment of the Secured Obligations (and all filings with any Governmental Authority in connection therewith) are in all respects continuing and in full force and effect with respect to all Secured Obligations.
+(d)Except with respect to the subject matter hereof, the execution, delivery and effectiveness of this Amendment shall not operate as a waiver of any right, power or remedy of the Administrative Agent or the Lenders, nor constitute a waiver of any provision of the Credit Agreement or any other documents, instruments and agreements executed and/or delivered in connection therewith.
+
+(e)This Amendment is a Loan Document under (and as defined in) the Credit Agreement.
+
+5.Miscellaneous.
+
+(a)Governing Law. This Amendment shall be construed in accordance with and governed by the law of the State of New York.
+
+(b)Headings. Section headings used herein are for convenience of reference only, are not part of this Amendment and shall not affect the construction of, or be taken into consideration in interpreting, this Amendment.
+
+(c)Counterparts. This Amendment may be executed in counterparts (and by different parties hereto on different counterparts), each of which shall constitute an original, but all of which when taken together shall constitute a single contract. The words “execution,” “signed,” “signature,” “delivery,” and words of like import in or relating to this Amendment and/or any document to be signed in connection with this Amendment and the transactions contemplated hereby shall be deemed to include Electronic Signatures (as defined below), deliveries or the keeping of records in electronic form, each of which shall be of the same legal effect, validity or enforceability as a manually executed signature, physical delivery thereof or the use of a paper-based recordkeeping system, as the case may be. As used herein, “Electronic Signatures” means any electronic symbol or process attached to, or associated with, any contract or other record and adopted by a person with the intent to sign, authenticate or accept such contract or record.
+
+[Remainder of Page Intentionally Left Blank]
+
+
+5
+
+
+
+IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be duly executed by their respective authorized officers as of the day and year first above written.
+
+
+
+MTS SYSTEMS CORPORATION, as the Company
+
+By:
+/s/ BRIAN ROSS
+Name: Brian Ross
+Title: Chief Financial Officer
+
+Signature Page to Amendment No. 5 to Credit Agreement
+
+
+
+
+JPMORGAN CHASE BANK, N.A., individually as a Revolving Lender, as Swingline Lender, as an Issuing Bank and as Administrative Agent
+
+By:
+/s/ KRYS SZREMSKI
+Name: Krys Szremski
+Title: Executive Director
+
+Signature Page to Amendment No. 5 to Credit Agreement
+
+
+
+BANK OF AMERICA, N.A., individually as a Revolving Lender
+By:
+/s/ CHAD KARDASH
+Name: Chad Kardash
+Title: Vice President
+
+Signature Page to Amendment No. 5 to Credit Agreement
+
+
+
+WELLS FARGO BANK, NATIONAL ASSOCIATION,
+as a Revolving Lender and as an Issuing Bank
+
+By:
+/s/ SHARLYN REKENTHALER
+Name: Sharlyn Rekenthaler
+Title: Senior Vice President
+
+Signature Page to Amendment No. 5 to Credit Agreement
+
+
+U.S. BANK NATIONAL ASSOCIATION, individually as a Revolving Lender and as an Issuing Bank
+
+By:
+/s/ TYRONE PARKER
+Name: Tyrone Parker
+Title: Vice President
+
+Signature Page to Amendment No. 5 to Credit Agreement
+
+
+HSBC BANK USA, NATIONAL ASSOCIATION , as a
+Revolving Lender
+
+By:
+/s/ SHAUN KLEINMAN
+Name: Shaun Kleinman
+Title: Senior Vice President
+
+Signature Page to Amendment No. 5 to Credit Agreement
+
+
+EXHIBIT A
+Consent and Reaffirmation
+The undersigned hereby acknowledges receipt of a copy of the foregoing Amendment No. 5 to Credit Agreement with respect to that certain Credit Agreement, dated as of July 5, 2016 (as amended, restated, supplemented or otherwise modified from time to time, the “Credit Agreement”), by and among MTS Systems Corporation, a Minnesota corporation (the “Borrower”), the Foreign Subsidiary Borrowers from time to time party thereto, the Lenders from time to time party thereto and JPMorgan Chase Bank, N.A., as Administrative Agent (the “Administrative Agent”), which Amendment No. 5 is dated as of July 30, 2020 (the “Amendment”) and is by and among the Borrower, the Revolving Lenders party thereto and the Administrative Agent. Capitalized terms used in this Consent and Reaffirmation and not defined herein shall have the meanings given to them in the Credit Agreement.
+Without in any way establishing a course of dealing by the Administrative Agent or any Lender, the undersigned consents to the Amendment and reaffirms the terms and conditions of the Subsidiary Guaranty and any other Loan Document executed by it and acknowledges and agrees that the Subsidiary Guaranty and each and every such Loan Document executed by the undersigned in connection with the Credit Agreement remains in full force and effect and is hereby reaffirmed, ratified and confirmed. All references to the Credit Agreement contained in the above‑referenced documents shall be a reference to the Credit Agreement as so modified by the Amendment and as the same may from time to time hereafter be amended, modified or restated.
+
+Dated July 30, 2020
+
+[Signature Page Follows]
+
+
+
+
+IN WITNESS WHEREOF, this Consent and Reaffirmation has been duly executed as of the day and year above written.
+
+
+PCB PIEZOTRONICS, INC.
+By:
+/s/ DAVID HORE
+Name: David Hore
+Title: President
+
+
+Signature Page to Consent and Reaffirmation

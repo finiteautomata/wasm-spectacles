@@ -1,0 +1,391 @@
+EX-10.1 2 shlm-20171010xex101.htm EXHIBIT 10.1
+
+
+Exhibit 10.1
+
+
+AMENDMENT No. 1, dated as of October 10, 2017 (this “Amendment”), to the Credit Agreement dated as of June 1, 2015, among A. schulman, inc., a Delaware corporation (the “Company”), A. SCHULMAN HOLDINGS S.A.R.L, a private limited liability company (société à responsabilité limitée) organized and existing under the laws of Luxembourg, the other FOREIGN BORROWERS (as defined therein) from time to time party thereto, the several banks and other financial institutions or entities from time to time party thereto (the “Lenders”), J.P. MORGAN EUROPE LIMITED, as a Global Agent, and JPMORGAN CHASE BANK, N.A., as Administrative Agent and Collateral Agent (the “Administrative Agent”) (as amended, restated, amended and restated, modified and supplemented from time to time, the “Credit Agreement”); capitalized terms used and not otherwise defined herein shall have the meanings assigned to such terms in the Credit Agreement.
+WHEREAS, the Company desires to amend the Credit Agreement on the terms set forth herein;
+WHEREAS, Section 10.02(b) of the Credit Agreement provides that the Borrowers and the Required Financial Covenant Lenders may amend the Credit Agreement and the other Loan Documents for certain purposes;
+NOW, THEREFORE, in consideration of the premises contained herein and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto, intending to be legally bound hereby, agree as follows:
+Section 1.Amendment. The Credit Agreement is, effective as of the Amendment No. 1 Effective Date (as defined below), hereby amended as follows:
+Section 6.09(a) is hereby deleted in its entirety and replaced with the following:
+“(a)    For so long as any Initial Term A Loans or Revolving Credit Commitments remain outstanding, with respect to the Initial Term A Loans and the Revolving Facility only, permit the Total Net Leverage Ratio as of the last day of any fiscal quarter (beginning with the end of the first full fiscal quarter after the Effective Date) to exceed the ratio set forth opposite such period below:
+Fiscal Quarter Ended
+Maximum Total Net Leverage Ratio
+On or before August 31, 2016
+5.25 to 1.00
+November 30, 2016; February 28, 2017; May 31, 2017; and August 31, 2017
+4.75 to 1.00
+November 30, 2017 and February 28, 2018
+5.00 to 1.00
+May 31, 2018; August 31, 2018
+4.75 to 1.00
+November 30, 2018; February 28, 2019; May 31, 2019 and August 31, 2019
+4.50 to 1.00
+On and after November 30, 2019
+4.00 to 1.00
+
+Section 2.Representations and Warranties, No Default. In order to induce the Required Financial Covenant Lenders to enter into this Amendment and to amend the Credit
+
+
+
+
+Agreement in the manner provided herein, the Borrowers represent and warrant to each Required Financial Covenant Lender that:
+
+(i)After giving effect to this Amendment, the representations and warranties of the Borrowers and each other Loan Party contained in Article III of the Credit Agreement or any other Loan Document, or which are contained in any document furnished at any time under or in connection herewith or therewith, shall be true and correct in all material respects (except that any representation and warranty that is qualified as to “materiality” or “Material Adverse Effect” shall be true and correct in all respects), except to the extent that such representations and warranties specifically refer to an earlier date, in which case they shall be true and correct in all material respects (except that any representation and warranty that is qualified as to “materiality” or “Material Adverse Effect” shall be true and correct in all respects) as of such earlier date, and except that the representations and warranties contained in Section 3.04(a) of the Credit Agreement shall be deemed to refer to the most recent statements furnished pursuant to Sections 5.01(a) and (b) of the Credit Agreement; and
+
+(ii)At the time of and immediately after giving effect to this Amendment, no Default exists.
+
+Section 3.Effectiveness. Section 1 of this Amendment shall become effective on the date (such date, if any, the “Amendment No. 1 Effective Date”) that the following conditions have been satisfied:
+
+(i)Consents. The Administrative Agent shall have received executed signature pages hereto from Lenders constituting the Required Financial Covenant Lenders and the Borrowers;
+
+(ii)Officer’s Certificate. The Administrative Agent shall have received a certificate of a Responsible Officer of each Borrower certifying that (a) No Default shall exist, or would result from this Amendment and (b) the representations and warranties of each Borrower and each other Loan Party contained in Article III of the Credit Agreement or any other Loan Document, or which are contained in any document furnished at any time under or in connection therewith, are true and correct in all material respects (except that any representation and warranty that is qualified as to “materiality” or “Material Adverse Effect” shall be true and correct in all respects) on and as of the Amendment No. 1 Effective Date, except to the extent that such representations and warranties specifically refer to an earlier date, in which case they shall be true and correct in all material respects (except that any representation and warranty that is qualified as to “materiality” or “Material Adverse Effect” shall be true and correct in all respects) as of such earlier date; and
+
+(iii)Fees and Expenses. The Administrative Agent shall have received from the Borrowers, (a) for the account of each Required Financial Covenant Lender that shall have executed and delivered a counterpart of this Amendment by 5:00 p.m., New York City time, on Friday, October 6, 2017 (each such Required Financial Covenant Lender, a “Consenting Required Financial Covenant Lender”), a consent fee equal to the sum of (x) 0.05% of the aggregate principal amount of Revolving Credit Commitments held by such Consenting Required Financial Covenant Lender as of the Amendment No. 1 Effective Date plus (y) 0.05% of the aggregate principal amount of Initial Term A Loans held by such Consenting Required Financial Covenant Lender as of the Amendment No. 1 Effective Date and (b) all expenses required to be paid pursuant to Section 10.03(a) of the Credit Agreement through the Amendment No. 1 Effective Date, including, without limitation, expenses incurred in connection with the Credit Agreement
+
+
+
+
+unrelated to this Amendment and not previously paid. The foregoing fees shall be payable in immediately available funds and shall not be refundable.
+
+Section 4.Counterparts. This Amendment may be executed in counterparts (and by different parties hereto in different counterparts), each of which shall constitute an original, but all of which when taken together shall constitute a single contract. Delivery of an executed counterpart of a signature page to this Amendment by telecopier or other electronic transmission shall be effective as delivery of a manually executed counterpart of this Amendment.
+
+Section 5.Applicable Law. THIS AMENDMENT AND THE RIGHTS AND OBLIGATIONS OF THE PARTIES UNDER THIS AMENDMENT SHALL BE GOVERNED BY, AND CONSTRUED AND INTERPRETED IN ACCORDANCE WITH, THE LAW OF THE STATE OF NEW YORK WITHOUT REGARD TO CONFLICT OF LAW PRINCIPLES THAT WOULD RESULT IN THE APPLICATION OF ANY LAW OTHER THAN THE LAW OF THE STATE OF NEW YORK.
+
+Section 6.Headings. Section and Subsection headings in this Amendment are included herein for convenience of reference only and shall not constitute a part of this Amendment for any other purpose or be given any substantive effect
+
+Section 7.Effect of Amendment. Except as expressly set forth herein, (i) this Amendment shall not by implication or otherwise limit, impair, constitute a waiver of or otherwise affect the rights and remedies of the Lenders, the Administrative Agent or any other Agent, in each case under the Credit Agreement or any other Loan Document, and (ii) shall not alter, modify, amend or in any way affect any of the terms, conditions, obligations, covenants or agreements contained in the Credit Agreement or any other provision of either such agreement or any other Loan Document. Each and every term, condition, obligation, covenant and agreement contained in the Credit Agreement or any other Loan Document is hereby ratified and re-affirmed in all respects and shall continue in full force and effect. Each of the parties hereto agree that this Amendment shall not constitute a novation of the Credit Agreement. Each Loan Party reaffirms its obligations under the Loan Documents to which it is party and the validity of the Liens granted by it pursuant to the Security Documents. This Amendment shall constitute a Loan Document for purposes of the Credit Agreement and from and after the Amendment No. 1 Effective Date, all references to the Credit Agreement in any Loan Document and all references in the Credit Agreement to “this Agreement”, “hereunder”, “hereof” or words of like import referring to the Credit Agreement, shall, unless expressly provided otherwise, refer to the Credit Agreement as amended by this Amendment. Each of the Loan Parties hereby (i) consents to this Amendment, (ii) confirms that all obligations of such Loan Party under the Loan Documents to which such Loan Party is a party shall continue to apply to the Credit Agreement as amended hereby and (iii) agrees that all security interests granted by it pursuant to any Loan Document shall secure the Credit Agreement as amended by this Amendment.
+
+Section 8.Submission To Jurisdiction; Waivers. Each of the parties hereto hereby irrevocably and unconditionally agrees that Sections 10.09 and 10.10 of the Credit Agreement are incorporated herein mutatis mutandis.
+
+Section 9.Notice of Borrowers of Bail-in of EEA Financial Institutions.
+(i)For purposes of this Section 9, the following terms shall have the following meanings:
+
+
+
+
+
+“Bail-In Action” means the exercise of any Write-Down and Conversion Powers by the applicable EEA Resolution Authority in respect of any liability of an EEA Financial Institution.
+“Bail-In Legislation” means, with respect to any EEA Member Country implementing Article 55 of Directive 2014/59/EU of the European Parliament and of the Council of the European Union, the implementing law for such EEA Member Country from time to time which is described in the EU Bail-In Legislation Schedule.
+“EEA Financial Institution” means (a) any credit institution or investment firm established in any EEA Member Country which is subject to the supervision of an EEA Resolution Authority, (b) any entity established in an EEA Member Country which is a parent of an institution described in clause (a) of this definition, or (c) any financial institution established in an EEA Member Country which is a subsidiary of an institution described in clauses (a) or (b) of this definition and is subject to consolidated supervision with its parent.
+“EEA Member Country” means any of the member states of the European Union, Iceland, Liechtenstein, and Norway.
+“EEA Resolution Authority” means any public administrative authority or any person entrusted with public administrative authority of any EEA Member Country (including any delegee) having responsibility for the resolution of any EEA Financial Institution.
+“EU Bail-In Legislation Schedule” means the EU Bail-In Legislation Schedule published by the Loan Market Association (or any successor person), as in effect from time to time.
+“Write-Down and Conversion Powers” means, with respect to any EEA Resolution Authority, the write-down and conversion powers of such EEA Resolution Authority from time to time under the Bail-In Legislation for the applicable EEA Member Country, which write-down and conversion powers are described in the EU Bail-In Legislation Schedule.
+(ii)Notwithstanding anything to the contrary in any Loan Document or in any other agreement, arrangement or understanding among any such parties, the Required Financial Covenant Lenders hereby notify the Borrowers that any liability of any EEA Financial Institution arising under any Loan Document, to the extent such liability is unsecured, may be subject to the write-down and conversion powers of an EEA Resolution Authority, including:
+
+(a)the application of any Write-Down and Conversion Powers by an EEA Resolution Authority to any such liabilities arising hereunder which may be payable to it by any party hereto that is an EEA Financial Institution; and
+
+(b)the effects of any Bail-in Action on any such liability, including, if applicable:
+(1)a reduction in full or in part or cancellation of any such liability;
+
+(2)a conversion of all, or a portion of, such liability into shares or other instruments of ownership in such EEA Financial Institution, its parent undertaking, or a bridge institution that may be issued to it or otherwise conferred on it, and that such shares or other instruments of ownership will be accepted by it in lieu of any rights with respect to any such liability under this Amendment or any other Loan Document; or
+
+
+
+
+
+(3)the variation of the terms of such liability in connection with the exercise of the write-down and conversion powers of any EEA Resolution Authority.
+
+The Borrowers hereby acknowledge receipt of the foregoing notice.
+
+
+[The remainder of this page is intentionally left blank]
+
+
+
+
+
+
+
+IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be duly executed by their respective authorized officers as of the day and year first above written.
+
+A.
+SCHULMAN, INC., as a Borrower
+By: /s/ Timothy J. McDannold        
+Name: Timothy J. McDannold    
+Title: Vice President & Treasurer
+A.
+SCHULMAN HOLDINGS S.A.R.L, as a Borrower
+By: /s/ Timothy J. McDannold        
+Name: Timothy J. McDannold    
+Title: Vice President
+JPMORGAN CHASE BANK, N.A.,
+as Administrative Agent, Term Loan A Lender and Revolving Lender
+By: /s/ Tracy Martinov        
+Name: Tracy Martinov    
+Title: Authorized Signatory
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Amendment No. 1 to A. Schulman Credit Agreement]
+
+
+
+
+
+BANK OF AMERICA, N.A.,
+as a Revolving Lender and Term Loan A Lender
+By: /s/ Sara Just         
+Name: Sara Just
+Title: Vice President
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Amendment No. 1 to A. Schulman Credit Agreement]
+
+
+
+
+BANK OF MONTREAL,
+as a Revolving Lender and Term Loan A Lender
+By: /s/ Patrick Hartweger        
+Name: Patrick Hartweger
+Title: Managing Director
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Amendment No. 1 to A. Schulman Credit Agreement]
+
+
+
+
+CITIBANK, N.A,
+as a Revolving Lender and Term Loan A Lender
+By: /s/ Susan M. Kaminski         
+Name: Susan M. Kaminski
+Title: Senior Vice President
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Amendment No. 1 to A. Schulman Credit Agreement]
+
+
+
+
+CITIZENS BANK, N.A.,
+as a Revolving Lender and Term Loan A Lender
+By: /s/ Jonathan Gleit          
+Name: Jonathan Gleit
+Title: Senior Vice President
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Amendment No. 1 to A. Schulman Credit Agreement]
+
+
+
+
+COMMERZBANK AG, NEW YORK BRANCH
+as a Revolving Lender
+By: /s/ Marie Duflos         
+Name: Marie Duflos
+Title: Director
+
+By: /s/ Scott Webster         
+Name: Scott Webster
+Title: Director
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Amendment No. 1 to A. Schulman Credit Agreement]
+
+
+
+
+COMPASS BANK,
+as a Revolving Lender and Term Loan A Lender
+By: /s/ Michael Song        
+Name: Michael Song
+Title: Senior Vice President
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Amendment No. 1 to A. Schulman Credit Agreement]
+
+
+
+
+HSBC BANK USA, N.A.,
+as a Revolving Lender
+By: /s/ Richard Dalton        
+Name: Richard Dalton
+Title: Director
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Amendment No. 1 to A. Schulman Credit Agreement]
+
+
+
+
+THE HUNTINGTON NATIONAL BANK,
+as a Revolving Lender and Term Loan A Lender
+By: /s/ Phil Andreson        
+Name: Phil Andreson
+Title: Assistant Vice President
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Amendment No. 1 to A. Schulman Credit Agreement]
+
+
+
+
+PNC BANK, NATIONAL ASSOCIATION,
+as a Revolving Lender and Term Loan A Lender
+By: /s/ Lisa B. Lisi         
+Name: Lisa B. Lisi
+Title: Senior Vice President
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Amendment No. 1 to A. Schulman Credit Agreement]
+
+
+
+
+TRISTATE CAPITAL BANK,
+as a Revolving Lender and Term Loan A Lender
+By: /s/ Ellen Frank         
+Name: Ellen Frank
+Title: Senior Vice President
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Amendment No. 1 to A. Schulman Credit Agreement]

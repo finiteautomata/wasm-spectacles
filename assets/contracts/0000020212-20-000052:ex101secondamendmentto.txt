@@ -1,0 +1,152 @@
+EX-10.1 2 ex101secondamendmentto.htm EX-10.1
+
+SECOND AMENDMENT TO CREDIT AGREEMENT
+This SECOND AMENDMENT TO CREDIT AGREEMENT (this “Second Amendment”), dated as of April 28, 2020 and effective as of the Effective Date (as hereinafter defined), is made and entered into by and among CHURCHILL DOWNS INCORPORATED, a Kentucky corporation (“Borrower”), the other Credit Parties, each of the Lenders (as hereinafter defined) party hereto, and JPMORGAN CHASE BANK, N.A., as administrative agent under the Credit Agreement referred to below (in such capacity, “Administrative Agent”).
+RECITALS
+A.Borrower and the Lenders party hereto are parties to that certain Credit Agreement, dated as of December 27, 2017 (as amended by that certain First Amendment to Credit Agreement, dated as of March 16, 2020, and as further amended, amended and restated, supplemented or otherwise modified from time to time, the “Credit Agreement”) by and among Borrower, the subsidiaries of Borrower party thereto as guarantors, the banks, financial institutions and other entities from time to time party thereto as lenders (including the L/C Lenders and the Swingline Lender) (collectively, the “Lenders”), Administrative Agent and as collateral agent under the Credit Agreement (in such capacity, “Collateral Agent”).
+B.Borrower has requested that the Lenders party hereto agree to amend the Credit Agreement subject to, and in accordance with, the terms and conditions set forth herein.
+C.Borrower, the Lenders party hereto, constituting the Required Revolving Lenders and the Required Lenders, and the Administrative Agent, are willing to agree to enter into this Second Amendment, subject to the conditions and on the terms set forth below.
+AGREEMENT
+NOW, THEREFORE, for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, Borrower, each of the other Credit Parties and each of the Lenders party hereto agree as follows:
+1.Definitions. Except as otherwise expressly provided herein, capitalized terms used in this Second Amendment (including in the Recitals above) shall have the meanings given in the Credit Agreement, and the rules of construction set forth in the Credit Agreement shall apply to this Second Amendment.
+2.Amendments to Credit Agreement.
+(a)The following new definitions are hereby added to Section 1.01 of the Credit Agreement, inserted in proper alphabetical order:
+“Financial Covenant Relief Condition” shall mean that from and after the Second Amendment Effective Date Borrower has not, and shall not have permitted any Restricted Subsidiary to, directly or indirectly, declare or make any Restricted Payment at any time pursuant to Sections 10.06(i), (j), (k) or (o) except dividends in an aggregate amount not to exceed $26.0 million.
+“Financial Covenant Relief Period” shall mean the period commencing on the date on which Borrower delivers to the Administrative Agent the financial statements and compliance certificate required pursuant to Sections 9.04(a) and 9.04(c) for the fiscal quarter ended March 31, 2020 and ending on the earliest of (i) the date on which Borrower delivers to the Administrative Agent the financial statements and compliance certificate required pursuant to Sections 9.04(a) and 9.04(c) for the fiscal quarter ended June 30, 2021, (ii) the day upon which Borrower shall have notified the Administrative Agent in writing that it has elected to end the Financial Covenant Relief Period and (iii) the day upon which Borrower fails to satisfy the Financial Covenant Relief Condition.
+“Kentucky Derby Race Week” shall mean the week leading up to and ending with the horse race commonly known as the “Kentucky Derby” held at the Churchill Downs race track located in Louisville, Kentucky.
+“Liquidity” shall mean, on any date, the sum of (i) the aggregate amount of Unrestricted Cash (determined solely pursuant to clause (a) of the definition thereof) of Borrower and its Restricted Subsidiaries on such date plus (ii) the excess of the aggregate principal amount of Revolving
+
+
+Commitments in effect on such date over the aggregate Revolving Tranche Exposure of all Lenders on such date.
+“Second Amendment Effective Date” shall mean the “Effective Date” as defined in that certain Second Amendment to Credit Agreement, dated as of April 28, 2020, among Borrower, the other Credit Parties, Administrative Agent and the Lenders party thereto.
+(b)The definition of “Consolidated EBITDA” set forth in Section 1.01 of the Credit Agreement is hereby amended to add clauses (G) and (H) below:
+“(G) with respect to the first Test Period ending after expiration of the Financial Covenant Relief Period, Consolidated EBITDA for such Test Period shall be at Borrower’s election the greatest of (i) the Consolidated EBITDA for such Test Period, (ii) the Consolidated EBITDA for the two (2) most recently ended consecutive fiscal quarters multiplied by 2 and (iii) the Consolidated EBITDA for the three (3) most recently ended consecutive fiscal quarters multiplied by 4/3; provided that, notwithstanding the foregoing, in no case shall Consolidated EBITDA attributable to the Churchill Downs race track located in Louisville, Kentucky during the Kentucky Derby Race Week be subject to a multiplier utilized pursuant to clause (ii) or (iii) above; and
+(H) with respect to the second Test Period ending after expiration of the Financial Covenant Relief Period, Consolidated EBITDA for such Test Period shall be at Borrower’s election the greater of (i) the Consolidated EBITDA for such Test Period and (ii) the Consolidated EBITDA for the three (3) most recently ended consecutive fiscal quarters multiplied by 4/3; provided that, notwithstanding the foregoing, in no case shall Consolidated EBITDA attributable to the Churchill Downs race track located in Louisville, Kentucky during the Kentucky Derby Race Week be subject to a multiplier utilized pursuant to clause (ii) above.”
+(c)The definition of “License Revocation” set forth in Section 1.01 of the Credit Agreement is hereby replaced with the following definition:
+“License Revocation” shall mean the revocation, failure to renew or suspension of, or the appointment of a receiver, supervisor or similar official with respect to, any Gaming/Racing License covering any Gaming/Racing Facility owned, leased, operated or used by Borrower or any of its Restricted Subsidiaries, in each case other than any temporary revocation, failure to renew or suspension arising from or related to the novel coronavirus pandemic.
+(d)The definition of “Material Adverse Effect” set forth in Section 1.01 of the Credit Agreement is hereby replaced with the following definition:
+“Material Adverse Effect” shall mean (a) a material adverse effect on the business, assets, financial condition or results of operations of Borrower and its Restricted Subsidiaries, taken as a whole and after giving effect to the Transactions, (b) a material adverse effect on the ability of the Credit Parties to satisfy their material payment Obligations under the Credit Documents or (c) a material adverse effect on the legality, binding effect or enforceability against any material Credit Party to which it is a party or any of the material rights and remedies of any Secured Party thereunder or the legality, priority or enforceability of the Liens on a material portion of the Collateral; provided, that in the case of clauses (a) and (b) above, during the Financial Covenant Relief Period, the effects of the novel coronavirus pandemic or any matters arising therefrom shall not constitute, result or otherwise have (or reasonably be expected to constitute, result or otherwise have) a Material Adverse Effect.
+(e)Sections 9.04(a) and 9.04(b) of the Credit Agreement are hereby amended and replaced with the following:
+“(a) Quarterly Financials. As soon as available, but in any event within (1) during Financial Covenant Relief Period, the later of (A) forty-five (45) days after the end of each fiscal quarter of Borrower (other than the last fiscal quarter in any fiscal year) and (B) the date upon which Borrower is required to file its Form 10-Q under SEC rules then in effect and (2) after the
+
+
+Financial Covenant Relief Period, forty-five (45) days after the end of each fiscal quarter of Borrower (other than the last fiscal quarter in any fiscal year), (x) a consolidated balance sheet of Borrower and its Subsidiaries as at the end of such fiscal quarter, and the related (i) consolidated statements of income or operations for such fiscal quarter and for the portion of the fiscal year then ended and (ii) consolidated statements of cash flows for such fiscal quarter and the portion of the fiscal year then ended, setting forth in each case in comparative form the figures for the corresponding fiscal quarter of the previous fiscal year and the corresponding portion of the previous fiscal year, all in reasonable detail and certified by a Responsible Officer of Borrower as fairly presenting in all material respects the financial condition, results of operations and cash flows of Borrower and its Subsidiaries in accordance with GAAP, subject only to normal year-end audit adjustments and the absence of footnotes and (y) management’s discussion and analysis of the important operational and financial developments of Borrower and the Subsidiaries during such fiscal quarter;
+(b) Annual Financials. As soon as available, but in any event within (1) during Financial Covenant Relief Period, the later of (A) ninety (90) days after the end of each fiscal year of Borrower and (B) the date on which Borrower is required to file its Form 10-K under SEC rules then in effect and (2) after the Financial Covenant Relief Period, ninety (90) days after the end of each fiscal year of Borrower, (x) consolidated balance sheets of Borrower and its Subsidiaries as at the end of such fiscal year, and the related consolidated statements of income or operations, shareholders’ equity and cash flows for such fiscal year, setting forth in each case in comparative form the figures for the previous fiscal year and, in the case of each such consolidated financial statements, audited and accompanied by a report and opinion of either PricewaterhouseCoopers LLP or any other independent registered public accounting firm of nationally recognized standing, which report and opinion shall be prepared in accordance with generally accepted auditing standards and shall not be subject to any “going concern” or like qualification or exception or any qualification or exception as to the scope of such audit, other than resulting from (I) an upcoming maturity date within twelve (12) months under any Indebtedness, (II) any prospective or actual default of any financial covenant or event of default under Section 10.08 or any other financial covenant with respect to the credit facilities hereunder or any other Indebtedness or (III) solely for periods ending or otherwise containing periods during the Financial Covenant Relief Period, to the extent arising from, or related to the novel coronavirus pandemic, and (y) management’s discussion and analysis of the important operational and financial developments of Borrower and the Subsidiaries during such fiscal year;”
+(f)Section 10.08 of the Credit Agreement is hereby amended and replaced with the following:
+“SECTION 10.08. Financial Covenant. Without the consent of the Required Revolving Lenders:
+(a)Maximum Consolidated Total Secured Net Leverage Ratio. Borrower shall not permit the Consolidated Total Secured Net Leverage Ratio as of the last day of any fiscal quarter of Borrower commencing with the first complete fiscal quarter ending after the Closing Date to exceed 4.00 to 1.00; provided, that the Borrower shall be permitted upon written notice to the Administrative Agent at any time after the Closing Date, solely in connection with a Permitted Acquisition that involves the payment of aggregate consideration by the Borrower and its Subsidiaries in excess of $100,000,000 (a “Relevant Acquisition”), to increase such maximum Consolidated Total Secured Net Leverage Ratio to 4.50 to 1.00 for the next four consecutive fiscal quarters ending following the closing date of such Permitted Acquisition (and, solely for the purpose of testing pro forma compliance with this Section in connection with any such Relevant Acquisition pursuant to any definition, basket or other provision of this Agreement, for the applicable fiscal quarter preceding the closing date of the Relevant Acquisition (or, at the option of the Borrower, in the case of a Limited Condition Transaction, the applicable fiscal quarter preceding the date that definitive agreements for such Limited Condition Transaction are entered into)).
+(b)Minimum Interest Coverage Ratio. Borrower shall not permit the Interest Coverage Ratio as of the last day of any fiscal quarter of Borrower commencing with the first complete fiscal quarter ending after the Closing Date to be less than 2.50 to 1.00.
+
+
+(c)Minimum Liquidity. Borrower shall not permit Liquidity at any time during the Financial Covenant Relief Period to be less than $150,000,000; provided that if the Financial Covenant Relief Period is terminated pursuant to clause (ii) or (iii) of the definition thereof, Borrower shall not permit Liquidity to be less than $150,000,000 until the earlier of (x) the date on which Borrower delivers to the Administrative Agent the financial statements and compliance certificate required pursuant to Section 9.04(a) or (b), as applicable, and (c) for the Test Period during which such termination occurs and (y) the date set forth in clause (i) of the definition of Financial Covenant Relief Period. As soon as available and in any event within ten (10) Business Days following the last day of each calendar month occurring during the Financial Covenant Relief Period, Borrower shall furnish a certificate of a Responsible Officer setting forth in reasonable detail the computations necessary to determine whether Borrower and its Restricted Subsidiaries were in compliance with this Section 10.08(c) during each day of the Financial Covenant Relief Period during the calendar month to which the certificate relates.
+(d)Financial Covenant Relief Period. Notwithstanding anything to the contrary in this Agreement, during the Financial Covenant Relief Period, Borrower shall not be required to comply with the Financial Maintenance Covenants in Section 10.08(a) and 10.08(b).
+For the avoidance of doubt, only the consent of the Required Revolving Lenders shall be required to (and only the Required Revolving Lenders, shall have the ability to) amend, waive or modify the covenants set forth in this Section 10.08 (including any amendment or modification of any defined terms as used in this Section 10.08).”
+3.Representations and Warranties. To induce the Lenders party hereto to agree to this Second Amendment, Borrower and each of the other Credit Parties represent to the Lenders and Administrative Agent that as of the date hereof and as of the Effective Date (before and after giving effect to all of the transactions occurring on the Effective Date):
+(a)Borrower and each Restricted Subsidiary (i) is a corporation, partnership, limited liability company or other entity duly organized, validly existing and in good standing under the laws of the jurisdiction of its organization; (ii)(1) has all requisite corporate or other power and authority and (2) has all governmental licenses, authorizations, consents and approvals necessary to own its Property and carry on its business as now being conducted; and (iii) is qualified to do business and is in good standing in all jurisdictions in which the nature of the business conducted by it makes such qualification necessary; except, in the case of clauses (ii)(2) and (iii) where the failure thereof individually or in the aggregate would not reasonably be expected to have a Material Adverse Effect;
+(b)Borrower and each Restricted Subsidiary has all necessary corporate or other organizational power, authority and legal right to execute, deliver and perform its obligations under this Second Amendment and each other Credit Document to which it is a party and to consummate the transactions herein and therein contemplated; the execution, delivery and performance by Borrower and each Restricted Subsidiary of this Second Amendment and each other Credit Document to which it is a party and the consummation of the transactions herein and therein contemplated have been duly authorized by all necessary corporate, partnership or other organizational action on its part; and this Second Amendment has been duly and validly executed and delivered by each Credit Party and constitutes, and each of the other Credit Documents to which it is a party when executed and delivered by such Credit Party will constitute, its legal, valid and binding obligation, enforceable against each Credit Party, as applicable, in accordance with its terms, except as such enforceability may be limited by (a) bankruptcy, insolvency, fraudulent conveyance, reorganization, moratorium or similar laws of general applicability from time to time in effect affecting the enforcement of creditors’ rights and remedies and (b) the application of general principles of equity (regardless of whether such enforceability is considered in a proceeding in equity or at law);
+(c)none of the execution, delivery and performance by any Credit Party of this Second Amendment nor the consummation of the transactions herein contemplated do or will (i) conflict with or result in a breach of, or require any consent (which has not been obtained and is in full force and effect) under (x) any Organizational Document of any Credit Party or (y) any applicable Requirement of Law (including, without limitation, any Gaming/Racing Law) or (z) any order, writ, injunction or decree of any Governmental Authority binding on any Credit Party, or tortiously interfere with, result in a breach of, or require termination of, any term or provision of any Contractual Obligation of any Credit Party or (ii) constitute (with due notice or lapse of time or both) a default under any such Contractual Obligation or (iii) result in or require the creation or imposition of any Lien (except for the Liens created pursuant to the Security Documents) upon any Property of any Credit Party pursuant to the terms of
+
+
+any such Contractual Obligation, except with respect to (i)(y), (i)(z), (ii) or (iii) which would not reasonably be expected to result in a Material Adverse Effect; and
+(d)no Default or Event of Default has occurred and is continuing.
+4.Effectiveness of this Second Amendment. This Second Amendment shall be effective on the date (the “Effective Date”) on which all of the following conditions are satisfied or waived:
+(a)Borrower, the other Credit Parties, Administrative Agent and each Lender who has consented hereto (constituting collectively the Required Revolving Lenders and the Required Lenders) have delivered their fully executed signature pages hereto to Administrative Agent;
+(b)(i) no Default or Event of Default shall have occurred and be continuing, (ii) each of the representations and warranties contained in Section 3 of this Second Amendment shall be true and correct and (iii) Administrative Agent shall have received an Officer’s Certificate of Borrower, dated the Effective Date, certifying that the conditions set forth in this clause (b) have been satisfied;
+(c)On or prior to the Effective Date, Administrative Agent and each Lender party hereto shall have received at least three (3) Business Days prior to the Effective Date all documentation and other information reasonably requested in writing at least ten (10) Business Days prior to the Effective Date by Administrative Agent and such Lender, as applicable, that Administrative Agent and such Lender, as applicable, reasonably determine is required by regulatory authorities from the Credit Parties under applicable “know your customer” and anti-money laundering rules and regulations, including without limitation the Act;
+(d)No later than three (3) Business Days prior to the Effective Date, to the extent Borrower qualifies as a “legal entity customer” under the Beneficial Ownership Regulation and to the extent requested by Administrative Agent or any Lender at least ten (10) Business Days prior to the Effective Date, Administrative Agent and each such Lender, as applicable, shall have received a Beneficial Ownership Certification in relation to Borrower;
+(f)Borrower shall have paid to Administrative Agent, for the account of each Lender party hereto, a fee in an amount equal to the sum of (i) 0.05% of such Lender’s Revolving Commitments on the Effective Date plus (ii) 0.05% of such Lender’s Term B Facility Loans on the Effective Date; and
+(e)to the extent invoiced at least two (2) Business Days prior to the Effective Date (unless otherwise agreed by Borrower), all costs, fees and expenses (including, without limitation, reasonable legal fees and expenses of Cahill Gordon & Reindel LLP) of Administrative Agent and JPMorgan Chase Bank, N.A. in respect of the transactions contemplated herein, shall have been paid to the extent due.
+5.Acknowledgments.
+(a)Borrower and each other Credit Party acknowledges and agrees that, both before and after giving effect to this Second Amendment, Borrower and each other Credit Party is, jointly and severally, indebted to the Lenders and the other Secured Parties for the Obligations, without defense, counterclaim or offset of any kind. Borrower and each other Credit Party hereby ratifies and reaffirms the validity, enforceability and binding nature of such Obligations both before and after giving effect to this Second Amendment (except as the enforceability thereof may be limited by bankruptcy, insolvency or similar laws affecting creditors’ rights generally and subject to general principles of equity).
+(b)Borrower and each other Credit Party hereby ratifies and reaffirms its obligations under the Credit Documents to which it is a party and its prior grant and the validity and enforceability (except as the enforceability thereof may be limited by bankruptcy, insolvency or similar laws affecting creditors’ rights generally and subject to general principles of equity) of the Liens and security interests granted to Collateral Agent for the benefit of the Secured Parties to secure all of the Obligations by Borrower and each other Credit Party pursuant to the Credit Documents to which any of Borrower or such other Credit Party is a party and hereby confirms and agrees that, after giving effect to this Second Amendment, all such Liens and security interests are, and each such Credit Document is, and shall continue to be, in full force and effect and each is hereby ratified and confirmed in all respects.
+6.Miscellaneous.
+
+
+(a)THIS SECOND AMENDMENT AND ANY CLAIMS, CONTROVERSIES, DISPUTES, OR CAUSES OF ACTION (WHETHER ARISING UNDER CONTRACT LAW, TORT LAW OR OTHERWISE) BASED UPON OR RELATING TO THIS SECOND AMENDMENT SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAW OF THE STATE OF NEW YORK WITHOUT GIVING EFFECT TO ANY CHOICE OF LAW PRINCIPLES THAT WOULD APPLY THE LAW OF ANOTHER JURISDICTION.
+(b)EACH PARTY HERETO AGREES THAT SECTIONS 13.09(b), (c), (d) AND (e) OF THE CREDIT AGREEMENT SHALL APPLY TO THIS SECOND AMENDMENT MUTATIS MUTANDIS.
+(c)This Second Amendment may be executed in one or more duplicate counterparts and, subject to the other terms and conditions of this Second Amendment, when signed by all of the parties listed below shall constitute a single binding agreement. Delivery of an executed signature page to this Second Amendment by facsimile transmission or other electronic transmission (including portable document format (“.pdf”) or similar format) shall be as effective as delivery of a manually signed counterpart of this Second Amendment. This Second Amendment, the Credit Agreement and the other Credit Documents constitute the entire contract among the parties thereto relating to the subject matter hereof and supersede any and all previous agreements and understandings, oral or written, relating to the subject matter hereof.
+(d)Wherever possible, each provision of this Second Amendment shall be interpreted in such manner as to be effective and valid under applicable Law, but if any provision of this Second Amendment shall be prohibited by or invalid under applicable Law, such provision shall be ineffective only to the extent of such prohibition or invalidity, without invalidating the remainder of such provisions or the remaining provisions of this Second Amendment.
+(e)Except as amended hereby, all of the provisions of the Credit Agreement and the other Credit Documents shall remain in full force and effect except that each reference to the “Credit Agreement”, or words of like import in any Credit Document, shall mean and be a reference to the Credit Agreement as amended hereby. This Second Amendment shall be deemed a “Credit Document” as defined in the Credit Agreement.
+(f)This Second Amendment shall not extinguish the obligations for the payment of money outstanding under the Credit Agreement or discharge or release the priority of any Credit Document (or any other security therefor). Nothing herein contained shall be construed as a substitution or novation of the obligations outstanding under the Credit Agreement, any of the other Credit Documents or the instruments, documents and agreements securing the same, which shall remain in full force and effect. Nothing in this Second Amendment shall be construed as a release or other discharge of Borrower or any other Credit Party from any of its obligations and liabilities under the Credit Agreement or the other Credit Documents.
+
+[REMAINDER OF PAGE INTENTIONALLY LEFT BLANK]
+
+
+IN WITNESS WHEREOF, the parties have caused this Second Amendment to be duly executed as of the day and year first above written, to be effective as of the Effective Date.
+
+Borrower:
+CHURCHILL DOWNS INCORPORATED
+By: /s/ Marcia. A. Dall
+Name: Marcia A. Dall
+Title: Executive Vice President and Chief Financial Officer
+
+
+ARLINGTON PARK RACECOURSE, LLC
+BB DEVELOPMENT LLC
+CALDER RACE COURSE, INC.
+CHURCHILL DOWNS INTERACTIVE GAMING, LLC
+CHURCHILL DOWNS MANAGEMENT COMPANY, LLC
+CHURCHILL DOWNS RACETRACK, LLC
+CHURCHILL DOWNS TECHNOLOGY INITIATIVES COMPANY
+DERBY CITY GAMING, LLC
+HCRH, LLC
+LLN PA, LLC
+MAGNOLIA HILL, LLC
+MVGR, LLC
+PID, LLC
+SW GAMING LLC
+TROPICAL PARK, LLC
+YOUBET.COM, LLC
+
+
+By: /s/ Marcia. A. Dall
+Name: Marcia A. Dall
+Title: Treasurer
+
+
+ARLINGTON OTB CORP.
+CHURCHILL DOWNS LOUISIANA VIDEO POKER COMPANY, L.L.C.
+CHURCHILL DOWNS LOUISIANA HORSERACING COMPANY, L.L.C.
+VIDEO SERVICES, L.L.C.
+
+
+By: /s/ Michael W. Anderson  
+Name: Michael W. Anderson
+Title: Secretary
+
+
+UNITED TOTE COMPANY
+
+
+By: /s/ Benjamin C Murr  
+Name: Benjamin C. Murr
+Title: Treasurer
+
+
+QUAD CITY DOWNS, INC.
+
+
+By: /s/ Bradley K. Blackwell  
+Name: Bradley K. Blackwell
+Title: Secretary
+
+
+OCEAN DOWNS LLC
+OCEAN ENTERPRISE 589 LLC
+OLD BAY GAMING AND RACING, LLC
+RACING SERVICES LLC
+
+
+By: /s/ Bobbi Sample   
+Name: Bobbi Sample
+Title: General Manager
+
+
+JPMORGAN CHASE BANK, N.A., as Administrative Agent and a Lender
+
+By: /s/ Karen Watson   
+Name: Karen Watson   
+Title: Authorized Signer   
+
+
+[Lender signature pages on file with the Administrative Agent]

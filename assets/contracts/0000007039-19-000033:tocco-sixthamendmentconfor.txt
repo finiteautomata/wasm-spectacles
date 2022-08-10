@@ -1,0 +1,205 @@
+EX-10.1 2 tocco-sixthamendmentconfor.htm EXHIBIT 10.1
+
+
+SIXTH AMENDMENT TO AMENDED AND RESTATED CREDIT AGREEMENT
+
+THIS SIXTH AMENDMENT TO AMENDED AND RESTATED CREDIT AGREEMENT (this “Amendment”), is entered into as of March 29, 2019, by and among TEXAS OIL & CHEMICAL CO. II, INC., a Texas corporation (“Borrower”), certain subsidiaries of the Borrower party hereto, as guarantors (the “Guarantors”), the lenders from time to time party hereto (the “Lenders”), Citibank, N.A., as an L/C Issuer, and BANK OF AMERICA, N.A., as Administrative Agent for the Lenders (in such capacity, the “Administrative Agent”), Swingline Lender and an L/C Issuer.
+
+RECITALS
+
+A.Borrower, the Guarantors, the Administrative Agent and the Lenders party thereto are parties to that certain Amended and Restated Credit Agreement, dated as of October 1, 2014 (as amended by that certain First Amendment to Amended and Restated Credit Agreement, dated as of February 20, 2015, that certain Second Amendment to Amended and Restated Credit Agreement, dated as of March 28, 2017, that certain Third Amendment to Amended and Restated Credit Agreement, dated as of July 25, 2017, that certain Fourth Amendment to Amended and Restated Credit Agreement, dated as of July 31, 2018, and that certain Fifth Amendment to Amended and Restated Credit Agreement, dated as of December 19, 2018 (the “Credit Agreement” and the Credit Agreement, as modified by this Amendment, the “Amended Credit Agreement”)).
+B.Borrower has requested that the Administrative Agent and the Lenders amend the Credit Agreement, and the Administrative Agent and the Lenders have agreed to amend the Credit Agreement, subject to the terms and conditions set out in this Amendment.
+AGREEMENT
+
+NOW, THEREFORE, for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto hereby agree as follows:
+
+1.Definitions. Unless otherwise defined in this Amendment, each capitalized term used but not otherwise defined herein has the meaning given such term in the Amended Credit Agreement.
+2.    Amendments to the Credit Agreement. On the Effective Date:
+(a)Section 6.01(b) of the Credit Agreement is deleted in its entirety and replaced with the following:
+(b)    Quarterly Financial Statements. As soon as available, but in any event within forty-five (45) days after the end of each of the first three (3) fiscal quarters of each fiscal year of Borrower and within eighty (80) days after the end of the last fiscal quarter of each fiscal year of Borrower, a consolidated and consolidating balance sheet of Borrower and its Subsidiaries as at the end of such fiscal quarter, and the related consolidated and consolidating statements of income or operations and changes in shareholders’ equity for such fiscal quarter and for the portion of Borrower’s fiscal year then ended, setting forth in each case in comparative form the figures for the corresponding fiscal quarter of the previous fiscal year and the corresponding portion of the previous fiscal year, all in reasonable detail and prepared in accordance with GAAP, such consolidated statements to be certified by the chief executive officer, chief financial officer, treasurer or controller who is a Responsible Officer of Borrower as fairly presenting the financial condition, results of operations and shareholders’ equity of Borrower and its Subsidiaries, subject only to normal year-end audit
+
+
+
+
+adjustments and the absence of footnotes and such consolidating statements to be certified by the chief executive officer, chief financial officer, treasurer or controller that is a Responsible Officer of Borrower to the effect that such statements are fairly stated in all material respects when considered in relation to the consolidated financial statements of Borrower and its Subsidiaries.
+(b)The table set forth in Section 7.11(a) of the Credit Agreement is deleted in its entirety and replaced with the following:
+Four Fiscal Quarters Ending
+Maximum Consolidated Leverage Ratio
+December 31, 2018
+4.75 to 1.00
+March 31, 2019
+4.75 to 1.00
+June 30, 2019
+4.50 to 1.00
+September 30, 2019
+4.00 to 1.00
+December 31, 2019 and each fiscal quarter thereafter
+3.50 to 1.00
+3.    Effectiveness of this Amendment. This Amendment shall be effective as of the date (the “Effective Date”) once all of the following have been satisfied or delivered to the Administrative Agent and the Lenders, as applicable, in each case, in Proper Form:
+(a)Execution of Amendment; Loan Documents. This Amendment executed by a Responsible Officer of each Loan Party and a duly authorized officer of each Lender.
+
+(b)Fees and Expenses. All fees and expenses, if any, owing to the Administrative Agent and the Lenders pursuant to that certain letter agreement, dated as of the date hereof, among Borrower and the Administrative Agent for the benefit of the Lenders, and legal fees and expenses owing to Administrative Agent’s outside counsel submitted by invoice on or prior to the Effective Date.
+
+(c)Additional Information. Such additional information and materials, which the Administrative Agent and/or any Lender shall reasonably request or require.
+
+4.    Representations and Warranties. Borrower and each Guarantor represents and warrants to the Administrative Agent and the Lenders on and as of the Effective Date hereof that (a) it possesses the requisite power and authority to execute and deliver this Amendment, (b) this Amendment has been duly authorized and approved by the requisite corporate action on the part of Borrower or such Guarantor, (c) no other consent of any Person (other than the Administrative Agent and the Lenders) that has not been obtained is required for this Amendment to be effective, (d) the execution and delivery of this Amendment does not violate its organizational documents, (e) the representations and warranties in each Loan Document to which it is a party are true and correct in all material respects on and as of the date of this Amendment as though made on the date of this Amendment (except to the extent that such representations and warranties speak to a specific date, in which case such representation or warranty shall be true and correct in all material respects as of such date), (f) after giving effect to this Amendment, it is in compliance with all covenants and agreements contained in each Loan Document to which it is a party, (g) after giving effect to this Amendment, no Default or Event of Default has occurred and is continuing and (h) that each Loan Document to which it is a party remains in full force and effect and is the legal, valid, and binding obligations of Borrower or such Guarantor enforceable against it in accordance with their respective terms, subject to applicable bankruptcy,
+
+2
+
+
+insolvency or similar laws affecting creditors’ rights generally and to general principles of equity and principles of good faith and fair dealing.
+5.    Scope of Amendment; Reaffirmation; RELEASE. Except as expressly modified by this Amendment, all references to the Credit Agreement shall refer to the Amended Credit Agreement. Except as affected by this Amendment, the Loan Documents are unchanged and continue in full force and effect. However, in the event of any inconsistency between the terms of the Amended Credit Agreement and any other Loan Document, the terms of the Amended Credit Agreement shall control and such other document shall be deemed to be amended to conform to the terms of the Amended Credit Agreement. As MATERIAL PART OF THE CONSIDERATION FOR THE ADMINISTRATIVE AGENT AND THE LENDERS ENTERING INTO THIS AMENDMENT, BORROWER AND EACH GUARANTOR HEREBY RELEASES AND FOREVER DISCHARGES THE ADMINISTRATIVE AGENT AND EACH LENDER (AND THEIR SUCCESSORS, ASSIGNS, AFFILIATES, OFFICERS, MANAGERS, DIRECTORS, EMPLOYEES, AND AGENTS) FROM ANY AND ALL CLAIMS, DEMANDS, DAMAGES, CAUSES OF ACTION, OR LIABILITIES FOR ACTIONS OR OMISSIONS (WHETHER ARISING AT LAW OR IN EQUITY, AND WHETHER DIRECT OR INDIRECT) IN CONNECTION WITH THE CREDIT AGREEMENT AND THE OTHER LOAN DOCUMENTS PRIOR TO THE DATE OF THIS AMENDMENT, WHETHER OR NOT HERETOFORE ASSERTED, AND WHICH BORROWER OR ANY GUARANTOR MAY HAVE OR CLAIM TO HAVE AGAINST ADMINISTRATIVE AGENT OR ANY LENDER.
+6.    Miscellaneous.
+(a)    Binding Effect. The Amended Credit Agreement shall be binding upon and inure to the benefit of each of the undersigned and their respective legal representatives, successors and permitted assigns.
+(b)    No Waiver of Defaults. This Amendment does not constitute a waiver of, or a consent to, any present or future violation of or default under, any provision of the Loan Documents, or a waiver of the Administrative Agent’s or any Lender’s right to insist upon future compliance with each term, covenant, condition and provision of the Loan Documents.
+(c)    Form. Each agreement, document, instrument or other writing to be furnished to the Administrative Agent or any Lender under any provision of this Amendment must be in form and substance reasonably satisfactory to the Administrative Agent.
+(d)    Headings. The headings and captions used in this Amendment are for convenience only and will not be deemed to limit, amplify or modify the terms of this Amendment, the Credit Agreement, or the other Loan Documents.
+(e)    Costs, Expenses and Attorneys’ Fees. Borrower agrees to pay or reimburse the Administrative Agent on demand for all its reasonable and invoiced (with separate invoices for each service provider) out-of-pocket costs and expenses incurred in connection with the preparation, negotiation, and execution of this Amendment, including, without limitation, the reasonable and invoiced fees and disbursements of the Administrative Agent’s counsel.
+(f)    Multiple Counterparts. This Amendment may be executed in any number of counterparts with the same effect as if all signatories have signed the same document. All counterparts must be construed together to constitute one and the same instrument. The effectiveness of any such documents and signatures shall, subject to applicable law, have the same force and effect as manually-signed originals and shall be binding on Borrower, each Guarantor, the Administrative Agent and each Lender. The Administrative Agent may also require that any such documents and signatures be confirmed by a manually-signed original;
+
+3
+
+
+provided that, the failure to request or deliver the same shall not limit the effectiveness of any facsimile document or signature.
+(g)    Governing Law. This Amendment and the other Loan Documents must be construed, and their performance enforced, under Texas law.
+7.    Entirety. THE LOAN DOCUMENTS REPRESENT THE FINAL AGREEMENT BETWEEN BORROWER, THE GUARANTORS, THE LENDERS AND THE ADMINISTRATIVE AGENT AND MAY NOT BE CONTRADICTED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS OR SUBSEQUENT ORAL AGREEMENTS BY THE PARTIES. THERE ARE NO UNWRITTEN ORAL AGREEMENTS AMONG THE PARTIES.
+Remainder of Page Intentionally Blank.
+Signature Pages to Follow.
+
+
+
+4
+
+
+This Amendment is executed as of the Effective Date.
+    BORROWER:
+
+TEXAS OIL & CHEMICAL CO. II, INC.
+
+
+By: /s/ S. Sami Ahmad            
+Name: S. Sami Ahmad
+Title: Treasurer
+    
+GUARANTORS:
+
+SOUTH HAMPTON RESOURCES, INC.
+
+
+By: /s/ S. Sami Ahmad            
+Name: S. Sami Ahmad
+Title: Treasurer
+
+
+GULF STATE PIPE LINE COMPANY, INC.
+
+
+By: /s/ S. Sami Ahmad            
+Name: S. Sami Ahmad
+Title: Treasurer
+
+
+TRECORA CHEMICAL, INC.
+
+    By: /s/ S. Sami Ahmad            
+Name: S. Sami Ahmad
+Title: Treasurer
+
+
+Signature Page to Sixth Amendment to Amended and Restated Credit Agreement
+(Texas Oil & Chemical Co. II, Inc.)
+
+
+
+ADMINISTRATIVE AGENT:
+
+BANK OF AMERICA, N.A.,
+as Administrative Agent
+
+
+By: /s/ Anthony W. Kell            
+Name: Anthony W. Kell
+Title: Vice President
+
+Signature Page to Sixth Amendment to Amended and Restated Credit Agreement
+(Texas Oil & Chemical Co. II, Inc.)
+
+
+
+LENDER:
+
+BANK OF AMERICA, N.A.,
+as a Lender, L/C Issuer and Swingline Lender
+
+
+By: /s/ Adam Rose            
+Adam Rose
+Senior Vice President
+
+Signature Page to Sixth Amendment to Amended and Restated Credit Agreement
+(Texas Oil & Chemical Co. II, Inc.)
+
+
+
+LENDER:
+
+CITIBANK, N.A.,
+as a Lender and L/C Issuer
+
+By: /s/ Michael Foster            
+Name: Michael Foster
+Title: Senior Vice President
+
+
+
+Signature Page to Sixth Amendment to Amended and Restated Credit Agreement
+(Texas Oil & Chemical Co. II, Inc.)
+
+
+
+LENDER:
+
+BMO HARRIS BANK N.A.,
+as a Lender
+
+By: /s/ Ashley Bake            
+Name: Ashley Bake
+Title: Director
+
+
+
+
+Signature Page to Sixth Amendment to Amended and Restated Credit Agreement
+(Texas Oil & Chemical Co. II, Inc.)
+
+
+
+LENDER:
+
+CAPITAL ONE, N.A.,
+as a Lender
+
+
+By: /s/ Lewis H. Gissel III            
+Name: Lewis H. Gissel III
+Title: Senior Vice President
+
+Signature Page to Sixth Amendment to Amended and Restated Credit Agreement
+(Texas Oil & Chemical Co. II, Inc.)
+
+
+
+LENDER:
+
+REGIONS BANK,
+as a Lender
+
+
+By: /s/ Philip A. Ugalde                
+Name: Philip A. Ugalde
+Title: Senior Vice President
+
+
+
+Signature Page to Sixth Amendment to Amended and Restated Credit Agreement
+(Texas Oil & Chemical Co. II, Inc.)

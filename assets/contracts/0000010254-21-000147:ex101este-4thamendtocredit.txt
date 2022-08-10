@@ -1,0 +1,502 @@
+EX-10.1 2 ex101este-4thamendtocredit.htm EX-10.1
+Exhibit 10.1
+
+
+FOURTH AMENDMENT
+TO
+CREDIT AGREEMENT
+Dated as of September 17, 2021
+Among
+EARTHSTONE ENERGY HOLDINGS, LLC,
+as Borrower,
+
+EARTHSTONE ENERGY, INC.,
+as Parent,
+
+WELLS FARGO BANK, NATIONAL ASSOCIATION,
+as Administrative Agent and Issuing Bank,
+ROYAL BANK OF CANADA,
+as Syndication Agent,
+
+TRUIST BANK,
+as Documentation Agent,
+
+and
+
+The Lenders Party Thereto
+________________________________
+
+WELLS FARGO SECURITIES, LLC
+RBC CAPITAL MARKETS
+Joint Lead Arrangers and Joint Bookrunners
+
+________________________________
+
+
+
+FOURTH AMENDMENT TO CREDIT AGREEMENT
+THIS FOURTH AMENDMENT TO CREDIT AGREEMENT (this “Fourth Amendment”) dated as of September 17, 2021, is among Earthstone Energy Holdings, LLC, a Delaware limited liability company (the “Borrower”); Earthstone Energy, Inc., a Delaware corporation (the “Parent”); each of the undersigned guarantors (the “Guarantors”, and together with the Borrower and the Parent, the “Obligors”); each of the Lenders party hereto; and Wells Fargo Bank, National Association (in its individual capacity, “Wells Fargo”), as administrative agent for the Lenders (in such capacity, together with its successors in such capacity, the “Administrative Agent”).
+R E C I T A L S
+A.    The Borrower, the Parent, the Administrative Agent and the Lenders are parties to that certain Credit Agreement dated as of November 21, 2019 (as amended, restated, amended and restated, supplemented or otherwise modified prior to the date hereof, the “Credit Agreement”), pursuant to which the Lenders have made certain credit available to and on behalf of the Borrower.
+B.    The Borrower and the Guarantors are parties to that certain Guarantee and Collateral Agreement, dated as of November 21, 2019 (as amended, restated, amended and restated, supplemented or otherwise modified), made by each of the Loan Parties party thereto in favor of the Administrative Agent.
+
+C.    The Parent is party to that certain Parent Guarantee, dated as of November 21, 2019 (as amended, restated, amended and restated, supplemented or otherwise modified), in favor of the Administrative Agent.
+D.    The Borrower has requested and the Administrative Agent and the Lenders party hereto have agreed to amend the Credit Agreement, subject to the terms and conditions of this Fourth Amendment.
+E.    NOW, THEREFORE, to induce the Administrative Agent and the Lenders to enter into this Fourth Amendment and in consideration of the promises and the mutual covenants herein contained, for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:
+Section 1.    Defined Terms. Each capitalized term used herein but not otherwise defined herein has the meaning given such term in the Credit Agreement, as amended by this Fourth Amendment (unless otherwise indicated). Unless otherwise indicated, all section references in this Fourth Amendment refer to sections of the Credit Agreement.
+Section 2.    Amendments to Credit Agreement.
+2.1    Amendments to Section 1.02 – Certain Defined Terms.
+    1    
+
+
+
+(a)    The following definitions are hereby amended and restated in their entirety to read as follows:
+“Aggregate Elected Borrowing Base Commitments” means (a) on the Fourth Amendment Effective Date, $650,000,000 and (b) at any time thereafter, an amount determined in accordance with Section 2.07(g).
+“Agreement” means this Credit Agreement, including any schedules and exhibits hereto, as amended by the First Amendment, the Second Amendment, the Third Amendment and the Fourth Amendment, and as the same may from time to time be amended, modified, supplemented or restated.
+“Benchmark Replacement” means, for any Available Tenor,
+(a)    with respect to any Benchmark Transition Event or Early Opt-in Election, the first alternative set forth in the order below that can be determined by the Administrative Agent for the applicable Benchmark Replacement Date:
+(1)    the sum of: (A) Term SOFR and (B) the related Benchmark Replacement Adjustment;
+(2)    the sum of: (A) Daily Simple SOFR and (B) the related Benchmark Replacement Adjustment;
+(3)    the sum of: (A) the alternate benchmark rate that has been selected by the Administrative Agent and the Borrower as the replacement for the then-current Benchmark for the applicable Corresponding Tenor giving due consideration to (i) any selection or recommendation of a replacement benchmark rate or the mechanism for determining such a rate by the Relevant Governmental Body or (ii) any evolving or then-prevailing market convention for determining a benchmark rate as a replacement for the then-current Benchmark for Dollar-denominated syndicated credit facilities at such time and (B) the related Benchmark Replacement Adjustment; or
+(b)    with respect to any Term SOFR Transition Event, the sum of (i) Term SOFR and (ii) the related Benchmark Replacement Adjustment;
+provided that, (i) in the case of clause (a)(1), if the Administrative Agent decides that Term SOFR is not administratively feasible for the Administrative Agent, then Term SOFR will be deemed unable to be determined for purposes of this definition and (ii) in the case of clause (a)(1) or clause (b) of this definition, the applicable Unadjusted Benchmark Replacement is displayed on a screen or other information service that publishes such rate from time to time as selected by the Administrative Agent in its reasonable discretion. If the Benchmark Replacement as determined pursuant to clause (a)(1), (a)(2) or (a)(3) or clause (b) of this definition would be less than the Floor, the Benchmark Replacement will
+    2    
+
+
+
+be deemed to be the Floor for the purposes of this Agreement and the other Loan Documents.
+“Benchmark Replacement Adjustment” means, with respect to any replacement of the then-current Benchmark with an Unadjusted Benchmark Replacement for any applicable Interest Period and Available Tenor for any setting of such Unadjusted Benchmark Replacement:
+(1)    for purposes of clauses (a)(1) and (b) of the definition of “Benchmark Replacement,” an amount equal to (A) 0.11448% (11.448 basis points) for an Available Tenor of one-month’s duration, (B) 0.26161% (26.161 basis points) for an Available Tenor of three-months’ duration and (C) 0.42826% (42.826 basis points) for an Available Tenor of six-months’ duration;
+(2)    for purposes of clause (a)(2) of the definition of “Benchmark Replacement,” an amount equal to 0.26161% (26.161 basis points); and
+(3)    for purposes of clause (a)(3) of the definition of “Benchmark Replacement,” the spread adjustment, or method for calculating or determining such spread adjustment, (which may be a positive or negative value or zero) that has been selected by the Administrative Agent and the Borrower giving due consideration to (i) any selection or recommendation of a spread adjustment, or method for calculating or determining such spread adjustment, for the replacement of such Available Tenor of such Benchmark with the applicable Unadjusted Benchmark Replacement by the Relevant Governmental Body on the applicable Benchmark Replacement Date or (ii) any evolving or then-prevailing market convention for determining a spread adjustment, or method for calculating or determining such spread adjustment, for the replacement of such Available Tenor of such Benchmark with the applicable Unadjusted Benchmark Replacement for Dollar-denominated syndicated credit facilities.
+“Benchmark Replacement Conforming Changes” means, with respect to any Benchmark Replacement, any technical, administrative or operational changes (including changes to the definition of “Alternate Base Rate,” the definition of “Business Day,” the definition of “Interest Period,” timing and frequency of determining rates and making payments of interest, timing of borrowing requests or prepayment, conversion or continuation notices, length of lookback periods, the applicability of breakage provisions, and other technical, administrative or operational matters) that the Administrative Agent decides may be appropriate to reflect the adoption and implementation of such Benchmark Replacement and to permit the administration thereof by the Administrative Agent in a manner substantially consistent with market practice (or, if the Administrative Agent decides that adoption of any portion of such market practice is not administratively feasible or if the Administrative Agent determines that no market practice for the administration of such Benchmark Replacement exists, in such other manner of administration as the Administrative Agent decides is
+    3    
+
+
+
+reasonably necessary in connection with the administration of this Agreement and the other Loan Documents).
+“Benchmark Replacement Date” means the earliest to occur of the following events with respect to the then-current Benchmark:
+(a)    in the case of clause (a) or (b) of the definition of “Benchmark Transition Event,” the later of (i) the date of the public statement or publication of information referenced therein and (ii) the date on which the administrator of such Benchmark (or the published component used in the calculation thereof) permanently or indefinitely ceases to provide all Available Tenors of such Benchmark (or such component thereof);
+(b)    in the case of clause (c) of the definition of “Benchmark Transition Event,” the date of the public statement or publication of information referenced therein;
+(c)    in the case of a Term SOFR Transition Event, the date that is thirty (30) days after the Administrative Agent has provided the Term SOFR Notice to the Lenders and the Borrower pursuant to Section 3.03(b)(i)(B); or
+(d)    in the case of an Early Opt-in Election, the sixth (6th) Business Day after the date notice of such Early Opt-in Election is provided to the Lenders, so long as the Administrative Agent has not received, by 5:00 p.m. (New York City time) on the fifth (5th) Business Day after the date notice of such Early Opt-in Election is provided to the Lenders, written notice of objection to such Early Opt-in Election from Lenders comprising the Majority Lenders.
+For the avoidance of doubt, (i) if the event giving rise to the Benchmark Replacement Date occurs on the same day as, but earlier than, the Reference Time in respect of any determination, the Benchmark Replacement Date will be deemed to have occurred prior to the Reference Time for such determination and (ii) the “Benchmark Replacement Date” will be deemed to have occurred in the case of clause (a) or (b) with respect to any Benchmark upon the occurrence of the applicable event or events set forth therein with respect to all then-current Available Tenors of such Benchmark (or the published component used in the calculation thereof).
+“Benchmark Transition Event” means the occurrence of one or more of the following events with respect to the then-current Benchmark:
+(a)    a public statement or publication of information by or on behalf of the administrator of such Benchmark (or the published component used in the calculation thereof) announcing that such administrator has ceased or will cease to provide all Available Tenors of such Benchmark (or such component thereof), permanently or indefinitely, provided that, at the time of such statement or
+    4    
+
+
+
+publication, there is no successor administrator that will continue to provide any Available Tenor of such Benchmark (or such component thereof);
+(b)    a public statement or publication of information by the regulatory supervisor for the administrator of such Benchmark (or the published component used in the calculation thereof), the Board, the Federal Reserve Bank of New York, an insolvency official with jurisdiction over the administrator for such Benchmark (or such component), a resolution authority with jurisdiction over the administrator for such Benchmark (or such component) or a court or an entity with similar insolvency or resolution authority over the administrator for such Benchmark (or such component), which states that the administrator of such Benchmark (or such component) has ceased or will cease to provide all Available Tenors of such Benchmark (or such component thereof) permanently or indefinitely, provided that, at the time of such statement or publication, there is no successor administrator that will continue to provide any Available Tenor of such Benchmark (or such component thereof); or
+(c)    a public statement or publication of information by the regulatory supervisor for the administrator of such Benchmark (or the published component used in the calculation thereof) announcing that all Available Tenors of such Benchmark (or such component thereof) are no longer representative.
+For the avoidance of doubt, a “Benchmark Transition Event” will be deemed to have occurred with respect to any Benchmark if a public statement or publication of information set forth above has occurred with respect to each then-current Available Tenor of such Benchmark (or the published component used in the calculation thereof).
+“Benchmark Unavailability Period” means the period (if any) (x) beginning at the time that a Benchmark Replacement Date pursuant to clauses (a) or (b) of that definition has occurred if, at such time, no Benchmark Replacement has replaced the then-current Benchmark for all purposes hereunder and under any Loan Document in accordance with Section 3.03(b) and (y) ending at the time that a Benchmark Replacement has replaced the then-current Benchmark for all purposes hereunder and under any Loan Document in accordance with Section 3.03(b).
+“Early Opt-in Election” means, if the then-current Benchmark is USD LIBOR, the occurrence of:
+(a)    a notification by the Administrative Agent to (or the request by the Borrower to the Administrative Agent to notify) each of the other parties hereto that at least five currently outstanding Dollar-denominated syndicated credit facilities at such time contain (as a result of amendment or as originally executed) a SOFR-based rate (including SOFR, a term SOFR or any other rate based upon
+    5    
+
+
+
+SOFR) as a benchmark rate (and such syndicated credit facilities are identified in such notice and are publicly available for review), and
+(b)    the joint election by the Administrative Agent and the Borrower to trigger a fallback from USD LIBOR and the provision by the Administrative Agent of written notice of such election to the Lenders.
+“Relevant Governmental Body” means the Board or the Federal Reserve Bank of New York, or a committee officially endorsed or convened by the Board or the Federal Reserve Bank of New York or any successor thereto.
+“SOFR” means, with respect to any Business Day, a rate per annum equal to the secured overnight financing rate for such Business Day published by the SOFR Administrator on the SOFR Administrator’s Website on the immediately succeeding Business Day.
+“Term SOFR” means, for the applicable Corresponding Tenor as of the applicable Reference Time, the forward-looking term rate based on SOFR that has been selected or recommended by the Relevant Governmental Body.
+“Unadjusted Benchmark Replacement” means the applicable Benchmark Replacement excluding the related Benchmark Replacement Adjustment.
+(b)    The following definitions are hereby added where alphabetically appropriate to read as follows:
+“Announcements” has the meaning assigned to such term in Section 1.08.
+“Available Tenor” means, as of any date of determination and with respect to the then-current Benchmark, as applicable, (a) if the then-current Benchmark is a term rate, any tenor for such Benchmark or (b) otherwise, any payment period for interest calculated with reference to such Benchmark, as applicable, that is or may be used for determining the length of an Interest Period pursuant to this Agreement as of such date and not including, for the avoidance of doubt, any tenor for such Benchmark that is then-removed from the definition of “Interest Period” pursuant to Section 3.03(b)(iv).
+“Benchmark” means, initially, USD LIBOR; provided that if a Benchmark Transition Event, a Term SOFR Transition Event, or an Early Opt-in Election, as applicable, and its related Benchmark Replacement Date have occurred with respect to USD LIBOR or the then-current Benchmark, then “Benchmark” means the applicable Benchmark Replacement to the extent that such Benchmark Replacement has replaced such prior benchmark rate pursuant to Section 3.03(b)(i).
+    6    
+
+
+
+“Corresponding Tenor” with respect to any Available Tenor means, as applicable, either a tenor (including overnight) or an interest payment period having approximately the same length (disregarding business day adjustment) as such Available Tenor.
+“Daily Simple SOFR” means, for any day, SOFR, with the conventions for this rate (which will include a lookback) being established by the Administrative Agent in accordance with the conventions for this rate selected or recommended by the Relevant Governmental Body for determining “Daily Simple SOFR” for syndicated business loans; provided, that if the Administrative Agent decides that any such convention is not administratively feasible for the Administrative Agent, then the Administrative Agent may establish another convention in its reasonable discretion.
+“Electronic Record” has the meaning assigned to that term in, and shall be interpreted in accordance with, 15 U.S.C. 7006.
+“Electronic Signature” has the meaning assigned to that term in, and shall be interpreted in accordance with, 15 U.S.C. 7006.
+“FCA” has the meaning assigned to such term in Section 1.08.
+“Floor” means the benchmark rate floor, if any, provided in this Agreement initially (as of the execution of this Agreement, the modification, amendment or renewal of this Agreement or otherwise) with respect to USD LIBOR.
+“Fourth Amendment” means that certain Fourth Amendment to Credit Agreement, dated as of September 17, 2021, among the Borrower, the Parent, the Guarantors, the Administrative Agent and the Lenders party thereto.
+“Fourth Amendment Effective Date” has the meaning assigned to such term in the Fourth Amendment.
+“IBA” has the meaning assigned to such term in Section 1.08.
+“Reference Time” with respect to any setting of the then-current Benchmark means (1) if such Benchmark is USD LIBOR, 11:00 a.m. (London time) on the day that is two (2) London Banking Days preceding the date of such setting, and (2) if such Benchmark is not USD LIBOR, the time determined by the Administrative Agent in its reasonable discretion.
+“Secured Parties” means, collectively, the Agents, the Lenders, the Issuing Banks, the Arrangers, the Secured Cash Management Providers, and Secured Swap Parties, and “Secured Party” means any of them individually.
+    7    
+
+
+
+“SOFR Administrator” means the Federal Reserve Bank of New York (or a successor administrator of the secured overnight financing rate).
+“SOFR Administrator’s Website” means the website of the Federal Reserve Bank of New York, currently at http://www.newyorkfed.org, or any successor source for the secured overnight financing rate identified as such by the SOFR Administrator from time to time.
+“Term SOFR Notice” means a notification by the Administrative Agent to the Lenders and the Borrower of the occurrence of a Term SOFR Transition Event.
+“Term SOFR Transition Event” means the determination by the Administrative Agent that (a) Term SOFR has been recommended for use by the Relevant Governmental Body, (b) the administration of Term SOFR is administratively feasible for the Administrative Agent and (c) a Benchmark Transition Event or an Early Opt-in Election, as applicable, has previously occurred resulting in the replacement of the then-current Benchmark for all purposes hereunder and under any Loan Document in accordance with Section 3.03(b) with a Benchmark Replacement the Unadjusted Benchmark Replacement component of which is not Term SOFR.
+“USD LIBOR” means the London interbank offered rate for Dollars.
+(c)    The definition of “Interest Period” is hereby amended by replacing the phrase “one, two, three or six months” contained therein with the phrase “one, three or six months”.
+(d)    The following definition is hereby deleted in its entirety: “Benchmark Transition Start Date”.
+2.2    Amendment to Section 1.08. Section 1.08 is hereby amended and restated in its entirety to read as follows:
+Section 1.08    Rates. The interest rate on Eurodollar Loans and ABR Loans (when determined by reference to clause (c) of the definition of Alternate Base Rate) may be determined by reference to the LIBO Rate, which is derived from the London interbank offered rate. The London interbank offered rate is intended to represent the rate at which contributing banks may obtain short-term borrowings from each other in the London interbank market. On March 5, 2021, ICE Benchmark Administration (“IBA”), the administrator of the London interbank offered rate, and the Financial Conduct Authority (the “FCA”), the regulatory supervisor of IBA, announced in public statements (the “Announcements”) that the final publication or representativeness date for the London interbank offered rate for Dollars for: (a) 1-week and 2-month tenor settings will be December 31, 2021 and (b) overnight, 1-month, 3-month, 6-month and 12-month tenor settings will be June 30, 2023. No successor
+    8    
+
+
+
+administrator for IBA was identified in such Announcements. As a result, it is possible that commencing immediately after such dates, the London interbank offered rate for such tenors may no longer be available or may no longer be deemed a representative reference rate upon which to determine the interest rate on Eurodollar Loans or ABR Loans (when determined by reference to clause (c) of the definition of Alternate Base Rate). There is no assurance that the dates set forth in the Announcements will not change or that IBA or the FCA will not take further action that could impact the availability, composition or characteristics of any London interbank offered rate. Public and private sector industry initiatives have been and continue, as of the date hereof, to be underway to implement new or alternative reference rates to be used in place of the London interbank offered rate. In the event that the London interbank offered rate or any other then-current Benchmark is no longer available or in certain other circumstances set forth in Section 3.03(b), such Section 3.03(b) provides a mechanism for determining an alternative rate of interest. The Administrative Agent will notify the Borrower, pursuant to Section 3.03(b), of any change to the reference rate upon which the interest rate on Eurodollar Loans and ABR Loans (when determined by reference to clause (c) of the definition of Alternate Base Rate) is based. However, the Administrative Agent does not warrant or accept any responsibility for, and shall not have any liability with respect to, (i) the continuation of, administration of, submission of, calculation of or any other matter related to the London interbank offered rate or other rates in the definition of “LIBO Rate” or with respect to any alternative, successor or replacement rate thereto (including any then-current Benchmark or any Benchmark Replacement), including whether the composition or characteristics of any such alternative, successor or replacement rate (including any Benchmark Replacement), as it may or may not be adjusted pursuant to Section 3.03(b), will be similar to, or produce the same value or economic equivalence of, the LIBO Rate or any other Benchmark, or have the same volume or liquidity as did the London interbank offered rate or any other Benchmark prior to its discontinuance or unavailability, or (ii) the effect, implementation or composition of any Benchmark Replacement Conforming Changes. The Administrative Agent and its Affiliates or other related entities may engage in transactions that affect the calculation of a Benchmark, any alternative, successor or replacement rate (including any Benchmark Replacement) or any relevant adjustments thereto and such transactions may be adverse to the Borrower. The Administrative Agent may select information sources or services in its reasonable discretion to ascertain any Benchmark, any component definition thereof or rates referenced in the definition thereof, in each case pursuant to the terms of this Agreement, and shall have no liability to the Borrower, any Lender or any other person or entity for damages of any kind, including direct or indirect, special, punitive, incidental or consequential damages, costs, losses or expenses (whether in tort, contract or otherwise and whether at law or in equity), for any error or calculation of any such rate (or component thereof) provided by any such information source or service.
+    9    
+
+
+
+2.3    Amendment to Section 2.07(a). Section 2.07(a) is hereby amended and restated in its entirety to read as follows:
+(a)    Fourth Amendment Borrowing Base. For the period from and including the Fourth Amendment Effective Date to but excluding the next Redetermination Date, the amount of the Borrowing Base shall be $650,000,000. For purposes of this Agreement, the determination of the Borrowing Base on the Fourth Amendment Effective Date provided for in the immediately preceding sentence shall constitute the October 2021 Redetermination. Notwithstanding the foregoing, the Borrowing Base may be subject to further adjustments in between Scheduled Redeterminations from time to time pursuant to Section 2.07(e), Section 2.07(f), Section 2.07(h) or Section 8.12(c).
+2.4    Amendment to Section 3.03(b). Section 3.03(b) is hereby amended and restated in its entirety to read as follows:
+(b)    Benchmark Replacement Setting.
+(i)    Benchmark Replacement.
+(A)    Notwithstanding anything to the contrary herein or in any other Loan Document (and any Swap Agreement shall be deemed not to be a “Loan Document” for purposes of this Section 3.03(b)) if a Benchmark Transition Event or an Early Opt-in Election, as applicable, and its related Benchmark Replacement Date have occurred prior to the Reference Time in respect of any setting of the then-current Benchmark, then (x) if a Benchmark Replacement is determined in accordance with clause (a)(1) or (a)(2) of the definition of “Benchmark Replacement” for such Benchmark Replacement Date, such Benchmark Replacement will replace such Benchmark for all purposes hereunder and under any Loan Document in respect of such Benchmark setting and subsequent Benchmark settings without any amendment to, or further action or consent of any other party to, this Agreement or any other Loan Document and (y) if a Benchmark Replacement is determined in accordance with clause (a)(3) of the definition of “Benchmark Replacement” for such Benchmark Replacement Date, such Benchmark Replacement will replace such Benchmark for all purposes hereunder and under any Loan Document in respect of any Benchmark setting at or after 5:00 p.m. (New York City time) on the fifth (5th) Business Day after the date notice of such Benchmark Replacement is provided to the Lenders without any amendment to, or further action or consent of any other party to, this Agreement or any other Loan Document so long as the Administrative Agent has not received, by such time, written notice of objection to such Benchmark Replacement from Lenders comprising the Majority Lenders. If an Unadjusted Benchmark Replacement is Daily Simple SOFR, all interest payments will be payable on a quarterly basis.
+    10    
+
+
+
+(B)    Notwithstanding anything to the contrary herein or in any other Loan Document, if a Term SOFR Transition Event and its related Benchmark Replacement Date have occurred prior to the Reference Time in respect of any setting of the then-current Benchmark, then the applicable Benchmark Replacement will replace the then-current Benchmark for all purposes hereunder or under any Loan Document in respect of such Benchmark setting and subsequent Benchmark settings, without any amendment to, or further action or consent of any other party to, this Agreement or any other Loan Document; provided that this clause (B) shall not be effective unless the Administrative Agent has delivered to the Lenders and the Borrower a Term SOFR Notice. For the avoidance of doubt, the Administrative Agent shall not be required to deliver a Term SOFR Notice after a Term SOFR Transition Event and may elect or not elect to do so in its sole discretion.
+(ii)    Benchmark Replacement Conforming Changes. In connection with the implementation of a Benchmark Replacement, the Administrative Agent will have the right to make Benchmark Replacement Conforming Changes from time to time and, notwithstanding anything to the contrary herein or in any other Loan Document, any amendments implementing such Benchmark Replacement Conforming Changes will become effective without any further action or consent of any other party to this Agreement or any other Loan Document.
+(iii)    Notices; Standards for Decisions and Determinations. The Administrative Agent will promptly notify the Borrower and the Lenders of (A) any occurrence of a Benchmark Transition Event, a Term SOFR Transition Event or an Early Opt-in Election, as applicable, and its related Benchmark Replacement Date, (B) the implementation of any Benchmark Replacement, (C) the effectiveness of any Benchmark Replacement Conforming Changes, (D) the removal or reinstatement of any tenor of a Benchmark pursuant to Section 3.03(b)(iv) below and (E) the commencement or conclusion of any Benchmark Unavailability Period. Any determination, decision or election that may be made by the Administrative Agent or, if applicable, any Lender (or group of Lenders) pursuant to this Section 3.03(b), including any determination with respect to a tenor, rate or adjustment or of the occurrence or non-occurrence of an event, circumstance or date and any decision to take or refrain from taking any action or any selection, will be conclusive and binding absent manifest error and may be made in its or their sole discretion and without consent from any other party to this Agreement or any other Loan Document, except, in each case, as expressly required pursuant to this Section 3.03(b).
+(iv)    Unavailability of Tenor of Benchmark. Notwithstanding anything to the contrary herein or in any other Loan Document, at any time (including in connection with the implementation of a Benchmark Replacement), (A) if the then-current Benchmark is a term rate (including Term SOFR or USD LIBOR) and either (1) any tenor for such Benchmark is not displayed on a screen or other
+    11    
+
+
+
+information service that publishes such rate from time to time as selected by the Administrative Agent in its reasonable discretion or (2) the regulatory supervisor for the administrator of such Benchmark has provided a public statement or publication of information announcing that any tenor for such Benchmark is or will be no longer representative, then the Administrative Agent may modify the definition of “Interest Period” for any Benchmark settings at or after such time to remove such unavailable or non-representative tenor and (B) if a tenor that was removed pursuant to clause (A) above either (1) is subsequently displayed on a screen or information service for a Benchmark (including a Benchmark Replacement) or (2) is not, or is no longer, subject to an announcement that it is or will no longer be representative for a Benchmark (including a Benchmark Replacement), then the Administrative Agent may modify the definition of “Interest Period” for all Benchmark settings at or after such time to reinstate such previously removed tenor.
+(v)    Benchmark Unavailability Period. Upon the Borrower’s receipt of notice of the commencement of a Benchmark Unavailability Period, the Borrower may revoke any request for a borrowing of, conversion to or continuation of Eurodollar Loans to be made, converted or continued during any Benchmark Unavailability Period and, failing that, the Borrower will be deemed to have converted any such request into a request for a borrowing of or conversion to ABR Loans. During any Benchmark Unavailability Period or at any time that a tenor for the then-current Benchmark is not an Available Tenor, the component of the Alternate Base Rate based upon the then-current Benchmark or such tenor for such Benchmark, as applicable, will not be used in any determination of the Alternate Base Rate.
+(vi)    London Interbank Offered Rate Benchmark Transition Event. On March 5, 2021, the IBA, the administrator of the London interbank offered rate, and the FCA, the regulatory supervisor of the IBA, made the Announcements that the final publication or representativeness date for Dollars for (I) 1-week and 2-month London interbank offered rate tenor settings will be December 31, 2021 and (II) overnight, 1-month, 3-month, 6-month and 12-month London interbank offered rate tenor settings will be June 30, 2023. No successor administrator for the IBA was identified in such Announcements. The parties hereto agree and acknowledge that the Announcements resulted in the occurrence of a Benchmark Transition Event with respect to the London interbank offered rate pursuant to the terms of this Agreement and that any obligation of the Administrative Agent to notify any parties of such Benchmark Transition Event pursuant to clause (iii) of this Section 3.03(b) shall be deemed satisfied.
+2.5    Amendment to Article XI. Article XI is hereby amended by adding a new Section 11.13 to read as follows:
+Section 11.13    Erroneous Payments.
+    12    
+
+
+
+(a)    Each Lender, the Issuing Bank, each other Secured Party and any other party hereto hereby severally agrees that if (i) the Administrative Agent notifies (which such notice shall be conclusive absent manifest error) such Lender, the Issuing Bank or any other Secured Party or any other Person that has received funds from the Administrative Agent or any of its Affiliates, either for its own account or on behalf of a Lender, the Issuing Bank or other Secured Party (each such recipient, a “Payment Recipient”) that the Administrative Agent has determined in its sole discretion that any funds received by such Payment Recipient were erroneously transmitted to, or otherwise erroneously or mistakenly received by, such Payment Recipient (whether or not known to such Payment Recipient) or (ii) any Payment Recipient receives any payment from the Administrative Agent (or any of its Affiliates) (x) that is in a different amount than, or on a different date from, that specified in a notice of payment, prepayment or repayment sent by the Administrative Agent (or any of its Affiliates) with respect to such payment, prepayment or repayment, as applicable, (y) that was not preceded or accompanied by a notice of payment, prepayment or repayment sent by the Administrative Agent (or any of its Affiliates) with respect to such payment, prepayment or repayment, as applicable, or (z) that such Payment Recipient otherwise becomes aware was transmitted or received in error or by mistake (in whole or in part) then, in each case, an error in payment shall be presumed to have been made (any such amounts specified in clauses (i) or (ii) of this Section 11.13(a), whether received as a payment, prepayment or repayment of principal, interest, fees, distribution or otherwise; individually and collectively, an “Erroneous Payment”), then, in each case, such Payment Recipient is deemed to have knowledge of such error at the time of its receipt of such Erroneous Payment; provided that nothing in this Section 11.13 shall require the Administrative Agent to provide any of the notices specified in clauses (i) or (ii) above. Each Payment Recipient agrees that it shall not assert any right or claim to any Erroneous Payment, and hereby waives any claim, counterclaim, defense or right of set-off or recoupment with respect to any demand, claim or counterclaim by the Administrative Agent for the return of any Erroneous Payments, including without limitation waiver of any defense based on “discharge for value” or any similar doctrine.
+(b)    Without limiting the immediately preceding clause (a), each Payment Recipient agrees that, in the case of clause (a)(ii) above, it shall promptly notify the Administrative Agent in writing of such occurrence.
+(c)    In the case of either clause (a)(i) or (a)(ii) above, such Erroneous Payment shall at all times remain the property of the Administrative Agent and shall be segregated by the Payment Recipient and held in trust for the benefit of the Administrative Agent, and upon demand from the Administrative Agent such Payment Recipient shall (or, shall cause any Person who received any portion of an Erroneous Payment on its behalf to), promptly, but in all events no later than one Business Day thereafter, return to the Administrative Agent the amount of
+    13    
+
+
+
+any such Erroneous Payment (or portion thereof) as to which such a demand was made in same day funds and in the currency so received, together with interest thereon in respect of each day from and including the date such Erroneous Payment (or portion thereof) was received by such Payment Recipient to the date such amount is repaid to the Administrative Agent at the greater of the Federal Funds Effective Rate and a rate determined by the Administrative Agent in accordance with banking industry rules on interbank compensation from time to time in effect.
+(d)    In the event that an Erroneous Payment (or portion thereof) is not recovered by the Administrative Agent for any reason, after demand therefor by the Administrative Agent in accordance with immediately preceding clause (c), from any Lender that is a Payment Recipient or an Affiliate of a Payment Recipient (such unrecovered amount as to such Lender, an “Erroneous Payment Return Deficiency”), then at the sole discretion of the Administrative Agent and upon the Administrative Agent’s written notice to such Lender (i) such Lender shall be deemed to have made a cashless assignment of the full face amount of the portion of its Loans (but not its Commitments) to the Administrative Agent or, at the option of the Administrative Agent, the Administrative Agent’s applicable lending affiliate in an amount that is equal to the Erroneous Payment Return Deficiency (or such lesser amount as the Administrative Agent may specify) (such assignment of the Loans (but not Commitments), the “Erroneous Payment Deficiency Assignment”) plus any accrued and unpaid interest on such assigned amount, without further consent or approval of any party hereto and without any payment by the Administrative Agent or its applicable lending affiliate as the assignee of such Erroneous Payment Deficiency Assignment. Without limitation of its rights hereunder, the Administrative Agent may cancel any Erroneous Payment Deficiency Assignment at any time by written notice to the applicable assigning Lender and upon such revocation all of the Loans assigned pursuant to such Erroneous Payment Deficiency Assignment shall be reassigned to such Lender without any requirement for payment or other consideration. The parties hereto acknowledge and agree that (1) any assignment contemplated in this clause (d) shall be made without any requirement for any payment or other consideration paid by the applicable assignee or received by the assignor, (2) the provisions of this clause (d) shall govern in the event of any conflict with the terms and conditions of Section 12.04 and (3) the Administrative Agent may reflect such assignments in the Register without further consent or action by any other Person.
+(e)    Each party hereto hereby agrees that (x) in the event an Erroneous Payment (or portion thereof) is not recovered from any Payment Recipient that has received such Erroneous Payment (or portion thereof) for any reason, the Administrative Agent (1) shall be subrogated to all the rights of such Payment Recipient with respect to such amount and (2) is authorized to set off, net and apply any and all amounts at any time owing to such Payment Recipient under any Loan Document, or otherwise payable or distributable by the Administrative
+    14    
+
+
+
+Agent to such Payment Recipient from any source, against any amount due to the Administrative Agent under this Section 11.13 or under the indemnification provisions of this Agreement, (y) the receipt of an Erroneous Payment by a Payment Recipient shall not for the purpose of this Agreement be treated as a payment, prepayment, repayment, discharge or other satisfaction of any Obligations owed by the Borrower or any other Loan Party, except, in each case, to the extent such Erroneous Payment is, and solely with respect to the amount of such Erroneous Payment that is, comprised of funds received by the Administrative Agent from the Borrower or any other Loan Party for the purpose of making a payment on the Obligations and (z) to the extent that an Erroneous Payment was in any way or at any time credited as payment or satisfaction of any of the Obligations, the Obligations or any part thereof that was so credited, and all rights of the Payment Recipient, as the case may be, shall be reinstated and continue in full force and effect as if such payment or satisfaction had never been received, except to the extent such Erroneous Payment was, and solely with respect to the amount of such Erroneous Payment that was, comprised of funds received by the Administrative Agent from the Borrower or any other Loan Party for the purpose of making a payment on the Obligations.
+(f)    Each party’s obligations under this Section 11.13 shall survive the resignation or replacement of the Administrative Agent or any transfer of right or obligations by, or the replacement of, a Lender, the termination of the Commitments or the repayment, satisfaction or discharge of all Obligations (or any portion thereof) under any Loan Document.
+(g)    Nothing in this Section 11.13 will constitute a waiver or release of any claim of any party hereunder arising from any Payment Recipient’s receipt of an Erroneous Payment.
+2.6    Amendment to Section 12.06. Section 12.06 is hereby amended by adding a new subsection (d) to read as follows:
+(d)    Electronic Execution. The words “execute,” “execution,” “signed,” “signature,” “delivery” and words of like import in or related to this Agreement, any other Loan Document or any document, amendment, approval, consent, waiver, modification, information, notice, certificate, report, statement, disclosure, or authorization to be signed or delivered in connection with this Agreement or any other Loan Document or the transactions contemplated hereby shall be deemed to include Electronic Signatures or execution in the form of an Electronic Record, and contract formations on electronic platforms approved by the Administrative Agent, deliveries or the keeping of records in electronic form, each of which shall be of the same legal effect, validity or enforceability as a manually executed signature or the use of a paper-based recordkeeping system, as the case may be, to the extent and as provided for in any Applicable Law, including the Federal Electronic Signatures in Global and National Commerce
+    15    
+
+
+
+Act, the New York State Electronic Signatures and Records Act, or any other similar state laws based on the Uniform Electronic Transactions Act.  Each party hereto agrees that any Electronic Signature or execution in the form of an Electronic Record shall be valid and binding on itself and each of the other parties hereto to the same extent as a manual, original signature.  For the avoidance of doubt, the authorization under this paragraph may include, without limitation, use or acceptance by the parties of a manually signed paper which has been converted into electronic form (such as scanned into PDF format), or an electronically signed paper converted into another format, for transmission, delivery and/or retention.  Notwithstanding anything contained herein to the contrary, the Administrative Agent is under no obligation to accept an Electronic Signature in any form or in any format unless expressly agreed to by the Administrative Agent pursuant to procedures approved by it; provided that, without limiting the foregoing, (a) to the extent the Administrative Agent has agreed to accept such Electronic Signature from any party hereto, the Administrative Agent and the other parties hereto shall be entitled to rely on any such Electronic Signature purportedly given by or on behalf of the executing party without further verification and (b) upon the request of the Administrative Agent or any Lender, any Electronic Signature shall be promptly followed by an original manually executed counterpart thereof.  Without limiting the generality of the foregoing, each party hereto hereby (i) agrees that, for all purposes, including without limitation, in connection with any workout, restructuring, enforcement of remedies, bankruptcy proceedings or litigation among the Administrative Agent, the Lenders and any of the Loan Parties, electronic images of this Agreement or any other Loan Document (in each case, including with respect to any signature pages thereto)  shall have the same legal effect, validity and enforceability as any paper original, and (ii) waives any argument, defense or right to contest the validity or enforceability of the Loan Documents based solely on the lack of paper original copies of any Loan Documents, including with respect to any signature pages thereto.
+2.7    Amendment to Annexes and Schedules.
+(a)    Annex I-B is hereby deleted in its entirety; and
+(b)    Schedule 7.14 is hereby amended and restated in its entirety as set forth on Schedule 7.14 to this Fourth Amendment.
+Section 3.    Assignment and Assumption.
+3.1    As used in this Fourth Amendment, (i) the term “Existing Lenders” means the collective reference to each Lender party to the Credit Agreement immediately prior to the Fourth Amendment Effective Date; (ii) the term “Exiting Lender” means BBVA USA; (iii) the term “New Lender” means Comerica Bank; and (iv) the term “Continuing Lenders” means the collective reference to each Existing Lender other than the Exiting Lender.
+    16    
+
+
+
+3.2    On the Fourth Amendment Effective Date, immediately prior to giving effect to the amendments in Section 2 of this Fourth Amendment, each Existing Lender has, in consultation with the Borrower, agreed to, and, for an agreed consideration, does hereby reallocate its Maximum Credit Amount, Commitment and Loans (and participations in Letters of Credit and LC Disbursements) among other things, to allow the Exiting Lender to sell and assign all of its Maximum Credit Amount, Commitment and Loans (and participations in Letters of Credit and LC Disbursements) and to allow the New Lender to become a party to the Credit Agreement as a Lender by acquiring an interest in the Aggregate Maximum Credit Amount and the total Commitments (the “Reallocation”). On the Fourth Amendment Effective Date, and after giving effect to the Reallocation: (a) the Maximum Credit Amount and Applicable Percentage of each Lender (including the New Lender) shall be as set forth on Annex I attached to this Fourth Amendment, which Annex I supersedes and replaces Annex I to the Credit Agreement (and Annex I to the Credit Agreement is hereby amended and restated in its entirety to read as set forth on Annex I attached hereto) (and for the avoidance of doubt, the Commitment of the Exiting Lender shall be $0); (b) the Exiting Lender shall cease to be a “Lender” for all purposes under the Credit Agreement and the other Loan Documents but shall continue to be entitled to the benefits of Section 5.01, Section 5.02, Section 5.03 and Section 12.03 of the Credit Agreement; and (c) the New Lender shall become a party to the Credit Agreement, as amended by this Fourth Amendment, as a “Lender” and have all of the rights and obligations of a Lender under the Credit Agreement, as amended by this Fourth Amendment, and the other Loan Documents. Each of the Administrative Agent, each Existing Lender (including, for the avoidance of doubt, the Exiting Lender), the Issuing Bank and the Borrower hereby consents and agrees to the Reallocation, including the New Lender’s acquisition of interest in the Maximum Credit Amount and Commitments and each Existing Lender’s assignment of its Maximum Credit Amount, Commitment, Loans and participations in Letters of Credit to the extent necessary to effect the Reallocation. With respect to the Reallocation, each Existing Lender shall be deemed to have sold and assigned its Maximum Credit Amount, Commitment, Loans and participations in Letters of Credit, and the New Lender and each Continuing Lender shall be deemed to have acquired the Maximum Credit Amount, Commitment, Loans and participations in Letters of Credit allocated to it from each Existing Lender, pursuant to the terms and conditions of the Assignment and Assumption attached as Exhibit G to the Credit Agreement (the “Assignment Agreement”), as if each Existing Lender and the New Lender had executed such Assignment Agreement with respect to the Reallocation, pursuant to which, (i) the New Lender and each Continuing Lender shall be an “Assignee”, (ii) each Existing Lender shall be an “Assignor” and (iii) the term “Effective Date” shall be the Fourth Amendment Effective Date as defined herein. The Administrative Agent hereby waives the fee payable to the Administrative Agent pursuant to Section 12.04(b) of the Credit Agreement in connection with the Assignment and Assumption. On the Fourth Amendment Effective Date, the Administrative Agent shall take the actions specified in Section 12.04(b)(iv) of the Credit Agreement, including recording the assignments described herein in the Register, and such assignments shall be effective for purposes of the Credit Agreement.
+Section 4.    Conditions of Effectiveness. This Fourth Amendment will become effective on the date on which each of the following conditions is satisfied or waived in
+    17    
+
+
+
+accordance with Section 12.02 of the Credit Agreement (such date, the “Fourth Amendment Effective Date”):
+(a)    Counterparts. The Administrative Agent shall have received from the Borrower, the Parent, each Guarantor and the Lenders (including the New Lender and the Exiting Lender), counterparts (in such number as may be requested by the Administrative Agent) of this Fourth Amendment signed on behalf of such Person.
+(b)    Fees and Expenses. The Administrative Agent and the Lenders shall have received all fees and other amounts due and payable on or prior to the Fourth Amendment Effective Date, including, to the extent invoiced at least two Business Days prior to satisfaction of all other applicable conditions, reimbursement or payment of all reasonable out-of-pocket expenses required to be reimbursed or paid by the Borrower under the Credit Agreement.
+(c)    No Default. As of the Fourth Amendment Effective Date, no Default shall have occurred and be continuing.
+The Administrative Agent is hereby authorized and directed to declare this Fourth Amendment to be effective when it has received documents confirming compliance with the conditions set forth in this Section 4 or the waiver of such condition in accordance with Section 12.02 of the Credit Agreement. Such declaration shall be final, conclusive and binding upon all parties to the Credit Agreement for all purposes. For purposes of determining compliance with the conditions specified in this Section 4, each Lender that has signed this Amendment shall be deemed to have consented to, approved or accepted, or to be satisfied with, each document or other matter required thereunder to be consented to or approved by or acceptable or satisfactory to such Lender, unless the Administrative Agent shall have received written notice from such Lender prior to the Fourth Amendment Effective Date specifying its objection thereto.
+Section 5.    Miscellaneous.
+(a)    Confirmation. The provisions of the Credit Agreement, as amended by this Fourth Amendment, shall remain in full force and effect following the effectiveness of this Fourth Amendment.
+(b)    Ratification and Affirmation; Representations and Warranties. Each Obligor hereby: (a) acknowledges the terms of this Fourth Amendment; (b) ratifies and affirms its obligations under and the Liens granted by, and acknowledges, renews and extends its continued liability under, each Loan Document to which it is a party and agrees that each Loan Document to which it is a party remains in full force and effect, except as expressly amended hereby; (c) agrees that from and after the Fourth Amendment Effective Date each reference to the Credit Agreement in the other Loan Documents shall be deemed to be a reference to the Credit Agreement, as amended by this Fourth Amendment; and (d) represents and warrants to the Lenders that as of the date hereof, after giving effect to the terms of this Fourth Amendment: (i) all of the representations and warranties contained in each Loan Document to which it is a party are true and correct in all material respects (except that any representation and warranty that is qualified by materiality shall be true and correct in all respects), except to the extent any
+    18    
+
+
+
+such representations and warranties are expressly limited to an earlier date, in which case, such representations and warranties shall continue to be true and correct in all material respects (except that any representation and warranty that is qualified by materiality shall be true and correct in all respects) as of such specified earlier date and (ii) no Default has occurred and is continuing.
+(c)    Counterparts. This Fourth Amendment may be executed by one or more of the parties hereto in any number of separate counterparts, and all of such counterparts taken together shall be deemed to constitute one and the same instrument. Delivery of an executed counterpart of a signature page of this Fourth Amendment by facsimile, electronic communications, as an attachment to an email or other similar electronic means shall be effective as delivery of a manually executed counterpart of this Fourth Amendment.
+(d)    NO ORAL AGREEMENT. THIS FOURTH AMENDMENT, THE CREDIT AGREEMENT AND THE OTHER LOAN DOCUMENTS EXECUTED IN CONNECTION HEREWITH AND THEREWITH REPRESENT THE FINAL AGREEMENT BETWEEN THE PARTIES AND MAY NOT BE CONTRADICTED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS, OR UNWRITTEN ORAL AGREEMENTS OF THE PARTIES. THERE ARE NO SUBSEQUENT ORAL AGREEMENTS BETWEEN THE PARTIES.
+(e)    GOVERNING LAW. THIS FOURTH AMENDMENT (INCLUDING, BUT NOT LIMITED TO, THE VALIDITY AND ENFORCEABILITY HEREOF) SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF TEXAS.
+(f)    Loan Document. This Fourth Amendment is a “Loan Document” as defined and described in the Credit Agreement and all of the terms and provisions of the Credit Agreement relating to Loan Documents shall apply hereto.
+(g)    Payment of Expenses. In accordance with Section 12.03 of the Credit Agreement, the Borrower agrees to pay or reimburse the Administrative Agent for all of its reasonable and documented out-of-pocket costs and expenses incurred in connection with this Fourth Amendment, any other documents prepared in connection herewith and the transactions contemplated hereby, including, without limitation, the reasonable fees and disbursements of counsel to the Administrative Agent.
+(h)    Severability. Any provision of this Fourth Amendment or any other Loan Document held to be invalid, illegal or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of such invalidity, illegality or unenforceability without affecting the validity, legality and enforceability of the remaining provisions hereof or thereof; and the invalidity of a particular provision in a particular jurisdiction shall not invalidate such provision in any other jurisdiction.
+(i)    Successors and Assigns. This Fourth Amendment shall be binding upon and inure to the benefit of the parties hereto and their respective successors and assigns.
+    19    
+
+
+
+[Signature Pages Follow]
+    20    
+
+
+
+IN WITNESS WHEREOF, the parties hereto have caused this Fourth Amendment to be duly executed and delivered by their proper and duly authorized officer(s) as of the day and year first above written.
+
+BORROWER:
+EARTHSTONE ENERGY HOLDINGS, LLC
+
+
+
+By: ______________________________________
+Name:
+Title:
+
+By: /s/ Mark Lumpkin, Jr.
+Name: Mark Lumpkin, Jr.
+Title: Executive Vice President &
+Chief Financial Officer
+PARENT:
+EARTHSTONE ENERGY, INC.
+
+
+
+By: ______________________________________
+Name:
+Title:
+
+By: /s/ Mark Lumpkin, Jr.
+Name: Mark Lumpkin, Jr.
+Title: Executive Vice President &
+Chief Financial Officer
+GUARANTORS:
+EARTHSTONE OPERATING, LLC
+By: /s/ Mark Lumpkin, Jr.
+Name: Mark Lumpkin, Jr.
+Title: Executive Vice President &
+Chief Financial Officer
+SABINE RIVER ENERGY, LLC
+By: /s/ Mark Lumpkin, Jr.
+Name: Mark Lumpkin, Jr.
+Title: Executive Vice President &
+Chief Financial Officer
+
+    Signature Page – Fourth Amendment to Credit Agreement
+    Earthstone Energy Holdings, LLC
+
+
+
+LYNDEN USA OPERATING, LLC
+By: /s/ Mark Lumpkin, Jr.
+Name: Mark Lumpkin, Jr.
+Title: Executive Vice President &
+Chief Financial Officer
+
+BOLD ENERGY III LLC
+By: /s/ Mark Lumpkin, Jr.
+Name: Mark Lumpkin, Jr.
+Title: Executive Vice President &
+Chief Financial Officer
+
+BOLD OPERATING, LLC
+By: /s/ Mark Lumpkin, Jr.
+Name: Mark Lumpkin, Jr.
+Title: Executive Vice President &
+Chief Financial Officer
+
+INDEPENDENCE RESOURCES
+MANAGEMENT, LLC
+By: /s/ Mark Lumpkin, Jr.
+Name: Mark Lumpkin, Jr.
+Title: Executive Vice President &
+Chief Financial Officer
+
+INDEPENDENCE RESOURCES
+TECHNOLOGIES, LLC
+By: /s/ Mark Lumpkin, Jr.
+Name: Mark Lumpkin, Jr.
+Title: Executive Vice President &
+Chief Financial Officer
+    Signature Page – Fourth Amendment to Credit Agreement
+    Earthstone Energy Holdings, LLC
+
+
+
+
+INDEPENDENCE RESOURCES
+LAND COMPANY A, LLC
+By: /s/ Mark Lumpkin, Jr.
+Name: Mark Lumpkin, Jr.
+Title: Executive Vice President &
+Chief Financial Officer
+
+INDEPENDENCE RESOURCES
+LAND COMPANY B, LLC
+By: /s/ Mark Lumpkin, Jr.
+Name: Mark Lumpkin, Jr.
+Title: Executive Vice President &
+Chief Financial Officer
+
+EARTHSTONE PERMIAN, LLC
+By: /s/ Mark Lumpkin, Jr.
+Name: Mark Lumpkin, Jr.
+Title: Executive Vice President &
+Chief Financial Officer
+
+
+
+
+
+    Signature Page – Fourth Amendment to Credit Agreement
+    Earthstone Energy Holdings, LLC
+
+
+
+ADMINISTRATIVE AGENT,
+WELLS FARGO BANK, NATIONAL
+ISSUING BANK AND LENDER:
+ASSOCIATION
+By: /s/ Edward Pak
+Name: Edward Pak
+Title: Director
+
+    Signature Page – Fourth Amendment to Credit Agreement
+    Earthstone Energy Holdings, LLC
+
+
+
+LENDER:
+ROYAL BANK OF CANADA
+By: /s/ Michael Sharp
+Name: Michael Sharp
+Title: Authorized Signatory
+    Signature Page – Fourth Amendment to Credit Agreement
+    Earthstone Energy Holdings, LLC
+
+
+
+
+LENDER:
+TRUIST BANK
+By: /s/ Benjamin L. Brown
+Name: Benjamin L. Brown
+Title: Director
+    Signature Page – Fourth Amendment to Credit Agreement
+    Earthstone Energy Holdings, LLC
+
+
+
+LENDER:
+CITIZENS BANK, N.A.
+By: /s/ Hernando Garcia
+Name: Hernando Garcia
+Title: Director
+
+
+    Signature Page – Fourth Amendment to Credit Agreement
+    Earthstone Energy Holdings, LLC
+
+
+
+LENDER:
+KEYBANK NATIONAL ASSOCIATION
+By: /s/ Kyle Gruen
+Name: Kyle Gruen
+Title: Vice President
+
+
+    Signature Page – Fourth Amendment to Credit Agreement
+    Earthstone Energy Holdings, LLC
+
+
+
+LENDER:
+PNC BANK, NATIONAL ASSOCIATION
+By: /s/ John Engel
+Name: John Engel
+Title: Senior Vice President
+
+    Signature Page – Fourth Amendment to Credit Agreement
+    Earthstone Energy Holdings, LLC
+
+
+
+LENDER:
+U.S. BANK NATIONAL ASSOCIATION
+By: /s/ John C. Lozano
+Name: John C. Lozano
+Title: Senior Vice President
+
+
+    Signature Page – Fourth Amendment to Credit Agreement
+    Earthstone Energy Holdings, LLC
+
+
+
+EXITING LENDER:
+BBVA USA, as Exiting Lender
+By: /s/ Julia Barnhill
+Name: Julia Barnhill
+Title: Vice President
+        
+    Signature Page – Fourth Amendment to Credit Agreement
+    Earthstone Energy Holdings, LLC
+
+
+
+LENDER:
+BANK OF AMERICA, N.A.
+By: /s/ Ronald E. McKaig
+Name: Ronald E. McKaig
+Title: Managing Director
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Signature Page – Fourth Amendment to Credit Agreement
+    Earthstone Energy Holdings, LLC
+
+
+
+LENDER:
+FIFTH THIRD BANK, NATIONAL
+ASSOCIATION
+By: /s/ Dan Condley
+Name: Dan Condley
+Title: Managing Director
+            Signature Page – Fourth Amendment to Credit Agreement
+    Earthstone Energy Holdings, LLC
+
+
+
+LENDER:
+IBERIABANK, A DIVISION OF FIRST
+HORIZON BANK
+By: /s/ W. Bryan Chapman
+Name: W. Bryan Chapman
+Title: Market President-Energy Lending
+    Signature Page – Fourth Amendment to Credit Agreement
+    Earthstone Energy Holdings, LLC
+
+
+
+NEW LENDER:
+COMERICA BANK
+By: /s/ Britney P. Geidel
+Name: Britney P. Geidel
+Title: Assistant Vice President
+    Signature Page – Fourth Amendment to Credit Agreement
+    Earthstone Energy Holdings, LLC

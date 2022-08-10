@@ -1,0 +1,348 @@
+EX-10.2 3 jec8-kexhibit102amdmt1.htm EXHIBIT 10.2
+
+
+EXECUTION
+FIRST AMENDMENT TO CREDIT AGREEMENT
+
+This FIRST AMENDMENT TO CREDIT AGREEMENT (this “Amendment”) is entered into as of November 30, 2018, among Jacobs Engineering Group Inc., a Delaware corporation (the “Borrower”), each lender party hereto (collectively, the “Lenders” and individually, a “Lender”), and BNP Paribas, as Administrative Agent.
+
+The Borrower, the Lenders and the Administrative Agent have entered into that certain Credit Agreement dated as of September 28, 2017 (the “Existing Credit Agreement”, and the Existing Credit Agreement as amended by this Amendment, the “Credit Agreement”).
+
+The Borrower has requested that the Lenders agree to certain amendments to the Credit Agreement, and the Lenders each a party hereto have agreed to such request, subject to the terms and conditions of this Amendment.
+
+In consideration of the mutual covenants and agreements herein contained, the parties hereto covenant and agree as follows:
+
+1.
+Definitions; References; Interpretation.
+
+(a)    Unless otherwise specifically defined herein, each term used herein (including in the Recitals hereof) which is defined in the Existing Credit Agreement shall have the meaning assigned to such term in the Existing Credit Agreement.
+
+(b)    As used herein, “Amendment Documents” means this Amendment and the Credit Agreement.
+
+(c)    Each reference to “this Agreement”, “hereof”, “hereunder”, “herein” and “hereby” and each other similar reference contained in the Credit Agreement, and each reference to “the Credit Agreement” and each other similar reference in the other Loan Documents, shall from and after the Effective Date (as defined in Section 2) refer to the Credit Agreement as amended hereby.
+
+(d)    The rules of interpretation set forth in Section 1.02 of the Credit Agreement shall be applicable to this Amendment.
+
+2.Amendments to Credit Agreement. Subject to the terms and conditions hereof, including satisfaction of the conditions set forth in Section 4(a), the Existing Credit Agreement is amended as follows, effective as of the date designated by the Administrative Agent pursuant to Section 4(d) (the “Effective Date”):
+
+(a)    Section 7.07 of the Existing Credit Agreement is amended by (i) deleting the word “and” at the end of clause (f), (ii) moving current clause (g) to a new clause (h), and (iii) replacing current clause (g), such that clauses (g) and (h) in their entirety shall read as follows:
+
+“(g)    the Disposition of all or any portion of the energy, chemicals and resources business of the Borrower, its Subsidiaries and certain joint ventures, including in a transaction with WorleyParsons Ltd. which is consistent in all material respects with the Disposition of such business as announced on October 21, 2018; and
+
+
+
+
+
+(h)    Dispositions by the Borrower and its Subsidiaries not otherwise permitted under this Section 7.07; provided that (i) at the time of such Disposition, no Default shall exist or would result from such Disposition and (ii) the aggregate book value of all property Disposed of in reliance on this clause (h) during the term of this Agreement shall not exceed 10% of the Borrower’s Consolidated Tangible Assets as of the end of the most recently ended fiscal year.”
+
+3.Representations and Warranties. The Borrower hereby represents and warrants to the Administrative Agent and the Lenders as follows:
+
+(a)    No Default has occurred and is continuing (or would result from the amendment of the Existing Credit Agreement contemplated hereby).
+
+(b)    The execution, delivery and performance by the Borrower of this Amendment, and of the performance of the Credit Agreement, have been duly authorized by all necessary corporate and other action and do not and will not require any registration with, consent or approval of, or notice to or action by, any Person (including any Governmental Authority) in order to be effective and enforceable.
+
+(c)    The Amendment Documents constitute the legal, valid and binding obligations of the Borrower, enforceable against it in accordance with their respective terms, subject to the effect of applicable bankruptcy, insolvency, arrangement, moratorium and other similar laws affecting creditors’ rights generally and the application of general principles of equity.
+
+(d)    All representations and warranties of the Borrower contained in Article V of the Existing Credit Agreement and the Credit Agreement are true and correct in all material respects on and as of the Effective Date immediately before (in the case of the Existing Credit Agreement) and immediately after (in the case of the Credit Agreement) giving effect to this Amendment, except (i) to the extent that such representations and warranties are qualified by materiality, they shall be true and correct on and as of the Effective Date, and (ii) to the extent that such representations and warranties specifically refer to an earlier date, they shall be true and correct in all material respects as of such earlier date except to the extent qualified by materiality, then they shall be true and correct as of such earlier date, and except that for purposes of this Section 3(d) and Section 4(a)(2), the representations and warranties contained in subsections (a) and (b) of Section 5.05 of the Credit Agreement shall be deemed to refer to the most recent statements furnished pursuant to clauses (a) and (b), respectively, of Section 6.01 of the Credit Agreement.
+
+4.
+Conditions of Effectiveness.
+
+(a)    The effectiveness of Section 2 of this Amendment shall be subject to the satisfaction of each of the following conditions precedent:
+
+(1)    The Administrative Agent shall have received from the Borrower, the Required Lenders, and the Administrative Agent, a duly executed original (or, if elected by the Administrative Agent, an executed facsimile or “pdf” copy with originals to follow) of this Amendment.
+
+(2)    The representations and warranties in Section 3 of this Amendment shall be true and correct in all material respects on and as of the Effective Date immediately before (in the case of the Existing Credit Agreement) and immediately after (in the case of the Credit Agreement) giving effect
+
+
+
+
+to this Amendment, with the same effect as if made on and as of the Effective Date, except (i) to the extent that such representations and warranties are qualified by materiality, they shall be true and correct on and as of the Effective Date, and (ii) to the extent that such representations and warranties specifically refer to an earlier date, they shall be true and correct in all material respects as of such earlier date except to the extent qualified by materiality, then they shall be true and correct as of such earlier date.
+
+(3)    No Default has occurred and is continuing (or would result from the amendment of the Existing Credit Agreement contemplated hereby).
+
+(b)    For purposes of determining compliance with the conditions specified in Section 4(a), each Lender that has signed this Amendment shall be deemed to have consented to, approved or accepted or to be satisfied with, each document or other matter required thereunder to be consented to or approved by or acceptable or satisfactory to a Lender unless the Administrative Agent shall have received notice from such Lender prior to the Effective Date specifying its objection thereto.
+
+(c)    From and after the Effective Date, the Credit Agreement is amended as set forth herein. Except as expressly amended pursuant hereto, the Credit Agreement shall remain unchanged and in full force and effect and is hereby ratified and confirmed in all respects.
+
+(d)    The Administrative Agent will notify the Borrower and the Lenders of the occurrence of the Effective Date.
+
+5.Fees, Interest and Other Payments. On or prior to the Effective Date, the Administrative Agent shall have received evidence of payment by the Borrower of all interest, costs and expenses due and payable as of the Effective Date under or in connection with this Amendment and the Credit Agreement.
+
+6.
+Miscellaneous.
+
+(a)    The Borrower acknowledges and agrees that the execution and delivery by the Administrative Agent and the Lenders of this Amendment shall not be deemed to create a course of dealing or an obligation to execute similar waivers or amendments under the same or similar circumstances in the future.
+
+(b)    This Amendment shall be binding upon and inure to the benefit of the parties hereto and their respective successors and assigns permitted by the Credit Agreement.
+
+(c)    THIS AMENDMENT SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF NEW YORK.
+
+(d)    This Amendment may be executed in counterparts (and by different parties hereto in different counterparts), each of which shall constitute an original, but all of which when taken together shall constitute a single contract. This Amendment and the other Amendment Documents constitute the entire contract among the parties relating to the subject matter hereof and supersede any and all previous agreements and understandings, oral or written, relating to the subject matter hereof. Except as provided in Section 4, this Amendment shall become effective when it shall have been executed by the Administrative Agent and when the Administrative Agent shall have received counterparts hereof that, when taken together, bear the signatures of each of the other parties hereto. Delivery of an executed counterpart of a signature page of this Amendment by telecopy shall be effective as delivery of a manually executed counterpart of this Amendment.
+
+
+
+
+
+(e)    This Amendment and the other Amendment Documents contain the entire and exclusive agreement of the parties hereto with reference to the matters discussed herein. This Amendment supersedes all prior drafts and communications with respect hereto. This Amendment may not be amended except in accordance with the provisions of Section 10.01 of the Credit Agreement.
+
+(f)    If any provision of this Amendment or the other Amendment Documents is held to be illegal, invalid or unenforceable, (i) the legality, validity and enforceability of the remaining provisions of this Amendment and the other Amendment Documents and Loan Documents shall not be affected or impaired thereby and (ii) the parties shall endeavor in good faith negotiations to replace the illegal, invalid or unenforceable provisions with valid provisions the economic effect of which comes as close as possible to that of the illegal, invalid or unenforceable provisions. The invalidity of a provision in a particular jurisdiction shall not invalidate or render unenforceable such provision in any other jurisdiction.
+
+(g)    The Borrower agrees to pay or reimburse all reasonable out-of-pocket expenses incurred by the Administrative Agent (including the reasonable fees, charges and disbursements of counsel for the Administrative Agent), in connection with the preparation, negotiation, execution, delivery and administration of this Amendment and the other Amendment Documents or any amendments, modifications or waivers of the provisions hereof or thereof (whether or not the transactions contemplated hereby or thereby shall be consummated).
+
+(h)
+This Amendment shall constitute a Loan Document.
+
+[signature pages follow]
+
+
+
+
+IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be duly executed as of the date first above written.
+
+JACOBS ENGINEERING GROUP INC.
+
+By: /s/ Kevin C. Berryman    
+Name:     Kevin Berryman    
+Title: Chief Financial Officer    
+
+[Signature Page to First Amendment to Credit Agreement]
+
+
+
+BNP PARIBAS, as the Administrative Agent
+
+By: /s/ Brendan Heneghan    
+Name:     Brendan Heneghan    
+Title:     Director        
+
+By: /s/ Christopher Sked    
+Name:     Christopher Sked    
+Title: Managing Director    
+
+
+[Signature Page to First Amendment to Credit Agreement]
+
+
+
+BNP PARIBAS, as a Lender
+
+By: /s/ Brendan Heneghan    
+Name: Brendan Heneghan    
+Title:     Director        
+
+By: /s/ Christopher Sked    
+Name: Christopher Sked    
+Title: Director            
+
+[Signature Page to First Amendment to Credit Agreement]
+
+
+
+BANK OF AMERICA, N.A., as a Lender
+
+By: /s/ Mukesh Singh        
+Name:     Mukesh Singh        
+Title: Director            
+
+
+[Signature Page to First Amendment to Credit Agreement]
+
+
+
+THE BANK OF NOVA SCOTIA, as a Lender
+
+By: /s/ Michael Grad        
+Name:     Michael Grad        
+Title: Director            
+
+
+[Signature Page to First Amendment to Credit Agreement]
+
+
+
+Wells Fargo Bank, National Association, as a Lender
+
+By: /s/ Mark B. Felker        
+Name:     Mark B. Felker        
+Title:     Managing Director     
+
+
+[Signature Page to First Amendment to Credit Agreement]
+
+
+
+TD Bank, N.A., as a Lender
+
+By: /s/ Emily Chott        
+Name:     Emily Chott        
+Title:     Senior Vice President    
+
+[Signature Page to First Amendment to Credit Agreement]
+
+
+
+U.S. BANK NATIONAL ASSOCIATION, as a Lender
+
+By: /s/ Jonathan F. Lindvall    
+Name:     Jonathan F. Lindvall    
+Title:     Senior Vice President  
+
+
+[Signature Page to First Amendment to Credit Agreement]
+
+
+
+Credit Agricole Corporate and Investment Bank, as a Lender
+
+By: /s/ Gordon Yip        
+Name:     Gordon Yip        
+Title: Director        
+
+
+By: /s/ Jill Wong        
+Name:     Jill Wong        
+Title: Director            
+
+
+
+[Signature Page to First Amendment to Credit Agreement]
+
+
+
+FIFTH THIRD BANK, as a Lender
+
+By: /s/ Kelly Shield        
+Name:     Kelly Shield        
+Title: Director            
+
+
+
+[Signature Page to First Amendment to Credit Agreement]
+
+
+
+HSBC BANK USA, N.A., as a Lender
+
+By:     /s/ Rumesha Ahmed    
+Name: Rumesha Ahmed    
+Title: Vice President        
+
+
+[Signature Page to First Amendment to Credit Agreement]
+
+
+
+MORGAN STANLEY BANK, N.A., as a Lender
+
+By:     /s/ Emanuel Ma    
+Name: Emanuel Ma        
+Title: Authorized Signatory    
+
+
+
+[Signature Page to First Amendment to Credit Agreement]
+
+
+
+BMO Harris Bank, N.A., as a Lender
+
+By:     /s/ John Armstrong    
+Name: John Armstrong    
+Title: Managing Director    
+
+
+[Signature Page to First Amendment to Credit Agreement]
+
+
+
+Industrial and Commercial Bank of China
+Limited, New York Branch
+
+By:     /s/ Christine Cai    
+Name: Christine Cai        
+Title: Vice President        
+
+
+By:     /s/ Dayi Liu        
+Name: Dayi Liu        
+Title: Executive Director    
+
+
+
+[Signature Page to First Amendment to Credit Agreement]
+
+
+
+PNC BANK, NATIONAL ASSOCIATION, as a Lender
+
+By:     /s/ Divyang Shah    
+Name: Divyang Shah        
+Title: Sr. Vice President    
+
+
+[Signature Page to First Amendment to Credit Agreement]
+
+
+
+
+Citizens Bank, N.A., as a Lender
+
+By:     /s/ Jonathan Gleit    
+Name:    Jonathan Gleit        
+Title: Senior Vice President    
+
+
+[Signature Page to First Amendment to Credit Agreement]
+
+
+
+
+COMPASS BANK, as a Lender
+
+By:     /s/ Aaron Loyd     
+Name:    Aaron Loyd        
+Title: Director            
+
+
+[Signature Page to First Amendment to Credit Agreement]
+
+
+
+
+JP MORGAN Chase Bank, N.A., as a Lender
+
+By:     /s/ Laura Woodward    
+Name:    Laura Woodward    
+Title: Vice President        
+
+
+
+
+[Signature Page to First Amendment to Credit Agreement]
+
+
+
+
+National Westminster Bank PLC, as a Lender
+
+By:     /s/ Jordan Campbell         
+Name:    Jordan Campbell         
+Title: Director, Portfolio Management
+
+
+[Signature Page to First Amendment to Credit Agreement]
+
+
+
+
+THE NORTHERN TRUST COMPANY, as a Lender
+
+By:     /s/ Wicks Barkhausen        
+Name:    Wicks Barkhausen        
+Title: Vice President            
+
+
+
+
+[Signature Page to First Amendment to Credit Agreement]

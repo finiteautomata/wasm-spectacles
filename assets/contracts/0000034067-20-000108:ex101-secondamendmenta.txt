@@ -1,0 +1,260 @@
+EX-10.1 2 ex101-secondamendmenta.htm 2ND AMENDMENT TO 2018 CREDIT AGREEMENT
+
+
+Exhibit 10.1
+Certain identified information has been excluded from this exhibit because it both (i) is not material and (ii) would be competitively harmful if publicly disclosed.
+
+SECOND AMENDMENT AGREEMENT
+This SECOND AMENDMENT AGREEMENT (this “Amendment”) is made as of the 25th day of June, 2020 among:
+        (a) DMC GLOBAL INC., a Delaware corporation (“DMC Global”);
+
+        (b) each Domestic Subsidiary Borrower, as defined in the Credit Agreement, as hereinafter defined (each such Domestic Subsidiary Borrower, together with DMC Global, collectively, the “US Borrowers” and, individually, each a “US Borrower”);
+
+        (c) each Foreign Borrower, as defined in the Credit Agreement (each such Foreign Borrower, together with each US Borrower, collectively, the “Borrowers” and, individually, each a “Borrower”);
+
+(d) the Lenders, as defined in the Credit Agreement; and
+
+        (e) KEYBANK NATIONAL ASSOCIATION, a national banking association, as administrative agent for the Lenders under the Credit Agreement (the “Administrative Agent”).
+
+        WHEREAS, the Borrowers, the Administrative Agent and the Lenders are parties to that certain Credit and Security Agreement, dated as of March 8, 2018 (as the same may from time to time be amended, restated or otherwise modified, the “Credit Agreement”);
+
+        WHEREAS, the Borrowers, the Administrative Agent and the Lenders desire to amend the Credit Agreement to modify certain provisions thereof and add certain provisions thereto;
+
+        WHEREAS, each capitalized term used herein and defined in the Credit Agreement, but not otherwise defined herein, shall have the meaning given such term in the Credit Agreement; and
+
+        WHEREAS, unless otherwise specifically provided herein, the provisions of the Credit Agreement revised herein are amended effective as of the date of this Amendment;
+
+        NOW, THEREFORE, in consideration of the premises and of the mutual covenants herein and for other valuable consideration, the receipt and sufficiency of which is hereby acknowledged, the Borrowers, the Administrative Agent and the Lenders agree as follows:
+
+
+
+        1. Amendments to Definitions in the Credit Agreement. Section 1.1 of the Credit Agreement is hereby amended to delete the definitions of “Alternate Currency Rate”, “Applicable Commitment Fee Rate”, “Applicable Margin”, “Base Rate”, “Benchmark Replacement”, “Canadian Fixed Rate” and “Eurodollar Rate” therefrom and to insert in place thereof, respectively, the following:
+
+“Alternate Currency Rate” means, for any Interest Period:
+
+(a) with respect to an Alternate Currency Loan denominated in Euros, Pounds Sterling or any other currency that is dealt with in the London interbank deposit market, the LIBOR Fixed Rate;
+
+(b) with respect to an Alternate Currency Loan denominated in Canadian Dollars, the Canadian Fixed Rate; and
+
+(c) with respect to any other Alternate Currency agreed upon in accordance with the terms of this Agreement, the applicable interest rate quotation as published by Thomson Reuters or Bloomberg (or other commercially available source providing such interest rate quotations as designated by the Administrative Agent from time to time) for such Alternate Currency as the interbank lending rate for leading banks in the applicable jurisdiction as of approximately 11:00 A.M. (Local Time) two Business Days prior to the beginning of such Interest Period (or such other time as the Administrative Agent may reasonably determine in light of the rate setting mechanism), for deposits in the relevant currency with a term equivalent to such Interest Period; provided that, in the event that such rate is not available for any reason with respect to an Alternate Currency, then the Alternate Currency Rate for such Alternate Currency shall be the average of the per annum rates at which deposits in immediately available funds in the relevant Alternate Currency for the relevant Interest Period and in the amount of the Alternate Currency Loan to be disbursed or to remain outstanding during such Interest Period, as the case may be, are offered to the applicable Agent (or an Affiliate of such Agent, in such Agent’s discretion) by leading banks in any Alternate Currency market reasonably selected by such Agent (or, at the option of such Agent, the per annum rate at which deposits in immediately available funds in the relevant Alternate Currency for the relevant Interest Period and in the amount of the Alternate Currency Loan are offered by such Agent), determined as of 11:00 A.M. (Local Time) (or as soon thereafter as practicable), two Business Days prior to the beginning of the relevant Interest Period pertaining to such Alternate Currency Loan hereunder.
+
+Notwithstanding the foregoing, if at any time the Alternate Currency Rate, as determined above, is less than three-quarters of one percent (0.75%), it shall be deemed to be three-quarters of one percent (0.75%) for purposes of this Agreement.
+
+         “Applicable Commitment Fee Rate” means:
+2
+
+
+(a) for the period from the Second Amendment Effective Date through August 31, 2020, twenty (20.00) basis points; and
+
+(b) commencing with the Consolidated financial statements of DMC Global for the fiscal quarter ending June 30, 2020, the number of basis points set forth in the following matrix, based upon the result of the computation of the Leverage Ratio as set forth in the Compliance Certificate for such fiscal period and, thereafter, as set forth in each successive Compliance Certificate, as provided below:
+Leverage Ratio Applicable Commitment Fee Rate
+Greater than or equal to 3.00 to 1.00 30.00 basis points
+Greater than or equal to 2.50 to 1.00 but less than 3.00 to 1.00 25.00 basis points
+Greater than or equal to 2.00 to 1.00 but less than 2.50 to 1.00 25.00 basis points
+Greater than or equal to 1.50 to 1.00 but less than 2.00 to 1.00 20.00 basis points
+Greater than or equal to 1.00 to 1.00 but less than 1.50 to 1.00 20.00 basis points
+Less than 1.00 to 1.00 15.00 basis points
+The first date on which the Applicable Commitment Fee Rate is subject to change is September 1, 2020. After September 1, 2020, changes to the Applicable Commitment Fee Rate shall be effective on the first day of the calendar month following each date upon which the Administrative Agent should have received, pursuant to Section 5.3(c) hereof, the Compliance Certificate; provided that, notwithstanding any of the foregoing to the contrary, for the period from September 1, 2020 to the first day of the calendar month following the date upon which the Administrative Agent should have received the Compliance Certificate for the fiscal quarter ending March 31, 2021, the Applicable Commitment Fee Rate shall in no event be less than twenty (20.00) basis points. The above pricing matrix does not modify or waive, in any respect, the requirements of Section 5.7 hereof, the rights of the Administrative Agent and the Lenders to charge the Default Rate, or the rights and remedies of the Administrative Agent and the Lenders pursuant to Articles VIII and IX hereof. Notwithstanding anything herein to the contrary, (i) during any period when the Borrowers shall have failed to timely deliver the Consolidated financial statements pursuant to Section 5.3(a) or (b) hereof, or the Compliance Certificate pursuant to Section 5.3(c) hereof, until such time as the appropriate Consolidated financial statements and Compliance Certificate are delivered, the Applicable Commitment Fee Rate shall, at the election of the Administrative Agent (which may be retroactively effective), be the highest rate per annum indicated in the above pricing grid regardless of the Leverage Ratio at such time, and (ii) in the event that any financial information or certification provided to the Administrative Agent in the Compliance Certificate is shown to be inaccurate (regardless of whether this Agreement or the Commitment is in effect when such inaccuracy is discovered), and such inaccuracy, if corrected, would have led to the application of a higher Applicable Commitment Fee Rate for any period (an “Applicable Commitment Fee Period”) than the Applicable Commitment Fee Rate applied for such Applicable Commitment Fee Period, then (A) the Borrowers shall promptly deliver to the Administrative Agent a corrected
+3
+
+Compliance Certificate for such Applicable Commitment Fee Period, (B) the Applicable Commitment Fee Rate shall be determined based on such corrected Compliance Certificate, and (C) the Borrowers shall promptly pay to the Administrative Agent, for the benefit of the Lenders, the accrued additional fees owing as a result of such increased Applicable Commitment Fee Rate for such Applicable Commitment Fee Period.
+
+         “Applicable Margin” means:
+
+(a) for the period from the Second Amendment Effective Date through August 31, 2020, one hundred seventy-five (175.00) basis points for Fixed Rate Loans and seventy-five (75.00) basis points for Base Rate Loans; and
+
+(b) commencing with the Consolidated financial statements of DMC Global for the fiscal quarter ending June 30, 2020, the number of basis points (depending upon whether Loans are Fixed Rate Loans or Base Rate Loans) set forth in the following matrix, based upon the result of the computation of the Leverage Ratio as set forth in the Compliance Certificate for such fiscal period and, thereafter, as set forth in each successive Compliance Certificate, as provided below:
+Leverage Ratio
+Applicable Basis Points for
+Fixed Rate Loans
+Applicable Basis Points for
+Base Rate Loans
+Greater than or equal to 3.00 to 1.00 300.00 200.00
+Greater than or equal to 2.50 to 1.00 but less than 3.00 to 1.00 250.00 150.00
+Greater than or equal to 2.00 to 1.00 but less than 2.50 to 1.00 225.00 125.00
+Greater than or equal to 1.50 to 1.00 but less than 2.00 to 1.00 200.00 100.00
+Greater than or equal to 1.00 to 1.00 but less than 1.50 to 1.00 175.00 75.00
+Less than 1.00 to 1.00 150.00 50.00
+The first date on which the Applicable Margin is subject to change is September 1, 2020. After September 1, 2020, changes to the Applicable Margin shall be effective on the first day of the calendar month following each date upon which the Administrative Agent should have received, pursuant to Section 5.3(c) hereof, the Compliance Certificate; provided that, notwithstanding any of the foregoing to the contrary, for the period from September 1, 2020 to the first day of the calendar month following the date upon which the Administrative Agent should have received the Compliance Certificate for the fiscal quarter ending March 31, 2021, the Applicable Margin shall in no event be less than one hundred seventy-five (175.00) basis points for Fixed Rate Loans and seventy-five (75.00) basis points for Base Rate Loans. The above pricing matrix does not modify or waive, in any respect, the requirements of Section 5.7 hereof, the rights of the Administrative Agent and the Lenders to charge the Default Rate, or the rights and remedies of the Administrative Agent and the Lenders pursuant to Articles VIII and IX hereof. Notwithstanding anything herein to the contrary, (i) during any period when the Borrowers shall have failed to timely deliver the Consolidated financial statements pursuant to Section 5.3(a) or (b) hereof, or the Compliance Certificate pursuant to Section 5.3(c) hereof, until such time as the appropriate Consolidated financial statements and Compliance Certificate are delivered, the Applicable Margin shall, at the election of the
+4
+
+Administrative Agent (which may be retroactively effective), be the highest rate per annum indicated in the above pricing grid for Loans of that type, regardless of the Leverage Ratio at such time, and (ii) in the event that any financial information or certification provided to the Administrative Agent in the Compliance Certificate is shown to be inaccurate (regardless of whether this Agreement or the Commitment is in effect when such inaccuracy is discovered), and such inaccuracy, if corrected, would have led to the application of a higher Applicable Margin for any period (an “Applicable Margin Period”) than the Applicable Margin applied for such Applicable Margin Period, then (A) the Borrowers shall promptly deliver to the Administrative Agent a corrected Compliance Certificate for such Applicable Margin Period, (B) the Applicable Margin shall be determined based on such corrected Compliance Certificate, and (C) the Borrowers shall promptly pay to the Administrative Agent, for the benefit of the Lenders, the accrued additional interest owing as a result of such increased Applicable Margin for such Applicable Margin Period.
+
+“Base Rate” means, for any day, a rate per annum equal to the highest of (a) the Prime Rate, (b) onehalf of one percent (.50%) in excess of the Federal Funds Effective Rate, and (c) one percent (1%) in excess of the London interbank offered rate for loans in Eurodollars for a period of one month (or, if such day is not a Business Day, such rate as calculated on the most recent Business Day). Any change in the Base Rate shall be effective immediately from and after such change in the Base Rate. Notwithstanding the foregoing, if at any time the Base Rate as determined above is less than one and three-quarters percent (1.75%), it shall be deemed to be one and three-quarters percent (1.75%) for purposes of this Agreement.
+
+“Benchmark Replacement” means the sum of: (a) the alternate benchmark rate (which may include Term SOFR) that has been selected by the Administrative Agent and the Borrowers giving due consideration to (i) any selection or recommendation of a replacement rate or the mechanism for determining such a rate by the Relevant Governmental Body, or (ii) any evolving or then-prevailing market convention for determining a rate of interest as a replacement to the Eurodollar Rate for Dollar-denominated syndicated credit facilities at such time, and (b) the Benchmark Replacement Adjustment; provided that, if the Benchmark Replacement as so determined would be less than three-quarters of one percent (0.75%), the Benchmark Replacement will be deemed to be three-quarters of one percent (0.75%) for the purposes of this Agreement.
+
+“Canadian Fixed Rate” means, for any Interest Period, a rate per annum equal to the greater of (a) (i) for a Lender that is a Schedule I Bank, the quotient obtained by dividing (A) the average of the bid rates for Canadian Dollar bankers’ acceptances having identical issues and comparable maturity days as the Interest Period quoted at approximately 10:00 A.M. (Toronto time) on such date (or, if such day is not a Business Day, the immediately preceding Business Day on the CDOR Page of Reuter Monitor Money Rate Services), as adjusted by the Administrative Agent after 10:00 A.M. (Toronto time) to reflect any error in the posted rate of interest or in the posted average
+5
+
+annual rate of interest, by (B) 1.00 minus the Reserve Percentage, and (ii) for a Lender that is not a Schedule I Bank, the rate set forth under subsection (a) above plus 10.00 basis points; and (b) one and one-half percent (1.50%). Notwithstanding the foregoing, if such average rate does not appear on the Page of Reuter Monitor Money Rate Services as contemplated above, then subsection (a)(i) above for such Interest Period on any day shall instead be calculated based on the cost of funds quoted by the Administrative Agent to raise Canadian Dollars for such Interest Period as of 10:00 A.M. (Toronto time) on such day, or, if such day is not a Business Day, then on the immediately preceding Business Day. Notwithstanding the foregoing, if at any time the Canadian Fixed Rate, as determined above, is less than three-quarters of one percent (0.75%), it shall be deemed to be three-quarters of one percent (0.75%) for purposes of this Agreement.
+
+“Eurodollar Rate” means, with respect to a Eurodollar Loan, for any Interest Period, a rate per annum equal to the quotient obtained by dividing (a) the rate of interest, determined by the Administrative Agent (or the Foreign Funding Agent with respect to Alternate Currency Swing Loans made to Foreign Borrowers) in accordance with its usual procedures (which determination shall be conclusive absent manifest error) as of approximately 11:00 A.M. (London time) two Business Days prior to the beginning of such Interest Period pertaining to such Eurodollar Loan, as listed as the London interbank offered rate, as published by Thomson Reuters or Bloomberg (or, if for any reason such rate is unavailable from Thomson Reuters or Bloomberg, from any other similar company or service that provides rate quotations comparable to those currently provided by Thomson Reuters or Bloomberg) for Dollar deposits in immediately available funds with a maturity comparable to such Interest Period; by (b) 1.00 minus the Reserve Percentage. Notwithstanding the foregoing, if at any time the Eurodollar Rate, as determined above, is less than three-quarters of one percent (0.75%), it shall be deemed to be three-quarters of one percent (0.75%) for purposes of this Agreement.
+
+        2. Additions to Definitions in the Credit Agreement. Section 1.1 of the Credit Agreement is hereby amended to add the following new definitions thereto:
+
+        “Liquidity Amount” means, as of any date of determination, the sum of (a) all unencumbered (other than any Lien in favor of the Administrative Agent) and unrestricted cash and Cash Equivalents on hand of the Credit Parties held in the United States; plus (b) (i) the Revolving Credit Commitment, minus (ii) the Revolving Credit Exposure.
+                “MUFG Factoring Agreement” means that certain Receivables Purchase Agreement between MUFG Union Bank, N.A. and DYNAenergetics US, whereby accounts receivable arising out of contracts or orders from [***] (and its subsidiaries and affiliates) are sold to MUFG Union Bank, N.A. by DYNAenergetics US, as amended, restated, supplemented or otherwise modified from time to time.
+
+        “[***] Factoring Agreement” means that certain Supplier Agreement between Citibank Europe plc and DYNAenergetics US, whereby accounts receivable arising out
+6
+
+of contracts or orders from [***] (and its subsidiaries and affiliates) are sold to Citibank Europe plc by DYNAenergetics US, as amended, restated, supplemented or otherwise modified from time to time.
+
+        “Second Amendment Effective Date” means June 25, 2020.
+
+        3. Amendment to Financial Covenants. Section 5.7 of the Credit Agreement is hereby amended to (i) delete subsection (b) therefrom and insert in place thereof the following new subsection (b), and (ii) to add the following new subsection (c) at the end thereof:
+
+(b) Debt Service Coverage Ratio. The Borrowers shall not suffer or permit at any time the Debt Service Coverage Ratio to be less than 1.35 to 1.00; provided that the foregoing Debt Service Coverage Ratio covenant shall not be applicable for the fiscal quarters of DMC Global ending September 30, 2020, December 31, 2020 and March 31, 2021.
+
+(c) Minimum Liquidity. The Borrowers shall not suffer or permit at any time the Liquidity Amount, as of September 30, 2020, December 31, 2020 and March 31, 2021, to be less than Ten Million Dollars ($10,000,000).
+
+4. Amendment to Borrowing Provisions. Section 5.8 of the Credit Agreement is hereby amended to delete subsection (o) therefrom and insert in place thereof the following:
+
+(o) Indebtedness of any Foreign Subsidiary owing to Commerzbank Aktiengesellschaft in an aggregate principal amount not to exceed Ten Million Euros (€10,000,000) at any time outstanding;
+
+5. Amendment to Liens Covenant Provisions. Section 5.9 of the Credit Agreement is hereby amended to delete subsection (p) therefrom and insert in place thereof the following:
+
+(p) Liens incurred pursuant to the Citibank Factoring Agreement, the MUFG Factoring Agreement or the [***] Factoring Agreement, in each case so long as there is no credit recourse to any Company with respect to such accounts receivable after such sale, except in the case of a breach by a Company of any Asset Representation (as defined in the Citibank Factoring Agreement) or any Asset Representation (as defined in the [***] Factoring Agreement) with respect to any such receivable.
+
+6. Additions to Merger and Sale of Assets Covenant Provisions. Section 5.12 of the Credit Agreement is hereby amended to add the following new subsections (k) and (l) at the end thereof:
+
+(k) the Companies may sell accounts receivable pursuant to the MUFG Factoring Agreement, so long as there is no credit recourse to any Company with respect to such accounts receivable after such sale; and
+
+7
+
+(l) the Companies may sell accounts receivable pursuant to the [***] Factoring Agreement, so long as there is no credit recourse to any Company with respect to such accounts receivable after such sale, except in the case of a breach by a Company of any Asset Representation (as defined in the [***] Factoring Agreement) with respect to any such receivable.
+
+        7. Amendment to Restricted Payments Provisions. Section 5.15 of the Credit Agreement is hereby amended to delete subsections (a) and (b) therefrom and to insert in place thereof, respectively, the following:
+
+(a) DMC Global may make Capital Distributions pursuant to and in accordance with any stock option plans or other benefit plans for management (including non-employee directors) or employees of any Company in an aggregate amount not to exceed Five Million Dollars ($5,000,000) during any fiscal year of DMC Global; provided that the foregoing cap shall not apply to any such Capital Distribution made pursuant to the terms and provisions of that certain DMC Global Inc. Amended and Restated Nonqualified Deferred Compensation Plan, effective as of August 30, 2017, and in each case of such Capital Distribution only to the extent resulting from a vested deferral or diversification of a Restricted Stock Award (as defined therein) by an eligible employee thereunder; and
+
+(b) DMC Global may make Capital Distributions so long as (i) no Default or Event of Default shall then exist or, after giving pro forma effect to such payment, thereafter shall begin to exist, and (ii) the Leverage Ratio, calculated on a pro forma basis for the most recently ended trailing four-quarter period giving effect to such Capital Distribution as if it were paid at the commencement of such four-quarter period, is less than one-quarter turn (0.25) below the Leverage Ratio otherwise in effect as set forth in Section 5.7(a) hereof; provided that DMC Global may not make Capital Distributions otherwise permitted under this subsection (b) during the period from the Second Amendment Effective Date through the date upon which the Administrative Agent has received the financial statements for the fiscal quarter of DMC Global ending March 31, 2021 pursuant to Section 5.3(a) hereof, together with the Compliance Certificate to be delivered in connection therewith.
+
+        8. Closing Deliveries. Concurrently with the execution of this Amendment, the Borrowers shall:
+
+(a) execute and deliver to the Administrative Agent the Second Amendment Fee Letter and pay to the Administrative Agent the fees stated therein;
+
+(b) cause each Guarantor of Payment to execute the attached Guarantor Acknowledgment and Agreement; and
+
+(c) pay all legal fees expenses of the Administrative Agent in connection with this Amendment and any other Loan Documents.
+8
+
+
+        9. Representations and Warranties. The Borrowers hereby represent and warrant to the Administrative Agent and the Lenders that (a) the Borrowers have the legal power and authority to execute and deliver this Amendment; (b) the officers executing this Amendment have been duly authorized to execute and deliver the same and bind the Borrowers with respect to the provisions hereof; (c) the execution and delivery hereof by the Borrowers and the performance and observance by the Borrowers of the provisions hereof do not violate or conflict with the Organizational Documents of the Borrowers or any law applicable to Borrowers or result in a breach of any provision of or constitute a default under any Material Agreement binding upon or enforceable against the Borrowers; (d) except as may be waived herein, no Default or Event of Default exists, nor will any occur immediately after the execution and delivery of this Amendment or by the performance or observance of any provision hereof; (e) each of the representations and warranties contained in the Loan Documents is true and correct in all material respects as of the date hereof as if made on the date hereof, except to the extent that any such representation or warranty expressly states that it relates to an earlier date (in which case such representation or warranty is true and correct in all material respects as of such earlier date); (f) the Borrowers are not aware of any claim or offset against, or defense or counterclaim to, the Borrowers’ obligations or liabilities under the Credit Agreement or any other Related Writing; and (g) this Amendment constitutes a valid and binding obligation of the Borrowers in every respect, enforceable in accordance with its terms, subject to the effect of any applicable bankruptcy, insolvency, reorganization, moratorium or other Laws affecting creditors’ rights and remedies generally and to the effect of general principles of equity (regardless of whether enforcement is considered in a proceeding at Law or in equity).
+
+        10. No Course of Dealing. The Borrowers acknowledge and agree that this Amendment is not intended to, nor shall it, establish any course of dealing with respect to the various provisions amended herein, or otherwise, among the Borrowers, the Administrative Agent and the Lenders that is inconsistent with the express terms of the Loan Documents.
+
+        11. Waiver and Release. The Borrowers, by signing below, hereby waive and release the Administrative Agent, and each of the Lenders, and their respective directors, officers, employees, attorneys, affiliates and subsidiaries, from any and all claims, offsets, defenses and counterclaims arising on or prior to the date hereof in connection with the Loan Documents or the transactions contemplated thereby, such waiver and release being with full knowledge and understanding of the circumstances and effect thereof and after having consulted legal counsel with respect thereto.
+
+        12.  References to Credit Agreement and Ratification. Each reference to the Credit Agreement that is made in the Credit Agreement or any other Related Writing shall hereafter be construed as a reference to the Credit Agreement as amended hereby. Except as otherwise specifically provided herein, all terms and provisions of the Credit Agreement and each other Loan Document are confirmed and ratified and shall remain in full force and effect and be unaffected hereby. This Amendment is a Loan Document.
+
+9
+
+        13. Counterparts. This Amendment may be executed in any number of counterparts, by different parties hereto in separate counterparts and by facsimile or other electronic signature, each of which, when so executed and delivered, shall be deemed to be an original and all of which taken together shall constitute but one and the same agreement.
+
+        14. Headings. The headings, captions and arrangements used in this Amendment are for convenience only and shall not affect the interpretation of this Amendment.
+
+        15. Severability. Any provision of this Amendment that shall be prohibited or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of such prohibition or unenforceability without invalidating the remaining provisions hereof or affecting the validity or enforceability of such provision in any other jurisdiction.
+
+        16. Governing Law. The rights and obligations of all parties hereto shall be governed by the laws of the State of New York.
+
+[Remainder of page intentionally left blank.]
+
+
+4851-4261-6761.10
+10
+
+JURY TRIAL WAIVER. THE BORROWERS, THE ADMINISTRATIVE AGENT AND THE LENDERS, TO THE EXTENT PERMITTED BY LAW, EACH HEREBY WAIVES ANY RIGHT TO HAVE A JURY PARTICIPATE IN RESOLVING ANY DISPUTE, WHETHER SOUNDING IN CONTRACT, TORT OR OTHERWISE, AMONG THE BORROWERS, THE ADMINISTRATIVE AGENT AND THE LENDERS, OR ANY THEREOF, ARISING OUT OF, IN CONNECTION WITH, RELATED TO, OR INCIDENTAL TO THE RELATIONSHIP ESTABLISHED AMONG THEM IN CONNECTION WITH THIS AMENDMENT OR ANY NOTE OR OTHER INSTRUMENT, DOCUMENT OR AGREEMENT EXECUTED OR DELIVERED IN CONNECTION HEREWITH OR THE TRANSACTIONS RELATED THERETO.
+
+IN WITNESS WHEREOF, the parties have executed and delivered this Amendment as of the date first set forth above.
+
+DMC GLOBAL INC.
+By: /s/ Michael Kuta
+Michael Kuta
+Chief Financial Officer
+DMC KOREA, INC.
+By: /s/ Michelle Shepston
+Michelle Shepston
+Secretary
+DYNAENERGETICS US, INC.
+By: /s/ Michelle Shepston
+Michelle Shepston
+Vice President
+
+Signature Page to
+Second Amendment Agreement
+
+
+
+NOBELCLAD EUROPE GMBH
+(f/k/a/ DynaEnergetics Holding GmbH)
+By:
+/s/ Ian Grieves
+Ian Grieves
+Managing Director
+
+Signature Page to
+Second Amendment Agreement
+
+DYNAENERGETICS EUROPE GMBH
+(f/k/a DynaEnergetics Beteiligungs- GmbH)
+By: /s/ Ian Grieves
+Ian Grieves
+Managing Director
+
+Signature Page to
+Second Amendment Agreement
+
+
+KEYBANK NATIONAL ASSOCIATION
+   as the Administrative Agent and as a Lender
+By: /s/ Suzannah Valdivia
+Suzannah Valdivia
+Senior Vice President
+
+Signature Page to
+Second Amendment Agreement
+
+
+BOKF, NA DBA BOK FINANCIAL (F/K/A COLORADO STATE BANK AND TRUST)
+By: /s/ Matthew V. Mason
+Matthew V. Mason
+SVP
+
+Signature Page to
+Second Amendment Agreement
+
+
+U.S. BANK NATIONAL ASSOCIATION
+By: /s/ Courtney A. Boltz
+Courtney A. Boltz
+Vice President
+
+Signature Page to
+Second Amendment Agreement
+
+GUARANTOR ACKNOWLEDGMENT AND AGREEMENT
+
+        The undersigned consent and agree to and acknowledge the terms of the foregoing Second Amendment Agreement dated as of June 25, 2020 (the “Amendment”). The undersigned further agree that the obligations of the undersigned pursuant to the Guaranty of Payment executed by the undersigned in connection with the Credit Agreement (as defined in the Amendment) is hereby ratified and shall remain in full force and effect and be unaffected hereby.
+
+        The undersigned hereby waive and release the Administrative Agent and the Lenders and their respective directors, officers, employees, attorneys, affiliates and subsidiaries from any and all claims, offsets, defenses and counterclaims in connection with the Loan Documents or the transactions contemplated thereby, of any kind or nature, absolute and contingent, of which the undersigned are aware or should be aware as of the date hereof, such waiver and release being with full knowledge and understanding of the circumstances and effect thereof and after having consulted legal counsel with respect thereto.
+
+        JURY TRIAL WAIVER. THE UNDERSIGNED, TO THE EXTENT PERMITTED BY LAW, HEREBY WAIVE ANY RIGHT TO HAVE A JURY PARTICIPATE IN RESOLVING ANY DISPUTE, WHETHER SOUNDING IN CONTRACT, TORT OR OTHERWISE, AMONG THE BORROWERS, THE ADMINISTRATIVE AGENT, THE LENDERS AND THE UNDERSIGNED, OR ANY THEREOF, ARISING OUT OF, IN CONNECTION WITH, RELATED TO, OR INCIDENTAL TO THE RELATIONSHIP ESTABLISHED AMONG THEM IN CONNECTION WITH THIS GUARANTOR ACKNOWLEDGMENT AND AGREEMENT, THE AMENDMENT OR ANY NOTE OR OTHER INSTRUMENT, DOCUMENT OR AGREEMENT EXECUTED OR DELIVERED IN CONNECTION HEREWITH OR THE TRANSACTIONS RELATED THERETO.
+
+DYNAENERGETICS CANADA INC.
+DYNAMIC MATERIALS CORPORATION (HK) LIMITED
+By: /s/ Michael Kuta By: /s/ Michael Kuta
+Michael Kuta Michael Kuta
+Director Director
+Dynamic Materials Corporation (Shanghai) Trading Co. LTD.
+NobelClad Europe SAS
+By: /s/ Michael Kuta By: /s/ Michael Kuta
+Michael Kuta
+DMC Global Inc., as President of  Nobelclad Europe SAS,
+Director by its legal representative Michael Kuta
+NobelClad Europe Holding GmbH
+By: /s/ Antoine Nobili
+Antoine Nobili
+Managing Director
+Guarantor Acknowledgment and Agreement

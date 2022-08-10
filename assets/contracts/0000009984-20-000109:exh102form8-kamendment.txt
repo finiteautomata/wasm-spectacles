@@ -1,0 +1,271 @@
+EX-10.2 3 exh102form8-kamendment.htm AMENDMENT NO. 6 TO CREDIT AGREEMENT
+
+EXHIBIT 10.2
+AMENDMENT NO. 6 TO CREDIT AGREEMENT
+This AMENDMENT NO. 6 TO CREDIT AGREEMENT (this “Agreement”), dated as of October 8, 2020, is by and among BARNES GROUP INC. (“BGI”), a Delaware corporation having its principal place of business at 123 Main Street, P.O. Box 489, Bristol, Connecticut 06011, BARNES GROUP SWITZERLAND GMBH, a limited liability company organized under the laws of Switzerland and an indirect, wholly-owned Subsidiary of BGI, registered at Unterer Einschlag, 2544 Bettlach, Switzerland, acting through its Nevis Branch having its registered office at 1426 Palm Grove, Four Seasons Estates, St. Kitts & Nevis, West Indies (“Barnes Switzerland”), BARNES GROUP ACQUISITION GMBH, a limited liability company incorporated under the laws of Germany and an indirect, wholly-owned Subsidiary of BGI, registered with the commercial register (Handelsregister) of the local court (Amtsgericht) of Freiburg i.Br. under HRB 710836 (“Barnes Germany”), and BARNES GROUP LUXEMBOURG (NO. 1) S.À R.L., a private limited liability company organized under the laws of the Grand Duchy of Luxembourg and a wholly-owned Subsidiary of BGI, having it registered office at 33, rue du Puits Romain, L-8070 Bertrange, Grand-Duchy of Luxembourg and registered with the Luxembourg Trade and Companies Register under number B111817 (“Barnes Luxembourg” and, together with BGI, Barnes Switzerland and Barnes Germany, the “Borrowers”, and each individually, a “Borrower”), and BANK OF AMERICA, N.A. (“Bank of America”), a national banking association, and the other lending institutions signatory hereto (the “Lenders”), and Bank of America, as administrative agent for itself and such other lending institutions (the “Administrative Agent”) with BofA Securities, Inc. (“BofA Securities”), JPMorgan Chase Bank, N.A. and Citizens Bank, N.A., as Co-Lead Arrangers (the “Lead Arrangers”), JPMorgan Chase Bank, N.A. and Citizens Bank, N.A., as Co-Syndication Agents (the “Syndication Agents”), and Truist Bank (formerly Branch Bank & Trust Company), TD Bank, N.A. and Wells Fargo Bank, National Association, as Co-Documentation Agents (the “Documentation Agents”).
+WHEREAS, the Borrowers, the Lenders, the other lending institutions from time to time party thereto and the Administrative Agent are parties to that certain Fifth Amended and Restated Senior Unsecured Revolving Credit Agreement, dated as of September 27, 2011 (as amended by that certain Consent dated as of July 10, 2012, that certain Amendment No. 1 and Consent dated as of February 22, 2013, that certain Amendment No. 2 and Joinder dated as of September 27, 2013, that certain Amendment No. 3 dated as of October 15, 2014, that certain Amendment No. 4 dated as of February 2, 2017, that certain Increase and Amendment No. 5 dated as of October 19, 2018 and as further amended by this Agreement as of the Effective Date (as defined below), the “Credit Agreement”), pursuant to which the Lenders, upon certain terms and conditions, have agreed to make loans and otherwise extend credit to the Borrowers; and
+WHEREAS, at the request of the Borrowers, the Administrative Agent and the Lenders have agreed to amend certain provisions of the Credit Agreement, upon the terms and conditions herein contained;
+NOW THEREFORE, in consideration of the mutual agreements contained in the Credit Agreement and herein and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto hereby agree as follows:
+
+
+
+DB3/ 203491030.7
+
+-2-
+
+§1.Amendment to Credit Agreement. Subject to the satisfaction of the conditions precedent set forth in Section 5 below:
+(a)    §1.1 of the Credit Agreement is amended by inserting the following new definitions therein in their appropriate alphabetical order:
+Affected Financial Institution. (a) Any EEA Financial Institution or (b) any UK Financial Institution.
+Beneficial Ownership Certification. A certification regarding beneficial ownership required by the Beneficial Ownership Regulation.
+Beneficial Ownership Regulation. 31 C.F.R. § 1010.230.
+Covenant Relief Period. The period from and including October 1, 2020 through and including September 30, 2021.
+Resolution Authority. An EEA Resolution Authority or, with respect to any UK Financial Institution, a UK Resolution Authority.
+UK Financial Institution. Any BRRD Undertaking (as such term is defined under the PRA Rulebook (as amended form time to time) promulgated by the United Kingdom Prudential Regulation Authority) or any person subject to IFPRU 11.6 of the FCA Handbook (as amended from time to time) promulgated by the United Kingdom Financial Conduct Authority, which includes certain credit institutions and investment firms, and certain affiliates of such credit institutions or investment firms.
+UK Resolution Authority. The Bank of England or any other public administrative authority having responsibility for the resolution of any UK Financial Institution.
+(b)    §1.1 of the Credit Agreement is amended by amending and restating the definition of “Bail-In Action” in its entirety as follows:
+Bail in Action. The exercise of any Write-Down and Conversion Powers by the applicable Resolution Authority in respect of any liability of an Affected Financial Institution.
+(c)    §1.1 of the Credit Agreement is amended by amending and restating the definition of “Bail-In Legislation” in its entirety as follows:
+Bail-In Legislation. (a) With respect to any EEA Member Country implementing Article 55 of Directive 2014/59/EU of the European Parliament and of the Council of the European Union, the implementing law, rule, regulation or requirement for such EEA Member Country from time to time which is described in the EU Bail-In Legislation Schedule, and (b) with respect to the United Kingdom, Part I of the United Kingdom Banking Act 2009 (as amended from time to time) and any other law, regulation or rule applicable in the United Kingdom relating to the resolution of unsound or failing banks, investment firms or other financial institutions or their affiliates (other than through liquidation, administration or other insolvency proceedings).
+
+-3-
+
+(d)    §1.1 of the Credit Agreement is amended by amending and restating the definition of “Write-Down and Conversion Powers” in its entirety as follows:
+Write-Down and Conversion Powers. (a) With respect to any EEA Resolution Authority, the write-down and conversion powers of such EEA Resolution Authority from time to time under the Bail-In Legislation for the applicable EEA Member Country, which write-down and conversion powers are described in the EU Bail-In Legislation Schedule, and (b) with respect to the United Kingdom, any powers of the applicable Resolution Authority under the Bail-In Legislation to cancel, reduce, modify or change the form of a liability of any UK Financial Institution or any contract or instrument under which that liability arises, to convert all or part of that liability into shares, securities or obligations of that person or any other person, to provide that any such contract or instrument is to have effect as if a right had been exercised under it or to suspend any obligation in respect of that liability or any of the powers under that Bail-In Legislation that are related to or ancillary to any of those powers.
+(e)    §1.2 of the Credit Agreement is amended by adding the following new clause (l) thereto:
+(l)    Any reference herein to a merger, transfer, consolidation, amalgamation, consolidation, assignment, sale, disposition or transfer, or similar term, shall be deemed to apply to a division of or by a limited liability company, or an allocation of assets to a series of a limited liability company (or the unwinding of such a division or allocation), as if it were a merger, transfer, consolidation, amalgamation, consolidation, assignment, sale, disposition or transfer, or similar term, as applicable, to, of or with a separate Person. Any division of a limited liability company shall constitute a separate Person hereunder (and each division of any limited liability company that is a Subsidiary, joint venture or any other like term shall also constitute such a Person or entity).
+(f)    §7.18 of the Credit Agreement is amended by amending and restating such Section in its entirety as follows:
+7.18    Affected Financial Institution. No Loan Party is an Affected Financial Institution.
+(g)    §9.5.1(a) of the Credit Agreement is amended by amending and restating such section in its entirety as follows:
+(a)    the Borrowers are in current compliance with and, giving effect to the proposed acquisition (including any borrowings made or to be made in connection therewith), will continue to be in compliance with all of the covenants in §9 hereof as if the transaction occurred on the first day of the period of measurement; provided that, to the extent such acquisition will be included as an Acquired Business, the Administrative Agent shall have received (i) an Officer’s Certificate certifying compliance with §§10.1, 10.2 and 10.3 as of the last day of the then most recently ended fiscal quarter, on a pro forma historical combined basis (as if such acquisition occurred on the first day of the most recently ended four (4) consecutive fiscal quarter period and, for purposes of determining such compliance, the maximum Leverage Ratio and Senior Leverage Ratio levels pursuant to §§10.2 and 10.3,
+
+-4-
+
+respectively, to be applied for such determination shall be the maximum Leverage Ratio and Senior Leverage Ratio to be applied pursuant to §§10.2 and 10.3, respectively, as of the end of the fiscal quarter in which such acquisition was consummated), and (ii) the related documentation showing the estimated calculations (subject to any adjustments) made in determination thereof;
+(h)    §10.2 of the Credit Agreement is amended by amending and restating such Section in its entirety as follows:
+10.2    Leverage Ratio. As of the end of any fiscal quarter, the Borrowers will not permit the ratio of Consolidated Total Debt (excluding, for purposes of calculation of the Leverage Ratio, reverse interest rate swap contracts) as at such date to Consolidated EBITDA for the four (4) consecutive fiscal quarters then ending (the “Leverage Ratio”) to be more than 3.75:1; provided that at the end of each of the first four fiscal quarters ending after the consummation of any acquisition (commencing with, for the avoidance of doubt, the fiscal quarter in which such acquisition was consummated) permitted under §9.5.1 with an aggregate consideration in excess of $150,000,000 (and for purposes of determining pro forma covenant compliance), the Borrowers will not permit the Leverage Ratio to be more than 4.25:1; provided, further, that the increase in the permitted Leverage Ratio level set forth in the immediately preceding proviso shall have no effect during the Covenant Relief Period. Additionally, at all times when any obligations under the 2014 BGI Note Purchase Agreement remain outstanding, the Borrowers shall comply with the Leverage Ratio as defined in the 2014 BGI Note Purchase Agreement.
+(i)    §10.3 of the Credit Agreement is amended by amending and restating such Section in its entirety as follows:
+10.3    Senior Leverage Ratio. As of the end of any fiscal quarter, the Borrowers will not permit the ratio of Consolidated Senior Debt (excluding, for purposes of calculation of the Senior Leverage Ratio, reverse interest rate swap contracts) as at such date to Consolidated EBITDA for the four (4) consecutive fiscal quarters then ending (the “Senior Leverage Ratio”) to be more than (x) in the case of any fiscal quarter ending during the Covenant Relief Period, 3.75:1 and (y) at any other date of determination, 3.25:1; provided that at the end of each of the first four fiscal quarters ending after the consummation of an acquisition (commencing with, for the avoidance of doubt, the fiscal quarter in which such acquisition was consummated) permitted under §9.5.1 with an aggregate consideration in excess of $150,000,000, the Borrowers will not permit the Senior Leverage Ratio to be more than 3.50:1; provided, further, that the increase in the permitted Senior Leverage Ratio level set forth in the immediately preceding proviso shall have no effect during the Covenant Relief Period. The Borrowers’ obligations to comply with this Section 10.3 shall terminate upon the repayment in full of all obligations under the 2014 BGI Note Purchase Agreement.
+(j)    §16.17 of the Credit Agreement is amended by (i) deleting all appearances of the text “EEA Financial Institution” and inserting in their place the text “Affected Financial Institution” and (ii) deleting all appearances of the text “an EEA Resolution Authority” and inserting in their place the text “the applicable Resolution Authority”.
+(k)    §16 of the Credit Agreement is amended by adding a new § 16.18 to read as follows:
+
+-5-
+
+16.18    Acknowledgement Regarding Any Supported QFCs. To the extent that the Loan Documents provide support, through a guarantee or otherwise, for any Hedge Agreement or any other agreement or instrument that is a QFC (such support, “QFC Credit Support”, and each such QFC, a “Supported QFC”), the parties acknowledge and agree as follows with respect to the resolution power of the Federal Deposit Insurance Corporation under the Federal Deposit Insurance Act and Title II of the Dodd-Frank Wall Street Reform and Consumer Protection Act (together with the regulations promulgated thereunder, the “U.S. Special Resolution Regimes”) in respect of such Supported QFC and QFC Credit Support (with the provisions below applicable notwithstanding that the Loan Documents and any Supported QFC may in fact be stated to be governed by the laws of the State of New York and/or of the United States or any other state of the United States):
+(a)    In the event a Covered Entity that is party to a Supported QFC (each, a “Covered Party”) becomes subject to a proceeding under a U.S. Special Resolution Regime, the transfer of such Supported QFC and the benefit of such QFC Credit Support (and any interest and obligation in or under such Supported QFC and such QFC Credit Support, and any rights in property securing such Supported QFC or such QFC Credit Support) from such Covered Party will be effective to the same extent as the transfer would be effective under the U.S. Special Resolution Regime if the Supported QFC and such QFC Credit Support (and any such interest, obligation and rights in property) were governed by the laws of the United States or a state of the United States. In the event a Covered Party or a BHC Act Affiliate of a Covered Party becomes subject to a proceeding under a U.S. Special Resolution Regime, Default Rights under the Loan Documents that might otherwise apply to such Supported QFC or any QFC Credit Support that may be exercised against such Covered Party are permitted to be exercised to no greater extent than such Default Rights could be exercised under the U.S. Special Resolution Regime if the Supported QFC and the Loan Documents were governed by the laws of the United States or a state of the United States. Without limitation of the foregoing, it is understood and agreed that rights and remedies of the parties with respect to a Defaulting Lender shall in no event affect the rights of any Covered Party with respect to a Supported QFC or any QFC Credit Support.
+(b)    As used in this §16.18, the following terms have the following meanings:
+“BHC Act Affiliate” of a party means an “affiliate” (as such term is defined under, and interpreted in accordance with, 12 U.S.C. 1841(k)) of such party.
+“Covered Entity” means any of the following: (i) a “covered entity” as that term is defined in, and interpreted in accordance with, 12 C.F.R. § 252.82(b); (ii) a “covered bank” as that term is defined in, and interpreted in accordance with, 12 C.F.R. § 47.3(b); or (iii) a “covered FSI” as that term is defined in, and interpreted in accordance with, 12 C.F.R. § 382.2(b).
+“Default Right” has the meaning assigned to that term in, and shall be interpreted in accordance with, 12 C.F.R. §§ 252.81, 47.2 or 382.1, as applicable.
+
+-6-
+
+“QFC” has the meaning assigned to the term “qualified financial contract” in, and shall be interpreted in accordance with, 12 U.S.C. 5390(c)(8)(D).
+§2.        Amendment to Compliance Certificate. Exhibit C to the Credit Agreement is hereby deleted in its entirety and replaced with Exhibit C (Form of Compliance Certificate) attached hereto as Annex A.
+§3.        Representations and Warranties. As of the Effective Date (as defined below), each of the Borrowers and the Guarantors, as the case may be, represents and warrants to the Lenders and the Administrative Agent as follows:
+(a)Representations and Warranties in Credit Agreement. The representations and warranties of the Borrowers contained in the Credit Agreement were true and correct in all material respects when made (other than any representation and warranty that is expressly qualified by materiality, in which case such representation and warranty is true and correct in all respects), and continue to be true and correct on the Effective Date, except for any such representations or warranties which by their terms refer to a specific date.
+(b)    Authority, Etc. The execution and delivery by each of the Borrowers and the Guarantors of this Agreement and the performance by each of the Borrowers and the Guarantors of all of its respective agreements and obligations of this Agreement and the other documents delivered in connection therewith (collectively, the “Agreement Documents”), the Credit Agreement as modified hereby and the other Loan Documents (i) are within the corporate or company authority of such Borrower or such Guarantor, (ii) have been duly authorized by all necessary corporate or company proceedings by such Borrower and such Guarantor, (iii) do not conflict with or result in any breach or contravention of any provision of law, statute, rule or regulation to which such Borrower or such Guarantor is subject or any judgment, order, writ, injunction, license or permit applicable to such Borrower or such Guarantor or any provision of the Governing Documents of such Borrower or such Guarantor, (iv) do not conflict with any agreement or other instrument binding upon, such Borrower or such Guarantor, except where any such conflict would not have a Material Adverse Effect, and (v) do not require the approval or consent of, or filing with, any Person other than those already obtained.
+(c)    Enforceability of Obligations. This Agreement, the Agreement Documents, the Credit Agreement as modified hereby, and the other Loan Documents constitute the legal, valid and binding obligations of such Borrower or such Guarantor, enforceable against such Borrower or such Guarantor in accordance with their respective terms.
+(d)    No Default. Immediately before and after giving effect to this Agreement, no Default or Event of Default exists under the Credit Agreement or any other Loan Document.
+(e)    Beneficial Ownership Certification. As of the Effective Date, the information included in the Beneficial Ownership Certifications for (i) Barnes Germany dated September 25, 2019 (titled “Reconfirmation of U.S. Beneficial Ownership”), (ii) Barnes Switzerland dated October 2, 2020 (titled “U.S. Client Certification of Beneficial Ownership Global Banking and Markets”), and (iii) Barnes Luxembourg dated August 8, 2018 (titled “Client Certification of Beneficial Ownership Global Banking and Markets-U.S.”), are true and correct in all respects.
+
+-7-
+
+§2.    Affirmation of Borrowers and Guarantors.
+(a)    Each Borrower hereby affirms its absolute and unconditional promise to pay to each Lender and the Administrative Agent the Revolving Credit Loans, the Swing Line Loans, the Reimbursement Obligations and all other amounts due under the Notes, the Letters of Credit, the Credit Agreement as modified hereby and the other Loan Documents, at the times and in the amounts provided for therein. Each Borrower confirms and agrees that all references to the term “Credit Agreement” in the other Loan Documents shall hereafter refer to the Credit Agreement as modified hereby.
+(b)    Each of the undersigned Guarantors hereby acknowledges that it has read and is aware of the provisions of this Agreement. Each such Guarantor hereby reaffirms its absolute and unconditional guaranty of the applicable Borrower’s payment and performance of its obligations to the Lenders and the Administrative Agent under the Credit Agreement as modified hereby. Each Guarantor hereby confirms and agrees that all references to the term “Credit Agreement” in the Guaranty to which it is a party shall hereafter refer to the Credit Agreement as modified hereby.
+§3.    Conditions to Effectiveness. This Agreement shall not become effective until each of the following conditions is satisfied (the date, if any, on which such conditions shall have first been satisfied being referred to herein as the “Effective Date”):
+(a)    Agreement Documents, Etc. The Administrative Agent shall have received this Agreement executed and delivered by the Borrowers, the Required Lenders, and the Administrative Agent.
+(b)    Corporate or Other Action. All corporate (or other) action necessary for the valid execution, delivery and performance by each of the Borrowers of this Agreement, the other Agreement Documents and the other Loan Documents to which it is or is to become a party shall have been duly and effectively taken, and satisfactory evidence thereof shall have been provided to the Administrative Agent.
+(c)    Amendment to Note Purchase Agreement. The Administrative Agent shall have received a duly executed and delivered copy of an amendment to the 2014 BGI Note Purchase Agreement, amending Sections 1.3 and 1.4 thereof in a manner consistent with the amendments to Sections 9.5.1(a), 10.2 and 10.3 set forth above.
+(d)    Amendment Fee. The Borrowers shall have paid to the Administrative Agent, for the account of each Lender which executes this Amendment (including Bank of America), an amendment fee of 10.0 basis points on the Commitments of such Lenders in effect as of the date hereof. Such amendment fee shall be for the Lenders’ agreement to enter into this Agreement, for the account of such Lenders, and shall be payable in full upon the Effective Date.
+(e)    Other Fees and Expenses. The Borrowers shall have paid to the Administrative Agent (i) any fees due and owing to the Administrative Agent or its affiliate in connection with this Amendment as may be separately agreed to in a separate writing among BGI, the Administrative Agent and its affiliate and (ii) all reasonable out-of-pocket costs and expenses incurred or sustained by the Administrative Agent in connection with the preparation of this Agreement (including reasonable legal fees and disbursements of the Administrative Agent’s Special Counsel, to the extent
+
+-8-
+
+reflected in a statement of such counsel rendered to the Borrowers at least one Business Day prior to the Effective Date) due and payable on or prior to the Effective Date.
+§1.        Satisfaction of Conditions. Without limiting the generality of the foregoing Section 5, for purposes of determining compliance with the conditions specified in Section 5, each Lender that has signed this Agreement shall be deemed to have consented to, approved or accepted, or to be satisfied with, each document or other matter required thereunder to be consented to or approved by or acceptable or satisfactory to a Lender unless the Administrative Agent shall have received notice from such Lender prior to the date hereof specifying its objection thereto.
+§2.        Miscellaneous Provisions.
+(a)        This Agreement shall constitute one of the Loan Documents referred to in the Credit Agreement. Except as otherwise expressly provided by this Agreement, all of the terms, conditions and provisions of the Credit Agreement shall remain the same. It is declared and agreed by each of the parties hereto that the Credit Agreement, as modified hereby, shall continue in full force and effect, and that this Agreement and the Credit Agreement shall be read and construed as one instrument. Nothing contained in this Agreement shall be construed to imply a willingness on the part of the Lenders or the Administrative Agent to grant any similar or other future consents, amendments or waivers with respect to any of the terms and conditions of the Credit Agreement or the other Loan Documents or shall in any way prejudice, impair or effect any rights or remedies of the Lenders and the Administrative Agent under the Credit Agreement or the other Loan Documents.
+(b)        THIS AGREEMENT IS A CONTRACT UNDER THE LAWS OF THE STATE OF NEW YORK AND SHALL, PURSUANT TO NEW YORK GENERAL OBLIGATIONS LAW §5-1401, BE CONSTRUED IN ACCORDANCE WITH AND GOVERNED BY THE LAW OF THE STATE OF NEW YORK. EACH BORROWER CONSENTS AND AGREES THAT IT WILL NOT COMMENCE ANY ACTION, LITIGATION OR PROCEEDING OF ANY KIND OR DESCRIPTION, WHETHER IN LAW OR EQUITY, WHETHER IN CONTRACT OR IN TORT OR OTHERWISE, AGAINST THE ADMINISTRATIVE AGENT, ANY LENDER, THE L/C ISSUER, OR ANY RELATED PARTY OF THE FOREGOING IN ANY WAY RELATING TO THIS AGREEMENT OR ANY OTHER LOAN DOCUMENT OR THE TRANSACTIONS RELATING HERETO OR THERETO, IN ANY FORUM OTHER THAN THE COURTS OF THE STATE OF NEW YORK SITTING IN NEW YORK COUNTY AND OF THE UNITED STATES DISTRICT COURT OF THE SOUTHERN DISTRICT OF NEW YORK, AND ANY APPELLATE COURT FROM ANY THEREOF, AND EACH OF THE PARTIES HERETO IRREVOCABLY AND UNCONDITIONALLY SUBMITS TO THE EXCLUSIVE JURISDICTION OF SUCH COURTS AND AGREES THAT ALL CLAIMS IN RESPECT OF ANY SUCH ACTION, LITIGATION OR PROCEEDING MAY BE HEARD AND DETERMINED IN SUCH NEW YORK STATE COURT OR, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, IN SUCH FEDERAL COURT AND CONSENTS TO SERVICE OF PROCESS IN ANY SUCH ACTION, LITIGATION OR PROCEEDING BEING MADE UPON SUCH BORROWER IN ACCORDANCE WITH LAW AT THE ADDRESS SPECIFIED IN THE CREDIT AGREEMENT. EACH BORROWER HEREBY WAIVES ANY OBJECTION THAT IT MAY NOW OR HEREAFTER HAVE TO THE
+
+-9-
+
+VENUE OF ANY SUCH SUIT OR ANY SUCH COURT OR THAT SUCH SUIT IS BROUGHT IN AN INCONVENIENT COURT.
+(c)        This Agreement may be executed in any number of counterparts, but all such counterparts shall together constitute but one instrument. Delivery of an executed signature page of this Agreement by facsimile or electronic transmission shall be effective as delivery of a manually executed counterpart thereof. In making proof of this Agreement it shall not be necessary to produce or account for more than one counterpart signed by each party hereto by and against which enforcement hereof is sought. For the avoidance of doubt, the authorization under this paragraph may include, without limitation, use or acceptance by the Administrative Agent or any Lender of a manually signed counterpart which has been converted into electronic form (such as scanned into PDF format), or an electronically signed counterpart converted into another format, for transmission, delivery and/or retention. Headings or captions used in this Agreement are for convenience of reference only and shall not define or limit the provisions hereof.
+[Remainder of Page Intentionally Left Blank]
+
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as an agreement as of the date first written above.
+
+BARNES GROUP INC.
+
+
+
+
+By: /s/ Michael V. Kennedy
+
+Name: Michael V. Kennedy
+Title: Vice President, Tax & Treasury
+
+
+
+Signature Page to Amendment No. 6 to Credit Agreement
+
+
+BARNES GROUP LUXEMBOURG (NO. 1) S.À R.L.
+By: /s/ Michael V. Kennedy
+
+Name: Michael V. Kennedy
+Title: Class B Manager
+
+
+Signature Page to Amendment No. 6 to Credit Agreement
+
+
+BARNES GROUP SWITZERLAND GmbH, Nevis Branch
+By: /s/ Michael V. Kennedy
+
+Name: Michael V. Kennedy
+Title: Managing Director     
+
+Signature Page to Amendment No. 6 to Credit Agreement
+
+
+BARNES GROUP ACQUISITION GmbH
+By: /s/ Michael V. Kennedy    
+Name:
+Michael V. Kennedy
+Title:
+Managing Director
+
+
+
+Signature Page to Amendment No. 6 to Credit Agreement
+
+
+BANK OF AMERICA, N.A., individually, as a Lender, Issuing Bank and as Swing Line Lender
+By: /s/ Heather R. Wharton
+
+Name: Heather R. Wharton
+Title: Senior Vice President
+BANK OF AMERICA, N.A., as Administrative Agent
+By: /s/ Liliana Claar
+
+Name: Liliana Claar
+Title: Vice President
+
+
+Signature Page to Amendment No. 6 to Credit Agreement
+
+
+CITIZENS BANK, N.A., as a Lender
+By: /s/ Kathryn H. Lambrecht
+
+Name: Kathryn H. Lambrecht
+Title: Vice President    
+
+Signature Page to Amendment No. 6 to Credit Agreement
+
+
+JPMORGAN CHASE BANK, N.A., as a Lender
+By: /s/ Peter Predun
+
+Name: Peter Predun
+Title: Executive Director    
+WELLS FARGO BANK, N.A., as a Lender
+By: /s/ Kurt A. Filosa
+
+Name: Kurt A. Filosa
+Title: Vice President    
+
+Signature Page to Amendment No. 6 to Credit Agreement
+
+
+TRUIST BANK, formerly known as BRANCH BANKING & TRUST COMPANY, as a Lender
+By: /s/ Matthew J. Davis
+
+Name: Matthew J. Davis
+Title: Senior Vice President    
+
+Signature Page to Amendment No. 6 to Credit Agreement
+
+
+TD BANK, N.A., as a Lender
+By: /s/ Bernadette Collins
+
+Name: Bernadette Collins
+Title: Senior Vice President    
+
+Signature Page to Amendment No. 6 to Credit Agreement
+
+
+PNC BANK, NATIONAL ASSOCIATION, as a Lender
+By: /s/ Garreth Boyle
+
+Name: Garreth Boyle
+Title: Senior Vice President    
+
+Signature Page to Amendment No. 6 to Credit Agreement
+
+
+U.S. BANK NATIONAL ASSOCIATION, as a Lender
+By: /s/ Mark Irey
+
+Name: Mark Irey
+Title: Vice President    
+
+Signature Page to Amendment No. 6 to Credit Agreement
+
+
+HSBC BANK USA, N.A., as a Lender
+By: /s/ Senarath Weerasinghe
+
+Name: Senarath Weerasinghe
+Title: Senior Vice President    
+
+Signature Page to Amendment No. 6 to Credit Agreement
+
+
+WEBSTER BANK, NATIONAL ASSOCIATION, as a Lender
+By: /s/ George G Sims
+
+Name: George G Sims
+Title: Senior Vice President    
+DBS BANK LTD., as a Lender
+By: /s/ Terence Yong
+
+Name: Terence Yong
+Title: Managing Director    
+
+Signature Page to Amendment No. 6 to Credit Agreement
+
+
+THE BANK OF NEW YORK MELLON, as a Lender
+By: /s/ Thomas J. Tarasovich, Jr.
+
+Name: Thomas J. Tarasovich, Jr.
+Title: Vice President    
+
+Signature Page to Amendment No. 6 to Credit Agreement
+
+
+THE HUNTINGTON NATIONAL BANK, as a Lender
+By: /s/ Scott Pritchett
+
+Name: Scott Pritchett
+Title: Staff Officer    
+
+Signature Page to Amendment No. 6 to Credit Agreement
+
+
+THE NORTHERN TRUST COMPANY, as a Lender
+By: /s/ Eric Siebert
+
+Name: Eric Siebert
+Title: SVP
+
+
+
+
+
+DB3/ 203491030.7

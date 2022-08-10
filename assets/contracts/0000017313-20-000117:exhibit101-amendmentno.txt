@@ -1,0 +1,125 @@
+EX-10.1 2 exhibit101-amendmentno.htm EX-10.1
+Exhibit 10.1
+AMENDMENT NO. 1 TO
+AMENDED AND RESTATED SENIOR SECURED REVOLVING CREDIT AGREEMENT
+
+This AMENDMENT NO. 1 TO AMENDED AND RESTATED SENIOR SECURED REVOLVING CREDIT AGREEMENT (this “Amendment”), dated as of December 10, 2020, is made with respect to the Amended and Restated Senior Secured Revolving Credit Agreement, dated as of December 21, 2018 (as amended, restated, supplemented or otherwise modified from time to time, the “Credit Agreement”), among CAPITAL SOUTHWEST CORPORATION, a Texas corporation (the “Borrower”), the several banks and other financial institutions or entities from time to time party to the Credit Agreement as lenders (the “Lenders”), and ING CAPITAL LLC, as administrative agent for the Lenders under the Credit Agreement (in such capacity, together with its successors in such capacity, the “Administrative Agent”) and TEXAS CAPITAL BANK, N.A., as documentation agent. Capitalized terms not otherwise defined herein shall have the meanings ascribed to them in the Credit Agreement (as amended hereby).
+W I T N E S S E T H:
+WHEREAS, pursuant to the Credit Agreement, the Lenders have made certain loans and other extensions of credit to the Borrower; and
+WHEREAS, the Borrower has requested that the Lenders and the Administrative Agent amend certain provisions of the Credit Agreement and the Lenders signatory hereto and the Administrative Agent have agreed to do so on the terms and subject to the conditions contained in this Amendment.
+NOW THEREFORE, in consideration of the promises and the mutual agreements contained herein, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto hereby agree as follows:
+SECTION I AMENDMENTS TO CREDIT AGREEMENT
+Effective as of the Amendment No. 1 Effective Date (as defined below), and subject to the terms and conditions set forth below, the Credit Agreement is hereby amended as follows:
+(a)Section 2.07(f)(i)(B) of the Credit Agreement is hereby amended by deleting the text thereof in its entirety and replacing it with the following:
+“(B)    immediately after giving effect to such Commitment Increase, the total Commitments of all of the Lenders hereunder shall not exceed $400,000,000;”
+SECTION II MISCELLANEOUS
+2.1. Conditions to Effectiveness of Amendment. This Amendment shall become effective as of the date (such date, the “Amendment No. 1 Effective Date”) on which the Borrower shall have
+
+    satisfied each of the following conditions precedent (unless a condition shall have been waived in accordance with Section 9.02 of the Credit Agreement):
+(a)Executed Counterparts. The Administrative Agent shall have received from each party hereto either (1) a counterpart of this Amendment signed on behalf of such party or (2) written evidence satisfactory to the Administrative Agent (which may include telecopy or e-mail transmission of a signed signature page to this Amendment) that such party has signed a counterpart of this Amendment.
+(b)Corporate Documents. The Administrative Agent shall have received (x) signature and incumbency certificates of the officers of such Person executing this Amendment and the other Loan Documents to which it is a party and (y) true and complete resolutions of the Board of Directors or similar governing body of the Borrower approving and authorizing the execution, delivery and performance of this Amendment and the other Loan Documents to which it is a party or by which it or its assets may be bound as of the date hereof, certified as of the date hereof by an officer of the Borrower as being in full force and effect without modification or amendment.
+(c)Consents. The Borrower shall have obtained and delivered to the Administrative Agent certified copies of all consents, approvals, authorizations, registrations, or filings (other than any filing required under the Exchange Act or the rules or regulations promulgated thereunder, including any filing required on Form 8-K) required to be made or obtained by the Borrower and all guarantors in connection with this Amendment and any other evidence reasonably requested by, and reasonably satisfactory to, the Administrative Agent as to compliance with all material legal and regulatory requirements applicable to the Obligors, and such consents, approvals, authorizations, registrations, filings and orders shall be in full force and effect and all applicable waiting periods shall have expired and no investigation or inquiry by any Governmental Authority regarding this Amendment or any transaction being financed with the proceeds of the Loans shall be ongoing.
+(d)No Litigation. There shall not exist any action, suit, investigation, litigation or proceeding or other legal or regulatory developments pending or, to the knowledge of the Borrower, threatened in any court or before any arbitrator or Governmental Authority that relates to this Amendment or that could reasonably be expected to have a Material Adverse Effect.
+(e)Fees and Expenses. The Borrower shall have paid in full, to the extent not paid pursuant to Section 2.4, to the Administrative Agent and the Lenders all fees and expenses (including reasonable legal fees to the extent invoiced) related to this Amendment owing on or prior to the Amendment No. 1 Effective Date.
+(f)Default. No Default or Event of Default, nor any default or event of default that permits (or which upon notice, lapse of time or both, would permit) the acceleration of any Material Indebtedness, shall have occurred and be continuing immediately before and after giving effect to this Amendment.
+2
+    (g)Other Documents. The Administrative Agent shall have received such other documents, instruments, certificates, opinions and information as the Administrative Agent may reasonably request in form and substance reasonably satisfactory to the Administrative Agent.
+2.2.Representations and Warranties. To induce the other parties hereto to enter into this Amendment, the Borrower represents and warrants to the Administrative Agent and each of the Lenders that, as of the date hereof and after giving effect to this Amendment:
+(a)This Amendment has been duly authorized, executed and delivered by the Borrower and the Subsidiary Guarantors, and constitutes a legal, valid and binding obligation of the Borrower and the Subsidiary Guarantors, enforceable in accordance with its terms, except as enforceability may be limited by (a) bankruptcy, insolvency, reorganization, moratorium or similar laws of general applicability affecting the enforcement of creditors’ rights and (b) the application of general principles of equity (regardless of whether such enforceability is considered in a proceeding in equity or at law). The Credit Agreement, as amended by this Amendment, constitutes the legal, valid and binding obligation of the Borrower enforceable in accordance with its respective terms, except as such enforceability may be limited by (a) bankruptcy, insolvency, reorganization, moratorium or similar laws of general applicability affecting the enforcement of creditors’ rights and (b) the application of general principles of equity (regardless of whether such enforceability is considered in a proceeding in equity or at law).
+(b)The representations and warranties set forth in Article III of the Credit Agreement and the representations and warranties in each other Loan Document are true and correct in all material respects (other than any representation or warranty already qualified by materiality or Material Adverse Effect, which shall be true and correct in all respects) on and as of the date hereof as if made on and as of such date (or, if any such representation or warranty is expressly stated to have been made as of a specific date, as of such specific date).
+2.3.Counterparts. This Amendment may be executed in counterparts (and by different parties hereto on different counterparts), each of which shall constitute an original, but all of which when taken together shall constitute a single contract. This Amendment and any separate letter agreements with respect to fees payable to the Administrative Agent constitute the entire contract between and among the parties relating to the subject matter hereof and supersede any and all previous agreements and understandings, oral or written, relating to the subject matter hereof. Delivery of an executed counterpart of a signature page to this Amendment by telecopy or electronic mail shall be effective as delivery of a manually executed counterpart of this Amendment.
+2.4.Payment of Expenses. The Borrower agrees to pay and reimburse, pursuant to Section 9.03 of the Credit Agreement, the Administrative Agent for all of its reasonable and documented out-of-pocket costs and expenses incurred in connection with this Amendment.
+2.5.GOVERNING LAW. THIS AMENDMENT SHALL BE CONSTRUED IN ACCORDANCE WITH AND GOVERNED BY THE LAW OF THE STATE OF NEW YORK.
+3
+    2.6.WAIVER OF JURY TRIAL. EACH PARTY HERETO HEREBY WAIVES, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, ANY RIGHT IT MAY HAVE TO A TRIAL BY JURY IN ANY LEGAL PROCEEDING DIRECTLY OR INDIRECTLY ARISING OUT OF OR RELATING TO THIS AMENDMENT OR THE TRANSACTIONS CONTEMPLATED HEREBY (WHETHER BASED ON CONTRACT, TORT OR ANY OTHER THEORY). EACH PARTY HERETO (A) CERTIFIES THAT NO REPRESENTATIVE, AGENT OR ATTORNEY OF ANY OTHER PARTY HAS REPRESENTED, EXPRESSLY OR OTHERWISE, THAT SUCH OTHER PARTY WOULD NOT, IN THE EVENT OF LITIGATION, SEEK TO ENFORCE THE FOREGOING WAIVER AND (B) ACKNOWLEDGES THAT IT AND THE OTHER PARTIES HERETO HAVE BEEN INDUCED TO ENTER INTO THIS AMENDMENT BY, AMONG OTHER THINGS, THE MUTUAL WAIVERS AND CERTIFICATIONS IN THIS SECTION.
+2.7.Incorporation of Certain Provisions. The provisions of Sections 9.01, 9.07, 9.09 and 9.12 of the Credit Agreement are hereby incorporated by reference mutatis mutandis as if fully set forth herein.
+2.8.Effect of Amendment. Except as expressly set forth herein, this Amendment shall not by implication or otherwise limit, impair, constitute a waiver of, or otherwise affect the rights and remedies of the Lenders, the Administrative Agent, the Collateral Agent, the Issuing Bank, the Borrower or the Subsidiary Guarantors under the Credit Agreement or any other Loan Document, and, except as expressly set forth herein, shall not alter, modify, amend or in any way affect any of the other terms, conditions, obligations, covenants or agreements contained in the Credit Agreement or any other Loan Document, all of which are ratified and affirmed in all respects and shall continue in full force and effect. Nothing herein shall be deemed to entitle any Person to a consent to, or a waiver, amendment, modification or other change of, any of the terms, conditions, obligations, covenants or agreements contained in the Credit Agreement or any other Loan Document in similar or different circumstances. This Amendment shall apply and be effective only with respect to the provisions amended herein of the Credit Agreement. Upon the effectiveness of this Amendment, each reference in the Credit Agreement to “this Agreement,” “hereunder,” “hereof,” “herein” or words of similar import shall mean and be a reference to the Credit Agreement as amended by this Amendment and each reference in any other Loan Document shall mean the Credit Agreement as amended hereby. This Amendment shall constitute a Loan Document.
+2.9.Consent and Affirmation. Without limiting the generality of the foregoing, by its execution hereof, the Borrower and each Subsidiary Guarantor, to the extent applicable, hereby, as of the date hereof, (i) consents to this Amendment and the transactions contemplated hereby, (ii) agrees that the Guarantee and Security Agreement and each of the other Security Documents is in full force and effect, (iii) affirms its obligations under the Guarantee and Security Agreement, confirms its guarantee (solely in the case of the Subsidiary Guarantors) and confirms its grant of a security interest in its assets as Collateral for the Secured Obligations (as defined in the Guarantee and Security Agreement), and (iv) acknowledges and affirms that such guarantee and/or grant, as applicable, is in full force and effect in respect of, and to secure, the Secured Obligations (as defined in the Guarantee and Security Agreement).
+4
+    2.10.Release. The Borrower hereby acknowledges and agrees that: (a) neither it nor any of its Affiliates has any claim or cause of action against the Administrative Agent, the Collateral Agent, the Issuing Bank or any Lender (or any of their respective Affiliates, officers, directors, employees, attorneys, consultants or agents) under the Credit Agreement and the other Loan Documents (and each other document entered into in connection therewith), and (b) the Administrative Agent, the Collateral Agent, the Issuing Bank and each Lender has heretofore properly performed and satisfied in a timely manner all of its obligations to the Obligors and their Affiliates under the Credit Agreement and the other Loan Documents (and each other document entered into in connection therewith) that are required to have been performed on or prior to the date hereof. Accordingly, for and in consideration of the agreements contained in this Amendment and other good and valuable consideration, the Borrower (for itself and its Affiliates and the successors, assigns, heirs and representatives of each of the foregoing) (collectively, the “Releasors”) does hereby fully, finally, unconditionally and irrevocably release and forever discharge the Administrative Agent, the Collateral Agent, each Lender and each of their respective Affiliates, officers, directors, employees, attorneys, consultants and agents (collectively, the “Released Parties”) from any and all debts, claims, obligations, damages, costs, attorneys’ fees, suits, demands, liabilities, actions, proceedings and causes of action, in each case, whether known or unknown, contingent or fixed, direct or indirect, and of whatever nature or description, and whether in law or in equity, under contract, tort, statute or otherwise, which any Releasor has heretofore had or now or hereafter can, shall or may have against any Released Party by reason of any act, omission or thing whatsoever done or omitted to be done on or prior to the date hereof directly arising out of, connected with or related to this Amendment, the Credit Agreement or any other Loan Document (or any other document entered into in connection therewith).
+[Signature pages follow]
+5
+
+IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be duly executed and delivered as of the day and year first above written.
+CAPITAL SOUTHWEST CORPORATION,
+as Borrower
+By: /s/ Michael S. Sarner
+Name: Michael S. Sarner
+Title: Chief Financial Officer
+CAPITAL SOUTHWEST EQUITY INVESTMENTS, INC., as Subsidiary Guarantor
+By: /s/ Michael S. Sarner
+Name: Michael S. Sarner
+Title: President
+CAPITAL SOUTHWEST MANAGEMENT CORPORATION, as Subsidiary Guarantor
+By: /s/ Michael S. Sarner
+Name: Michael S. Sarner
+Title: Chief Financial Officer
+
+
+
+[Signature Page to Amendment No. 1 to A&R Senior Secured Revolving Credit Agreement]
+    
+ING CAPITAL LLC, as Administrative Agent and as a Lender
+By: /s/ Patrick Frisch
+Name: Patrick Frisch
+Title: Managing Director
+By: /s/ Richard Troxel
+Name: Richard Troxel
+Title: Vice President
+
+[Signature Page to Amendment No. 1 to A&R Senior Secured Revolving Credit Agreement]
+    
+
+TIAA, FSB, as a Lender
+By: /s/ Martin O’Brien
+Name: Martin O’Brien
+Title: Director
+
+
+[Signature Page to Amendment No. 1 to A&R Senior Secured Revolving Credit Agreement]
+     Customers Bank, as a Lender
+By: /s/ Lyle P. Cunningham
+Name: Lyle P. Cunningham
+Title: Executive Vice President
+
+
+[Signature Page to Amendment No. 1 to A&R Senior Secured Revolving Credit Agreement]
+     Texas Capital Bank, N.A., as a Lender
+By: /s/ Matt Love
+Name: Matt Love
+Title: Senior Vice President
+
+[Signature Page to Amendment No. 1 to A&R Senior Secured Revolving Credit Agreement]
+     Cadence Bank, N.A., as a Lender
+By: /s/ Hannah Dempsey
+Name: Hannah Dempsey
+Title: VP
+
+[Signature Page to Amendment No. 1 to A&R Senior Secured Revolving Credit Agreement]
+     Zions Bancorporation, N.A. dba Amegy Bank, as a Lender
+By: /s/ Kathy Magee
+Name: Kathy Magee
+Title: Senior Vice President
+[Signature Page to Amendment No. 1 to A&R Senior Secured Revolving Credit Agreement]
+     Hancock Whitney Bank, as a Lender
+By: /s/ Ian McKie
+Name: Ian McKie
+Title: Vice President
+
+[Signature Page to Amendment No. 1 to A&R Senior Secured Revolving Credit Agreement]
+     Prosperity Bank, successor by merger to LegacyTexas Bank, as a Lender
+By: /s/ Michael Murray
+Name: Michael Murray
+Title: SVP
+
+[Signature Page to Amendment No. 1 to A&R Senior Secured Revolving Credit Agreement]
+     Dallas Capital Bank, as a Lender
+By: /s/ Garrett Hill
+Name: Garrett Hill
+Title: SVP
+[Signature Page to Amendment No. 1 to A&R Senior Secured Revolving Credit Agreement]
+     CIT Bank, N.A. (as successor by merger to Mutual of Omaha Bank), as a Lender
+By: /s/ Robert L. Klein
+Name: Robert L. Klein
+Title: Director
+[Signature Page to Amendment No. 1 to A&R Senior Secured Revolving Credit Agreement]

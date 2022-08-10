@@ -1,0 +1,145 @@
+EX-10.1 2 a8-k20210301xexhibit101.htm EX-10.1
+
+Exhibit 10.1
+
+SECOND AMENDMENT TO
+SIXTH AMENDED AND RESTATED CREDIT FACILITY AGREEMENT
+
+THIS SECOND AMENDMENT TO SIXTH AMENDED AND RESTATED CREDIT FACILITY AGREEMENT (this “Amendment”) is made effective as of the 1st day of March, 2021 by and between IEC ELECTRONICS CORP., a corporation formed under the laws of the State of Delaware (“Borrower”) and MANUFACTURERS AND TRADERS TRUST COMPANY (the “Lender”).
+
+W I T N E S S E T H:
+WHEREAS, the parties hereto are parties to a Sixth Amended and Restated Credit Facility Agreement dated as of June 4, 2020, as amended by that certain Consent and First Amendment to Sixth Amended and Restated Credit Facility Agreement dated as of September 30, 2020 (as amended, and as the same may be further amended, modified, supplemented or restated from time to time, the “Credit Agreement”);
+
+WHEREAS, (i) Borrower has agreed to lease to the County of Monroe Industrial Development Agency, a public benefit corporation of the state of New York (“Agency”), an interest in the property secured by the Monroe County Mortgage (as hereinafter defined) pursuant to a certain Lease Agreement dated as of February 1, 2021 by and between Borrower, as lessor, and Agency, as lessee (as the same may from time to time be extended, amended, restated, supplemented or otherwise modified, the “Lease Agreement”) and (ii) Agency has agreed to sublease to Borrower the property secured by the Monroe County Mortgage pursuant to a certain Leaseback Agreement dated as of February 1, 2021 by and between Agency, as sublessor, and Borrower, as sublessee (as the same may from time to time be extended, amended, restated, supplemented or otherwise modified, the “Leaseback Agreement”) (the execution and delivery of the Lease Agreement and the Leaseback Agreement are collectively referred to herein as the “Transaction”, and the Lease Agreement, the Leaseback Agreement and each other agreement, certificate, instrument and other document executed and delivered pursuant thereto are collectively referred to herein as the “Transaction Documents”); and
+
+WHEREAS, Borrower has (i) requested that the Lender consent, and the Lender has agreed to consent, to the Transaction and (ii) requested and the Lender has agreed make certain amendments to the Credit Agreement, all on the terms and conditions herein set forth.
+
+NOW, THEREFORE, for due consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:
+
+    1.    DEFINITIONS. All capitalized terms used herein and not defined shall have the meaning given such terms in the Credit Agreement.
+
+    2.    CONSENT AND AGREEMENT. Lender hereby consents to the Transaction (including Borrower’s execution, delivery and performance, in accordance with their terms, of
+
+
+the Transaction Documents); provided, that (i) the Transaction takes place as described in the Transaction Documents, (ii) the Transaction is consummated on terms and conditions and pursuant to documents in form and substance acceptable to Lender, and (iii) at closing of the Transaction, Borrower delivers to Lender a fully executed copy each Transaction Document and such other documents as Lender may request, certified by Borrower as true and complete copies.
+
+3.    AMENDMENTS. Effective as of the Second Amendment Closing Date:
+
+(A)    Section 1.1 of the Credit Agreement is hereby amended by amending and restating the following definitions in their entirety to read as follows:
+
+“Monroe County Mortgage” means the Mortgage in favor of the Lender made by Borrower covering the premises described therein located in Monroe County, New York and dated as of the Second Amendment Closing Date.
+
+“Mortgage(s)” means, collectively, the Wayne County Mortgage and the Monroe County Mortgage.
+
+“Mortgage Secured Term Loan” means the Three Million Seven Hundred Twenty Thousand Dollars ($3,720,000) aggregate original outstanding principal balance term loan described in Article 2A hereof.
+
+“Mortgage Secured Term Loan Note” means that certain Term Note dated as of the Second Amendment Closing Date by Borrower for the benefit of the Lender in the principal amount of Three Million Seven Hundred Twenty Thousand Dollars ($3,720,000) as described in Article 2A hereof, as such note may be amended, modified, restated or replaced from time to time.
+
+“Notes” means the Revolving Credit Note and the Mortgage Secured Term Loan Note.
+
+“Second Amendment Closing Date” means March 1, 2021.
+
+(B)    Article 2A of the Credit Agreement is hereby added in its entirety to read as follows:
+
+“ARTICLE 2A – MORTGAGE SECURED TERM LOAN
+
+2A.1     Mortgage Secured Term Loan. The Lender agrees, subject to this Article 2A and the other terms and conditions hereinafter set forth, to make the Mortgage Secured Term Loan to Borrower in a principal amount of Three Million Seven Hundred Twenty Thousand Dollars ($3,720,000).
+
+2A.2    Mortgage Secured Term Loan Note. Interest shall accrue on the Mortgage Secured Term Loan in accordance with the Mortgage Secured Term Loan Note. Borrower’s obligation to repay the Mortgage Secured Term Loan shall be evidenced by
+- 2 -
+
+
+the Mortgage Secured Term Loan Note. Notwithstanding anything to the contrary herein, any and all obligations outstanding under the Mortgage Secured Term Loan Note shall be subject to the terms contained in the Mortgage Secured Term Loan Note and shall be payable in full to the Lender under the terms described therein.
+
+2A.3    Use of Proceeds. The proceeds of the Mortgage Secured Term Loan shall be used by Borrower to refinance the existing credit line used to finance the purchase of the premises described in the Monroe County Mortgage.
+
+(C)    The introductory paragraph to Section 9.1 of the Credit Agreement is hereby amended and restated in its entirety to read as follows:
+
+“9.1    Environmental Representations. Borrower represents and warrants that to the best of Borrower’s knowledge and except as disclosed in (i) the Environmental Report delivered to the Lender related to the property and improvements located at 1450 Mission Avenue NE, Albuquerque, New Mexico, (ii) the Phase II Environmental Site Assessment prepared for Celmet by LCS Inc. dated December 7, 2009, (iii) the Landfill Methane Gas Evaluation Report prepared for Celmet by Bergmann Associates dated March 10, 2010, (iv) the IEC Electronics Corp. Final Phase I Environmental Site Assessment and Limited Compliance Review Southern California Braiding Company, Inc. prepared by ERM and dated December 13, 2010, (v) the Phase I Environmental Assessment Report (Project No. 15R2534.39) prepared for the Lender by LCS, Inc. dated June 25, 2015, (vi) the Phase I Environmental Site Assessment Report (Project No. 15R2533.39) prepared for the Lender by LCS, Inc. dated July 2, 2015, (vii) the Phase II Environmental Site Assessment Report (Project No. 15R2533.22) prepared for the Lender by LCS, Inc. dated August 28, 2015, (viii) the Soil and Groundwater Management Plan (the “SGMP”) for the premises described in the Wayne County Mortgage (the “Newark Site”), prepared by Borrower for submittal to the New York State Department of Environmental Conservation (the “DEC”) regarding DEC Spill No. 1506227, submitted to DEC in October 2015, (ix) the DEC letter to Borrower regarding the SGMP and closure of Spill No. 1506227, dated October 6, 2015, (x) the LCS, Inc. “Site Status Update” letter-report (Project No. 15R2533.39/.22/.70), prepared for the Lender regarding the Newark Site and the DEC’s October 6, 2015 closure letter for Spill No. 1506227, dated October 13, 2015, (xi) the Environmental Audit letter-report for the General Technology Corp. facility at 1450 Mission Avenue NE, in Albuquerque, New Mexico (the “Albuquerque Site”), prepared by AMEC Geomatrix and submitted to the Crane Company, dated October 12, 2009, and the Overview of Findings and Corrective Actions for the Albuquerque Site, prepared by AMEC and submitted to the Crane Company, dated November 18, 2009, both of which are listed in Schedule B of the Environmental Compliance and Indemnity Agreement given by GTC and Borrower to the Lender for the Albuquerque Site, dated December 16, 2009, (xii) the Environmental Site Assessment Report (Project No. 09R2963.29) prepared for the Lender by LCS, Inc. dated December 14, 2009 and (xiii) the Environmental Report delivered to the Lender related to the property and improvements located at 50 Jet View Drive, Rochester, New York:”
+
+- 3 -
+
+
+(D)    Schedule 1.1(A) Security Documents attached to the Credit Agreement shall be replaced in its entirety by the Schedule 1.1(A) Security Documents attached to this Amendment.
+
+4.    REPRESENTATIONS AND WARRANTIES. Borrower hereby makes the following representations and warranties to the Lender as of the Second Amendment Closing Date, each of which shall survive the effectiveness of this Amendment and continue in effect as of the date hereof so long as any Obligations remain unpaid:
+
+4.1    Authorization. Borrower has full power and authority to borrow under the Credit Agreement, as amended by this Amendment, and to execute, deliver and perform this Amendment and any documents delivered in connection with it and all other related documents and transactions, all of which have been duly authorized by all proper and necessary corporate action. The execution and delivery of this Amendment by Borrower will not violate the provisions of, or cause a default under, Borrower’s Organizational Documents, any law or any agreement to which Borrower is a party or by which it or its assets are bound.
+
+4.2    Binding Effect. This Amendment has been duly executed and delivered by Borrower, and the Credit Agreement, as amended by this Amendment, is the legal, valid and binding obligation of Borrower enforceable against Borrower in accordance with its terms, except to the extent that enforcement of any such obligations of Borrower may be limited by bankruptcy, insolvency, reorganization or similar laws of general application affecting the rights and remedies of creditors generally.
+
+4.3    Consents; Governmental Approvals. Except as may be specifically identified in a written agreement to which Borrower and the Lender are parties, no consent, approval or authorization of, or registration, declaration or filing with, any Governmental Authority or any other Person is required in connection with the valid execution, delivery or performance of this Amendment or any other document executed and delivered by Borrower herewith or in connection with any other transactions contemplated hereby.
+
+4.4    Representations and Warranties. The representations and warranties contained in the Credit Agreement, as amended by this Amendment, are true on and as of the date hereof with the same force and effect as if made on and as of the date hereof, except for those representations and warranties that by their terms are made as of a specific date, which representations and warranties Borrower hereby remakes as of such date.
+
+4.5    No Events of Default. No Default or Event of Default has occurred, except that waived by this Amendment, and no Default or Event of Default is continuing.
+
+4.6    No Material Misstatements. Neither this Amendment nor any document delivered to the Lender by Borrower or any Credit Party to induce the Lender to enter into this Amendment contains any untrue statement of a material fact or, taken as a whole with the other Loan Documents, omits to state a material fact necessary to make the statements herein or therein not misleading in light of the circumstances in which they were made.
+
+- 4 -
+
+
+5.    CONDITIONS OF AMENDMENT. The Lender shall have no obligation to execute or deliver this Amendment until each of the following conditions shall have been satisfied:
+
+5.1    Authorization. Borrower shall have taken all appropriate corporate action to authorize, and its directors, if and as required by Borrower’s Organizational Documents, shall have adopted resolutions authorizing the execution, delivery and performance of this Amendment and the taking of all other action contemplated by this Amendment, and the Lender shall have been furnished with copies of all such corporate action, certified by an authorized officer of Borrower as being true and correct and in full force and effect without amendment on the date hereof, and such other corporate documents as the Lender may request.
+
+5.2    Consents. Borrower shall have delivered to the Lender any and all consents, if any, necessary to permit the transactions contemplated by this Amendment.
+
+5.3    Expenses. Borrower shall have paid to the Lender all reasonable fees and disbursements of the Lender’s counsel and all reasonable out-of-pocket expenses incurred by the Lender, recording fees, search fees, charges and taxes in connection with this Amendment and all transactions contemplated hereby or made other arrangements with respect to such payment as are satisfactory to the Lender.
+
+5.4    Deliveries. Borrower shall have delivered to the Lender, each of the following documents, duly executed by Borrower or as specified: (i) this Amendment, (ii) the Mortgage Secured Term Loan Note, (iii) a Reaffirmation executed by the Borrower and each of the Guarantors, (iii) the Monroe County Mortgage, (iv) the Transaction Documents executed by the Borrower and Agency, and (v) such additional documents, consents, authorizations, insurance certificates, governmental consents and other instruments and agreements as the Lender or its counsel may reasonably require (including for purposes of evidencing and/or facilitating Borrower’s and the Lender’s compliance with all applicable laws and regulations, including all “know your customer” rules in effect from time to time pursuant to the Bank Secrecy Act, USA PATRIOT Act and other applicable laws) and all documents, instruments and other legal matters in connection with the Loan Documents shall be reasonably satisfactory to the Lender and its counsel.
+
+5.5    Representations and Warranties. The representations and warranties set forth in this Amendment and in the Loan Documents shall be true, correct and complete as of the Second Amendment Closing Date, except those representations and warranties that by their terms are made as of a specific date, which representations and warranties Borrower hereby remakes as of such date.
+
+5.6    No Event of Default. No Event of Default or Default shall have occurred as of the Second Amendment Closing Date, except that waived by this Amendment, and no Event of Default or Default shall be continuing after giving effect to such waiver.
+
+- 5 -
+
+
+5.7    No Material Misstatements. Neither this Amendment nor any document delivered to the Lender by or on behalf of Borrower to induce the Lender to enter into this Amendment contains any untrue statement of a material fact or, taken as a whole with the other Loan Documents, omits to state a material fact necessary to make the statements herein or therein not misleading in light of the circumstances in which they were made.
+
+5.8    No Material Adverse Change. As of the Second Amendment Closing Date, no Material Adverse Effect shall have occurred with respect to Borrower and its Subsidiaries taken as a whole since September 30, 2020, including, without limitation, the Credit Parties’ ability to meet the projections delivered by Borrower to the Lender prior to the Second Amendment Closing Date.
+
+5.9    No Litigation. As of the Second Amendment Closing Date there shall not be any claim, action, suit, investigation, litigation, or legal proceeding pending or threatened in any court or before any arbitrator or governmental authority which relates to the legality, validity or enforceability of the Credit Agreement (as amended by this Amendment) or the transactions contemplated hereby or that, if adversely determined, is not adequately covered by insurance or would have a Material Adverse Effect on Borrower or its Subsidiaries.
+
+5.10    Diligence. The Lender shall have satisfactorily completed all business, financial, tax, collateral due diligence. The Lender shall have satisfactorily completed survey, title insurance, hazard insurance, appraisal, environmental, and flood review due diligence.
+
+5.11    Commitment Fee. Borrower shall pay to the Lender a commitment fee equal to 0.25% of the final commitment amount in the Mortgage Secured Term Loan Note.
+
+6.    MISCELLANEOUS.
+
+6.1    Reaffirmation of Security Documents. As of the Second Amendment Closing Date, Borrower hereby (a) acknowledges and reaffirms the execution and delivery of the Security Documents, (b) acknowledges, reaffirms and agrees that the security interests granted under the Security Documents continue in full force and effect as security for all indebtedness, obligations and liabilities under the Loan Documents, as may be amended from time to time, and (c) remakes the representations and warranties set forth in the Security Documents, except those representations and warranties that by their terms are made as of a specific date, which representations and warranties Borrower hereby remakes as of such date.
+
+6.2    Entire Agreement; Binding Effect. The Credit Agreement, as amended by this Amendment, represents the entire understanding and agreement between the parties hereto with respect to the subject matter hereof. This Amendment supersedes all prior negotiations and any course of dealing between the parties with respect to the subject matter hereof. This Amendment shall be binding upon Borrower and its successors and assigns, and shall inure to the benefit of, and be enforceable by the Lender and its successors and assigns. The Credit Agreement, as amended hereby, is in full force and effect and, as so amended, is hereby ratified and reaffirmed in its entirety.
+- 6 -
+
+
+
+6.3    Severability. If any provision of this Amendment shall be determined by a court to be invalid, such provision shall be deemed modified to conform to the minimum requirements of applicable law.
+
+6.4    Headings. The section headings inserted in this Amendment are provided for convenience of reference only and shall not be used in the construction or interpretation of this Amendment.
+
+6.5    Counterparts. This Amendment may be executed by the parties hereto in separate counterparts (including those delivered by facsimile or other electronic means), each of which, when so executed and delivered, shall be an original, but all such counterparts shall together constitute one and the same instrument.
+
+[signature page follows]
+- 7 -
+
+
+[Second Amendment to Sixth Amended and Restated Credit Facility Agreement]
+IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be signed by their duly authorized officers as of the day and year first above written.
+
+MANUFACTURERS AND TRADERS TRUST COMPANY
+By:    /s/ John Casey            
+Name:    John Casey
+Title:    Vice President
+IEC ELECTRONICS CORP.
+By:    /s/ Thomas L. Barbato        
+    Name: Thomas L. Barbato
+Title:    Chief Financial Officer
+
+
+
+SCHEDULE 1.1(A)
+SECURITY DOCUMENTS*
+
+*Schedule has been omitted pursuant to Item 601(a)(5) of Regulation S-K.  The registrant will provide a copy of any omitted exhibit or schedule to the Securities and Exchange Commission or its staff upon request.

@@ -1,0 +1,301 @@
+EX-10.1 3 exhibit101-06072017.htm FIRST AMENDMENT TO CREDIT AGREEMENT, DATED JUNE 6, 2017
+
+Exhibit 10.1
+FIRST AMENDMENT
+This FIRST AMENDMENT, dated as of June 6, 2017 (this “Amendment Agreement”), to the CREDIT AGREEMENT, dated as of February 23, 2016 (the “Existing Credit Agreement” and as amended by this Amendment Agreement, the “Amended Credit Agreement”), among COMTECH TELECOMMUNICATIONS CORP., a Delaware corporation (the “Borrower”), the lenders and the ISSUING BANK party thereto and CITIBANK, N.A., as Administrative Agent (the “Administrative Agent”) (capitalized terms used but not defined herein having the meaning provided in the Existing Credit Agreement).
+W I T N E S S E T H
+WHEREAS, Citibank, N.A. has been appointed to act as lead arranger and bookrunner in connection with this Amendment Agreement (in such capacities, the “Arranger”);
+WHEREAS, the Borrower, the Administrative Agent, the Lenders and the Issuing Bank desire to make certain modifications to the Existing Credit Agreement as provided herein:
+NOW, THEREFORE, in consideration of the above recitals and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:
+SECTION 1.Amendment of the Existing Credit Agreement. Effective as of the First Amendment Effective Date (as defined below), the Existing Credit Agreement is hereby amended as follows:
+
+(a)The following definitions are added in the appropriate alphabetical order to Section 1.01 of the Existing Credit Agreement:
+
+“First Amendment” means that certain First Amendment to this Agreement, dated as of the First Amendment Effective Date, among, inter alia, the Borrower, the Administrative Agent and the Lenders party thereto.
+“First Amendment Effective Date” means June 6, 2017.
+(b)The definition of “Applicable Rate” in Section 1.01 of the Existing Credit Agreement is amended by replacing the table at the end of the first paragraph thereof in its entirety as follows:
+
+“
+Leverage Ratio:
+ABR
+Spread
+Eurodollar
+Spread
+Commitment Fee
+Rate
+Category 1
+≥ 4.25 to 1.00
+
+2.750%
+3.750%
+0.500%
+Category 2
+< 4.25 to 1.00
+
+2.250%
+3.250%
+0.450%
+
+
+
+- 2 -
+
+Leverage Ratio:
+ABR
+Spread
+Eurodollar
+Spread
+Commitment Fee
+Rate
+but ≥ 3.75 to 1.00
+
+      Category 3
+< 3.75 to 1.00
+but ≥ 3.25 to 1.00
+
+1.750%
+2.750%
+0.400%
+Category 4
+< 3.25 to 1.00
+
+1.250%
+2.250%
+0.350%
+
+Notwithstanding the foregoing, (i) for the period beginning on the First Amendment Effective Date and until the delivery to the Administrative Agent pursuant to Section 5.01(b) of the consolidated financial statements of the Borrower as of and for the fiscal quarter of the Borrower ended April 30, 2017, the Applicable Rate shall be the applicable rate per annum set forth above in Category 3 and (ii) for the purpose of determining the Applicable Rate in connection with the delivery of financial statements for the fiscal quarter ended April 30, 2017, the Leverage Ratio as of April 30, 2017 shall be determined as if the First Amendment Prepayment (as defined in the First Amendment) occurred immediately prior to April 30, 2017.”
+(c)The definition of “Consolidated EBITDA” in Section 1.01 of the Existing Credit Agreement is amended as follows:
+
+(i)Clause (a)(v) of the definition of “Consolidated EBITDA” is amended by adding “(or any amendment thereto)” immediately after “any Indebtedness”.
+
+(ii)Clause (b)(ii)(B) of the definition of “Consolidated EBITDA” is amended by adding “, in each case solely to the extent such accrual or cash reserves actually lowered Consolidated EBITDA in the applicable prior period” after “anticipated cash charges”.
+
+(d)    The definition of “Excess Cash Flow” in Section 1.01 of the Existing Credit Agreement is amended and restated in its entirety as follows:
+
+““Excess Cash Flow” means, for any fiscal year of the Borrower, the excess of (a) Consolidated EBITDA of the Borrower for such fiscal year (for the avoidance of doubt, on an actual basis, and not on a Pro Forma Basis), over (b) the sum, without duplication, of (i) consolidated interest expense for such fiscal year paid in cash, (ii) the amount of any Taxes payable in cash by the Borrower and its Subsidiaries with respect to such fiscal year, (iii) Capital Expenditures made in cash during such fiscal year (except to the extent attributable to the incurrence of Capital Lease Obligations or otherwise financed from Excluded Sources (excluding proceeds of the Revolving Loans)), (iv) any cash dividends paid by the Borrower during such fiscal year pursuant to Section 6.08(a)(iv) or 6.08(a)(vii), (v) cash consideration paid during such fiscal year by the
+
+
+- 3 -
+
+Borrower or any of its Subsidiaries to make Permitted Acquisitions or other investments (other than in the Borrower or any Subsidiary) permitted under Section 6.04 (except to the extent financed from Excluded Sources), (vi) the aggregate principal amount of Long-Term Indebtedness repaid or prepaid by the Borrower and its Subsidiaries during such fiscal year, excluding (x) Indebtedness in respect of Revolving Loans (unless there is a corresponding reduction in the Aggregate Revolving Credit Commitment), (y) Term Loans prepaid pursuant to subsection (a) or (d) of Section 2.10 (including the Term Loans prepaid pursuant to the First Amendment) and (z) repayments or prepayments of Long-Term Indebtedness financed from Excluded Sources, and (vii) prepayments of Term Loans financed from the proceeds of unsecured Indebtedness. For purposes of calculating Excess Cash Flow for the fiscal year ended July 31, 2016, (I) references in this definition to “fiscal year of the Borrower” and “such fiscal year” shall be replaced with “the period from May 1, 2016 to and including July 31, 2016” and (II) any measurement periods contemplated by the definition of any capitalized term in this definition shall be similarly construed as appropriate to give effect to clause (I) of this sentence. For the avoidance of doubt, for purposes of calculating Excess Cash Flow for the fiscal year ended July 31, 2017, the modifications made to the definition of Consolidated EBITDA in the First Amendment shall apply for the entirety of the fiscal year ended July 31, 2017.”
+
+(e)    The definition of “Fixed Charge Coverage Numerator” is amended by adding the following language after “(which amount shall be deemed to be $4,869,000, $4,845,000, $4,844,000 and $4,797,000 for the fiscal quarters ended April 30, 2015, July 31, 2015, October 31, 2015 and January 31, 2016, respectively)” in such definition as follows:
+
+(i)“; provided that, for the purposes of this definition, in determining the amount of any Restricted Payments made pursuant to Section 6.08(a)(vii) prior to February 17, 2017, it shall be assumed that all ordinary quarterly cash dividends paid with respect to the Borrower’s common stock prior to February 17, 2017 were in an amount of $0.10 per share (notwithstanding the actual amount of such dividends)”.
+
+(f)The definition of “Leverage Ratio” in Section 1.01 of the Existing Credit Agreement is amended by deleting the words “minus the lesser of (i) Available Cash on such date and (ii) $50,000,000”.
+
+(g)The definition of “Permitted Acquisition” in Section 1.01 of the Existing Credit Agreement is amended as follows:
+(i)Clause (g) of the definition of “Permitted Acquisition” is amended and restated in its entirety as follows:
+
+“(g) on a Pro Forma Basis after giving effect to such acquisition, the sum of (x) the aggregate unused and available Revolving Commitments and (y) Available Cash shall be no less than $40,000,000; provided that Revolving Commitments under clause (x) above shall be disregarded for purposes of this clause (g) if and to the extent the borrowing thereof would result in the Borrower not being in compliance with Section
+
+
+- 4 -
+
+6.13 for the last day of the then most recently completed fiscal quarter (assuming such Revolving Commitments were borrowed on such last day).”
+(ii)Clause (i) of the definition of “Permitted Acquisition” is amended and restated in its entirety as follows:
+
+“(i) the Leverage Ratio, calculated on a Pro Forma Basis after giving effect to such acquisition as of the last day of the most recently ended fiscal quarter of the Borrower, is less than 2.75 to 1.00; provided that this clause (i) shall not apply to any purchase or other acquisition, by merger or otherwise, that is funded solely with proceeds of unsecured Indebtedness.”
+(iii)The words “and (k)” in the definition of “Permitted Acquisition” are replaced by “, (k) any and all Indebtedness for borrowed money of such Person and its subsidiaries (in the case of an acquisition of Equity Interests) or otherwise assumed by the Borrower or any of its Subsidiaries in connection with such acquisition, in each case at the time of such acquisition, shall be repaid and discharged in full on the closing date thereof and (l)”.
+
+(iv)The words “(a) through (j)” in the definition of “Permitted Acquisition” are replaced by “(a) through (k)”.
+
+(h)The definition of “Quarterly Dividend Amount” in Section 1.01 of the Existing Credit Agreement is amended and restated in its entirety as follows:
+
+““Quarterly Dividend Amount” means, with respect to any fiscal quarter of the Borrower, an amount equal to (i) $2,500,000 plus (ii) if and to the extent the Borrower issues shares of its common stock for cash proceeds during the period beginning on the First Amendment Effective Date and ending immediately prior to the commencement of such fiscal quarter (other than any such issuance to a Subsidiary), an additional amount equal to $0.10 multiplied by the aggregate number of shares of such common stock so issued during such period plus (iii) if the Borrower consummates any Permitted Acquisitions after the First Amendment Effective Date and prior to the commencement of such fiscal quarter and the consideration paid by the Borrower for any such acquisition is solely in the form of shares of its common stock, an additional amount equal to $0.10 multiplied by the number of shares of such common stock so issued as consideration for each such Permitted Acquisition.”
+
+(i)Section 2.10(c)(i) of the Existing Credit Agreement is amended and restated in its entirety as follows:
+
+“in the case of a Prepayment Event described in clause (c) of the definition of the term “Prepayment Event”, 50% of the amount of such Net Proceeds.”
+
+(j)Section 2.10(c)(ii) of the Existing Credit Agreement is amended and restated in its entirety as follows:
+
+
+
+- 5 -
+
+“in the case of a Prepayment Event described in clause (d) of the definition of the term “Prepayment Event”, 100% of the amount of such Net Proceeds until the aggregate amount of prepayments made pursuant to this subclause (ii) from and after the First Amendment Effective Date equals $50,000,000 and, thereafter, 50% of the amount of such Net Proceeds.”
+
+(k)Section 2.10(d) of the Existing Credit Agreement is amended by (i) adding “and any prepayments made pursuant to the First Amendment” after “Excluded Sources” and (ii) adding the following sentence at the end thereof:
+
+“Notwithstanding the foregoing, in the event that the Leverage Ratio at the end of a fiscal year is less than 1.75 to 1.00, the Borrower shall not be required to prepay any Term Borrowings pursuant to this clause (d) with any Excess Cash Flow for such fiscal year.”
+
+(l)Section 2.10 of the Existing Credit Agreement is amended by adding the following new clause (g) at the end thereof:
+
+“(g)    In the event that the Borrower consummates a Permitted Acquisition in which the consideration includes the Borrower’s common stock (or other stock of the Borrower), the Borrower shall be required to prepay Term Borrowings (and, following the repayment of all Term Borrowings, any outstanding Revolving Borrowings, without a corresponding reduction in the Aggregate Revolving Credit Commitment) in an aggregate amount equal to the product of (x) $0.60 multiplied by (y) the number of shares of the Borrower’s stock issued in connection with such Permitted Acquisition.”
+
+(m)Section 6.01(a)(xiv) of the Existing Credit Agreement is amended by adding the words “(plus, solely in the event the Borrower incurs Indebtedness that is convertible into common stock of the Borrower pursuant to this clause (xiv), $25,000,000)” after “125,000,000”.
+
+(n)Section 6.08(a)(iii) of the Existing Credit Agreement is amended by replacing the “$1,000,000” contained therein with “$2,000,000”.
+
+(o)Section 6.08(a)(vii) of the Existing Credit Agreement is amended and restated in its entirety as follows:
+
+“(vii)    the Borrower may declare and pay ordinary quarterly cash dividends with respect to the issued and outstanding shares of its common stock (other than shares held in treasury) in an aggregate amount per share not to exceed, in any fiscal quarter of the Borrower, $0.10 per share, so long as (A) the aggregate amount of all such dividends declared and paid in any fiscal quarter of the Borrower does not exceed the Quarterly Dividend Amount for such fiscal quarter, (B) no Default or Event of Default has occurred and is continuing or would result therefrom and (C) after giving effect to any such dividend, the Borrower will be in compliance, on a Pro Forma Basis, with the financial covenants set forth in Section 6.12 (as of the last day of the then most recently completed fiscal quarter of the Borrower for which financial statements were required to have been
+
+
+- 6 -
+
+delivered pursuant to Section 5.01(a) or 5.01(b)) and Section 6.13 (as of the last day of the then most recently completed fiscal quarter of the Borrower) (it being agreed that the dividend in question giving rise to the requirement to be in such compliance with Section 6.12 shall not be included in clause (b)(iii) of the Fixed Charge Coverage Numerator if such clause (b)(iii) otherwise already includes four ordinary quarterly cash dividend payments).”
+(p)Section 6.12 of the Existing Credit Agreement is amended and restated in its entirety as follows:
+
+“SECTION 6.12 Fixed Charge Coverage Ratio. The Borrower will not permit the ratio of (a) the Fixed Charge Coverage Numerator to (b) the Fixed Charge Coverage Denominator (the “Fixed Charge Coverage Ratio”), in each case for any period of four consecutive fiscal quarters of the Borrower ending on the last day of any fiscal quarter of the Borrower, commencing with the period ending April 30, 2016, to be less than 1.25 to 1.00.”
+(q)Section 6.13 of the Existing Credit Agreement is amended and restated in its entirety as follows:
+
+“SECTION 6.13 Leverage Ratio. (a) The Borrower will not permit the Leverage Ratio, calculated as of the last day of any fiscal quarter of the Borrower, commencing with the fiscal quarter of the Borrower ending April 30, 2017, to exceed (subject to Section 6.13(b)) the ratio set forth below opposite the period during which such last day occurs:
+
+Period
+Ratio
+February 1, 2017 through April 30, 2017
+4.25 to 1.00
+May 1, 2017 through July 31, 2017
+3.75 to 1.00
+August 1, 2017 through October 31, 2017
+3.50 to 1.00
+November 1, 2017 through January 31, 2018
+3.35 to 1.00
+February 1, 2018 through April 30, 2018
+3.10 to 1.00
+May 1, 2018 and thereafter
+3.00 to 1.00
+
+(b)In the event that, after the First Amendment Effective Date, the Borrower incurs at least $75,000,000 aggregate principal amount of unsecured Indebtedness for borrowed money (other than from any Subsidiary), then the ratios listed in the table in Section 6.13(a) under the column heading “Ratio” that correspond to (i) the row in the table in Section 6.13(a) that includes the date on which the Borrower first incurs such
+
+
+- 7 -
+
+aggregate amount of Indebtedness and (ii) each succeeding row listed in the table in Section 6.13(a), if any, shall, in each case, be increased by 0.50 to 1.00.”
+
+SECTION 2.First Amendment Effective Date Payments.
+
+(a)On the First Amendment Effective Date, the Borrower shall (i) prepay Term Borrowings pursuant to Section 2.10(a) of the Amended Credit Agreement in an aggregate principal amount equal to $22,500,000 (the “First Amendment Prepayment”) and (ii) pay the accrued interest on the principal amount of Term Borrowings so repaid pursuant to Section 2.12(d) of the Amended Credit Agreement. The Borrower hereby directs, as provided for in Section 2.09(c)(i) of the Amended Credit Agreement, that the First Amendment Prepayment be applied solely to reduce the scheduled repayment of the Term Borrowings to be made on the Term Maturity Date.
+
+(b)On the First Amendment Effective Date, the Borrower shall pay (or cause to be paid) to the Administrative Agent, for the account of each Lender that consents to this Amendment Agreement by May 30, 2017, a consent fee in an amount equal to 0.25% of the aggregate principal amount of such Lender’s outstanding Term Loans and Revolving Commitments (whether or not drawn) on the First Amendment Effective Date (such principal amount being determined immediately after the First Amendment Prepayment), which fee will be earned and due and payable in full on the First Amendment Effective Date.
+
+SECTION 3.Conditions to Effectiveness of Agreement. The amendment of the Existing Credit Agreement and associated provisions set forth herein shall become effective as of the first date on which the following occur or have been waived in accordance with Section 9.02 of the Existing Credit Agreement (the “First Amendment Effective Date”):
+
+(a)The Administrative Agent shall have received duly executed counterparts of (i) this Amendment Agreement from (A) the Borrower, (B) the Lenders, (C) the Issuing Bank and (D) the Administrative Agent and (ii) the Reaffirmation Agreement attached hereto from each Loan Party.
+
+(b)The Borrower shall have delivered to the Administrative Agent a written notice of prepayment with respect to the First Amendment Prepayment as required by Section 2.10(f) of the Existing Credit Agreement. The Borrower shall have paid to the Administrative Agent, for the account of the applicable payees, all fees, principal, accrued interest and other amounts, in each case, due and payable on or prior to the First Amendment Effective Date pursuant to this Amendment Agreement or as separately agreed by the Borrower and the Arranger, and the Borrower shall also have reimbursed all reasonable and invoiced out-of-pocket expenses of the Administrative Agent and the Arranger relating hereto (including those of counsel to the Administrative Agent and the Arranger).
+
+(c)At the time of and immediately after giving effect to this Amendment Agreement, no Default or Event of Default shall have occurred and be continuing or would result therefrom.
+
+(d)The representations and warranties made or deemed to be made in Section 4 of this Amendment Agreement shall be true and correct in all material respects, except for any
+
+
+- 8 -
+
+such representation or warranty that is qualified by materiality or by reference to Material Adverse Effect, which shall be true and correct in all respects.
+
+(e)The Administrative Agent shall have received a certificate, dated the First Amendment Effective Date and signed by a Financial Officer of the Borrower, certifying to the matters set forth in clauses (c) and (d) of this Section 3.
+
+The Administrative Agent shall notify the Borrower and the Lenders of the First Amendment Effective Date and such notice shall be conclusive and binding. Notwithstanding the foregoing, this Amendment Agreement shall not become effective if each of the conditions set forth or referred to in this Section 3 has not been satisfied at or prior to 11:59 p.m., New York City time, on June 6, 2017 (it being understood that any such failure of this Amendment Agreement to become effective will not affect any rights or obligations of any Person under the Existing Credit Agreement).
+SECTION 4.Representations and Warranties. The Borrower hereby represents and warrants to the Administrative Agent and each Lender on the First Amendment Effective Date that:
+
+(a)This Amendment Agreement has been duly authorized, executed and delivered by the Borrower and constitutes a legal, valid and binding obligation of the Borrower, enforceable against the Borrower in accordance with its terms, subject to applicable bankruptcy, insolvency, reorganization, moratorium or other laws affecting creditors’ rights generally and subject to general principles of equity, regardless of whether considered in a proceeding in equity or at law.
+
+(b)The representations and warranties of each Loan Party set forth in the Loan Documents are true and correct in all material respects, except for any such representation or warranty that is qualified by materiality or by reference to Material Adverse Effect, which are true and correct in all respects, in each case on and as of the First Amendment Effective Date with the same effect as if made on and as of the First Amendment Effective Date (except for any such representation or warranty that by its terms is made only as of an earlier date, which representation and warranty is true and correct in all material respects as of such earlier date, except for any such representation and warranty that is qualified by materiality or by reference to Material Adverse Effect, which are true and correct in all respects as of such earlier date), and except that the phrase “Immediately after the consummation of Transactions to occur on the Effective Date” in Section 3.17 of the Existing Credit Agreement shall be deemed to be “After giving effect to the transactions to be consummated on the First Amendment Effective Date”.
+
+(c)No Default or Event of Default has occurred and is continuing or would result from this Amendment Agreement.
+
+SECTION 5.Effects on Loan Documents; No Novation. (a) Except as expressly set forth herein, this Amendment Agreement shall not alter, modify, amend or in any way affect any of the terms, conditions, obligations, covenants or agreements contained in the Existing Credit Agreement, the Amended Credit Agreement or any other Loan Document, all of
+
+
+- 9 -
+
+which shall continue to be in full force and effect and are hereby in all respects ratified and confirmed.
+
+(b) The execution, delivery and effectiveness of this Amendment Agreement shall not operate as a waiver of any right, power or remedy of any Lender or the Administrative Agent under any of the Loan Documents, nor constitute a waiver of any provision of the Loan Documents or in any way limit, impair or otherwise affect the rights and remedies of the Administrative Agent or the Lenders under the Loan Documents. Nothing herein shall be deemed to entitle the Borrower or any other Loan Party to a consent to, or a waiver, amendment, modification or other change of, any of the terms, conditions, obligations, covenants or agreements contained in the Amended Credit Agreement or any other Loan Document in similar or different circumstances.
+(c)On and after the First Amendment Effective Date, each reference in the Amended Credit Agreement to “this Agreement”, “hereunder”, “hereof”, “herein” or words of like import, and each reference to the “Credit Agreement”, “thereunder”, “thereof”, “therein” or words of like import (in each case, if referring to the Existing Credit Agreement) in any other Loan Document, shall be deemed a reference to the Amended Credit Agreement. The Borrower and the other parties hereto acknowledge and agree that this Amendment Agreement shall constitute a Loan Document for all purposes of the Existing Credit Agreement, the Amended Credit Agreement and the other Loan Documents. Without limiting the generality of the foregoing, and for the avoidance of doubt, the modifications made to the Existing Credit Agreement pursuant to this Amendment Agreement shall apply to the application of Sections 6.12 and 6.13 of the Amended Credit Agreement for the fiscal quarter ended April 30, 2017 (notwithstanding that the First Amendment Effective Date is after April 30, 2017).
+
+(d)Neither this Amendment Agreement nor the effectiveness of the Amended Credit Agreement shall extinguish the obligations for the payment of money outstanding under the Existing Credit Agreement or discharge or release the Lien or priority of any Security Document or any other security therefor or any guarantee thereof. Nothing herein contained shall be construed as a substitution or novation of the Obligations outstanding under the Existing Credit Agreement or the Security Documents or instruments guaranteeing or securing the same, which shall remain in full force and effect, except as modified hereby. Nothing expressed or implied in this Amendment Agreement, the Amended Credit Agreement or any other document contemplated hereby or thereby shall be construed as a release or other discharge of any Loan Party under any Loan Document from any of its obligations and liabilities thereunder.
+
+SECTION 6.Further Assurances. The Borrower and each other Loan Party agrees to take any further action that is reasonably requested by Administrative Agent to effect the purposes of this Amendment Agreement and the transactions contemplated hereby.
+
+SECTION 7.GOVERNING LAW, JURISDICTION, WAIVER OF JURY TRIAL. THE PROVISIONS OF SECTIONS 9.09 AND 9.10 OF THE EXISTING CREDIT AGREEMENT ARE HEREBY INCORPORATED BY REFERENCE HEREIN, MUTATIS MUTANDIS.
+
+
+- 10 -
+
+
+SECTION 8.Counterparts. This Amendment Agreement may be executed in counterparts (and by different parties hereto in different counterparts), each of which shall constitute an original, but all of which when taken together shall constitute a single contract. Delivery of an executed counterpart of a signature page of this Amendment Agreement by facsimile transmission or other electronic imaging shall be effective as delivery of a manually executed counterpart of this Amendment Agreement.
+
+SECTION 9.Notices. All notices, requests and demands to or upon the respective parties hereto shall be given in the manner, and become effective, as set forth in Section 9.01 of the Amended Credit Agreement.
+
+[Remainder of page intentionally left blank.]
+
+
+
+
+IN WITNESS WHEREOF, the parties hereto have caused this Amendment Agreement to be duly executed and delivered by their respective proper and duly authorized officers as of the day and year first above written.
+
+COMTECH TELECOMMUNICATIONS
+CORP.
+
+By:
+    Name: Michael D. Porcelain
+  Title: Senior Vice President and Chief
+          Financial Officer
+
+
+
+
+
+
+CITIBANK, N.A., as the Administrative Agent, a Lender and the Issuing Bank
+
+By:
+    Name: Stuart N. Berman
+  Title: Authorized Signatory
+
+
+
+
+SIGNATURE PAGE TO
+FIRST AMENDMENT TO
+COMTECH TELECOMMUNICATIONS CORP.
+CREDIT AGREEMENT
+
+The undersigned, by executing this signature page as a Lender agrees to the terms of this Amendment Agreement and the transactions contemplated hereby and consents to the amendment of the Existing Credit Agreement effected hereby.
+
+
+
+Name of Lender:___________________________
+By
+      Name:
+  Title:
+
+For any Lender requiring a second signature line:
+
+Name of Lender:___________________________
+By
+      Name:
+  Title:
+
+
+
+
+REAFFIRMATION
+June 6, 2017
+Each of the undersigned Loan Parties hereby consents to this Amendment Agreement and the transactions contemplated thereby. Each of the undersigned Loan Parties further (a) affirms and confirms its respective guarantees, pledges, grants of security interests and other obligations under the Amended Credit Agreement and each of the other Loan Documents to which it is a party, in respect of, and to secure, the Obligations and (b) agrees that, notwithstanding the effectiveness of this Amendment Agreement and the transactions contemplated thereby, the Loan Documents to which it is a party, and such guarantees, pledges, grants of security interests and other obligations thereunder, shall continue to be in full force and effect in accordance with the terms thereof.
+[Remainder of page intentionally left blank.]
+
+
+
+
+
+COMTECH TELECOMMUNICATIONS
+CORP.
+    Name: Michael D. Porcelain
+  Title: Senior Vice President and Chief
+            Financial Officer
+ 
+
+[SUBSIDIARY LOAN PARTIES]
+    Name:
+  Title:
+ 
+
+
+
+[Signature Page to Reaffirmation]

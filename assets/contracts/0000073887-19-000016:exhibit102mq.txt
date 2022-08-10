@@ -1,0 +1,112 @@
+EX-10.2 3 exhibit102mq.htm EXHIBIT 10.2
+
+LIMITED WAIVER
+THIS LIMITED WAIVER (this “Waiver”), is made and entered effective as of February 14, 2019, by and among BRISTOW U.S. LLC, a Louisiana limited liability company (the “Borrower”), the Lenders (as defined below) party hereto and MACQUARIE BANK LIMITED, in its capacity as Administrative Agent for the Lenders (the “Administrative Agent”).
+WITNESSETH
+WHEREAS, reference is made to that certain Term Loan Credit Agreement dated as of February 1, 2017 (as amended, restated, supplemented or otherwise modified from time to time, the “Credit Agreement”) by and among the Borrower, the lenders from time to time party thereto (the “Lenders”), the Administrative Agent, and Macquarie Bank Limited in its capacity as security agent for the Lenders (the “Security Agent”), pursuant to which the Administrative Agent, the Security Agent and the Lenders agreed to extend a term loan credit facility to the Borrower;
+
+WHEREAS, Section 5.1 of the Credit Agreement requires that the Borrower deliver to the Administrative Agent and each Lender unaudited quarterly financial statements of the Guarantor and the Borrower, as well as the Guarantor’s compliance certificate, within 45 days after the end of each fiscal quarter of the Guarantor. The Borrower has not complied with this covenant insofar as the unaudited quarterly financial statements of the Guarantor and the Borrower for the quarterly period ended December 31, 2018 and the related compliance certificate of the Guarantor were not provided on or before February 14, 2019 (the “Delivery Covenant Breach”). Failure to remedy the Delivery Covenant Breach within 30 days will result in an Event of Default;
+
+WHEREAS, the Borrower and various Affiliates of the Borrower have agreements (the “Other Agreements”) relating to Indebtedness and which also have covenants (the “Other Covenants”) requiring the delivery of the Guarantor’s and/or the Borrower’s or such Affiliate’s quarterly financial statements; the Borrower and such Affiliates are requesting waivers of any breach of the Other Covenants; and
+
+WHEREAS, the Guarantor has identified a material weakness in internal controls over financial reporting that it expects to report in the Form 10-Q for the period ended December 31, 2018 related to the monitoring of compliance with certain non-financial covenants in certain of the Guarantor’s secured financing and lease agreements, including the Credit Agreement. The Guarantor is working with its management and its independent registered public accounting firm to compile and analyze supporting documentation in order to complete the Form 10-Q, and management and the Guarantor’s independent registered public accounting firm are evaluating any implications for the Guarantor’s financial statements for the current period and prior periods related to such material weakness and any non-compliance with such non-financial covenants.
+ NOW, THEREFORE, for good and valuable consideration, the sufficiency and receipt of all of which are acknowledged, the parties hereto agree as follows:
+1.Defined Terms. Capitalized terms used herein and not otherwise defined shall have the meanings assigned to such terms in the Credit Agreement.
+
+
+2.Limited Waivers and Consents.
+(a)    Financial Statements and Cross-Defaults. Subject to the Borrower’s compliance with this Section 2(a), the Lenders hereby waive:
+i.    Any Default or Event of Default under Section 8.1(e) of the Credit Agreement arising from the failure to deliver financial statements under Sections 5.1(b) and 5.1(d) of the Credit Agreement by February 14, 2019; and
+
+ii.    Any Default or Event of Default under Section 8.1(g) arising from the occurrence of any right to accelerate any Indebtedness as a result of (i) the Delivery Covenant Breach (or similar breach under such Indebtedness) or (ii) any cross-default provisions under such Indebtedness; provided that such waiver is not a waiver of any Default or Event of Default arising as the result of the acceleration of the maturity of Indebtedness under the Other Agreements resulting from breaches of the Other Covenants.
+(b)    The limited waivers set forth in this Section 2 shall take effect as of February 14, 2019 but shall be subject to the conditions that:
+i.    the financial statements referred to above are provided on or before April 15, 2019 and the Borrower undertakes to ensure such financial statements are provided by such date and agrees that such obligation shall not be subject to the 30 day period to cure a covenant breach under Section 8.1(e) of the Credit Agreement; and
+ii.    the Borrower shall not (x) make any voluntary unscheduled prepayment of any borrowed money debt (including, for the avoidance of doubt, any borrowed money debt owed to the Lenders in respect of the Credit Agreement) or (y) enter into or agree to any modifications of any terms of such borrowed money debt related to principal, interest, maturity or collateral security, in each case, prior to the satisfaction of the condition set forth in Section 2(b)(i).
+(c)    The limited waivers set forth in this Section 2 are effective solely for the purposes set forth herein and shall be limited precisely as written and shall not be deemed to be a consent to any amendment, waiver or modification of any term or condition of the Credit Agreement or of any other Loan Document, except as expressly provided in this Waiver, or prejudice any right or rights that the Administrative Agent or Lenders have or may have in the future under or in connection with the Credit Agreement or any other Loan Document.
+3.Conditions to Effectiveness. It is understood and agreed that this Waiver shall become effective when the Administrative Agent shall have received executed counterparts to this Waiver from the Borrower and the Required Lenders.
+4.Representations and Warranties. To induce the Lenders to enter into this Waiver, the Borrower hereby represents and warrants to the Lenders as follows:
+
+Limited Waiver
+Page 2
+
+(a)    The execution and delivery by the Borrower of this Waiver are within the Borrower’s organizational powers and have been duly authorized by all necessary organizational action;
+
+(b)    The execution, delivery and performance by the Borrower of this Waiver (i) do not require any consent or approval of, registration or filing with, or any action by, any Governmental Authority, except those as have been obtained or made and are in full force and effect, (ii) will not violate any Requirements of Law applicable to the Borrower or any judgment, order or ruling of any Governmental Authority, (iii) will not violate or result in a default under any indenture, material agreement or other material instrument binding on the Borrower or any of its assets or give rise to a right thereunder to require any payment to be made by the Borrower, and (iv) will not result in the creation or imposition of any Lien on any asset of the Borrower prohibited under the Loan Documents;
+
+(c)    This Waiver has been duly executed and delivered for the benefit of the Borrower and constitutes a legal, valid and binding obligation of the Borrower, enforceable against the Borrower in accordance with its terms except as the enforceability hereof may be limited by bankruptcy, insolvency, reorganization, moratorium and other laws affecting creditors’ rights and remedies in general; and
+
+(d)    After giving effect to this Waiver, the representations and warranties contained in the Credit Agreement and the other Loan Documents are true and correct in all material respects (or, in the case of any such representation or warranty under the Credit Agreement or other Loan Documents already qualified as to materiality, in all respects), except to the extent that such representations and warranties specifically refer to an earlier date, and no Default or Event of Default has occurred and is continuing as of the date hereof.
+
+(e)    Since August 14, 2018, there has not occurred any event that has had or could reasonably be expected to have, a Material Adverse Effect.
+
+5.Effect of Waiver. Except as set forth expressly herein, all terms of the Credit Agreement and the other Loan Documents shall be and remain in full force and effect and shall constitute the legal, valid, binding and enforceable obligations of the Borrower (to the extent that the Borrower is a party thereto) to the Lenders and the Administrative Agent. The execution, delivery and effectiveness of this Waiver shall not, except as expressly provided herein, operate as a waiver of any right, power or remedy of the Lenders under the Credit Agreement, nor constitute a waiver of any provision of the Credit Agreement. Upon its effectiveness pursuant to the terms hereof, this Waiver shall constitute a Loan Document for all purposes of the Credit Agreement.
+6.Costs and Expenses. The Borrower agrees to pay on demand all reasonable, out-of-pocket costs and expenses of the Administrative Agent in connection with the preparation,
+
+Limited Waiver
+Page 3
+
+execution and delivery of this Waiver, including, without limitation, the reasonable fees and out-of-pocket expenses of outside counsel with respect thereto.
+7.Miscellaneous. Sections 11.1, 11.3, 11.4, 11.5, 11.6, 11.7, 11.9, 11.10, 11.11 and 11.12 of the Credit Agreement are incorporated herein to this Waiver, mutatis mutandis, by reference as if fully set forth herein.
+[Signature Pages To Follow]
+
+Limited Waiver
+Page 4
+
+
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be duly executed by their respective authorized officers as of the day and year first above written.
+        BRISTOW U.S. LLC
+                    By
+/s/ Geoffrey L. Carpenter
+    Name:
+Geoffrey L. Carpenter
+    Title:
+Manager
+          MACQUARIE LEASING INC.
+    a Lender
+            By
+/s/ John Petkovic
+    Name:
+John Petkovic
+    Title:
+Attorney
+              By
+/s/ Sarah Johnston
+    Name:
+Sarah Johnston
+    Title:
+Attorney
+          MACQUARIE BANK LIMITED
+    as Administrative Agent and as Security Agent
+          By
+/s/ Peter Burton
+    Name:
+Peter Burton
+    Title:
+Attorney
+              By
+/s/ Matthew Chapman
+    Name:
+Matthew Chapman
+    Title:
+Attorney
+ 
+
+
+
+
+[Signature Page to Limited Waiver]
+
+
+By its signature below, Bristow Group Inc. hereby agrees to the waivers set forth herein and hereby ratifies and confirms the obligations under the Guaranty in all respects.
+
+BRISTOW GROUP INC.
+
+
+
+By    /s/ Geoffrey L. Carpenter            
+Name: Geoffrey L. Carpenter
+Title: Vice President and Treasurer
+
+
+Limited Waiver
+Page 6

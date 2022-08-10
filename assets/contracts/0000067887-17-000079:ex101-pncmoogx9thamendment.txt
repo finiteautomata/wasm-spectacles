@@ -1,0 +1,303 @@
+EX-10.1 2 ex101-pncmoogx9thamendment.htm EXHIBIT 10.1
+EXHIBIT 10.1
+EXECUTION VERSION
+ 
+
+NINTH AMENDMENT TO THE
+RECEIVABLES PURCHASE AGREEMENT
+
+This NINTH AMENDMENT TO THE RECEIVABLES PURCHASE AGREEMENT (this “Amendment”), dated as of October 23, 2017, is entered into by and among the following parties:
+(i)
+MOOG RECEIVABLES LLC, a Delaware limited liability company, as Seller;
+(ii)
+MOOG INC., a New York corporation (“Moog”), as Servicer;
+(iii)
+PNC BANK, NATIONAL ASSOCIATION, as Administrator; and
+(iv)
+PNC BANK, NATIONAL ASSOCIATION, as the Issuer.
+Capitalized terms used but not otherwise defined herein (including such terms used above) have the respective meanings assigned thereto in the Receivables Purchase Agreement described below.
+BACKGROUND
+The parties hereto have entered into a Receivables Purchase Agreement, dated as of March 5, 2012 (as amended, restated, supplemented or otherwise modified through the date hereof, the “Receivables Purchase Agreement”) and desire to amend the Receivables Purchase Agreement as set forth herein.
+Concurrently herewith, the Seller, the Servicer, Issuer and the Administrator are entering into that certain Fourth Amended and Restated Fee Letter (the “Fee Letter”), dated as of the date hereof.
+NOW, THEREFORE, for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto hereby agree as follows:
+SECTION 1.    Amendments to the Receivables Purchase Agreement. The Receivables Purchase Agreement is hereby amended to incorporate the changes shown on the marked pages of the Receivables Purchase Agreement attached hereto as Exhibit A.
+SECTION 2.    Representations and Warranties of the Seller and Servicer. Each of the Seller and the Servicer hereby represents and warrants, as to itself, to the Administrator and to the Issuer, as follows:
+(a)    Representations and Warranties. Immediately after giving effect to this Amendment, the representations and warranties made by such Person in the Transaction Documents to which it is a party are true and correct as of the date hereof (unless stated to relate solely to an earlier date, in which case such representations or warranties were true and correct as of such earlier date).
+(b)    Enforceability. This Amendment and each other Transaction Document to which it is a party, as amended hereby, constitute the legal, valid and binding obligation of such Person
+
+     
+
+
+enforceable against such Person in accordance with its respective terms, except as such enforceability may be limited by bankruptcy, insolvency, reorganization or other similar laws affecting the enforcement of creditors’ rights generally and by general principles of equity, regardless of whether enforceability is considered in a proceeding in equity or at law.
+(c)    No Termination Event. No event has occurred and is continuing, or would result from the transactions contemplated hereby, that constitutes a Termination Event or an Unmatured Termination Event.
+SECTION 3.    Effect of Amendment. All provisions of the Receivables Purchase Agreement and the other Transaction Documents, as expressly amended and modified by this Amendment, shall remain in full force and effect. After this Amendment becomes effective, all references in the Receivables Purchase Agreement (or in any other Transaction Document) to “this Receivables Purchase Agreement”, “this Agreement”, “hereof”, “herein” or words of similar effect referring to the Receivables Purchase Agreement shall be deemed to be references to the Receivables Purchase Agreement as amended by this Amendment. This Amendment shall not be deemed, either expressly or impliedly, to waive, amend or supplement any provision of the Receivables Purchase Agreement other than as set forth herein.
+SECTION 4.    Effectiveness. This Amendment shall become effective as of the date hereof upon the Administrator’s receipt of the following:
+(a)    counterparts of this Amendment (in accordance with Section 8 hereof), executed by each of the parties hereto;
+(b)    counterparts of the Fee Letter (whether by facsimile or otherwise), executed by each of the parties thereto;
+(c)    all fees owing under the Fee Letter and all other costs and expenses related to this Amendment in immediately available funds; and
+(d)    favorable opinion of legal counsel for the Seller and Servicer reasonably acceptable to the Administrator regarding general corporate and enforceability matters and no conflict with law or material agreements and such other matters as the Administrator may reasonably request;
+SECTION 5.    Severability. If any one or more of the agreements, provisions or terms of this Amendment shall for any reason whatsoever be held invalid or unenforceable, then such agreements, provisions or terms shall be deemed severable from the remaining agreements, provisions and terms of this Amendment and shall in no way affect the validity or enforceability of the provisions of this Amendment or the Receivables Purchase Agreement.
+SECTION 6.    Transaction Document. This Amendment shall be a Transaction Document for purposes of the Receivables Purchase Agreement.
+SECTION 7.    Counterparts. This Amendment may be executed in any number of counterparts and by different parties on separate counterparts, each of which when so executed shall
+
+  2
+ 
+
+
+be deemed to be an original and all of which when taken together shall constitute but one and the same instrument. Delivery of an executed counterpart of a signature page to this Amendment by facsimile or e-mail transmission shall be effective as delivery of a manually executed counterpart hereof.
+SECTION 8.    GOVERNING LAW. THIS AMENDMENT SHALL BE DEEMED TO BE A CONTRACT MADE UNDER AND GOVERNED BY THE INTERNAL LAWS OF THE STATE OF NEW YORK (INCLUDING FOR SUCH PURPOSE SECTIONS 5-1401 AND 5‑1402 OF THE GENERAL OBLIGATIONS LAW OF THE STATE OF NEW YORK).
+SECTION 9.    Section Headings. The various headings of this Amendment are included for convenience only and shall not affect the meaning or interpretation of this Amendment, the Receivables Purchase Agreement or any provision hereof or thereof.
+[SIGNATURE PAGES FOLLOW]
+
+
+  3
+ 
+
+
+IN WITNESS WHEREOF, the parties hereto have executed this Amendment by their duly authorized officers as of the date first above written.
+MOOG RECEIVABLES LLC,
+as Seller
+
+
+By:/s/ John P. McGrath
+Name: John P. McGrath    
+Title: Treasurer
+
+
+MOOG INC.,
+individually and as Servicer
+
+
+By:/s/ John P. McGrath
+Name: John P. McGrath    
+Title: Assistant Treasurer
+
+
+S-1    Ninth Amendment to the
+Receivables Purchase Agreement
+(Moog Receivables LLC)
+
+
+
+PNC BANK, NATIONAL ASSOCIATION,
+as Administrator
+
+
+By:/s/ Michael Brown
+Name:    Michael Brown
+Title: Senior Vice President
+
+
+
+
+
+S-2    Ninth Amendment to the
+Receivables Purchase Agreement
+(Moog Receivables LLC)
+
+
+
+PNC BANK, NATIONAL ASSOCIATION,
+as the Issuer
+
+
+By:/s/ Michael Brown
+Name:    Michael Brown
+Title: Senior Vice President
+
+
+
+
+S-3    Ninth Amendment to the
+Receivables Purchase Agreement
+(Moog Receivables LLC)
+
+
+
+EXHIBIT A
+
+Changed Pages to
+
+Receivables Purchase Agreement
+
+(Attached)
+
+
+
+
+This RECEIVABLES PURCHASE AGREEMENT (as amended, supplemented or otherwise modified from time to time, this “Agreement”) is entered into as of March 5, 2012, among MOOG RECEIVABLES LLC, a Delaware limited liability company, as seller (the “Seller”), MOOG INC., a New York corporation (“Moog”), as initial servicer (in such capacity, together with its successors and permitted assigns in such capacity, the “Servicer”), PNC CAPITAL MARKETS LLC, a Pennsylvania limited liability company, as structuring agent, (the “Structuring Agent”) and PNC BANK, NATIONAL ASSOCIATION, a national banking association (“PNC”), as issuer (together with its successors and permitted assigns, the “Issuer”), and as administrator (in such capacity, together with its successors and assigns in such capacity, the “Administrator”).
+PRELIMINARY STATEMENTS. Certain terms that are capitalized and used throughout this Agreement are defined in Exhibit I. References in the Exhibits hereto to the “Agreement” refer to this Agreement, as amended, supplemented or otherwise modified from time to time.
+The Seller desires to sell, transfer and assign an undivided variable percentage interest in a pool of receivables, and the Issuer desires to acquire such undivided variable percentage interest, as such percentage interest shall be adjusted from time to time based upon, in part, reinvestment payments that are made by the Issuer.
+In consideration of the mutual agreements, provisions and covenants contained herein, the parties hereto agree as follows:
+ARTICLE I.
+AMOUNTS AND TERMS OF THE PURCHASES
+
+Section 1.1.     Purchase Facility. (a)  On the terms and conditions hereinafter set forth, the Issuer hereby agrees to purchase, and make reinvestments of, undivided percentage ownership interests with regard to the Purchased Interest from the Seller from time to time from the date hereof to the Facility Termination Date. Under no circumstances shall the Issuer make any such purchase or reinvestment if, after giving effect to such purchase or reinvestment, the aggregate outstanding Capital of the Purchased Interest would exceed the Purchase Limit.
+
+(b)    The Seller may, upon at least 60 days’ written notice to the Administrator, terminate the purchase facility provided in this Section in whole or, upon at least 30 days’ written notice to the Administrator, from time to time, irrevocably reduce in part the unused portion of the Purchase Limit; provided, that each partial reduction shall be in the amount of at least $5,000,000, or an integral multiple of $1,000,000 in excess thereof, and that, unless terminated in whole, the Purchase Limit shall in no event be reduced below $50,000,000.
+
+Section 1.2.     Making Purchases. (a)  Each purchase (but not reinvestment) of undivided percentage ownership interests with regard to the Purchased Interest hereunder shall be made upon the Seller’s irrevocable written notice in the form of Annex B (the “Purchase Notice”) delivered to the Administrator in accordance with Section 5.2 (which notice must be received by the Administrator before 11:00 a.m., New York City time) at least two Business Days before the requested purchase date, which notice shall specify: (A) the amount requested to be paid to the Seller (such amount, which shall not be less than $250,000 and shall be in integral multiples of
+
+
+
+
+
+
+“Company Note” has the meaning set forth in Section 3.1 of the Purchase and Sale Agreement.
+“Concentration Percentage” means for any: (a) Group A Obligor, 15 20 %; provided, however, that so long as The Boeing Company (the “Special Obligor”) is a Group A Obligor, its Concentration Percentage shall be 30% (the “Special Concentration Limit”), (b) Group B Obligor, 15%, (c) Group C Obligor, 10% and (d) Group D Obligor, 7%; provided, however, that the Administrator may, in its sole discretion, approve higher “Concentration Percentages” for selected Obligors; provided, further, that the Administrator may, upon not less than ten (10) Business Days’ notice to Seller, cancel or reduce the Special Concentration Limit. In the event that any other Obligor is or becomes an Affiliate of the Special Obligor, the Special Concentration Limit shall apply to both such Obligor and the Special Obligor and shall be calculated as if such Obligor and the Special Obligor were a single Obligor.
+“Concentration Reserve” means, on any date, an amount equal to: (a) the aggregate Capital on such date multiplied by (b)(i) the Concentration Reserve Percentage on such date, divided by (ii) 100%, minus the Concentration Reserve Percentage on such date.
+“Concentration Reserve Percentage” means, at any time, the largest of: (a) the sum of the four (4) largest Group D Obligor Percentages, (b) the sum of the two (2) largest Group C Obligor Percentages, (c) the largest Group B Obligor Percentage and (d) the largest Group A Obligor Percentage; provided, that the amount set forth in this clause (d) shall be disregarded for purposes of determining the “Concentration Reserve Percentage” until such date, if any, that the Administrator (in its sole discretion) shall designate in writing to the Servicer (which date shall not be less than 10 days from the date such notice is delivered).
+“Contingent Receivable” means any Receivable, the Contract for which does not specify a date when payment thereof is due, but rather, provides that such Receivable is payable upon the occurrence of an event specified in such Contract.
+“Contra Amount” means, as of any date of determination, the sum of:
+(a)(i)    if reported by the Servicer in the most recent Information Package required to be delivered hereunder, the aggregate amount of all obligations owing by Moog and its Affiliates to Persons that are Obligors on Pool Receivables as set forth in such Information Package or (ii) otherwise, the product of (A) 1.5, times (B) the amount identified in the most recent field examination of Moog, the Seller and the Originators performed by or on behalf of the Administrator (including pursuant to Section 1(h) or 2(f) of Exhibit IV) as the “offset amount” or “contra offset” representing the aggregate amount of all obligations owing by Moog and its Affiliates to Persons that are Obligors on Pool Receivables, which amount may be adjusted from time to time by the Administrator in its reasonable discretion with five (5) Business Days written notice to the Seller based upon changes in the amount of such obligations; it being understood that as of the Closing Date, the amount described in this clause (a) shall be deemed to be $499,000; plus
+(b)    the sum of the amounts determined for each Obligor on an Eligible Receivable included in the Receivables Pool equal to the excess, if any, of (i) the aggregate amount of all
+
+
+
+
+
+
+payments received by any Originator, the Seller or their Affiliates from such Obligor and its Affiliates in respect of Receivables for which any Originator has not yet performed or delivered the related services or goods, over (ii) the aggregate Outstanding Balance of all Receivables owing by such Obligor and its Affiliates that are not Eligible Receivables but that would be Eligible Receivables had they been billed.
+“Contract” means, with respect to any Receivable, any and all contracts, instruments, agreements, leases, invoices, notes or other writings pursuant to which such Receivable arises or that evidence such Receivable or under which an Obligor becomes or is obligated to make payment in respect of such Receivable.
+“Covered Entity” shall mean (a) each of Seller, Servicer, each Originator and each of Moog’s Subsidiaries and (b) each Person that, directly or indirectly, is in control of a Person described in clause (a) above. For purposes of this definition, control of a Person shall mean the direct or indirect (x) ownership of, or power to vote, 25% or more of the issued and outstanding equity interests having ordinary voting power for the election of directors of such Person or other Persons performing similar functions for such Person, or (y) power to direct or cause the direction of the management and policies of such Person whether by ownership of equity interests, contract or otherwise.
+“Credit and Collection Policy” means, as the context may require, those receivables credit and collection policies and practices of each Originator in effect on the date of the Agreement and described in Schedule I to the Agreement, as modified in compliance with the Agreement.
+“Cut-off Date” has the meaning set forth in the Purchase and Sale Agreement.
+“Days’ Sales Outstanding” means, for any Fiscal Month, an amount computed as of the last day of such Fiscal Month equal to: (a) the average of the Outstanding Balance of all Pool Receivables as of the last day of each of the three most recent Fiscal Months ended on the last day of such Fiscal Month divided by (b) (i) the aggregate initial Outstanding Balance of all Pool Receivables originated by the Originators during the three most recent Fiscal Months ended on the last day of such Fiscal Month divided by (ii) 90.
+“Debt” means: (a) indebtedness for borrowed money, (b) obligations evidenced by bonds, debentures, notes or other similar instruments, (c) obligations to pay the deferred purchase price of property or services (other than trade payables and accrued expenses incurred in the ordinary course of business), (d) obligations as lessee under leases that shall have been or should be, in accordance with generally accepted accounting principles, recorded as capital leases, and (e) obligations under direct or indirect guaranties in respect of, and obligations (contingent or otherwise) to purchase or otherwise acquire, or otherwise to assure a creditor against loss in respect of, indebtedness or obligations of others of the kinds referred to in clauses (a) through (d).
+“Defaulted Receivable” means a Receivable:
+(a) as to which any payment, or part thereof, remains unpaid for more than (i) at any time prior to the Threshold Reduction Date, 270 days from the original due date for such payment and (ii) at any time on or after the
+
+
+
+
+
+Threshold Reduction Date, 180 days from the original due date for such payment; or
+(b)
+without duplication (i) as to which an Insolvency Proceeding shall have occurred with respect to the Obligor thereof or any other Person obligated thereon or owning any Related Security with respect thereto, or (ii) that has been written off the Seller’s books as uncollectible.
+“Default Ratio” means the ratio (expressed as a percentage and rounded to the nearest 1/100 of 1%, with 5/1000th of 1% rounded upward) computed as of the last day of each Fiscal Month by dividing: (a) the aggregate Outstanding Balance of all Pool Receivables that became Defaulted Receivables during such Fiscal Month, by (b)(i), the aggregate credit sales made by the Originators during the Fiscal Month that is six (6) (x) at any time prior to the Threshold Reduction Date, ten (10) Fiscal Months before such Fiscal Month and (y) at any time on or after the Threshold Reduction Date, seven (7) Fiscal Months before such Fiscal Month.
+“Delinquency Ratio” means the ratio (expressed as a percentage and rounded to the nearest 1/100 of 1%, with 5/1000th of 1% rounded upward) computed as of the last day of each Fiscal Month by dividing: (a) the aggregate Outstanding Balance of all Pool Receivables that were Delinquent Receivables on such day by (b) the aggregate Outstanding Balance of all Pool Receivables on such day.
+“Delinquent Receivable” means a Receivable as to which any payment, or part thereof, remains unpaid for more than 60 90 days from the original due date for such payment.
+“Dilution” means, with respect to any Fiscal Month, the aggregate amount of Collections deemed to have been received by Seller pursuant to Section 1.4(e)(i) of the Agreement during such Fiscal Month excluding any such deemed Collections on Dilution Excluded Receivables.
+“Dilution Component Reserve Percentage” means, at any time, the product of (a) the 12-Fiscal Month rolling average of the Dilution Ratios at such time multiplied by (b) the Loss Horizon Ratio.
+“Dilution Component Reserve” means, at any date, an amount equal to: (a) the Capital at the close of business of the Servicer on such date multiplied by (b) (i) the Dilution Component Reserve Percentage on such date, divided by (ii) 100% minus the Dilution Component Reserve Percentage on such date.
+“Dilution Excluded Receivable” means, from time to time, any Receivable for which each of the following criteria have been satisfied: (i) the Seller, the Servicer or any Originator has sent a credit memo to, or entered into any other agreement or arrangement with, the related Obligor, the effect of which is to cancel the related invoice or bill sent to the related Obligor with respect to such Receivable, (ii) the amount set forth in such cancelled invoice or bill with respect to such Receivable has been earned by the related Originator, remains owing by such Obligor and no portion thereof is the subject of any asserted dispute, offset, hold back defense, Adverse Claim or other claim, (iii) the Seller has been deemed to have received a Collection on such Receivable as a result of cancelling such invoice or bill in accordance with Section 1.4(e)(i) of the Agreement, (iv) no Termination Event has occurred and remains continuing, and (v) if the
+
+
+
+
+
+substantially all the assets of which are acquired by any Originator or (ii) that is merged into any Originator, in either case, after the date of this Agreement (any such business described in clause (i) and (ii), being a “New Business”); provided, however, if any Receivable of a New Business is being accounted for or has been at any time accounted for together with the other Receivables of any Originator under the MBS Accounting System (as such system may be modified or replaced from time to time), such Receivable is not an “Excluded Receivable”.
+“Excluded Taxes” shall mean, with respect to the Administrator, the Issuer, any Affected Person or any other Indemnified Party, (i) taxes imposed on, or measured by, net income or net profits, overall capital or net worth, franchise or branch profits taxes or any similar taxes, and any taxes on doing business imposed by the jurisdiction (a) under the applicable laws of which such Person is incorporated or organized, (b) in which an applicable office or branch of such Person is located or (c) in which such Person has a present or former connection (other than a connection arising solely from such Person having executed, delivered, enforced, become a party to, performed its obligations, received payments, received or perfected a security interest under, or engaged in any other transaction in accordance with the terms of this Agreement) that causes the imposition of such tax, (ii) any tax required to be withheld or assessed pursuant to Sections 1471 through 1474 of the Internal Revenue Code unless the Seller fails to provide in a timely manner, upon the reasonable request of the Administrator (on behalf of such Person) any information, form, document or certification, accurately completed and in a manner reasonably satisfactory to the Administrator, that may be required or reasonably requested in order to allow the Administrator or such Person to comply with Sections 1471 through 1474 of the Internal Revenue Code or enter into an agreement with the Internal Revenue Service, and any such tax pursuant to Sections 1471 through 1474 of the Internal Revenue Code would not have been assessed if the Seller had acted in accordance with this clause (ii), and (iii) any tax required to be withheld or assessed as a result of the failure of such Person to provide to the Seller or the Servicer any tax form required to be delivered by such Person pursuant to Section 1.11.
+“Facility Termination Date” means the earliest to occur of: (a) April 13, 2018 October 23, 2019, (b) the date determined pursuant to Section 2.2 of the Agreement and (c) the date the Purchase Limit reduces to zero pursuant to Section 1.1(b) of the Agreement.
+“FAS 166/167 Capital Guidelines” has the meaning set forth in Section 1.7(a)(iii).
+“Federal Funds Rate” means, for any day, the per annum rate set forth in the weekly statistical release designated as H.15(519), or any successor publication, published by the Federal Reserve Board (including any such successor, “H.15(519)”) for such day opposite the caption “Federal Funds (Effective).” If on any relevant day such rate is not yet published in H.15(519), the rate for such day will be the rate set forth in the daily statistical release designated as the Composite 3:30 p.m. Quotations for U.S. Government Securities, or any successor publication, published by the Federal Reserve Bank of New York (including any such successor, the “Composite 3:30 p.m. Quotations”) for such day under the caption “Federal Funds Effective Rate.” If on any relevant day the appropriate rate is not yet published in either H.15(519) or the Composite 3:30 p.m. Quotations, the rate for such day will be the arithmetic mean as determined by the Administrator of the rates for the last transaction in overnight Federal funds arranged before 9:00 a.m. (New York time) on that day by each of three leading brokers of Federal funds transactions in New York City selected by the Administrator.
+
+
+
+
+
+“Federal Reserve Board” means the Board of Governors of the Federal Reserve System, or any entity succeeding to any of its principal functions.
+“Fee Letter” has the meaning set forth in Section 1.5 of the Agreement.
+“Final Payout Date” means the date on or after the Facility Termination Date when (i) all Capital, all Discount and all fees under the Fee Letter have been paid in full, (ii) all other amounts owing to the Issuer, the Administrator, any Affected Person or any other Indemnified Party hereunder and under the other Transaction Documents have been paid in full and (iv) all accrued Servicing Fees have been paid in full.
+“Fiscal Month” means each monthly period ending on the Saturday immediately before or after the last day of the calendar month that is the closest to such last day.
+“FOB Receivable” means a Receivable for which the goods giving rise to such Receivable have been, within the preceding thirty (30) days, shipped to, but have not yet been received by, the related Obligor, and for which the title to or risk of loss has not yet passed to such Obligor. For the avoidance of doubt, such Receivable shall cease to constitute an Eligible Receivable if the related products or goods are not delivered to such Obligor on or prior to the 30th day after the origination of such Receivable.
+“GAAP” means the generally accepted accounting principles and practices in the United States, consistently applied.
+“Governmental Authority” means any nation or government, any state or other political subdivision thereof, any central bank (or similar monetary or regulatory authority) thereof, any body or entity exercising executive, legislative, judicial, regulatory or administrative functions of or pertaining to government, including any court, and any Person owned or controlled, through stock or capital ownership or otherwise, by any of the foregoing.
+“Group A Obligor” means any Obligor with a short-term rating of at least: (a) “A-1” by Standard & Poor’s, or if such Obligor does not have a short-term rating from Standard & Poor’s, a rating of “A+” or better by Standard & Poor’s on its long-term senior unsecured and uncredit-enhanced debt securities, and (b) “P-1” by Moody’s, or if such Obligor does not have a short-term rating from Moody’s, “A1” or better by Moody’s on its long-term senior unsecured and uncredit-enhanced debt securities.
+“Group A Obligor Percentage” means, at any time, for each Group A Obligor, the lesser of 15 20 % and the percentage equivalent of: (a) the aggregate Outstanding Balance of the Eligible Receivables of such Group A Obligor less any Excess Concentrations of such Obligor, divided by (b) the aggregate Outstanding Balance of all Eligible Receivables at such time.
+“Group B Obligor” means an Obligor, not a Group A Obligor, with a short-term rating of at least: (a) “A-2” by Standard & Poor’s, or if such Obligor does not have a short-term rating from Standard & Poor’s, a rating of “BBB+” to “A” by Standard & Poor’s on its long-term senior unsecured and uncredit-enhanced debt securities, and (b) “P-2” by Moody’s, or if such Obligor does not have a short-term rating from Moody’s, “Baa1” to “A2” by Moody’s on its long-term senior unsecured and uncredit-enhanced debt securities.
+
+
+
+
+
+swingline lender and issuing bank under the Moog Credit Agreement, the Administrator, Moog and the Seller, as the same may be amended, supplemented or otherwise modified from time to time.
+“Internal Revenue Code” means the Internal Revenue Code of 1986, as amended from time to time, and any successor statute of similar import, together with the regulations thereunder, in each case as in effect from time to time. References to sections of the Internal Revenue Code also refer to any successor sections.
+“Issuer” has the meaning set forth in the preamble to the Agreement.
+“Issuer’s Share” of any amount means such amount multiplied by the Purchased Interest at the time of determination.
+“JAC Receivables” means any Receivable for which the Obligor is Japan Aerospace Corporation or any Subsidiary thereof.
+“LCR Security” means any commercial paper or security (other than equity securities issued to Moog or any Originator that is a consolidated subsidiary of Moog under GAAP) within the meaning of Paragraph __.32(e)(viii) of the final rules titled Liquidity Coverage Ratio: Liquidity Risk Measurement Standards, 79 Fed. Reg. 197, 61440 et seq. (October 10, 2014).
+“LMIR” means for any day during any Settlement Period, the greater of (a) 0.00% and (b) the one-month Eurodollar rate for U.S. dollar deposits as reported on the Reuters Screen LIBOR01 Page or any other page that may replace such page from time to time for the purpose of displaying offered rates of leading banks for London interbank deposits in United States dollars, as of 11:00 a.m. (London time) on such day, or if such day is not a Business Day, then the immediately preceding Business Day (or if not so reported, then as determined by the Administrator from another recognized source for interbank quotation), in each case, changing when and as such rate changes.
+“Lock-Box Account” means an account in the name of the Seller and maintained by the Seller at a bank or other financial institution for the purpose of receiving Collections.
+“Lock-Box Agreement” means an agreement, in form and substance satisfactory to the Administrator, among the Seller, the applicable Originator, the Servicer, the Administrator and a Lock-Box Bank. As of the Closing Date, the Lock-Box Agreement is that certain Deposit Account Control Agreement, dated as of the Closing Date, among the Seller, the Administrator, the Servicer and Bank of America, N.A.
+“Lock-Box Bank” means any of the banks or other financial institutions holding one or more Lock-Box Accounts. As of the Closing Date, the Lock-Box Bank is Bank of America, N.A.
+“Loss Horizon Ratio” means, for any Fiscal Month, the ratio (expressed as a percentage and rounded to the nearest 1/100th of 1%, with 5/1000th of 1% rounded upward) computed as of the last day of such Fiscal Month by dividing: (a) the sum of (i) the aggregate credit sales made by the Originators during the four (4) five (5) Fiscal Month period ending on the last day of such
+
+
+
+
+
+Fiscal Month, plus (ii) if the Weighted Average Credit Terms are greater than 30, the product of (A) the ratio of (x) Weighted Average Credit Terms minus thirty, divided by (y) thirty, times (B) the aggregate initial Outstanding Balance of all Pool Receivables generated by the Originators during the fifth (5th) sixth (6th) most recent Fiscal Month by (b) the Net Receivables Pool Balance as of the last day of such Fiscal Month.
+“Loss Reserve” means, on any date, an amount equal to: (a) the Capital at the close of business of the Servicer on such date multiplied by (b)(i) the Loss Reserve Percentage on such date divided by (ii) 100% minus the Loss Reserve Percentage on such date.
+“Loss Reserve Percentage” means, on any date, the product of (i) 2.00 times (ii) the highest arithmetic average of the Default Ratios for any three consecutive Fiscal Months during the twelve most recent Fiscal Months times (iii) the Loss Horizon Ratio.
+“Material Adverse Effect” means, relative to any Person with respect to any event or circumstance, a material adverse effect on:
+(a)    the assets, operations, business or financial condition of such Person (except in the case of Moog, any Originator or other subsidiary of Moog (excluding Seller), it shall refer to such a material adverse effect on the assets, operations, business or financial condition of Moog and the subsidiaries of Moog taken as a whole);
+(b)    the ability of any of such Person to perform its obligations under the Agreement or any other Transaction Document to which it is a party;
+(c)    the validity or enforceability of any other Transaction Document, or the validity, enforceability or collectibility of a material portion of the Pool Receivables; or
+(d)    the status, perfection, enforceability or priority of the Administrator’s (on behalf of the Issuer, the Affected Persons and the Indemnified Parties) or the Seller’s interest in the Pool Assets.
+“Moody’s” means Moody’s Investors Service, Inc.
+“Moog Component Group Receivable” means any Receivable generated by Moog Component Group, a business division or group of Moog.
+“Moog Credit Agreement” means the Third Fourth Amended and Restated Loan Agreement dated as of March 18, 2011 March 28, 2013, among Moog, HSBC Bank USA, National Association as Administrative Agent, and the other financial institutions parties thereto, as the same amended, restated, supplemented, otherwise modified or replaced from time to time (whether or not any such with modification or replacement is with the same agent or any of the same financial institutions and whether or not any Subsidiary of Moog is added as a borrower thereunder).
+“Net Receivables Pool Balance” means, at any time: (a) the Adjusted Aggregate Eligible Outstanding Balance minus (b) the Excess Concentration.
+ 
+
+
+
+
+“Pool Receivable” means a Receivable in the Receivables Pool.
+“Portion of Capital” means any separate portion of Capital being funded or maintained by the Issuer (or its successors or permitted assigns) by reference to a particular interest rate basis. In addition, at any time when the Capital of the Purchased Interest is not divided into two or more such portions, “Portion of Capital” means 100% of the Capital.
+“Purchase and Sale Agreement” means the Purchase and Sale Agreement, dated as of the Closing Date, among Moog and Flo-Tork, Inc., a Delaware corporation, as Originators, the other Originators from time to time party thereto and the Seller, as the same may be amended, supplemented or otherwise modified from time to time.
+“Purchase and Sale Indemnified Amounts” has the meaning set forth in Section 9.1 of the Purchase and Sale Agreement.
+“Purchase and Sale Indemnified Party” has the meaning set forth in Section 9.1 of the Purchase and Sale Agreement.
+“Purchase and Sale Termination Date” has the meaning set forth in Section 1.4 of the Purchase and Sale Agreement.
+“Purchase and Sale Termination Event” has the meaning set forth in Section 8.1 of the Purchase and Sale Agreement.
+“Purchase Facility” has the meaning set forth in Section 1.1 of the Purchase and Sale Agreement.
+“Purchase Limit” means $ 120,000,000 130,000,000, as such amount may be reduced pursuant to Section 1.1(b) of the Agreement. References to the unused portion of the Purchase Limit shall mean, at any time, the Purchase Limit minus the then outstanding Capital.
+“Purchase Notice” has the meaning set forth in Section 1.2(a) of the Agreement.
+“Purchase Price” has the meaning set forth in Section 2.2 of the Purchase and Sale Agreement.
+“Purchase Report” has the meaning set forth in Section 2.1 of the Purchase and Sale Agreement.
+“Purchased Interest” means, at any time, the undivided percentage ownership interest in: (a) each and every Pool Receivable now existing or hereafter arising, (b) all Related Security with respect to such Pool Receivables and (c) all Collections with respect to, and other proceeds of, such Pool Receivables and Related Security. Such undivided percentage interest shall be computed as:
+
+Capital + Total Reserves
+Net Receivables Pool Balance
+
+The Purchased Interest shall be determined from time to time pursuant to Section 1.3 of the Agreement.
+
+
+
+
+
+“Structuring Agent” means PNC Capital Markets LLC, a Pennsylvania limited liability company.
+“Subsidiary” means, as to any Person, a corporation, partnership, limited liability company or other entity of which shares of stock of each class or other interests having ordinary voting power (other than stock or other interests having such power only by reason of the happening of a contingency) to elect a majority of the Board of Directors or other managers of such entity are at the time owned, or management of which is otherwise controlled: (a) by such Person, (b) by one or more Subsidiaries of such Person or (c) by such Person and one or more Subsidiaries of such Person.
+“Taxes” means any and all present or future taxes, levies, imposts, duties, deductions, charges or withholdings imposed by any Governmental Authority and all interest, penalties, additions to tax and any similar liabilities with respect thereto.
+“Termination Day” means: (a) each day on which the conditions set forth in Section 2 of Exhibit II to the Agreement are not satisfied or (b) each day that occurs on or after the Facility Termination Date.
+“Termination Event” has the meaning specified in Exhibit V to the Agreement. For the avoidance of doubt, any Termination Event that occurs shall for all purposes be deemed to be continuing unless and until waived in accordance with Section 5.1 of this Agreement.
+“Termination Fee” means, for any Settlement Period during which a Termination Day occurs, the amount, if any, by which: (a) the additional Discount (calculated without taking into account any Termination Fee or any shortened duration of such Settlement Period pursuant to the definition thereof) that would have accrued during such Settlement Period on the reductions of Capital relating to such Settlement Period had such reductions not been made, exceeds (b) the income, if any, received by the Issuer from investing the proceeds of such reductions of Capital, as determined by the Administrator and requested by the Administrator, which determination shall be binding and conclusive for all purposes, absent manifest error, provided that the request of the Administrator sets forth in reasonable detail the calculation of such amount.
+“Threshold Reduction Date” means the date designated as such in writing by the Administrator (in its sole discretion) to the Servicer; provided that such date shall not be less than 10 days from the date such notice is delivered.
+“Total Reserves” means, at any time the sum of: (a) the Yield Reserve, plus (b) the greater of (i) the sum of (A) the Loss Reserve plus (B) the Dilution Reserve and (ii) the sum of (A) the Concentration Reserve plus (B) the Dilution Component Reserve.
+“Transaction Documents” means the Agreement, the Lock-Box Agreements, the Fee Letter, the Purchase and Sale Agreement, Originator Assignment Certificates, the Company Notes, the Performance Guaranty, the Intercreditor Agreement and all other certificates, instruments, UCC financing statements and any certificates, statements, reports, notices, agreements and documents executed or delivered under or in connection with any of the foregoing, in each case as the same may be amended, supplemented or otherwise modified from time to time in accordance with the Agreement.
+
+
+
+
+
+or financial affairs of the Seller and (ii) made in the ordinary course of business or financial affairs of the Seller.
+(x) The amount of Dilution included in the calculation of Dilution Ratio for each Fiscal Month has been computed in accordance with the definitions of “Dilution” and “Dilution Excluded Receivable” (and each respective term incorporated therein) and no Obligor with respect to any Dilution Excluded Receivable has asserted any dispute, offset, hold back defense, Adverse Claim or other claim with respect to such Dilution Excluded Receivable.
+(y) Except for the Permitted Linked Account, there are no “Linked Accounts” (as defined in the Lock-Box Agreement with Wells Fargo Bank, National Association) with respect to any Lock-Box Account maintained at Wells Fargo Bank, National Association.
+(z) Liquidity Coverage Ratio. The Seller has not ,does not and will not (x) issue any obligations that (A) constitute asset-backed commercial paper, or (B) are securities required to be registered under the Securities Act of 1933 (the “33 Act”) or that may be offered for sale under Rule 144A or a similar exemption from registration under the 33 Act or the rules promulgated thereunder, or (y) issue any other debt obligations or equity interests other than the Company Note and debt obligations substantially similar to the obligations of such Seller under this Agreement that are (A) issued to other banks or asset-backed commercial paper conduits in privately negotiated transactions, and (B) subject to transfer restrictions substantially similar to the transfer restrictions set forth in this Agreement. The Seller further represents and warrants that its assets and liabilities are consolidated with the assets and liabilities of Moog for purposes of issued any LCR Securities, and the Seller is a consolidated subsidiary of Moog under generally accepted accounting principles.
+2. Representations and Warranties of Moog (including in its capacity as the Servicer). Moog, individually and in its capacity as the Servicer, represents and warrants as follows:
+(a) Moog is a corporation duly organized, validly existing and in good standing under the laws of the State of New York, and is duly qualified to do business and is in good standing as a foreign corporation in every jurisdiction where the nature of its business requires it to be so qualified, except where the failure to be so qualified would not have a Material Adverse Effect.
+(b) The execution, delivery and performance by Moog of the Agreement and the other Transaction Documents to which it is a party, including the Servicer’s use of the proceeds of purchases and reinvestments: (i) are within its corporate powers; (ii) have been duly authorized by all necessary corporate action; (iii) do not contravene or result in a default under or conflict with: (A) its charter or bylaws, (B) any law, rule or regulation applicable to it, (C) any indenture, loan agreement, mortgage, deed of trust or other material agreement or instrument to which it is a party or by which it is bound, or (D) any order, writ, judgment, award, injunction or decree binding on or affecting it or any of its property; and (iv) do not result in or require the creation of any Adverse Claim upon or with respect to any of its properties. The Agreement and the other Transaction Documents to which Moog is a party have been duly executed and delivered by Moog.
+
+
+
+
+
+
+(ii)    The Seller shall at all times be organized under the laws of the State of Delaware and shall not take any action to change its jurisdiction of organization.
+(iii)    The Seller will not change its name, location, identity or corporate structure unless (x) the Administrator and the Issuer shall have received at least 20 days’ advance written notice of such change, (y) the Seller, at its own expense, shall have taken all action necessary or appropriate to perfect or maintain the perfection of the lien under this Agreement (including, without limitation, the filing of all financing statements and the taking of such other action as the Administrator may request in connection with such change or relocation), and (z) if requested by the Administrator or the Issuer, the Seller shall cause to be delivered to the Administrator or the Issuer, an opinion, in form and substance satisfactory to the Administrator and the Issuer as to such UCC perfection and priority matters as such Person may request at such time.
+(u) Anti-Money Laundering/International Trade Law Compliance. The Seller will not become a Sanctioned Person. No Covered Entity, either in its own right or through any third party acting on such Covered Entity’s behalf, will (i) have any of its assets in a Sanctioned Country or in the possession, custody or control of a Sanctioned Person in violation of any Anti-Terrorism Law; (ii) do business in or with, or derive any of its income from investments in or transactions with, any Sanctioned Country or Sanctioned Person in violation of any Anti-Terrorism Law; (iii) engage in any dealings or transactions prohibited by any Anti-Terrorism Law or (iv) use the proceeds of any purchase to fund any operations in, finance any investments or activities in, or, make any payments to, a Sanctioned Country or Sanctioned Person in violation of any Anti-Terrorism Law. The funds used to repay each purchase will not be derived from any unlawful activity. The Seller shall comply with all Anti-Terrorism Laws. The Seller shall promptly notify the Administrator and the Issuer in writing upon the occurrence of a Reportable Compliance Event. The Seller has not used and will not use the proceeds of any purchase to fund any operations in, finance any investments or activities in or make any payments to, a Sanctioned Person or a Sanctioned Country.
+(v) Minimum Capital Requirement. The Seller will at all times prior to the Facility Termination Date maintain a minimum level of Capital in an amount equal to the lesser of: (i) 80% of the Purchase Limit at such time and (ii) 100% of (a) the Net Receivables Pool Balance at such time minus (b) the Total Reserves at such time.
+(w) Liquidity Coverage Ratio. The Seller shall not issue any LCR Security.
+2. Covenants of the Servicer and Moog. Until the Final Payout Date:
+(a) Compliance with Laws, Etc. The Servicer and, to the extent that it ceases to be the Servicer, Moog shall comply (and shall cause each Originator to comply) in all material respects with all applicable laws, rules, regulations and orders, and preserve and maintain its corporate existence, rights, franchises, qualifications and privileges, except to the extent that the failure so to comply with such laws, rules and regulations or the failure so to preserve and maintain such existence, rights, franchises, qualifications and privileges would not have a Material Adverse Effect.

@@ -1,0 +1,132 @@
+EX-10.6 3 exhibit10602-26x19.htm EXHIBIT 10.6
+
+
+240444796v.4
+FOURTH AMENDMENT TO AMENDED AND RESTATED CREDIT AGREEMENT
+THIS FOURTH AMENDMENT TO AMENDED AND RESTATED CREDIT AGREEMENT (this “Amendment”) is made and entered into effective as of February 26, 2019, by and among CINCINNATI FINANCIAL CORPORATION, an Ohio corporation (the “Company”), CFC INVESTMENT COMPANY, an Ohio corporation (“CFC-I” and together with the Company, each a “Borrower” and together, the “Borrowers”), the Lenders party hereto, and PNC BANK, NATIONAL ASSOCIATION, in its capacity as administrative agent for the Lenders under the Credit Agreement (the “Administrative Agent”).
+R E C I T A L S:
+
+A.    The Administrative Agent, the Lenders and the Borrowers are parties to that certain Amended and Restated Credit Agreement, dated as of May 13, 2014 (as amended, restated, supplemented or otherwise modified prior to the date hereof, the “Credit Agreement”).
+B.    The Administrative Agent, the Lenders and the Borrowers desire to make certain changes to the Credit Agreement as set forth herein.
+NOW, THEREFORE, in consideration of the foregoing recitals, the mutual covenants and agreements contained herein, and other good and valuable considerations, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:
+1.Certain Defined Terms. Capitalized terms which are used herein without definition and which are defined in the Credit Agreement shall have the same meanings herein as in the Credit Agreement.
+2.    Amendments to Credit Agreement. Subject to satisfaction of the conditions set forth in Section 3 of this Amendment, the Credit Agreement is hereby amended as follows:
+(a)Section 1.1 (Certain Definitions) of the Credit Agreement is hereby amended by adding the following definitions, in appropriate alphabetical order:
+“Corporate Member shall mean Beaufort Dedicated No 2 Limited, a corporation incorporated under the laws of England & Wales, which is a Member.”
+“Lloyd’s shall mean the Society incorporated by the Lloyd’s Act 1871 by the name Lloyd’s.”
+“Managed Syndicate shall mean Syndicate 318; provided, that, the Managed Syndicate shall at all times be managed by the Managing Agent.”
+“Managing Agent shall mean Beaufort Underwriting Agency Ltd.”
+“Member shall mean an underwriting member of Lloyd’s.”
+
+731450650.3
+
+“Prudential Regulation Authority shall mean the Prudential Regulation Authority in the United Kingdom and any regulatory body which succeeds to one or more of the functions and/or duties performed by it as of February 25, 2019.”
+“Syndicate Arrangement shall mean any arrangement (whether pursuant to guarantees, letters of credit or otherwise) entered into by the Managing Agent on behalf of the Corporate Member, together with the other Members of the Managed Syndicate with respect to financing or reinsurance for the purposes of or in connection with the underwriting business carried on by all such Members of the Managed Syndicate.”
+(b)The definition of “Permitted Liens” in Section 1.1 (Certain Definitions) of the Credit Agreement is hereby amended by deleting clauses (x) and (xi) thereof and replacing them with the following clauses (x) through (xiii) to read as follows:
+“(x)    Liens in connection with funds on deposit with a state, an Applicable Insurance Regulatory Authority or Lloyd’s, or in connection with the collateralization of an obligation required by the same;
+(xi)    Liens granted or subsisting under any deed or agreement required by Lloyd’s or the Prudential Regulation Authority to be executed or entered into by or on behalf of the Company or any of its Subsidiaries in connection with any of its Subsidiaries’ insurance business at Lloyd’s;
+(xii)    Liens over or affecting any asset forming part of a trust fund (or, in the case of reinsurance recoveries or other things in action, whose proceeds will form part of a trust fund) which is held subject to the provisions of any deed or agreement of the kind referred to in clause (x) above, where that Lien is created to secure obligations arising under a Syndicate Arrangement; and
+(xiii)    Liens not otherwise permitted by clauses (i) through (xii) hereof; provided that (A) the aggregate amount of Indebtedness at any time secured thereby shall not exceed $25,000,000 and (B) the aggregate book value of the assets at any time subject to such Lien shall not exceed $50,000,000.”
+(c)Section 7.2.1 (Indebtedness) of the Credit Agreement is hereby amended by deleting clause (vii) thereof and replacing it with the following clauses (vii) and (viii) to read as follows:
+“(vii)    Indebtedness arising under any Syndicate Arrangement; and
+(viii)    Additional Indebtedness of the Company and each Insurance Company so long as the Company is in pro forma compliance with Section 7.2.13 and there is no Event of Default or Potential Default after giving effect to such additional Indebtedness.”
+(d)Section 7.2.11(i) (Limitation on Certain Restrictions of Subsidiaries) of the Credit Agreement is hereby amended and restated in its entirety to read as follows:
+
+2
+731450650.3
+
+“(i) restrictions and conditions imposed by law or by (x) any Loan Document or (y) any document governing Indebtedness necessary to post funds at Lloyd’s on behalf of the Corporate Member, or governing Indebtedness arising under any Syndicate Arrangement, in the case of this clause (y), to the extent such restriction or condition is not more onerous to the Borrowers or any Subsidiary than any such restriction or conditions contained in any Loan Document),”
+(e)A new Section 7.3.4.5 is hereby added to the Credit Agreement as follows:
+“7.3.4.5 Syndicate Arrangements. Promptly after the incurrence of any Indebtedness arising under a Syndicate Arrangement, notice of such incurrence of Indebtedness arising under a Syndicate Arrangement, including the amount thereunder.”
+3.    Effectiveness of Amendment. This Amendment shall become effective upon receipt by the Administrative Agent of a fully-executed and delivered copy of this Amendment by Borrowers, Administrative Agent and Lenders constituting Required Lenders.
+4.    Representations and Warranties. In order to induce the Administrative Agent and the Lenders to enter into this Amendment, Borrowers hereby represent and warrant that (a) the representations, warranties and agreements contained in Article 5 of the Credit Agreement, are true and correct in all material respects on and as of the date hereof, after giving effect to this Amendment (it being understood and agreed that any representation or warranty which by its terms is made as of a specified date shall be required to be true and correct in all material respects only as of such specified date); (b) no Event of Default or Potential Default exists on the date hereof, both before and after giving effect to this Amendment; and (c) the execution, delivery and performance by Borrowers of this Amendment have been duly authorized by all necessary corporate and other action and do not and will not require any registration with, amendment or approval of, notice to or action by, any Person (including any federal, foreign, state or local governmental authority) in order to be effective and enforceable.
+5.    Ratification. Except as expressly modified by Section 2 of this Amendment, all of the terms, provisions and conditions of the Credit Agreement and the other Loan Documents to which the Borrowers are a party shall remain unchanged and in full force and effect. The Credit Agreement and each other Loan Document to which the Borrowers are a party are hereby ratified and confirmed and shall remain in full force and effect according to their terms, as expressly modified by Section 2 of this Amendment. The execution, delivery and effectiveness of this Amendment shall not operate as a waiver of any right, power or remedy of Administrative Agent or the Lenders under the Credit Agreement or any of the other Loan Documents, or constitute a waiver of any provision of the Credit Agreement or any of the other Loan Documents. This Amendment shall not constitute a course of dealing with Administrative Agent or the Lenders at variance with the Credit Agreement or the other Loan Documents such as to require further notice by Administrative Agent or the Lenders to require strict compliance with the terms of the Credit Agreement and the other Loan Documents in the future. The Borrowers acknowledge and expressly agree that Administrative Agent or any of the Lenders reserve the right to, and do in fact, require strict compliance with all terms and provisions of the Credit Agreement and the other Loan Documents.
+
+3
+731450650.3
+
+6.    Entire Agreement. Borrowers acknowledge that: (a) there are no other agreements or representations, either oral or written, express or implied, relating to the amendments to the Credit Agreement and the Loan Documents set forth herein and other provisions hereof that are not embodied in this Amendment; (b) this Amendment represents a complete integration of all prior and contemporaneous agreements and understandings of the Lenders, the Administrative Agent and the Borrowers relating to the matters set forth herein; and (c) all such agreements, understandings, and documents are hereby superseded by this Amendment.
+7.    Inconsistency. In the event of an inconsistency between this Amendment and the Credit Agreement and/or the Loan Documents, the terms of this Amendment shall control.
+8.    Governing Law. THIS AMENDMENT SHALL BE DEEMED TO BE A CONTRACT UNDER THE LAWS OF THE STATE OF OHIO WITHOUT REGARD TO ITS CONFLICT OF LAWS PRINCIPLES.
+9.    Waiver of Jury Trial. EACH PARTY HERETO HEREBY IRREVOCABLY WAIVES, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, ANY RIGHT IT MAY HAVE TO A TRIAL BY JURY IN ANY LEGAL PROCEEDING DIRECTLY OR INDIRECTLY ARISING OUT OF OR RELATING TO THIS AMENDMENT OR ANY OTHER LOAN DOCUMENT OR THE TRANSACTIONS CONTEMPLATED HEREBY OR THEREBY (WHETHER BASED ON CONTRACT, TORT OR ANY OTHER THEORY). EACH PARTY HERETO (A) CERTIFIES THAT NO REPRESENTATIVE, ADMINISTRATIVE AGENT OR ATTORNEY OF ANY OTHER PERSON HAS REPRESENTED, EXPRESSLY OR OTHERWISE, THAT SUCH OTHER PERSON WOULD NOT, IN THE EVENT OF LITIGATION, SEEK TO ENFORCE THE FOREGOING WAIVER AND (B) ACKNOWLEDGES THAT IT AND THE OTHER PARTIES HERETO HAVE BEEN INDUCED TO ENTER INTO THIS AGREEMENT AND THE OTHER LOAN DOCUMENTS BY, AMONG OTHER THINGS, THE MUTUAL WAIVERS AND CERTIFICATIONS IN THIS SECTION.
+10.    Construction. The words “hereof”, “herein”, and “hereunder”, and other words of a similar import refer to this Amendment as a whole and not to the individual Sections in which such terms are used. References to Sections and other subdivisions of this Amendment are to the designated Sections and other subdivisions of this Amendment as originally executed. The headings of this Amendment are for convenience only and shall not define or limit the provisions hereof. Where the context so requires, words used in singular shall include the plural and vice versa, and words of one gender shall include all other genders.
+11.    Successors and Assigns. Upon execution and delivery of this Amendment, the provisions hereof shall be binding upon and inure to the benefit of the Lenders, the Administrative Agent and the Borrowers and their respective successors and assigns, subject to restrictions on assignment contained in the Credit Agreement and the Loan Documents.
+12.    References. From and after the date hereof, all references in the Credit Agreement and in each of the Loan Documents shall be deemed to be references to the Credit Agreement as amended hereby.
+
+4
+731450650.3
+
+13.    Counterparts; Facsimile Signatures Binding. This Amendment may be executed in counterparts, all of which, when taken together, shall constitute a single instrument. In making proof of this Amendment, it shall not be necessary to produce or account for more than one counterpart signed by each party hereto by and against which enforcement hereof is sought. Delivery of an executed counterpart of this Amendment by email .pdf, telefax or other electronic method of transmission shall be equally as effective as delivery of an original executed counterpart of this Amendment.
+14.    Recitals. The Recitals to this Amendment are incorporated herein as an integral part hereto.
+[Signatures Immediately Follow]
+
+
+5
+731450650.3
+
+IN WITNESS WHEREOF, the parties have caused this Amendment to be executed pursuant to authority duly granted as of the date and year first written above.
+CINCINNATI FINANCIAL CORPORATION
+
+By: /s/ Michael J. Sewell
+Name: Michael J. Sewell
+Title: Chief Financial Officer    
+
+CFC INVESTMENT COMPANY
+
+By: /s/ Michael J. Sewell
+Name: Michael J. Sewell
+Title: Chief Financial Officer    
+
+
+Signature Page to Fourth Amendment to Amended and Restated Credit Agreement
+
+
+PNC BANK, NATIONAL ASSOCIATION, individually and as Administrative Agent
+
+By: /s/ Mary E. Auch    
+Name: Mary E. Auch
+Title: Senior Vice President
+
+
+
+Signature Page to Fourth Amendment to Amended and Restated Credit Agreement
+
+FIFTH THIRD BANK
+
+By: /s/ Michael J. Schaltz, Jr.
+Name: Michael J. Schaltz, Jr.
+Title: Managing Director & Senior Vice President
+
+
+
+Signature Page to Fourth Amendment to Amended and Restated Credit Agreement
+
+THE HUNTINGTON NATIONAL BANK
+
+By: /s/ Mike Kelley
+Name: Mike Kelley
+Title: V.P.
+
+
+
+Signature Page to Fourth Amendment to Amended and Restated Credit Agreement
+
+U.S. BANK NATIONAL ASSOCIATION
+
+By: /s/ Andre Liu
+Name: Andre Liu
+Title: Vice President
+
+
+
+Signature Page to Fourth Amendment to Amended and Restated Credit Agreement
+
+BRANCH BANKING AND TRUST COMPANY
+
+By: /s/ Scott Hennessee
+Name: Scott Hennessee    
+Title: Senior Vice President     
+
+
+
+Signature Page to Fourth Amendment to Amended and Restated Credit Agreement

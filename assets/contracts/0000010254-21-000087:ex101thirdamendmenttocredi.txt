@@ -1,0 +1,617 @@
+EX-10.1 2 ex101thirdamendmenttocredi.htm EX-10.1
+
+
+Exhibit 10.1
+
+THIRD AMENDMENT
+TO
+CREDIT AGREEMENT
+Dated as of April 20, 2021
+Among
+EARTHSTONE ENERGY HOLDINGS, LLC,
+as Borrower,
+
+EARTHSTONE ENERGY, INC.,
+as Parent,
+
+WELLS FARGO BANK, NATIONAL ASSOCIATION,
+as Administrative Agent and Issuing Bank,
+ROYAL BANK OF CANADA,
+as Syndication Agent,
+
+TRUIST BANK,
+as Documentation Agent,
+
+and
+
+The Lenders Party Thereto
+________________________________
+
+WELLS FARGO SECURITIES, LLC
+RBC CAPITAL MARKETS
+Joint Lead Arrangers and Joint Bookrunners
+
+________________________________
+
+
+THIRD AMENDMENT TO CREDIT AGREEMENT
+THIS THIRD AMENDMENT TO CREDIT AGREEMENT (this “Third Amendment”) dated as of April 20, 2021, is among Earthstone Energy Holdings, LLC, a Delaware limited liability company (the “Borrower”); Earthstone Energy, Inc., a Delaware corporation (the “Parent”); each of the undersigned guarantors (the “Guarantors”, and together with the Borrower and the Parent, the “Obligors”); each of the Lenders party hereto; and Wells Fargo Bank, National Association (in its individual capacity, “Wells Fargo”), as administrative agent for the Lenders (in such capacity, together with its successors in such capacity, the “Administrative Agent”).
+R E C I T A L S
+A.    The Borrower, the Parent, the Administrative Agent and the Lenders are parties to that certain Credit Agreement dated as of November 21, 2019 (as amended, restated, amended and restated, supplemented or otherwise modified prior to the date hereof, the “Credit Agreement”), pursuant to which the Lenders have made certain credit available to and on behalf of the Borrower.
+B.    The Borrower and the Guarantors are parties to that certain Guarantee and Collateral Agreement, dated as of November 21, 2019 (as amended, restated, amended and restated, supplemented or otherwise modified), made by each of the Loan Parties party thereto in favor of the Administrative Agent.
+
+C.    The Parent is party to that certain Parent Guarantee, dated as of November 21, 2019 (as amended, restated, amended and restated, supplemented or otherwise modified), in favor of the Administrative Agent.
+D.    The Borrower has requested and the Administrative Agent and the Lenders party hereto have agreed to amend the Credit Agreement, subject to the terms and conditions of this Third Amendment.
+E.    NOW, THEREFORE, to induce the Administrative Agent and the Lenders to enter into this Third Amendment and in consideration of the promises and the mutual covenants herein contained, for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:
+Section 1.    Defined Terms. Each capitalized term used herein but not otherwise defined herein has the meaning given such term in the Credit Agreement, as amended by this Third Amendment (unless otherwise indicated). Unless otherwise indicated, all section references in this Third Amendment refer to sections of the Credit Agreement.
+Section 2.    Amendments to Credit Agreement.
+2.1    Amendments to Section 1.02 – Certain Defined Terms.
+    1    
+
+
+(a)    The following definitions are hereby amended and restated in their entirety to read as follows:
+“Aggregate Elected Borrowing Base Commitments” means (a) on the Third Amendment Effective Date, $475,000,000 and (b) at any time thereafter, an amount determined in accordance with Section 2.07(g).
+“Agreement” means this Credit Agreement, including any schedules and exhibits hereto, as amended by the First Amendment, the Second Amendment and the Third Amendment, and as the same may from time to time be amended, modified, supplemented or restated.
+“April 2021 Redetermination” has the meaning assigned to such term in Section 2.07(b).
+(b)    The following definitions are hereby added where alphabetically appropriate to read as follows:
+“Sequel” means the collective reference to SEG-TRD LLC, a Delaware limited liability company, and SEG-TRD II LLC, a Delaware limited liability company.
+“Sequel Acquisition” means the acquisition by the Borrower of the Sequel Acquisition Properties pursuant to the terms and conditions of the Sequel Acquisition Agreement.
+“Sequel Acquisition Agreement” means that certain Purchase and Sale Agreement, dated as of March 31, 2021, by and among Sequel, as seller, the Borrower, as buyer, and Parent, as amended, restated, supplemented or otherwise modified from time to time.
+“Sequel Acquisition Documents” means (a) the Sequel Acquisition Agreement and (b) all bills of sale, assignments, agreements, instruments and documents executed and delivered in connection therewith, as amended, modified or supplemented.
+“Sequel Acquisition Properties” means the Oil and Gas Properties and other Properties to be acquired by the Borrower pursuant to the Sequel Acquisition Documents.
+“Third Amendment” means that certain Third Amendment to Credit Agreement, dated as of April 20, 2021, among the Borrower, the Parent, the Guarantors, the Administrative Agent and the Lenders party thereto.
+“Third Amendment Acquisitions” means the collective reference to the Sequel Acquisition and the Tracker Acquisition.
+    2    
+
+
+“Third Amendment Acquisition BB Increase” has the meaning assigned to such term in Section 2.07(h).
+“Third Amendment Acquisition Reserve Report” means the Reserve Report prepared by or under the supervision of the chief engineer of the Borrower with respect to the Tracker Acquisition Properties and the Sequel Acquisition Properties, in each case, as of March 1, 2021.
+“Third Amendment Effective Date” has the meaning assigned to such term in the Third Amendment.
+“Tracker” means the collective reference to Tracker Resource Development III, LLC, a Delaware limited liability company, and TRD III Royalty Holdings (TX), LP, a Texas limited partnership.
+“Tracker Acquisition” means the acquisition by the Borrower of the Tracker Acquisition Properties pursuant to the terms and conditions of the Tracker Acquisition Agreement.
+“Tracker Acquisition Agreement” means that certain Purchase and Sale Agreement by and between Tracker, as seller, the Borrower, as buyer, and Parent, as amended, restated, supplemented or otherwise modified from time to time.
+“Tracker Acquisition Documents” means (a) the Tracker Acquisition Agreement and (b) all bills of sale, assignments, agreements, instruments and documents executed and delivered in connection therewith, as amended, modified or supplemented.
+“Tracker Acquisition Properties” means the Oil and Gas Properties and other Properties to be acquired by the Borrower pursuant to the Tracker Acquisition Documents.
+(c)    The definition of “Borrowing Base” is hereby amended by replacing the reference to “Section 2.07(f) or Section 8.12(c)” contained therein with “Section 2.07(f), Section 2.07(h) or Section 8.12(c)”.
+2.2    Amendment to Section 2.07(a). Section 2.07(a) is hereby amended and restated in its entirety to read as follows:
+(a)    Third Amendment Borrowing Base. For the period from and including the Third Amendment Effective Date to but excluding the next Redetermination Date, the amount of the Borrowing Base shall be $475,000,000. For purposes of this Agreement, the determination of the Borrowing Base on the Third Amendment Effective Date provided for in the immediately preceding sentence shall constitute the April 2021 Redetermination. Notwithstanding the foregoing, the Borrowing Base may be subject to further adjustments in between
+    3    
+
+
+Scheduled Redeterminations from time to time pursuant to Section 2.07(e), Section 2.07(f), Section 2.07(h) or Section 8.12(c).
+2.3    Amendment to Section 2.07(b). Section 2.07(b) is hereby amended and restated in its entirety to read as follows:
+(b)    Scheduled and Interim Redeterminations. The Borrowing Base shall be redetermined on or about April 1, 2021 (the “April 2021 Redetermination”), on or about October 1, 2021 (the “October 2021 Redetermination”) and, thereafter, semi-annually in accordance with this Section 2.07 (each, a “Scheduled Redetermination”), and, subject to Section 2.07(d), such redetermined Borrowing Base shall become effective and applicable to the Borrower, the Administrative Agent, the Issuing Banks and the Lenders on or about April 1, 2021 (in the case of the April 2021 Redetermination), October 1, 2021 (in the case of the October 2021 Redetermination), and on or about May 1 and November 1 of each year, commencing May 1, 2022. In addition, (i) the Borrower may, by notifying the Administrative Agent thereof, one time between Scheduled Redeterminations, elect to cause the Borrowing Base to be redetermined between Scheduled Redeterminations, (ii) the Administrative Agent may, at the direction of the Required Lenders, following the first Scheduled Redetermination hereunder, one time between successive Scheduled Redeterminations, by notifying the Borrower thereof, elect to cause the Borrowing Base to be redetermined, and (iii) the Borrower may elect, by notifying the Administrative Agent of any acquisition of Oil and Gas Properties by the Borrower or its Restricted Subsidiaries with a purchase price in the aggregate of at least five percent (5%) of the then effective Borrowing Base, to cause the Borrowing Base to be redetermined prior to the initial Scheduled Redetermination or between Scheduled Redeterminations (each, an “Interim Redetermination”) in accordance with this Section 2.07.
+2.4    Amendment to Section 2.07(c). Section 2.07(c) is hereby amended by replacing the parenthetical phrase “(or in the case of the April 2021 Redetermination, on or about March 15, 2021)” contained therein with “(or (x) in the case of the April 2021 Redetermination, on or about March 15, 2021 or (y) in the case of the October 2021 Redetermination, on or about September 15, 2021)”.
+2.5    Amendment to Section 2.07(d). Section 2.07(d) is hereby amended by replacing the parenthetical phrase “(or in the case of the April 2021 Redetermination, on or about April 1, 2021)” contained therein with “(or (x) in the case of the April 2021 Redetermination, on or about April 1, 2021 or (y) in the case of the October 2021 Redetermination, on or about October 1, 2021)”.
+2.6    Amendment to Section 2.07. Section 2.07 is hereby amended by adding the following new Section 2.07(h) at the end thereof to read as follows:
+    4    
+
+
+(h)    Automatic Increase of Borrowing Base Upon Third Amendment Acquisitions. If the Third Amendment Acquisitions are consummated on or before August 15, 2021, then, subject to the conditions set forth in this Section 2.07(h), the Borrowing Base then in effect shall be automatically increased by an amount equal to $75,000,000 (the “Third Amendment Acquisition BB Increase”) without any further action by the Borrower, the Administrative Agent, the Issuing Banks or the Lenders, effective and applicable to the Borrower, the Administrative Agent, the Issuing Banks and the Lenders on the Business Day on which each of the following conditions has been satisfied (or waived in accordance with Section 12.02) (such date, the “Automatic Borrowing Base Increase Effectiveness Date”):
+(i)    (A) The Tracker Acquisition shall have been (or contemporaneously with the Third Amendment Acquisition BB Increase shall be) consummated in accordance with the terms of the Tracker Acquisition Agreement, and in connection therewith the Borrower shall have acquired at least 90% of the total value of the Tracker Acquisition Properties and (B) the Sequel Acquisition shall have been (or contemporaneously with the Third Amendment Acquisition BB Increase shall be) consummated in accordance with the terms of the Sequel Acquisition Agreement, and in connection therewith the Borrower shall have acquired at least 90% of the total value of the Sequel Acquisition Properties.
+(ii)    The Administrative Agent shall have received an officer’s certificate from the Borrower, certifying that (A) the Tracker Acquisition has been consummated in accordance with applicable law and the terms of the Tracker Acquisition Agreement without giving effect to any waiver, modification or consent thereunder that is materially adverse to the interests of the Lenders (in their capacities as such), and in connection therewith, the Borrower has acquired at least 90% of the total value of the Tracker Acquisition Properties, (B) as to the final purchase price for the Tracker Acquisition Properties after giving effect to all adjustments as of the closing date contemplated by the Tracker Acquisition Documents and specifying, by category, the amount of such adjustment; (C) that attached thereto is a true and complete list of the Properties that have been excluded from the Tracker Acquisition pursuant to the terms of the Tracker Acquisition Documents, specifying with respect thereto the basis of exclusion as (1) title defect, (2) preferential purchase right or consent right, (3) environmental or (4) casualty loss; (D) that attached thereto is a true and complete list of the Oil and Gas Properties for which Tracker has elected to cure a title defect; (E) that attached thereto is a true and complete list of the Oil and Gas Properties for which Tracker has elected to remediate an adverse environmental condition; (F) that attached thereto is a true and complete list of the Oil and Gas Properties which are
+    5    
+
+
+currently pending final decision by a third party regarding purchase of such property in accordance with any preferential right or consent right; (G) that attached thereto is a true, complete and executed copy of the closing settlement statement for the Tracker Acquisition; and (H) that true and complete executed copies of all Tracker Acquisition Documents have been delivered to the Administrative Agent.
+(iii)    The Administrative Agent shall have received an officer’s certificate from the Borrower, certifying that (A) the Sequel Acquisition has been consummated in accordance with applicable law and the terms of the Sequel Acquisition Agreement without giving effect to any waiver, modification or consent thereunder that is materially adverse to the interests of the Lenders (in their capacities as such), and in connection therewith, the Borrower has acquired at least 90% of the total value of the Sequel Acquisition Properties, (B) as to the final purchase price for the Sequel Acquisition Properties after giving effect to all adjustments as of the closing date contemplated by the Sequel Acquisition Documents and specifying, by category, the amount of such adjustment; (C) that attached thereto is a true and complete list of the Properties that have been excluded from the Sequel Acquisition pursuant to the terms of the Sequel Acquisition Documents, specifying with respect thereto the basis of exclusion as (1) title defect, (2) preferential purchase right or consent right, (3) environmental or (4) casualty loss; (D) that attached thereto is a true and complete list of the Oil and Gas Properties for which Sequel has elected to cure a title defect; (E) that attached thereto is a true and complete list of the Oil and Gas Properties for which Sequel has elected to remediate an adverse environmental condition; (F) that attached thereto is a true and complete list of the Oil and Gas Properties which are currently pending final decision by a third party regarding purchase of such property in accordance with any preferential right or consent right; (G) that attached thereto is a true, complete and executed copy of the closing settlement statement for the Sequel Acquisition; and (H) that true and complete executed copies of all Sequel Acquisition Documents have been delivered to the Administrative Agent.
+(iv)    No Default, Event of Default or Borrowing Base Deficiency shall have occurred and be continuing on the date of the Third Amendment Acquisition BB Increase.
+(v)    The Administrative Agent shall have received (a) evidence satisfactory to it that all Liens on the Tracker Acquisition Properties and the Sequel Acquisition Properties (other than Liens permitted under Section 9.03) have been released or terminated, subject only to the filing of applicable terminations, releases or assignments and (b) duly executed
+    6    
+
+
+recordable releases and terminations with respect thereto, in form and substance satisfactory to the Administrative Agent.
+(vi)    The Administrative Agent, the Arranger and the Lenders shall have received all fees and other amounts due and payable on or prior to the Automatic Borrowing Base Increase Effectiveness Date, including, to the extent invoiced at least two Business Days prior to satisfaction of all other applicable conditions, reimbursement or payment of all reasonable out-of-pocket expenses required to be reimbursed or paid by the Borrower under the Credit Agreement.
+(vii)    The Administrative Agent shall be reasonably satisfied with the environmental condition of the Tracker Acquisition Properties and the Sequel Acquisition Properties.
+(viii)    The Administrative Agent shall have received duly executed and notarized deeds of trust and/or mortgages or supplements to existing deeds of trust and/or mortgages in form reasonably satisfactory to the Administrative Agent, to the extent necessary so that the Mortgaged Properties represent at least 85% of the total value of the proved Oil and Gas Properties evaluated in the most recently delivered Reserve Report and the Third Amendment Acquisition Reserve Report (on a combined basis).
+(ix)    The Administrative Agent shall have received, together with title information previously delivered to the Administrative Agent, title information reasonably satisfactory to the Administrative Agent setting forth the status of title to at least 85% of the total value of the proved Oil and Gas Properties evaluated in the most recently delivered Reserve Report and the Third Amendment Acquisition Reserve Report (on a combined basis).
+(x)    The Administrative Agent shall have received such other related documents and information with respect to the Tracker Acquisition and/or the Sequel Acquisition as the Administrative Agent shall have reasonably requested.
+In connection with the automatic increase to the Borrowing Base pursuant to this Section 2.07(h), each Lender has, in consultation with the Borrower, agreed to reallocate its Maximum Credit Amount and its Commitment (the “Borrowing Base Increase Reallocation and Assignment”) among the other Lenders. On the Automatic Borrowing Base Increase Effectiveness Date, and after giving effect to the Borrowing Base Increase Reallocation and Assignment, the Maximum Credit Amount and the Applicable Percentage of each Lender shall be as set forth on Annex I-B, and, effective as of the Automatic Borrowing Base Increase Effectiveness Date, Annex I shall be deemed to be amended and restated in its
+    7    
+
+
+entirety to read as set forth on Annex I-B of this Agreement. Each of the Administrative Agent, each Lender, the Issuing Bank and the Borrower hereby consents and agrees to the Borrowing Base Increase Reallocation and Assignment, including each Lender’s assignment of its Maximum Credit Amount, Commitment, Loans and participations in Letters of Credit to the extent necessary to effect the Borrowing Base Increase Reallocation and Assignment. With respect to the Borrowing Base Increase Reallocation and Assignment, each Lender shall be deemed to have sold and assigned its Maximum Credit Amount, Commitment, Loans and participations in Letters of Credit, and each Lender shall be deemed to have acquired the Maximum Credit Amount, Commitment, Loans and participations in Letters of Credit allocated to it from each of the other Lenders pursuant to the terms and conditions of the Assignment and Assumption, as if each Lender had executed such Assignment and Assumption with respect to the Borrowing Base Increase Reallocation and Assignment, pursuant to which, (i) each Lender shall be an “Assignee” and an “Assignor” and (ii) the term “Effective Date” shall be the “Automatic Borrowing Base Increase Effectiveness Date” as defined herein. Notwithstanding Section 12.04(b), the Lenders shall not be required to pay a processing and recordation fee of $3,500 to the Administrative Agent. The Borrowing Base Increase Reallocation and Assignment shall be without recourse to each Lender and, except as expressly provided in the Assignment Agreement, without representation or warranty by such Lender. On the Automatic Borrowing Base Increase Effectiveness Date, the Administrative Agent shall take the actions specified in Section 12.04(b)(iv), including recording the assignments described herein in the Register, and such assignments shall be effective for all purposes of this Agreement. If on the Automatic Borrowing Base Increase Effectiveness Date, any Eurodollar Loans have been funded, then the Borrower shall be obligated to pay any breakage fees or costs that are payable pursuant to Section 5.02 in connection with the reallocation of such outstanding Eurodollar Loans to effectuate the provisions of this paragraph.
+2.7    Amendment to Section 8.11(a). The last sentence of Section 8.11(a) is hereby amended and restated in its entirety to read as follows:
+Notwithstanding the foregoing, in connection with the October 2021 Redetermination, the Borrower shall furnish to the Administrative Agent and the Lenders a Reserve Report on or about September 1, 2021, evaluating the Oil and Gas Properties of the Loan Parties as of as of July 1, 2021, which Reserve Report shall be prepared by or under the supervision of the chief engineer of the Borrower who shall certify such Reserve Report to be true and accurate and to have been prepared in accordance with the procedures used in the immediately preceding January 1 Reserve Report.
+2.8    Amendment to Annexes. The Credit Agreement is hereby amended by adding a new Annex I-B to the end thereof to read as set forth on Annex I-B attached to this Third Amendment.
+    8    
+
+
+Section 3.    Assignment and Assumption. On the Third Amendment Effective Date, immediately prior to giving effect to the amendments in Section 2 of this Third Amendment, each of Wells Fargo Bank, National Association, Royal Bank of Canada, Truist Bank, Citizens Bank, N.A., Keybank National Association, PNC Bank, National Association, U.S. Bank National Association, Iberiabank, a division of First Horizon Bank, BBVA USA, and Fifth Third Bank (each an “Existing Lender”, and collectively, the “Existing Lenders”) has, in consultation with the Borrower, agreed to, and, for an agreed consideration, does hereby reallocate its Maximum Credit Amount, Commitment and Loans (and participations in Letters of Credit and LC Disbursements) to allow Bank of America, N.A. (the “New Lender”) to become a party to the Credit Agreement as a Lender by acquiring an interest in the Aggregate Maximum Credit Amount and the total Commitments (the “Reallocation”). On the Third Amendment Effective Date, and after giving effect to the Reallocation: (a) the Maximum Credit Amount and Applicable Percentage of each Lender (including the New Lenders) shall be as set forth on Annex I attached to this Third Amendment, which Annex I supersedes and replaces Annex I to the Credit Agreement (and Annex I to the Credit Agreement is hereby amended and restated in its entirety to read as set forth on Annex I attached hereto); and (b) the New Lender shall become a party to the Credit Agreement, as amended by this Third Amendment, as a “Lender” and have all of the rights and obligations of a Lender under the Credit Agreement, as amended by this Third Amendment, and the other Loan Documents. Each of the Administrative Agent, each Existing Lender, the Issuing Bank and the Borrower hereby consents and agrees to the Reallocation, including the New Lender’s acquisition of interest in the Maximum Credit Amount and Commitments and each Existing Lender’s assignment of its Maximum Credit Amount, Commitment, Loans and participations in Letters of Credit to the extent necessary to effect the Reallocation. With respect to the Reallocation, each Existing Lender shall be deemed to have sold and assigned its Maximum Credit Amount, Commitment, Loans and participations in Letters of Credit, and the New Lender shall be deemed to have acquired the Maximum Credit Amount, Commitment, Loans and participations in Letters of Credit allocated to it from each Existing Lender, pursuant to the terms and conditions of the Assignment and Assumption attached as Exhibit G to the Credit Agreement (the “Assignment Agreement”), as if each Existing Lender and the New Lender had executed such Assignment Agreement with respect to the Reallocation, pursuant to which, (i) the New Lender shall be an “Assignee”, (ii) each Existing Lender shall be an “Assignor” and (iii) the term “Effective Date” shall be the Third Amendment Effective Date as defined herein. The Administrative Agent hereby waives the fee payable to the Administrative Agent pursuant to Section 12.04(b) of the Credit Agreement in connection with the Assignment and Assumption. On the Third Amendment Effective Date, the Administrative Agent shall take the actions specified in Section 12.04(b)(iv), including recording the assignments described herein in the Register, and such assignments shall be effective for purposes of the Credit Agreement.
+Section 4.    Conditions of Effectiveness. This Third Amendment will become effective on the date on which each of the following conditions is satisfied or waived in accordance with Section 12.02 (such date, the “Third Amendment Effective Date”):
+(a)    Counterparts. The Administrative Agent shall have received from the Borrower, the Parent, each Guarantor and the Lenders (including the New Lenders), counterparts
+    9    
+
+
+(in such number as may be requested by the Administrative Agent) of this Third Amendment signed on behalf of such Person.
+(b)    Fees and Expenses. The Administrative Agent and the Lenders shall have received all fees and other amounts due and payable on or prior to the Third Amendment Effective Date, including, to the extent invoiced at least two Business Days prior to satisfaction of all other applicable conditions, reimbursement or payment of all reasonable out-of-pocket expenses required to be reimbursed or paid by the Borrower under the Credit Agreement.
+(c)    No Default. As of the Third Amendment Effective Date, no Default shall have occurred and be continuing.
+The Administrative Agent is hereby authorized and directed to declare this Third Amendment to be effective when it has received documents confirming compliance with the conditions set forth in this Section 4 or the waiver of such condition in accordance with Section 12.02 of the Credit Agreement. Such declaration shall be final, conclusive and binding upon all parties to the Credit Agreement for all purposes. For purposes of determining compliance with the conditions specified in this Section 4, each Lender that has signed this Amendment shall be deemed to have consented to, approved or accepted, or to be satisfied with, each document or other matter required thereunder to be consented to or approved by or acceptable or satisfactory to such Lender, unless the Administrative Agent shall have received written notice from such Lender prior to the Third Amendment Effective Date specifying its objection thereto.
+Section 5.    Miscellaneous.
+(a)    Confirmation. The provisions of the Credit Agreement, as amended by this Third Amendment, shall remain in full force and effect following the effectiveness of this Third Amendment.
+(b)    Ratification and Affirmation; Representations and Warranties. Each Obligor hereby: (a) acknowledges the terms of this Third Amendment; (b) ratifies and affirms its obligations under and the Liens granted by, and acknowledges, renews and extends its continued liability under, each Loan Document to which it is a party and agrees that each Loan Document to which it is a party remains in full force and effect, except as expressly amended hereby; (c) agrees that from and after the Third Amendment Effective Date each reference to the Credit Agreement in the other Loan Documents shall be deemed to be a reference to the Credit Agreement, as amended by this Third Amendment; and (d) represents and warrants to the Lenders that as of the date hereof, after giving effect to the terms of this Third Amendment: (i) all of the representations and warranties contained in each Loan Document to which it is a party are true and correct in all material respects (except that any representation and warranty that is qualified by materiality shall be true and correct in all respects), except to the extent any such representations and warranties are expressly limited to an earlier date, in which case, such representations and warranties shall continue to be true and correct in all material respects (except that any representation and warranty that is qualified by materiality shall be true and correct in all respects) as of such specified earlier date and (ii) no Default has occurred and is continuing.
+    10    
+
+
+(c)    Counterparts. This Third Amendment may be executed by one or more of the parties hereto in any number of separate counterparts, and all of such counterparts taken together shall be deemed to constitute one and the same instrument. Delivery of an executed counterpart of a signature page of this Third Amendment by facsimile, electronic communications, as an attachment to an email or other similar electronic means shall be effective as delivery of a manually executed counterpart of this Third Amendment.
+(d)    NO ORAL AGREEMENT. THIS THIRD AMENDMENT, THE CREDIT AGREEMENT AND THE OTHER LOAN DOCUMENTS EXECUTED IN CONNECTION HEREWITH AND THEREWITH REPRESENT THE FINAL AGREEMENT BETWEEN THE PARTIES AND MAY NOT BE CONTRADICTED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS, OR UNWRITTEN ORAL AGREEMENTS OF THE PARTIES. THERE ARE NO SUBSEQUENT ORAL AGREEMENTS BETWEEN THE PARTIES.
+(e)    GOVERNING LAW. THIS THIRD AMENDMENT (INCLUDING, BUT NOT LIMITED TO, THE VALIDITY AND ENFORCEABILITY HEREOF) SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF TEXAS.
+(f)    Loan Document. This Third Amendment is a “Loan Document” as defined and described in the Credit Agreement and all of the terms and provisions of the Credit Agreement relating to Loan Documents shall apply hereto.
+(g)    Payment of Expenses. In accordance with Section 12.03, the Borrower agrees to pay or reimburse the Administrative Agent for all of its reasonable and documented out-of-pocket costs and expenses incurred in connection with this Third Amendment, any other documents prepared in connection herewith and the transactions contemplated hereby, including, without limitation, the reasonable fees and disbursements of counsel to the Administrative Agent.
+(h)    Severability. Any provision of this Third Amendment or any other Loan Document held to be invalid, illegal or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of such invalidity, illegality or unenforceability without affecting the validity, legality and enforceability of the remaining provisions hereof or thereof; and the invalidity of a particular provision in a particular jurisdiction shall not invalidate such provision in any other jurisdiction.
+(i)    Successors and Assigns. This Third Amendment shall be binding upon and inure to the benefit of the parties hereto and their respective successors and assigns.
+[Signature Pages Follow]
+    11    
+
+
+IN WITNESS WHEREOF, the parties hereto have caused this Third Amendment to be duly executed and delivered by their proper and duly authorized officer(s) as of the day and year first above written.
+
+BORROWER:
+EARTHSTONE ENERGY HOLDINGS, LLC
+
+
+
+By: ______________________________________
+Name:
+Title:
+
+By: /s/ Mark Lumpkin, Jr.
+Name: Mark Lumpkin, Jr.
+Title: EVP & CFO
+
+PARENT:
+EARTHSTONE ENERGY, INC.
+
+
+
+By: ______________________________________
+Name:
+Title:
+
+By: /s/ Mark Lumpkin, Jr.
+Name: Mark Lumpkin, Jr.
+Title: EVP & CFO
+GUARANTORS:
+EARTHSTONE OPERATING, LLC
+By: /s/ Mark Lumpkin, Jr.
+Name: Mark Lumpkin, Jr.
+Title: EVP & CFO
+SABINE RIVER ENERGY, LLC
+By: /s/ Mark Lumpkin, Jr.
+Name: Mark Lumpkin, Jr.
+Title: EVP & CFO
+
+
+
+    Signature Page – Third Amendment to Credit Agreement
+    Earthstone Energy Holdings, LLC
+
+
+LYNDEN USA OPERATING, LLC
+By: /s/ Mark Lumpkin, Jr.
+Name: Mark Lumpkin, Jr.
+Title: EVP & CFO
+
+BOLD ENERGY III LLC
+By: /s/ Mark Lumpkin, Jr.
+Name: Mark Lumpkin, Jr.
+Title: EVP & CFO
+
+BOLD OPERATING, LLC
+By: /s/ Mark Lumpkin, Jr.
+Name: Mark Lumpkin, Jr.
+Title: EVP & CFO
+
+INDEPENDENCE RESOURCES
+MANAGEMENT, LLC
+By: /s/ Mark Lumpkin, Jr.
+Name: Mark Lumpkin, Jr.
+Title: EVP & CFO
+
+INDEPENDENCE RESOURCES
+TECHNOLOGIES, LLC
+By: /s/ Mark Lumpkin, Jr.
+Name: Mark Lumpkin, Jr.
+Title: EVP & CFO
+    Signature Page – Third Amendment to Credit Agreement
+    Earthstone Energy Holdings, LLC
+
+
+INDEPENDENCE RESOURCES
+LAND COMPANY A, LLC
+By: /s/ Mark Lumpkin, Jr.
+Name: Mark Lumpkin, Jr.
+Title: EVP & CFO
+
+
+INDEPENDENCE RESOURCES
+LAND COMPANY B, LLC
+By: /s/ Mark Lumpkin, Jr.
+Name: Mark Lumpkin, Jr.
+Title: EVP & CFO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Signature Page – Third Amendment to Credit Agreement
+    Earthstone Energy Holdings, LLC
+
+
+ADMINISTRATIVE AGENT,
+WELLS FARGO BANK, NATIONAL
+ISSUING BANK AND LENDER:
+ASSOCIATION
+By: /s/ Michael Real
+Name: Michael Real
+Title: Managing Director
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Signature Page – Third Amendment to Credit Agreement
+    Earthstone Energy Holdings, LLC
+
+
+LENDER:
+ROYAL BANK OF CANADA
+By: /s/ Kristan Spivey
+Name: Kristan Spivey
+Title: Authorized Signatory
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Signature Page – Third Amendment to Credit Agreement
+    Earthstone Energy Holdings, LLC
+
+
+LENDER:
+TRUIST BANK
+By: /s/ Benjamin L. Brown
+Name: Benjamin L. Brown
+Title: Director
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Signature Page – Third Amendment to Credit Agreement
+    Earthstone Energy Holdings, LLC
+
+
+LENDER:
+CITIZENS BANK, N.A.
+By: /s/ David Slye
+Name: David Slye
+Title: Managing Director
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Signature Page – Third Amendment to Credit Agreement
+    Earthstone Energy Holdings, LLC
+
+
+LENDER:
+KEYBANK NATIONAL ASSOCIATION
+By: /s/ David M. Bornstein
+Name: David M. Bornstein
+Title: Senior Vice President
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Signature Page – Third Amendment to Credit Agreement
+    Earthstone Energy Holdings, LLC
+
+
+LENDER:
+PNC BANK, NATIONAL ASSOCIATION
+By: /s/ John Engel
+Name: John Engel
+Title: Senior Vice President
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Signature Page – Third Amendment to Credit Agreement
+    Earthstone Energy Holdings, LLC
+
+
+LENDER:
+U.S. BANK NATIONAL ASSOCIATION
+By: /s/ John C. Lozano
+Name: John C. Lozano
+Title: Senior Vice President
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Signature Page – Third Amendment to Credit Agreement
+    Earthstone Energy Holdings, LLC
+
+
+LENDER:
+BBVA USA
+By: /s/ Julia Barnhill
+Name: Julia Barnhill
+Title: Vice President
+
+
+
+
+
+
+
+
+
+
+
+
+        
+    Signature Page – Third Amendment to Credit Agreement
+    Earthstone Energy Holdings, LLC
+
+
+LENDER:
+FIFTH THIRD BANK, National Association
+By: /s/ Dan Condley
+Name: Dan Condley
+Title: Managing Director
+                    Signature Page – Third Amendment to Credit Agreement
+    Earthstone Energy Holdings, LLC
+
+
+LENDER:
+IBERIABANK, A DIVISION OF FIRST
+HORIZON BANK
+By: /s/ W. Bryan Chapman
+Name: W. Bryan Chapman
+Title: Market President-Energy Lending
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Signature Page – Third Amendment to Credit Agreement
+    Earthstone Energy Holdings, LLC
+
+
+LENDER:
+BANK OF AMERICA, N.A.,
+By: /s/ Victor F. Cruz
+Name: Victor F. Cruz
+Title: Director
+Schedule 7.25
+    

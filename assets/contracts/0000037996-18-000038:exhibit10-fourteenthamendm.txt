@@ -1,0 +1,239 @@
+EX-10 2 exhibit10-fourteenthamendm.htm EXHIBIT 10
+
+
+
+FOURTEENTH AMENDMENT
+TO THE
+CREDIT AGREEMENT
+among
+FORD MOTOR COMPANY,
+The Subsidiary Borrowers from Time to Time Parties Thereto,
+The Several Lenders from Time to Time Parties Thereto,
+JPMORGAN CHASE BANK, N.A.,
+as Administrative Agent,
+JPMORGAN CHASE BANK, N.A., acting through its Hong Kong Branch,
+as RMB Administrative Agent,
+and
+BANCO BRADESCO S.A.,
+as Brazilian Administrative Agent,
+Dated as of December 15, 2006,
+as Amended and Restated as of November 24, 2009, Amended and Restated as of April 30, 2014, and Amended and Restated as of April 30, 2015, and as amended by the Twelfth Amendment dated as of April 29, 2016 and as further amended by the Thirteenth Amendment dated as of April 28, 2017
+
+JPMORGAN CHASE BANK, N.A.,
+as Bookrunner and Lead Arranger
+BANCO BRADESCO S.A., BARCLAYS BANK PLC, BNP PARIBAS SECURITIES CORP., CITIGROUP GLOBAL MARKETS INC., COMMERZ MARKETS LLC, CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK, DEUTSCHE BANK SECURITIES INC., GOLDMAN SACHS BANK USA, INDUSTRIAL AND COMMERCIAL BANK OF CHINA LIMITED, NEW YORK BRANCH, LLOYDS SECURITIES INC., MERRILL LYNCH, PIERCE, FENNER & SMITH INCORPORATED, MIZUHO BANK, LTD., MORGAN STANLEY MUFG LOAN PARTNERS LLC, RBC CAPITAL MARKETS, SOCIETE GENERALE, SUMITOMO MITSUI BANKING CORPORATION,
+as Bookrunners and Lead Arrangers
+BANCO BRADESCO S.A., BANK OF AMERICA, N.A., BARCLAYS BANK PLC, BNP PARIBAS, CITIBANK, N.A., COMMERZ MARKETS LLC, CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK, DEUTSCHE BANK SECURITIES INC., GOLDMAN SACHS BANK USA, INDUSTRIAL AND COMMERCIAL BANK OF CHINA LIMITED, NEW YORK BRANCH, LLOYDS SECURITIES INC., MIZUHO BANK, LTD., MORGAN STANLEY MUFG LOAN PARTNERS LLC, ROYAL BANK OF CANADA, SOCIETE GENERALE, SUMITOMO MITSUI BANKING CORPORATION,
+as Co-Syndication Agents
+
+INDUSTRIAL AND COMMERCIAL BANK OF CHINA LIMITED, NEW YORK BRANCH,
+as RMB Syndication Agent
+
+
+
+
+FOURTEENTH AMENDMENT dated as of April 26, 2018 (this “Amendment Agreement”) to the Credit Agreement dated as of December 15, 2006, as amended and restated as of November 24, 2009, amended and restated as of April 30, 2014, amended and restated as of April 30, 2015, as amended by the Twelfth Amendment dated as of April 29, 2016, and as further amended by the Thirteenth Amendment dated as of April 28, 2017 (as further amended, supplemented or otherwise modified from time to time prior to the date hereof, the “Existing Credit Agreement” and as amended, supplemented or otherwise modified by this Amendment Agreement, the “Credit Agreement”) among Ford Motor Company (the “Company”), the Subsidiary Borrowers (as defined in the Existing Credit Agreement) from time to time party thereto, the several lenders from time to time party thereto, JPMorgan Chase Bank, N.A., as administrative agent (the “Administrative Agent”), Banco Bradesco S.A., as Brazilian Administrative Agent (the “Brazilian Administrative Agent”), JPMorgan Chase Bank, N.A., acting through its Hong Kong Branch, as RMB Administrative Agent (the “RMB Administrative Agent”), and the other agents parties thereto. Unless otherwise defined herein, terms defined in the Existing Credit Agreement and used herein shall have the meanings given to them in the Existing Credit Agreement.
+WHEREAS, the Company has requested an amendment to the Existing Credit Agreement pursuant to which substantially all of the existing Revolving Lenders will agree to (i) increase, decrease or maintain, as applicable, the amount of their existing 2020 Revolving Commitments and 2022 Revolving Commitments, (ii) extend, to April 30, 2023, the maturity of their existing (or increased or decreased) 2022 Revolving Commitments and (iii) extend, to April 30, 2021, the maturity of their existing (or increased or decreased) 2020 Revolving Commitments; and
+WHEREAS, in order to effect the foregoing, the Company and the other parties hereto desire to amend, as of the Amendment Effective Date (as defined in Section 4 below), the Existing Credit Agreement and to enter into certain other agreements set forth herein, in each case subject to the terms and conditions set forth herein;
+NOW, THEREFORE, in consideration of the foregoing and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto hereby agree as follows:
+SECTION 1.    Amendment of the Existing Credit Agreement. Effective as of the Amendment Effective Date, the Existing Credit Agreement is hereby amended as follows:
+(a)    the following defined terms in Section 1.1:
+“2020 Brazilian Revolving Commitment”, “2020 Brazilian Revolving Commitment Recalculation Date”, “2020 Brazilian Revolving Facility”, “2020 Brazilian Revolving Lender”, “2020 Brazilian Revolving Loans”, “2020 Brazilian Revolving Percentage”, “2020 Canadian Revolving Commitment”, “2020 Canadian Revolving Facility”, “2020 Canadian Revolving Lender”, “2020 Canadian Revolving Loans”, “2020 Canadian Revolving Percentage”, “2020 Converted RMB Revolving Commitment”, “2020 Converted RMB Revolving Facility”, “2020 Converted RMB Revolving Lender”, “2020 Converted RMB Revolving Loans”, “2020 Converted RMB Revolving Percentage”, “2020 Domestic Revolving Commitment”, “2020 Domestic Revolving Facility”, “2020 Domestic Revolving Lender”, “2020 Domestic Revolving Loans”, “2020 Domestic Revolving Percentage”, “2020 Multicurrency Revolving Commitment”, “2020 Multicurrency Revolving Facility”, “2020
+
+
+
+Multicurrency Revolving Lender”, “2020 Multicurrency Revolving Loans”, “2020 Multicurrency Revolving Percentage”, “2020 Revolving Commitments”, “2020 Revolving Facility”, “2020 Revolving Lenders”, “2020 RMB Revolving Commitment”, “2020 RMB Revolving Lender”, “2020 RMB Revolving Loans”, “2020 RMB Revolving Percentage”, “2020 Unconverted RMB Revolving Commitment”, “2020 Unconverted RMB Revolving Facility”, “2020 Unconverted RMB Revolving Lender”, “2020 Unconverted RMB Revolving Loans”, “2020 Unconverted RMB Revolving Percentage”, “Total 2020 Revolving Commitments” and “Total 2020 Revolving Extensions of Credit”
+shall be redefined as:
+“2021 Brazilian Revolving Commitment”, “2021 Brazilian Revolving Commitment Recalculation Date”, “2021 Brazilian Revolving Facility”, “2021 Brazilian Revolving Lender”, “2021 Brazilian Revolving Loans”, “2021 Brazilian Revolving Percentage”, “2021 Canadian Revolving Commitment”, “2021 Canadian Revolving Facility”, “2021 Canadian Revolving Lender”, “2021 Canadian Revolving Loans”, “2021 Canadian Revolving Percentage”, “2021 Converted RMB Revolving Commitment”, “2021 Converted RMB Revolving Facility”, “2021 Converted RMB Revolving Lender”, “2021 Converted RMB Revolving Loans”, “2021 Converted RMB Revolving Percentage”, “2021 Domestic Revolving Commitment”, “2021 Domestic Revolving Facility”, “2021 Domestic Revolving Lender”, “2021 Domestic Revolving Loans”, “2021 Domestic Revolving Percentage”, “2021 Multicurrency Revolving Commitment”, “2021 Multicurrency Revolving Facility”, “2021 Multicurrency Revolving Lender”, “2021 Multicurrency Revolving Loans”, “2021 Multicurrency Revolving Percentage”, “2021 Revolving Commitments”, “2021 Revolving Facility”, “2021 Revolving Lenders”, “2021 RMB Revolving Commitment”, “2021 RMB Revolving Lender”, “2021 RMB Revolving Loans”, “2021 RMB Revolving Percentage”, “2021 Unconverted RMB Revolving Commitment”, “2021 Unconverted RMB Revolving Facility”, “2021 Unconverted RMB Revolving Lender”, “2021 Unconverted RMB Revolving Loans”, “2021 Unconverted RMB Revolving Percentage”, “Total 2021 Revolving Commitments” and “Total 2021 Revolving Extensions of Credit”, respectively,
+and each usage of each such term in the Credit Agreement shall refer to such redefined term.
+(b)    the following defined terms in Section 1.1:
+“2022 Brazilian Revolving Commitment”, “2022 Brazilian Revolving Commitment Recalculation Date”, “2022 Brazilian Revolving Facility”, “2022 Brazilian Revolving Lender”, “2022 Brazilian Revolving Loans”, “2022 Brazilian Revolving Percentage”, “2022 Canadian Revolving Commitment”, “2022 Canadian Revolving Facility”, “2022 Canadian Revolving Lender”, “2022 Canadian Revolving Loans”, “2022 Canadian Revolving Percentage”, “2022 Converted RMB Revolving Commitment”, “2022 Converted RMB Revolving Facility”, “2022 Converted RMB Revolving Lender”, “2022 Converted RMB Revolving Loans”, “2022 Converted RMB Revolving Percentage”, “2022 Domestic Revolving Commitment”, “2022 Domestic Revolving Facility”, “2022 Domestic Revolving Lender”, “2022 Domestic
+
+3
+
+
+Revolving Loans”, “2022 Domestic Revolving Percentage”, “2022 Multicurrency Revolving Commitment”, “2022 Multicurrency Revolving Facility”, “2022 Multicurrency Revolving Lender”, “2022 Multicurrency Revolving Loans”, “2022 Multicurrency Revolving Percentage”, “2022 Revolving Commitments”, “2022 Revolving Facility”, “2022 Revolving Lenders”, “2022 RMB Revolving Commitment”, “2022 RMB Revolving Lender”, “2022 RMB Revolving Loans”, “2022 RMB Revolving Percentage”, “2022 Unconverted RMB Revolving Commitment”, “2022 Unconverted RMB Revolving Facility”, “2022 Unconverted RMB Revolving Lender”, “2022 Unconverted RMB Revolving Loans”, “2022 Unconverted RMB Revolving Percentage”, “Total 2022 Revolving Commitments” and “Total 2022 Revolving Extensions of Credit”,
+shall be redefined as:
+“2023 Brazilian Revolving Commitment”, “2023 Brazilian Revolving Commitment Recalculation Date”, “2023 Brazilian Revolving Facility”, “2023 Brazilian Revolving Lender”, “2023 Brazilian Revolving Loans”, “2023 Brazilian Revolving Percentage”, “2023 Canadian Revolving Commitment”, “2023 Canadian Revolving Facility”, “2023 Canadian Revolving Lender”, “2023 Canadian Revolving Loans”, “2023 Canadian Revolving Percentage”, “2023 Converted RMB Revolving Commitment”, “2023 Converted RMB Revolving Facility”, “2023 Converted RMB Revolving Lender”, “2023 Converted RMB Revolving Loans”, “2023 Converted RMB Revolving Percentage”, “2023 Domestic Revolving Commitment”, “2023 Domestic Revolving Facility”, “2023 Domestic Revolving Lender”, “2023 Domestic Revolving Loans”, “2023 Domestic Revolving Percentage”, “2023 Multicurrency Revolving Commitment”, “2023 Multicurrency Revolving Facility”, “2023 Multicurrency Revolving Lender”, “2023 Multicurrency Revolving Loans”, “2023 Multicurrency Revolving Percentage”, “2023 Revolving Commitments”, “2023 Revolving Facility”, “2023 Revolving Lenders”, “2023 RMB Revolving Commitment”, “2023 RMB Revolving Lender”, “2023 RMB Revolving Loans”, “2023 RMB Revolving Percentage”, “2023 Unconverted RMB Revolving Commitment”, “2023 Unconverted RMB Revolving Facility”, “2023 Unconverted RMB Revolving Lender”, “2023 Unconverted RMB Revolving Loans”, “2023 Unconverted RMB Revolving Percentage”, “Total 2023 Revolving Commitments” and “Total 2023 Revolving Extensions of Credit”, respectively,
+and each usage of each such term in the Credit Agreement shall refer to such redefined term.
+(c)    the definition of “Revolving Termination Date ” in Section 1.1 shall be amended and restated to read in its entirety as follows:
+“‘Revolving Termination Date’: as to any Lender, with respect to 2021 Revolving Commitments, initially April 30, 2021, and with respect to 2023 Revolving Commitments, initially April 30, 2023, in each case as such date for such Lender may be extended from time to time pursuant to Section 2.33.”
+
+4
+
+
+(d)    each usage of the term “Thirteenth Amendment Effective Date” in the Credit Agreement (except in the definition of “Thirteenth Amendment Effective Date”) shall be replaced with the term “Fourteenth Amendment Effective Date”.
+(e)    Section 1.1 shall be amended by inserting the following definitions in their alphabetical location therein:
+“‘Benefit Plan’ means any of (a) an “employee benefit plan” (as defined in Section 3(3) of ERISA) that is subject to Title I of ERISA, (b) a “plan” as defined in Section 4975 of the Code to which Section 4975 of the Code applies, and (c) any Person whose assets include (for purposes of the Plan Asset Regulations or otherwise for purposes of Title I of ERISA or Section 4975 of the Code) the assets of any such “employee benefit plan” or “plan”.”
+“‘Fourteenth Amendment Effective Date’: April 26, 2018.”
+“‘Plan Asset Regulations’ means 29 CFR § 2510.3-101 et seq., as modified by Section 3(42) of ERISA, as amended from time to time.”
+“‘PTE’ means a prohibited transaction class exemption issued by the U.S. Department of Labor, as any such exemption may be amended from time to time.”
+(f)    Section 2.2 shall be amended by replacing the phrase “Following the Thirteenth Amendment” in the fifth line thereof with “Following the Fourteenth Amendment”.
+(g)    Section 9 shall be amended by inserting a new Section 9.11 at the end thereof to read in its entirety as follows:
+“9.11    Certain ERISA Matters.
+(a)     Each Lender (x) represents and warrants, as of the date such Person became a Lender party hereto, to, and (y) covenants, from the date such Person became a Lender party hereto to the date such Person ceases being a Lender party hereto, for the benefit of, the Administrative Agent, each lead arranger and their respective Affiliates, and not, for the avoidance of doubt, to or for the benefit of the Company or any other Loan Party, that at least one of the following is and will be true:
+(i)     such Lender is not using “plan assets” (within the meaning of the Plan Asset Regulations) of one or more Benefit Plans in connection with the Loans, the Letters of Credit or the Commitments,
+(ii)     the transaction exemption set forth in one or more PTEs, such as PTE 84-14 (a class exemption for certain transactions determined by independent qualified professional asset managers), PTE 95-60 (a class exemption for certain transactions involving insurance company general accounts), PTE 90-1 (a class exemption for certain transactions involving insurance company pooled separate accounts), PTE 91-38 (a class exemption for certain transactions involving bank collective investment funds) or PTE 96-23 (a class exemption for certain transactions determined by in-house asset
+
+5
+
+
+managers), is applicable with respect to such Lender’s entrance into, participation in, administration of and performance of the Loans, the Letters of Credit, the Commitments and this Agreement, and the conditions for exemptive relief thereunder are and will continue to be satisfied in connection therewith,
+(iii)     (A) such Lender is an investment fund managed by a “Qualified Professional Asset Manager” (within the meaning of Part VI of PTE 84-14), (B) such Qualified Professional Asset Manager made the investment decision on behalf of such Lender to enter into, participate in, administer and perform the Loans, the Letters of Credit, the Commitments and this Agreement, (C) the entrance into, participation in, administration of and performance of the Loans, the Letters of Credit, the Commitments and this Agreement satisfies the requirements of sub-sections (b) through (g) of Part I of PTE 84-14 and (D) to the best knowledge of such Lender, the requirements of subsection (a) of Part I of PTE 84-14 are satisfied with respect to such Lender’s entrance into, participation in, administration of and performance of the Loans, the Letters of Credit, the Commitments and this Agreement, or
+(iv)     such other representation, warranty and covenant as may be agreed in writing between the Administrative Agent, in its sole discretion, and such Lender.
+(b)     In addition, unless sub-clause (i) in the immediately preceding clause (a) is true with respect to a Lender or such Lender has not provided another representation, warranty and covenant as provided in sub-clause (iv) in the immediately preceding clause (a), such Lender further (x) represents and warrants, as of the date such Person became a Lender party hereto, to, and (y) covenants, from the date such Person became a Lender party hereto to the date such Person ceases being a Lender party hereto, for the benefit of, the Administrative Agent, each lead arranger and their respective Affiliates, and not, for the avoidance of doubt, to or for the benefit of the Company or any other Loan Party, that:
+(i)     none of the Administrative Agent, any lead arranger or any of their respective Affiliates is a fiduciary with respect to the assets of such Lender (including in connection with the reservation or exercise of any rights by the Administrative Agent under this Agreement, any Loan Document or any documents related hereto or thereto),
+(ii)     the Person making the investment decision on behalf of such Lender with respect to the entrance into, participation in, administration of and performance of the Loans, the Letters of Credit, the Commitments and this Agreement is independent (within the meaning of 29 CFR § 2510.3-21, as amended from time to time) and is a bank, an insurance carrier, an investment adviser, a broker-dealer or other person that holds, or has under management or control, total assets of at least $50,000,000, in each case as described in 29 CFR § 2510.3-21(c)(1)(i)(A)-(E),
+
+6
+
+
+(iii)     the Person making the investment decision on behalf of such Lender with respect to the entrance into, participation in, administration of and performance of the Loans, the Letters of Credit, the Commitments and this Agreement is capable of evaluating investment risks independently, both in general and with regard to particular transactions and investment strategies (including in respect of the obligations),
+(iv)     the Person making the investment decision on behalf of such Lender with respect to the entrance into, participation in, administration of and performance of the Loans, the Letters of Credit, the Commitments and this Agreement is a fiduciary under ERISA or the Code, or both, with respect to the Loans, the Letters of Credit, the Commitments and this Agreement and is responsible for exercising independent judgment in evaluating the transactions hereunder, and
+(v)     no fee or other compensation is being paid directly to the Administrative Agent, any lead arranger or any their respective Affiliates for investment advice (as opposed to other services) in connection with the Loans, the Letters of Credit, the Commitments or this Agreement.
+(c)     The Administrative Agent and each lead arranger hereby informs the Lenders that each such Person is not undertaking to provide impartial investment advice, or to give advice in a fiduciary capacity, in connection with the transactions contemplated hereby, and that such Person has a financial interest in the transactions contemplated hereby in that such Person or an Affiliate thereof (i) may receive interest or other payments with respect to the Loans, the Letters of Credit, the Commitments and this Agreement, (ii) may recognize a gain if it extended the Loans, the Letters of Credit or the Commitments for an amount less than the amount being paid for an interest in the Loans, the Letters of Credit or the Commitments by such Lender or (iii) may receive fees or other payments in connection with the transactions contemplated hereby, the Loan Documents or otherwise, including structuring fees, commitment fees, arrangement fees, facility fees, upfront fees, underwriting fees, ticking fees, agency fees, administrative agent or collateral agent fees, utilization fees, minimum usage fees, letter of credit fees, fronting fees, deal-away or alternate transaction fees, amendment fees, processing fees, term out premiums, banker’s acceptance fees, breakage or other early termination fees or fees similar to the foregoing.”
+(h)    Schedule 1.1A (Commitments) to the Existing Credit Agreement is hereby amended and restated in its entirety to reflect the elections made by the Revolving Lenders party hereto that elect to (A) increase, decrease or maintain, as applicable, the amount of their existing 2020 Revolving Commitments and/or existing 2022 Revolving Commitments, as applicable, (B) extend the Revolving Termination Date in respect of their existing (or increased or decreased) 2020 Revolving Commitments (with respect to 2020 Revolving Commitments so extended, each an “Extending 2020 Revolving Lender”) to April 30, 2021, (C) extend the Revolving Termination Date in respect of their existing (or increased or decreased) 2022 Revolving Commitments (with respect to the 2022 Revolving Commitments so extended, each an “Extending 2022 Revolving Lender”) to April 30, 2023 and (D)  reallocate their 2021 Revolving Commitments among the applicable 2021 Revolving Facilities and reallocate their 2023 Revolving Commitments among the applicable 2023
+
+7
+
+
+Revolving Facilities, in each case in the amounts set forth on such modified Schedule 1.1A (Commitments). Each Revolving Lender party hereto hereby authorizes the Administrative Agent to compile such modified Schedule 1.1A (Commitments) reflecting such elections, increases and decreases, and attach such modified Schedule 1.1A (Commitments) to the Credit Agreement.
+(i)    Schedule 1.1D (Initial Subsidiary Guarantors) to the Existing Credit Agreement is hereby amended by replacing the legal name of “Ford Mexico Holdings, Inc.” with “Ford Mexico Holdings LLC” and replacing the type of entity applicable thereto with “Limited Liability Company.”
+Except as set forth above, all schedules and exhibits to the Existing Credit Agreement, in the forms thereof in effect immediately prior to the Amendment Effective Date, will continue to be schedules and exhibits to the Credit Agreement.
+SECTION 2.    Waiver. Pursuant to Section 10.1(a) of the Existing Credit Agreement, the Company and the Required Lenders hereby waive Sections 2.24(a) and 2.32 of the Existing Credit Agreement to the extent necessary to permit the increases, decreases and extensions, on a non-pro-rata basis, of the 2020 Revolving Commitments and 2022 Revolving Commitments of Extending Lenders contemplated by this Amendment Agreement set forth on Schedule 1.1A (Commitments) hereto.
+SECTION 3.    Representations and Warranties. To induce the Administrative Agent, the Brazilian Administrative Agent, the RMB Administrative Agent, the Extending 2020 Revolving Lenders and the Extending 2022 Revolving Lenders to enter into this Amendment Agreement, the Company (with respect to the representations and warranties in clauses (b) and (c) below) and each Current Loan Party (as defined below) (solely for itself, with respect to the representations and warranties in clause (a) below) hereby represents and warrants to the Administrative Agent, the Brazilian Administrative Agent, the RMB Administrative Agent, the Extending 2020 Revolving Lenders and the Extending 2022 Revolving Lenders that:
+(a)    (i) Each of the Company, FMCC, Banco Ford and Ford Brasil (each a “Current Loan Party”) has the requisite power and authority to execute, deliver and perform its obligations under this Amendment Agreement, has taken all necessary corporate or other action to authorize the execution, delivery and performance of this Amendment Agreement and has duly executed and delivered this Amendment Agreement and (ii) this Amendment Agreement constitutes a legal, valid and binding obligation of each Current Loan Party enforceable against such Current Loan Party in accordance with its terms, except as enforceability may be limited by applicable bankruptcy, insolvency, reorganization, moratorium or similar laws affecting the enforcement of creditors’ rights generally and general equitable principles (whether enforcement is sought by proceedings in equity or at law).
+(b)    As of the Amendment Effective Date, after giving effect to the transactions contemplated by this Amendment Agreement, no Default or Event of Default has occurred and is continuing.
+(c)    Each of the representations and warranties set forth in the Loan Documents is true and correct in all material respects on and as of the Amendment Effective Date with the same effect as though made on and as of the Amendment Effective Date, except to the extent such representations
+
+8
+
+
+and warranties expressly relate to an earlier date (in which case such representations and warranties were true and correct in all material respects as of such earlier date).
+SECTION 4.    Effectiveness of this Amendment Agreement. The effectiveness of this Amendment Agreement is subject to the satisfaction of the following conditions precedent (the date on which all of such conditions shall first be satisfied, the “Amendment Effective Date”):
+(a)    The Administrative Agent shall have received duly executed counterparts hereof that, when taken together, bear the signatures of each Current Loan Party, the Required Lenders, each Extending 2020 Revolving Lender, each Extending 2022 Revolving Lender, the Administrative Agent, the Brazilian Administrative Agent, the RMB Administrative Agent, each Issuing Lender and each Swingline Lender.
+(b)    The Administrative Agent shall have received legal opinions, dated the Amendment Effective Date, of (i) Davis Polk & Wardwell LLP, New York counsel to the Company, (ii) an in-house counsel of the Company serving as either the Secretary or an Assistant Secretary of the Company, and (iii) Machado, Meyer, Sendacz e Opice, Brazilian counsel to Banco Ford and Ford Brasil, in each case addressed to the Lenders, the Agents and each Issuing Lender as to matters previously agreed between the Company and the Administrative Agent.
+(c)    The Administrative Agent shall have received from the Company, for the account of (i) each Extending 2020 Revolving Lender, a fee in an amount equal to 0.03% of the lesser of (x) such Extending 2020 Revolving Lender’s (or its affiliates’) aggregate 2021 Revolving Commitments under the Credit Agreement on the Amendment Effective Date and (y) such Extending 2020 Revolving Lender’s (or its affiliates’) existing 2020 Revolving Commitments (after giving effect to any assignments of existing 2020 Revolving Commitments to such Extending 2020 Revolving Lender (or its affiliates), but without giving effect to any assignments of existing 2020 Revolving Commitments by such Extending 2020 Revolving Lender (or its affiliates), in each case on or prior to the Amendment Effective Date) immediately prior to the Amendment Effective Date, (ii) each Extending 2020 Revolving Lender, a fee in an amount equal to 0.12% of such Extending 2020 Revolving Lender’s aggregate 2021 Revolving Commitments under the Credit Agreement on the Amendment Effective Date in excess of the amount referred to in clause (i) for such Extending 2020 Revolving Lender, (iii) each Extending 2022 Revolving Lender, a fee in an amount equal to 0.03% of the lesser of (x) such Extending 2022 Revolving Lender’s (or its affiliates’) aggregate 2023 Revolving Commitments under the Credit Agreement on the Amendment Effective Date and (y) such Extending 2022 Revolving Lender’s (or its affiliates’) existing 2022 Revolving Commitments (after giving effect to any assignments of existing 2022 Revolving Commitments to such Extending 2022 Revolving Lender (or its affiliates), but without giving effect to any assignments of existing 2022 Revolving Commitments by such Extending 2022 Revolving Lender (or its affiliates), in each case on or prior to the Amendment Effective Date) immediately prior to the Amendment Effective Date and (iv) each Extending 2022 Revolving Lender, a fee in an amount equal to 0.20% of such Extending 2022 Revolving Lender’s aggregate 2023 Revolving Commitments under the Credit Agreement on the Amendment Effective Date in excess of the amount referred to in clause (iii) for such Extending 2022 Revolving Lender.
+SECTION 5.    Effect of this Amendment Agreement.
+(a)    Except as expressly set forth herein, this Amendment Agreement shall not by implication or otherwise limit, impair, constitute a waiver of or otherwise affect the rights and
+
+9
+
+
+remedies of the Lenders or the Agents under the Existing Credit Agreement or any other Loan Document and shall not alter, modify, amend or in any way affect any of the terms, conditions, obligations, covenants or agreements contained in the Existing Credit Agreement or any other provision of the Existing Credit Agreement or of any other Loan Document, all of which are ratified and affirmed in all respects and shall continue in full force and effect. Nothing herein contained shall be construed as a substitution or novation of the obligations outstanding under the Existing Credit Agreement, which shall remain in full force and effect, except in each case as amended, restated, replaced and superseded hereby or by the Credit Agreement, or any instruments executed in connection herewith or therewith. Nothing herein shall be deemed to entitle the Company to a consent to, or a waiver, amendment, modification or other change of, any of the terms, conditions, obligations, covenants or agreements contained in the Credit Agreement or any other Loan Document in similar or different circumstances.
+(b)    On and after the Amendment Effective Date, each reference in the Existing Credit Agreement to “this Agreement”, “hereunder”, “hereof”, “herein”, or words of like import, and each reference to the “Credit Agreement” in any other Loan Document shall be deemed a reference to the Credit Agreement. This Amendment Agreement shall constitute a “Loan Document” for all purposes of the Credit Agreement and the other Loan Documents.
+SECTION 6.    Governing Law. THIS AMENDMENT AGREEMENT AND THE RIGHTS AND OBLIGATIONS OF THE PARTIES UNDER THIS AMENDMENT AGREEMENT SHALL BE GOVERNED BY, AND CONSTRUED AND INTERPRETED IN ACCORDANCE WITH, THE LAW OF THE STATE OF NEW YORK.
+SECTION 7.    Costs and Expenses. The Company agrees to reimburse the Agents for their reasonable out-of-pocket expenses in connection with this Amendment Agreement, including the reasonable fees, charges and disbursements of a single primary counsel (and a single local counsel in Brazil) for the Agents.
+SECTION 8.    Counterparts. This Amendment Agreement may be executed in any number of counterparts and by different parties hereto in separate counterparts, each of which when so executed and delivered shall be deemed an original, but all such counterparts together shall constitute but one and the same instrument. Delivery of any executed counterpart of a signature page of this Amendment Agreement by facsimile or electronic transmission shall be as effective as delivery of a manually executed counterpart hereof.
+SECTION 9.    Headings. The headings of this Amendment Agreement are for purposes of reference only and shall not limit or otherwise affect the meaning hereof.
+[Remainder of page intentionally blank]
+
+
+10
+
+
+
+IN WITNESS WHEREOF, the parties hereto have caused this Amendment Agreement to be duly executed and delivered by their respective duly authorized officers or representatives as of the day and year first above written.
+ 
+
+FORD MOTOR COMPANY
+  By:
+/s/ Samuel P. Smith
+      Name: Samuel P. Smith
+      Title: Assistant Treasurer
+       
+
+
+
+
+
+ 
+
+FORD MOTOR CREDIT COMPANY LLC
+
+  By:
+/s/ Brian Schaaf
+      Name: Brian Schaaf
+      Title: CFO & Treasurer
+       
+
+
+
+
+ 
+
+BANCO FORD S.A.
+
+  By:
+/s/ Gustavo Bernis Gontijo
+      Name: Gustavo Bernis Gontijo
+      Title: Diretor
+                  By:
+/s/ Andrea Teixeira Pinto
+      Name: Andrea Teixeira Pinto
+      Title: Diretora
+       
+
+
+
+
+ 
+
+FORD MOTOR COMPANY BRASIL LTDA.
+
+  By:
+/s/ Roberto Guillermo Lastra
+      Name: Roberto Guillermo Lastra
+      Title: Diretor de Financas e Administracao
+                  By:
+/s/ Ana Paula C.M. Barros
+      Name: Ana Paula C.M. Barros
+      Title: Diretora de Assuntos Legais
+       
+
+
+
+
+ 
+
+JPMORGAN CHASE BANK, N.A.,
+  as Administrative Agent and Lender
+
+  By:
+/s/ Robert P. Kellas
+      Name: Robert P. Kellas
+      Title: Executive Director
+       
+
+
+
+
+ 
+
+JPMORGAN CHASE BANK, NA.,
+  acting through its Hong Kong Branch,
+  as RMB Administrative Agent
+
+  By:
+/s/ Devika Prasad
+      Name: Devika Prasad
+      Title: Associate
+       
+
+
+
+
+ 
+
+BANCO BRADESCO S.A.,
+  as Brazilian Administrative Agent
+
+  By:
+/s/ Vanessa Mullem Vita P. de F. Sa
+      Name: Vanessa Mullem Vita P. de F. Sa
+      Title: Bradesco Corporate
+                  By:
+/s/ Davi Beccegato
+      Name: Davi Beccegato
+      Title: Bradesco Corporate
+       

@@ -1,0 +1,246 @@
+EX-10.1 3 exh10_1amendmentandrestate.htm EX-10.1 AMENDED AND RESTATEMENT AGR
+EXECUTION VERSION
+AMENDMENT AND RESTATEMENT AGREEMENT dated as of April 1, 2021 (this “Agreement”), relating to the CREDIT AGREEMENT dated as of January 31, 2017 (as amended, supplemented or otherwise modified prior to the date hereof, the “Existing Credit Agreement”), among TEREX CORPORATION, a Delaware corporation (“Terex”), NEW TEREX HOLDINGS UK LIMITED, with company number 02962659, a limited company organized under the laws of England, TEREX INTERNATIONAL FINANCIAL SERVICES COMPANY UNLIMITED COMPANY, with company number 327184, a company organized under the laws of Ireland, and TEREX AUSTRALIA PTY LTD (ACN 010 671 048), a company organized under the laws of Australia and registered in Queensland, Australia, the Lenders (as defined in Article I of the Existing Credit Agreement), the Issuing Banks (as defined in Article I of the Existing Credit Agreement) and CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH, as administrative agent (in such capacity, the “Administrative Agent”) and as collateral agent (in such capacity, the “Collateral Agent”) for the Lenders.
+A.    The Borrowers have requested that the persons set forth on Schedule 2.01 to the Amended Credit Agreement (as defined below) (the “Commitment Schedule”) under the heading “Revolving Credit Lenders” (the “New Revolving Credit Lenders”) provide revolving credit commitments (the “New Revolving Credit Commitments”) to the Borrowers in an aggregate amount equal to $600,000,000, consisting of U.S. dollar-denominated revolving credit commitments (the “New U.S. Revolving Credit Commitments”) in an aggregate amount equal to $300,000,000 and multicurrency revolving credit commitments (the “New Multicurrency Revolving Credit Commitments”) in an aggregate amount equal to $300,000,000.
+B.    The Borrowers have requested that the Existing Credit Agreement be amended and restated in its entirety in the form attached hereto as Exhibit A (the Existing Credit Agreement, as amended and restated hereby, being referred to as the “Amended Credit Agreement”), in order to, among other things, permit the establishment of the New Revolving Credit Commitments and provide for the terms thereof.
+C.    The New Revolving Credit Lenders are willing to provide the New Revolving Credit Commitments, and the Lenders party hereto, constituting the Required Lenders under the Existing Credit Agreement, are willing to so amend and restate the Existing Credit Agreement, in each case on the terms and subject to the conditions set forth herein and in the Amended Credit Agreement.
+D.    Accordingly, in consideration of the mutual agreements herein contained and other good and valuable consideration, the sufficiency and receipt of which are hereby acknowledged, the parties hereto agree as follows:
+
+
+        2
+SECTION 1. Defined Terms. Capitalized terms used and not defined herein shall have the meanings assigned to such terms in the Amended Credit Agreement. The rules of interpretation set forth in Section 1.02 of the Amended Credit Agreement are hereby incorporated by reference herein, mutatis mutandis. This Agreement shall be a “Loan Document” for all purposes of the Amended Credit Agreement and the other Loan Documents.
+SECTION 2. New Revolving Credit Commitments. (a) Effective as of the Restatement Effective Date (as defined below), each New Revolving Credit Lender agrees to provide (i) to Terex a New U.S. Revolving Credit Commitment and (ii) to the Borrowers a New Multicurrency Revolving Credit Commitment, in each case in the applicable amount set forth opposite such New Revolving Credit Lender’s name on the Commitment Schedule.
+(b) The New U.S. Revolving Credit Commitments and the extensions of credit made thereunder shall have the terms applicable to U.S. Revolving Credit Commitments and the U.S. Revolving Loans and other extensions of credit made thereunder set forth in the Amended Credit Agreement. The New Multicurrency Revolving Credit Commitments and the extensions of credit made thereunder shall have the terms applicable to Multicurrency Revolving Credit Commitments and the Multicurrency Revolving Loans and other extensions of credit made thereunder set forth in the Amended Credit Agreement. With effect from the Restatement Effective Date, (i) the New Revolving Credit Commitments shall constitute “Revolving Credit Commitments” and “Multicurrency Revolving Credit Commitments” or “U.S. Revolving Credit Commitments”, as applicable, and the loans made thereunder shall constitute “Revolving Loans” and “Multicurrency Revolving Loans” or “U.S. Revolving Loans”, as applicable, and (ii) the New Revolving Credit Lenders shall constitute “Lenders” and “Multicurrency Revolving Credit Lenders” or “U.S. Revolving Credit Lenders”, in each case for all purposes of the Amended Credit Agreement and the other Loan Documents.
+SECTION 3. Amendment and Restatement of the Existing Credit Agreement. Effective as of the Restatement Effective Date, the Existing Credit Agreement (including all exhibits and schedules thereto) is hereby amended and restated to read in its entirety in the form of the Amended and Restated Credit Agreement attached as Exhibit A hereto. As used in the Amended Credit Agreement, the terms “Agreement”, “this Agreement”, “herein”, “hereinafter”, “hereto”, “hereof” and words of similar import shall, unless the context otherwise requires, from and after the Restatement Effective Date, mean or refer to the Amended Credit Agreement. As used in any other Loan Document, from and after the Restatement Effective Date, all references to the Credit Agreement in such Loan Documents shall, unless the context otherwise requires, mean or refer to the Amended Credit Agreement.
+SECTION 4. Other Amendments. Effective as of the Restatement Effective Date, the Guarantee and Collateral Agreement is hereby amended as follows:
+
+
+        3
+(a) Section 1.02 of the Guarantee and Collateral Agreement is hereby amended by inserting the following definition in appropriate alphabetical order therein:
+“Cash Management Services” means treasury management services (including controlled disbursements, zero balance arrangements, cash sweeps, automated clearinghouse transactions, return items, overdrafts, temporary advances and interstate depository network services) provided to Terex or any other Loan Party.
+(b) The definition of the term “Obligations” set forth in Section 1.02 of the Guarantee and Collateral Agreement is hereby amended and restated in its entirety to read as follows:
+“Obligations” shall mean (a) the Loan Document Obligations, (b) the due and punctual payment and performance of all obligations of each Loan Party under each Hedging Agreement that (i) is in effect on the Restatement Effective Date with a counterparty that is (x) the Administrative Agent or a Lender or an Affiliate of the Administrative Agent or a Lender as of the Restatement Effective Date or (y) a Lender or an Affiliate of a Lender under (and as defined in) the Existing Credit Agreement immediately prior to the Restatement Effective Date or (ii) is entered into after the Restatement Effective Date with any counterparty that is the Administrative Agent or a Lender or an Affiliate of the Administrative Agent or a Lender at the time such Hedging Agreement is entered into, (c) the due and punctual payment and performance of all obligations of each Loan Party under each Additional L/C Facility and each Contract Loan Facility and (d) the due and punctual payment and performance of all obligations of each Loan Party arising in respect of Cash Management Services that are owed to (i) the Administrative Agent or a Lender or an Affiliate of the Administrative Agent or a Lender or (ii) any Person that, at the time such obligations were incurred, was the Administrative Agent or a Lender or an Affiliate of the Administrative Agent or a Lender, provided that, Obligations shall not include, with respect to any Grantor, Excluded Swap Obligations of such Grantor.
+(c) The definition of the term “Secured Parties” set forth in Section 1.02 of the Guarantee and Collateral Agreement is hereby amended and restated in its entirety to read as follows:
+“Secured Parties” shall mean (a) the Lenders, (b) the Administrative Agent, (c) the Collateral Agent, (d) each Issuing Bank, (e) each counterparty to any Hedging Agreement with a Loan Party that either (i) is in effect on the Restatement Effective Date if such counterparty is (x) the Administrative Agent or a Lender or an Affiliate of the Administrative Agent or a Lender as of the Restatement Effective Date or (y) a Lender or an Affiliate of a Lender under (and as defined in) the Existing Credit
+
+
+        4
+Agreement immediately prior to the Restatement Effective Date or (ii) is entered into after the Restatement Effective Date if such counterparty is the Administrative Agent or a Lender or an Affiliate of the Administrative Agent or a Lender at the time such Hedging Agreement is entered into, (f) the beneficiaries of each indemnification obligation undertaken by any Loan Party under any Loan Document, (g) each Additional L/C Issuing Bank, (h) each Contract Loan Revolving Lender, (i) each Person to whom obligations in respect of Cash Management Services are owed that is (or at the time such obligations were incurred, was) the Administrative Agent or a Lender or an Affiliate of the Administrative Agent or a Lender and (j) the successors and assigns of each of the foregoing.
+(d) The schedules to the Guarantee and Collateral Agreement are hereby amended and restated in the form attached as Exhibit B hereto.
+SECTION 5. Representations and Warranties. To induce the other parties hereto to enter into this Agreement, each Loan Party party hereto hereby represents and warrants to the Administrative Agent and each of the Lenders that:
+(a) This Agreement has been duly authorized, executed and delivered by it and constitutes its legal, valid and binding obligation, enforceable against each of the Loan Parties party hereto in accordance with its terms except as such enforceability may be limited by bankruptcy, insolvency, reorganization, moratorium or other similar laws affecting creditors’ rights generally and by general principles of equity (regardless of whether such enforceability is considered in a proceeding at law or in equity).
+(b) At the time of and immediately after giving effect to this Agreement, the representations and warranties set forth in Article III of the Amended Credit Agreement and in each other Loan Document are true and correct in all material respects (or, in the case of any representations and warranties qualified by materiality, Material Adverse Effect or words of similar import, in all respects) on and as of the date hereof with the same effect as though made on and as of the date hereof, except to the extent such representations and warranties expressly relate to an earlier date, in which case they shall have been true and correct in all material respects (or, in the case of any representations and warranties qualified by materiality, Material Adverse Effect or words of similar import, in all respects) as of such earlier date.
+(c) At the time of and immediately after giving effect to this Agreement, no Event of Default or Default has occurred and is continuing.
+(d) The information included in any certification regarding beneficial ownership as required by 31 C.F.R. § 1010.230 (the “Beneficial Ownership Regulation”) provided by any Loan Party on or prior to the Restatement Effective Date to any Lender in connection with this Agreement, the Amended Credit Agreement or any other Loan Document is true and correct in all material respects.
+
+
+        5
+SECTION 6. Conditions to Effectiveness. The effectiveness of this Agreement and the obligations of the New Revolving Credit Lenders to provide the New Revolving Credit Commitments are subject to the satisfaction or waiver of the following conditions precedent (the date on which all such conditions are satisfied or waived, the “Restatement Effective Date”):
+(a) the Administrative Agent shall have received counterparts of this Agreement that, when taken together, bear the signatures of Terex, each Subsidiary Borrower, each Subsidiary Guarantor, each New Revolving Credit Lender and the Required Lenders under the Existing Credit Agreement;
+(b) the representations and warranties set forth in Section 5 shall be true and correct, and the Administrative Agent shall have received a certificate to that effect, dated the Restatement Effective Date and signed by a President, a Vice President or a Financial Officer of Terex;
+(c) Terex shall have paid (i) to each New Revolving Credit Lender an upfront fee in an amount equal to 0.25% of the aggregate amount of the New Revolving Credit Commitments of such New Revolving Credit Lender on the Restatement Effective Date and (ii) to the Administrative Agent, the Joint Bookrunners and the New Revolving Credit Lenders all fees and other amounts due and payable by it on or prior to the Restatement Effective Date and, to the extent invoiced, reimbursement or payment of all reasonable and documented out-of-pocket expenses required to be reimbursed or paid by any Loan Party under any Loan Document;
+(d) With respect to each Loan Party organized in the United States, the Administrative Agent shall have received a Perfection Certificate with respect to such Loan Party dated the Restatement Effective Date and duly executed by a Responsible Officer of Terex;
+(e) The Administrative Agent shall have received a notice of termination and a notice of prepayment with respect to all Revolving Credit Commitments and Revolving Loans (if any) under the Existing Credit Agreement in accordance with the terms of Section 2.12(c) of the Existing Credit Agreement;
+(f) Prior to, or substantially contemporaneously with, the Restatement Effective Date, the New Senior Notes Issuance shall have been consummated;
+(g) The Administrative Agent shall have received a certificate from a Financial Officer of Terex, in the form of Exhibit H to the Amended Credit Agreement and in substance reasonably satisfactory to the Administrative Agent, certifying that Terex and the other Loan Parties on a consolidated basis after giving effect to the Transactions and the other transactions contemplated hereunder to occur on the Restatement Effective Date, are solvent;
+(h) the Administrative Agent shall have received (i) a certificate as to the good standing of Terex and each Subsidiary Guarantor as of a recent date, from the Secretary of State (or comparable entity) of the state (or comparable jurisdiction) of its organization
+
+
+        6
+(or, if such jurisdiction does not issue such certificates, a comparable document or the results of searches of official registries demonstrating good standing or lack of insolvency proceedings against such person, as available); (ii) a certificate of the Secretary, Assistant Secretary or Director of Terex, each other Borrower and each Subsidiary Guarantor dated the Restatement Effective Date and certifying (A) that attached thereto is a true and complete copy of (1) the by-laws (or comparable organizational documents) and (2) the certificate or articles of incorporation (or comparable organizational documents), including all amendments thereto, certified as of a recent date by such Secretary of State (or comparable entity) (or, in the case of a Subsidiary Borrower, if no such certification is available, comparable certification or an extract of such documents filed with any official registry, as available), in each case of such person as in effect on the Restatement Effective Date and at all times since a date prior to the date of the resolutions described in clause (B) below, (B) that attached thereto is a true and complete copy of resolutions duly adopted by the Board of Directors (or comparable governing body) of Terex and each Subsidiary Guarantor authorizing the execution, delivery and performance of this Agreement and, in the case of Terex and the other Borrowers, the borrowings hereunder and under the Amended Credit Agreement, and that such resolutions have not been modified, rescinded or amended and are in full force and effect, (C) as to the incumbency and specimen signature of each officer executing any Loan Document or any other document delivered in connection herewith on behalf of such person, and (D) in the case of a Loan Party incorporated under the laws of England and Wales, that the borrowing, guaranteeing or securing (as applicable) of the Loans would not cause any borrowing, guaranteeing, security or similar limit binding on that Loan Party to be exceeded; and (iii) a certificate of another officer as to the incumbency and specimen signature of the Secretary or Assistant Secretary executing the certificate pursuant to clause (ii) above;
+(i) the Administrative Agent shall have received, on behalf of itself and the New Revolving Credit Lenders, executed legal opinions of (i) the General Counsel of Terex, (ii) Bryan Cave Leighton Paisner LLP, counsel to the Borrowers and the Subsidiary Guarantors, and (iii) local counsel for each of the Subsidiary Borrowers, in each case, (A) dated the Restatement Effective Date, (B) addressed to the Administrative Agent and the New Revolving Credit Lenders and (C) covering such matters as the Administrative Agent shall reasonably request, and Terex hereby requests such counsel to deliver such opinions; and
+(j) the New Revolving Credit Lenders shall have received, at least three Business Days prior to the Restatement Effective Date, to the extent requested at least ten days prior to the Closing Date, all documentation and other information reasonably requested by any Lender that is required by regulatory authorities under applicable “know your customer” and anti-money laundering rules and regulations, including the USA PATRIOT Act and the Beneficial Ownership Regulation.
+The Administrative Agent shall notify Terex and the New Revolving Credit Lenders of the Restatement Effective Date, and such notice shall be conclusive and binding.
+SECTION 7. Breakage Events. Notwithstanding anything to the contrary set forth in the Existing Credit Agreement, each New Revolving Credit Lender hereby
+
+
+        7
+waives any right to payment pursuant to Section 2.16 of the Existing Credit Agreement in connection with any prepayment of its Revolving Loans on the Restatement Effective Date.
+SECTION 8. Consent and Reaffirmation. Terex, each other Borrower and each Subsidiary Guarantor hereby (a) consents to this Agreement and the transactions contemplated hereby, (b) agrees that, notwithstanding the effectiveness of this Agreement, the Guarantee and Collateral Agreement, the North Atlantic Guarantee Agreement and each of the other Security Documents to which it is a party continue to be in full force and effect, (c) affirms and confirms its guarantee (in the case of a Guarantor) of the Obligations and the pledge and/or grant (in the case of a Grantor (as defined in the Guarantee and Collateral Agreement)) of a security interest in its assets as Collateral pursuant to the Security Documents to secure the Obligations, all as provided in the Loan Documents, and (d) acknowledges and agrees that such guarantee, pledge and/or grant continues in full force and effect in respect of, and to secure, the Obligations, including the New Revolving Credit Commitments and the extensions of credit thereunder. Without limiting the foregoing, except as expressly provided herein, nothing herein contained shall be construed as a novation of any of the Loan Documents or a substitution or novation of the Obligations or instruments guaranteeing or securing the same, which Loan Documents, Obligations and instruments shall remain and continue in full force and effect.
+SECTION 9. Applicable Law; Waiver of Jury Trial; Jurisdiction; Consent to Service of Process. THIS AGREEMENT SHALL BE CONSTRUED IN ACCORDANCE WITH AND GOVERNED BY THE LAWS OF THE STATE OF NEW YORK. The provisions of Section 9.11 and Section 9.15 of the Amended Credit Agreement are hereby incorporated by reference herein, mutatis mutandis.
+SECTION 10. Counterparts. This Agreement may be executed in counterparts (and by different parties hereto on different counterparts), including both paper and electronic counterparts, each of which shall constitute an original but all of which when taken together shall constitute a single contract. Any signature to this Agreement may be delivered by facsimile, electronic mail (including pdf) or any electronic signature complying with the U.S. Federal ESIGN Act of 2000 or the New York Electronic Signature and Records Act or other transmission method and any counterpart so delivered shall be deemed to have been duly and validly delivered and be valid and effective for all purposes to the fullest extent permitted by applicable law. Each of the parties represents and warrants to the other parties that it has the corporate or analogous capacity and authority to execute this Agreement through electronic means and there are no restrictions for doing so in that party’s constitutive documents.
+SECTION 11. Notices. All notices hereunder or in connection herewith shall be given in accordance with the provisions of Section 9.01 of the Amended Credit Agreement.
+
+
+        8
+SECTION 12. Headings. Section headings used herein are for convenience of reference only, are not part of this Agreement and are not to affect the construction of, or to be taken into consideration in interpreting, this Agreement.
+[Remainder of this page intentionally left blank]
+
+
+
+
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be duly executed by their respective authorized officers as of the day and year first above written.
+
+TEREX CORPORATION,
+By
+
+
+
+Name: Scott Posner
+
+Title: Senior Vice President
+
+NEW TEREX HOLDINGS UK LIMITED,
+by
+
+
+
+Name: Scott Posner
+
+Title: Director
+
+TEREX INTERNATIONAL FINANCIAL SERVICES COMPANY UNLIMITED COMPANY,
+by
+
+
+
+Name:
+
+Title:
+
+
+
+
+
+
+
+
+EXECUTED by TEREX AUSTRALIA PTY LTD ACN 010 671 048 in accordance with section 127(1) of the Corporations Act 2001 (Cth) by authority of its directors:
+
+
+
+
+
+
+
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+
+
+
+
+
+
+
+
+
+
+
+
+_____________________________ ) _____________________________________
+Signature of director ) Signature of company secretary
+)
+)
+JOHN D. SHEEHAN ) SCOTT D. POSNER
+Name of director (block letters) ) Name of company secretary (block letters)
+[Signature Page to Amendment and Restatement Agreement]
+
+
+
+
+
+GENIE INDUSTRIES, INC.
+TEREX SOUTH DAKOTA, INC.
+TEREX WASHINGTON, INC.
+TEREX ADVANCE MIXER, INC.,
+
+By
+
+
+
+Name: Scott Posner
+
+Title: Vice President
+
+TEREX USA, LLC,
+By
+
+
+
+Name: Scott Posner
+
+Title: Senior Vice President
+
+TEREX UTILITIES, INC.,
+By
+
+
+
+Name: Scott Posner
+
+Title: President
+
+[Signature Page to Amendment and Restatement Agreement]
+
+
+
+
+CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH, individually as a Lender, a New U.S. Revolving Credit Lender, a New Multicurrency Revolving Lender, an Issuing Bank and as Administrative Agent and Collateral Agent,
+By
+Name:
+Title:
+By
+Name:
+Title:
+
+
+[Signature Page to Amendment and Restatement Agreement]
+
+
+
+
+
+LENDER SIGNATURE PAGE TO THE AMENDMENT AND RESTATEMENT AGREEMENT DATED AS OF THE DATE FIRST WRITTEN ABOVE RELATING TO THE TEREX CORPORATION CREDIT AGREEMENT
+
+
+Name of Institution: ____________________________________________________,
+as a Lender, a New U.S. Revolving Credit Lender, a New Multicurrency Revolving Credit Lender and an Issuing Bank
+
+By
+_______________________________________
+Name:
+Title:
+For any institution requiring a second signature line:
+By
+_______________________________________
+Name:
+Title:
+For Multicurrency Revolving Lenders Only:
+UK Tax Status: In accordance with Section 2.31(e) of the Credit Agreement to which this signature page is attached, for the benefit of the Administrative Agent (and without liability to any U.K. Loan Party), the above Lender confirms that it is [check the applicable box]:
+_____    not a U.K. Qualifying Lender;
+______    a U.K. Qualifying Lender (other than a U.K. Treaty Lender); or
+______    a U.K. Treaty Lender;
+Where the above Lender has confirmed that it is a U.K. Treaty Lender and where it holds a passport under the HMRC DT Treaty Passport scheme and wishes that scheme to apply to this Agreement, it includes its scheme reference number and its jurisdiction of tax residence below:
+HMRC DT Treaty Passport Scheme Reference Number:                 
+Jurisdiction of Tax Residence:                 
+Where the above Lender has confirmed that it is a U.K. Qualifying Lender by virtue of falling within limb (a)(ii) of the definition of “U.K. Qualifying Lender” (as defined in the Amended Credit Agreement), it is deemed to confirm that the person beneficially entitled to the interest payable to that Lender in respect of a Loan is either:
+a)    a company resident in the United Kingdom for United Kingdom tax purposes; or
+b)    a partnership, each member of which is:
+a.    a company so resident in the United Kingdom; or
+b.    a company not so resident in the United Kingdom which carries on a trade in the United Kingdom through a permanent establishment and which brings into account in computing its chargeable profits (within the meaning of Section 19 of the CTA) the whole of any share of interest payable in respect of that Loan that falls to it by reason of Part 17 of the CTA; or
+c)    a company not so resident in the United Kingdom which carries on a trade in the United Kingdom through a permanent establishment and which brings into account interest payable in respect of that Loan in computing the chargeable profits (within the meaning of Section 19 of the CTA) of that company.
+
+
+
+
+
+
+
+LENDER SIGNATURE PAGE TO THE AMENDMENT AND RESTATEMENT AGREEMENT DATED AS OF THE DATE FIRST WRITTEN ABOVE RELATING TO THE TEREX CORPORATION CREDIT AGREEMENT
+
+Irish Tax Status: In accordance with Section 2.32(f) of the Amended Credit Agreement to which this signature page is attached, for the benefit of the Administrative Agent (and without liability to any Irish Loan Party), the above Lender confirms that it is [check the applicable box]:
+
+_____    an Irish Qualifying Lender (other than an Irish Treaty Lender);
+_____     an Irish Treaty Lender; or
+_____    not an Irish Qualifying Lender.
+If a Lender fails to indicate its status as set forth above, then such shall be treated for the purposes of the Amended Credit Agreement as if it/they are not an Irish Qualifying Lender or U.K. Qualifying Lender, as applicable, until such time as it/they notifies/notify the Administrative Agent which category of Irish Qualifying Lender or U.K. Qualifying Lender, as applicable, applies (and the Administrative Agent, upon receipt of such notification, shall inform Terex and the European Borrower or the U.K. Borrower, as applicable). Capitalized terms used in this signature page and not otherwise defined herein have the meanings assigned to them in the Amended Credit Agreement to which this signature page is attached.

@@ -1,0 +1,129 @@
+EX-10.1 3 firstamendmenttocreditagre.htm FIRST AMENDMENT TO CREDIT AGREEMENT
+
+
+Exhibit 10.1
+FIRST AMENDMENT TO
+CREDIT AGREEMENT
+
+This FIRST AMENDMENT TO CREDIT AGREEMENT (this "Agreement") is made as of July 31, 2019 by and among LUBY’S, INC., a Delaware corporation (the "Borrower"), the guarantors party hereto (the "Guarantors" and, together with the Borrower, the "Credit Parties"), each financial institution party hereto as a lender (each individually, a "Lender" and, collectively, the "Lenders"), and MSD PCOF PARTNERS VI, LLC, in its capacity as administrative agent for the Lenders (in such capacity, the "Administrative Agent"). Unless otherwise provided herein, capitalized terms used but not defined in this Agreement shall have the meanings that are set forth in the Amended Credit Agreement (as defined below).
+RECITALS
+A.The Borrower, the Lenders and the Administrative Agent are parties to that certain Credit Agreement, dated as of December 13, 2018 (the "Credit Agreement" and, as amended by this Agreement, the "Amended Credit Agreement").
+
+B.The Borrower has requested that the Lenders extend the Delayed Draw Term Loan Expiration Date to be the earlier to occur of (a) the date on which the Delayed Draw Term Loan Commitments have been terminated or reduced to zero in accordance with the terms of the Amended Credit Agreement and (b) September 13, 2020.
+
+C.Subject to the terms and conditions set forth herein, the Lenders are willing to extend the Delayed Draw Term Loan Expiration Date.
+
+NOW, THEREFORE, in consideration of the foregoing, the terms and conditions set forth in this Agreement, and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto hereby agree as follows:
+1.    Amendments.
+
+1.1    Section 1.1 of the Credit Agreement is hereby amended as follows:
+
+(a)    The definition of "Delayed Draw Term Loan Expiration Date" is hereby amended and restated in its entirety as follows:
+"Delayed Draw Term Loan Expiration Date" means the earlier to occur of (a) the date on which the Delayed Draw Term Loan Commitments have been terminated or reduced to zero in accordance with the terms of this Agreement and (b) September 13, 2020.
+2.    Conditions Precedent. This Agreement shall be effective as of the date hereof (the "First Amendment Effective Date") when each of the following conditions shall have been satisfied or waived:
+
+(a)The Administrative Agent (or its counsel) shall have received from each party hereto either (i) a counterpart of this Agreement signed on behalf of such party or (ii) written evidence reasonably satisfactory to the Administrative Agent (which may include telecopy or other similar method of electronic transmission of a signed signature page of this Agreement) that such party has signed a counterpart of this Agreement.
+
+(b)The Borrower shall have paid (or shall pay concurrently from amounts funded on the First Amendment Effective Date) all fees and expenses due and payable on or prior to the First Amendment Effective Date under the Loan Documents and this Agreement, including (i) all fees due and payable under that certain
+
+
+
+
+First Amendment Fee Letter, dated as of the date hereof (the "First Amendment Fee Letter"), by and among the Borrower and MSD PCOF PARTNERS VI, LLC, as the Administrative Agent and Lender, and (ii) the out-of-pocket reasonable fees and expenses of the Administrative Agent’s attorneys with respect to the preparation, negotiation and execution of the Loan Documents and this Agreement.
+
+(c)All necessary corporate or organizational actions shall have been taken by each Credit Party to authorize the execution, delivery and performance of this Agreement.
+
+(d)The Administrative Agent shall have received a certificate from a Responsible Officer of the Borrower dated as of the First Amendment Effective Date certifying as to compliance with the matters described under Sections 2(e), 2(f) and 2(g) of this Agreement.
+
+(e)Between the Closing Date and the date hereof, no event has occurred or condition arisen, either individually or in the aggregate, that has had or would reasonably be expected to have a Material Adverse Effect.
+
+(f)On the First Amendment Effective Date, both immediately before and immediately after giving effect to the transactions occurring on the date hereof, the representations and warranties of the Credit Parties set forth in the Amended Credit Agreement and in the other Loan Documents shall be true, correct and complete in all material respects, except for any representation and warranty that is qualified by materiality or reference to Material Adverse Effect, which such representation and warranty shall be true, correct and complete in all respects, on and as of the First Amendment Effective Date with the same effect as if made on and as of such date (except for any such representation and warranty that by its terms is made only as of an earlier date, which representation and warranty shall have been true, correct and complete in all material respects as of such earlier date, except for any representation and warranty that is qualified by materiality or reference to Material Adverse Effect, which such representation and warranty shall have been true, correct and complete in all respects as of such earlier date) and except that the representations and warranties set forth in Section 7.15 of the Amended Credit Agreement shall be deemed to refer to the most recent financial statements delivered pursuant to Section 8.1 of the Amended Credit Agreement.
+
+(g)On the First Amendment Effective Date, both immediately before and immediately after giving effect to the transactions occurring on the date hereof, no Default or Event of Default shall have occurred or be continuing, and there must not be any such Default or Event of Default occurring as a result of the transactions occurring on the First Amendment Effective Date.
+
+Each Credit Party shall be deemed to represent and warrant to the Administrative Agent and Lenders that the foregoing conditions in this Section 2 have been satisfied (unless otherwise waived by the Administrative Agent) upon release of its signature to this Agreement; provided that, each Credit Party may assume in making such representation and warranty that any condition that is to be consented to, satisfactory, approved or accepted by the Administrative Agent or the Lenders may be assumed by each Credit Party to be consented to, satisfactory, approved or accepted, as applicable.
+3.    Representations and Warranties. Each Credit Party hereby represents and warrants to the Administrative Agent and each Lender that, as of the First Amendment Effective Date, both immediately before and immediately after giving effect to this Agreement and the transactions contemplated hereby:
+(a)The representations and warranties of the Credit Parties set forth in the Amended Credit Agreement and in the other Loan Documents are true, correct and complete in all material respects, except for any representation and warranty that is qualified by materiality or reference to Material Adverse Effect, which such representation and warranty shall be true, correct and complete in all respects, on and as of the First Amendment Effective Date with the same effect as if made on and as of such date (except for any such representation and warranty that by its terms is made only as of an earlier date, which representation and warranty shall have been true, correct and complete in all material respects as of such earlier date, except for any representation and warranty that is qualified by materiality or reference to Material Adverse Effect, which
+
+
+
+
+such representation and warranty shall have been true, correct and complete in all respects as of such earlier date) and except that the representations and warranties set forth in Section 7.15 of the Amended Credit Agreement shall be deemed to refer to the most recent financial statements delivered pursuant to Section 8.1 of the Amended Credit Agreement.
+
+(b)No Default or Event of Default has occurred or is continuing, and no such Default or Event of Default would exist as a result of the transactions occurring on the First Amendment Effective Date.
+
+(c)Each Credit Party and each Subsidiary thereof has the right, power and authority and has taken all necessary corporate and other action to authorize the execution, delivery and performance of this Agreement and each of the other Loan Documents to which it is a party in accordance with their respective terms. This Agreement and each of the other Loan Documents have been duly executed and delivered by the duly authorized officers of each Credit Party and each Subsidiary thereof that is a party thereto, and each such document constitutes the legal, valid and binding obligation of each Credit Party and each Subsidiary thereof that is a party thereto, enforceable in accordance with its terms, except as such enforceability may be limited by bankruptcy, insolvency, reorganization, moratorium or similar state or federal Debtor Relief Laws from time to time in effect which affect the enforcement of creditors’ rights in general and the availability of equitable remedies.
+
+(d)The execution, delivery and performance by each Credit Party and each Subsidiary thereof of this Agreement and the other Loan Documents to which each such Person is a party, in accordance with their respective terms, and the transactions contemplated hereby or thereby do not and will not, by the passage of time, the giving of notice or otherwise, (a) require any Governmental Approval or violate any material Applicable Law relating to any Credit Party or any Subsidiary thereof, for which the failure to obtain or violation of which would, individually or in the aggregate, reasonably be expected to have a Material Adverse Effect, (b) conflict with, result in a breach of or constitute a default under the articles of incorporation, bylaws or other organizational documents of any Credit Party or any Subsidiary thereof, (c) conflict with, result in a breach of or constitute a default under any indenture, agreement, Lease or other instrument to which such Person is a party or by which any of its properties may be bound or any Governmental Approval relating to such Person, which would, individually or in the aggregate, reasonably be expected to have a Material Adverse Effect, (d) result in or require the creation or imposition of any Lien upon or with respect to any property now owned or hereafter acquired by such Person other than Permitted Liens or (e) require any consent or authorization of, filing with, or other act in respect of, an arbitrator or Governmental Authority and no consent of any other Person is required in connection with the execution, delivery, performance, validity or enforceability of this Agreement other than (i) consents, authorizations, filings or other acts or consents for which the failure to obtain or make would not, individually or in the aggregate, reasonably be expected to have a Material Adverse Effect, (ii) consents or filings under the UCC, (iii) filings with the United States Copyright Office and/or the United States Patent and Trademark Office, (iv) Mortgage filings with the applicable county recording office or register of deeds and (v) such as have been made or obtained and are in full force and effect.
+
+4.    Miscellaneous.
+(a)Continuing Effect of Credit Agreement; Conflicts. Except as expressly modified pursuant hereto, no other changes or modifications to the Credit Agreement or the other Loan Documents are intended or implied by this Agreement and in all other respects the Credit Agreement and the other Loan Documents hereby are ratified and confirmed by all parties hereto as of the First Amendment Effective Date. To the extent of conflict between the terms of this Agreement, the Amended Credit Agreement and the other Loan Documents, the terms of this Agreement shall govern and control.
+
+(b)Costs and Expenses. The Borrower acknowledges that Section 12.3(a) of the Amended Credit Agreement applies to this Agreement and the transactions, agreements and documents contemplated hereunder.
+
+
+
+
+(c)Further Assurances. At the Borrower’s expense, the parties hereto shall execute and deliver such additional documents and take such further action as may be reasonably requested by any other party hereto to effectuate the provisions and purposes of this Agreement.
+
+(d)Successors and Assigns. This Agreement shall be binding upon and inure to the benefit of each of the parties hereto and their respective successors and assigns.
+
+(e)Survival of Representations, Warranties and Covenants. All representations, warranties and covenants of each Credit Party made in this Agreement or any other document furnished in connection with this Agreement shall survive the execution and delivery of this Agreement, and no investigation by the Administrative Agent or any Lender, or any closing, shall affect the representations and warranties or the right of the Administrative Agent and Lenders to rely upon them.
+
+(f)Severability. Any provision of this Agreement held by a court of competent jurisdiction to be invalid or unenforceable shall not impair or invalidate the remainder of this Agreement.
+
+(g)Relationship. Each Credit Party agrees that the relationship between the Administrative Agent, on the one hand, and each Credit Party, on the other hand, and between each Lender, on the one hand, and each Credit Party, on the other hand, is that of creditor and debtor and not that of partners or joint venturers. Neither this Agreement nor any of the other Loan Documents constitute a partnership agreement, or any other association between the Administrative Agent, on the one hand, and each Credit Party, on the other hand, and between each Lender, on the one hand, and each Credit Party, on the other hand. Each Credit Party acknowledges that the Administrative Agent and each Lender has acted at all times only as a creditor to each Credit Party within the normal and usual scope of the activities normally undertaken by a creditor and in no event has the Administrative Agent or any Lender attempted to exercise any control over the Credit Party or their respective businesses or affairs. Each Credit Party further acknowledges that the Administrative Agent and each Lender has not taken or failed to take any action under or in connection with its respective rights under the Credit Agreement and the Loan Documents that in any way or to any extent has interfered with or adversely affects any ownership of Collateral by each Credit Party.
+
+(h)Acknowledgement and Reaffirmation. Except as expressly set forth herein, (i) this Agreement shall not by implication or otherwise limit, impair, constitute a waiver of or otherwise affect the rights and remedies of the Lenders or the Administrative Agent, in each case under the Amended Credit Agreement or any other Loan Document, and (ii) shall not alter, modify, amend or in any way affect any of the terms, conditions, obligations, covenants or agreements contained in the Amended Credit Agreement or any other provision of either such agreement or any other Loan Document. Except as expressly set forth herein, each and every term, condition, obligation, covenant and agreement contained in the Amended Credit Agreement or any other Loan Document is hereby ratified and re‑affirmed in all respects and shall continue in full force and effect. Each Credit Party hereby expressly (a) acknowledges the terms of this Agreement, (b) ratifies and reaffirms all of their respective Obligations and each of their other obligations under the Credit Agreement and the other Loan Documents to which it is a party, as modified hereby, (c) acknowledges, renews and extends its continued liability under the Credit Agreement and the other Loan Documents to which it is a party, as modified hereby, (d) ratifies and reaffirms all Liens granted by it pursuant to the Loan Documents to secure the Obligations and (e) reaffirms that its guarantee under each Guaranty Agreement, if applicable, and the other Loan Documents to which it is a party remains in full force and effect with respect to the Obligations. This Agreement shall constitute a Loan Document for purposes of the Amended Credit Agreement and from and after the First Amendment Effective Date, all references to the "Credit Agreement" in any Loan Document and all references in the Amended Credit Agreement to "this Agreement", "hereunder", "hereof" or words of like import referring to the Credit Agreement, shall, unless expressly provided otherwise, refer to the Amended Credit Agreement. Each Credit Party hereby consents to this Agreement and confirms that all obligations of each Credit Party under the Loan Documents to which such Credit Party is a party shall continue to apply to the Amended Credit Agreement.
+
+
+
+
+
+(i)No Action, Claims, Etc. As of the date hereof, each Credit Party hereby acknowledges and confirms that it has no knowledge of any actions, causes of action, claims, demands, damages and liabilities of whatever kind or nature, in law or in equity, against the Administrative Agent, the Lenders, or any of the Administrative Agent’s or any Lender’s respective officers, employees, representatives, agents, counsel or directors arising from any action by such Persons, or failure of such Persons to act under the Credit Agreement prior to the date hereof.
+
+(j)Counterparts. This Agreement may be executed in any number of counterparts, but all of such counterparts shall together constitute but one and the same agreement. Receipt by telecopy, facsimile or email transmission of any executed signature page to this Agreement shall constitute effective delivery of such signature page.
+
+(k)Interpretation. Wherever possible, each provision of this Agreement shall be interpreted in such a manner as to be effective and valid under applicable law, but if any provision of this Agreement shall be prohibited by or invalid under applicable law, such provision shall be ineffective to the extent of such prohibition or invalidity, without invalidating the remainder of such provision or the remaining provisions of this Agreement.
+
+(l)Headings. The headings of this Agreement are for purposes of reference only and shall not limit or otherwise affect the meaning hereof.
+
+(m)Entirety. This Agreement and the other Loan Documents embody the entire agreement between the parties and supersede all prior agreements and understandings, if any, relating to the subject matter hereof. This Agreement and the other Loan Documents represent the final agreement between the parties and may not be contradicted by evidence of prior, contemporaneous or subsequent oral agreements of the parties.
+
+(n)GOVERNING LAW, JURISDICTION AND JURY TRIAL WAIVER. THIS AGREEMENT SHALL BE SUBJECT TO THE PROVISIONS REGARDING GOVERNING LAW, JURISDICTION AND JURY TRIAL WAIVER SET FORTH IN SECTIONS 12.5 and 12.6 OF THE AMENDED CREDIT AGREEMENT, AND SUCH PROVISIONS ARE INCORPORATED HEREIN BY THIS REFERENCE, MUTATIS MUTANDIS.
+
+[SIGNATURE PAGES FOLLOW]
+
+
+
+
+
+
+
+IN WITNESS WHEREOF, the undersigned, by their duly authorized officers, have executed this First Amendment to Credit Agreement as of the day and year first above written.
+BORROWER:
+LUBY’S, INC.,
+a Delaware corporation
+
+By:    /s/ Christopher Pappas    
+Name:    Christopher Pappas
+Title:    President and Chief Executive Officer
+
+[Signature Pages Continue]
+
+
+
+
+
+
+
+
+ADMINISTRATIVE
+AGENT AND LENDER:
+MSD PCOF PARTNERS VI, LLC,
+a Delaware limited liability company,
+as the Administrative Agent and Lender
+
+By:    /s/ Marcello Liguori                    
+Name:    Marcello Liguori
+Title:    Vice President

@@ -1,0 +1,131 @@
+EX-10.1 2 ex101firstamendmentto2011n.htm EXHIBIT 10.1
+
+
+FIRST AMENDMENT TO NOTE PURCHASE AGREEMENT
+THIS FIRST AMENDMENT TO NOTE PURCHASE AGREEMENT (this “Amendment”), dated as of July 18, 2019, is by and among International Speedway Corporation, a Florida corporation (the “Company”) (the “Company”) and the Noteholders (as defined herein).
+W I T N E S S E T H
+WHEREAS, pursuant to that certain Note Purchase Agreement dated as of January 18, 2011 (as amended, modified, extended, restated, replaced, or supplemented from time to time, the “Note Purchase Agreement”) among the Company and the purchasers party thereto, the Company issued $65,000,000 aggregate principal amount of its 4.63% Series 2011A Senior Notes due January 18, 2021 (the “Notes”);
+WHEREAS, the signatories hereto hold 100% of the Notes issued under the Note Purchase Agreement (the “Noteholders”);
+WHEREAS, the Company entered into the Agreement and Plan of Merger with NASCAR Holdings, Inc. and Nova Merger Sub, Inc., a wholly owned subsidiary of NASCAR, providing for the merger of Merger Sub with and into the Company (the “Merger”), with the Company surviving the Merger as a wholly owned subsidiary of NASCAR;
+WHEREAS, the Company has requested that the Noteholders amend certain provisions of Section 8.2 of the Note Purchase Agreement to modify certain provisions contained therein; and
+WHEREAS, the holders of each Note currently outstanding have agreed to amend the Note Purchase Agreement on the terms and subject to the conditions set forth herein.
+NOW, THEREFORE, in consideration of the mutual covenants and other agreements contained herein and for other good and valuable consideration, the receipt and adequacy of which are hereby acknowledged, the parties hereto agree as follows:
+1.
+Defined Terms. Capitalized terms used herein (including in the preamble and recitals above) but not otherwise defined herein shall have the respective meanings ascribed to such terms in the Note Purchase Agreement.
+2.
+Amendments to the Note Purchase Agreement. Subject to the terms and conditions set forth herein, the Note Purchase Agreement is hereby amended as follows:
+(a)
+Section 8.2 of the Note Purchase Agreement is hereby deleted and replaced with the following:
+Section 8.2.    Optional Prepayments with Make‑Whole Amount. The Company may, at its option, upon notice as provided below, prepay at any time all, or from time to time any part of, the Notes, in an amount not less than 10% of the original aggregate principal amount of the Notes to be prepaid in the case of a partial prepayment at 100% of the principal amount so prepaid, together with interest accrued thereon to the date of such prepayment, plus the Make Whole Amount determined for the prepayment date with respect to such principal amount of each Note then outstanding. The Company will give each holder of Notes written notice of each optional prepayment under this Section 8.2 (except as provided in the following proviso) not less than 30 days and not more than 60 days prior to the date fixed for such prepayment; provided that such notice may state that such prepayment is conditioned upon the occurrence of the “Closing” as defined in and pursuant to that certain Agreement and Plan of Merger by and among NASCAR Holdings, Inc., Nova Merger Sub, Inc., and the Company, as it may be amended, modified or supplemented from time to time (the “Merger Agreement”), in which case, notwithstanding anything to the contrary in this Section 8.2, (i) such notice may be given less than 30 days prior to, but shall be given not less than 5 Business Days prior to, the prepayment date specified therein (which may be a date determined by reference to the satisfaction of certain conditions), (ii) such notice may be revoked by the Company (by written notice to each holder of Notes on or prior to the specified prepayment date) if such Merger is not consummated on or prior to such date (in which case, for the avoidance of doubt,
+
+
+
+
+the Company shall be entitled to deliver a new notice pursuant to clause (i) hereof on or after such date) and (iii) the prepayment date may, by written notice to each holder of Notes on or prior to the specified prepayment date, be delayed until the Closing (as defined in the Merger Agreement) occurs; provided further that the date specified for such prepayment in any notice delivered pursuant to the immediately preceding proviso (including as such date may be extended pursuant to clause (iii)) shall not be later than April 22, 2020. Each such notice shall (subject to clause (i) in the immediately preceding sentence) specify the prepayment date (which shall be a Business Day), the aggregate principal amount of the Notes to be prepaid on such date, the principal amount of each Note held by such holder to be prepaid (determined in accordance with Section 8.3), and the interest to be paid on the prepayment date with respect to such principal amount being prepaid, and shall be accompanied by a certificate of a Senior Financial Officer as to the estimated respective Make‑Whole Amount due in connection with such prepayment (calculated as if the date of such notice were the date of the prepayment), setting forth the details of such computation. Two Business Days prior to such prepayment, the Company shall deliver to each holder of Notes a certificate of a Senior Financial Officer specifying the calculation of each such Make Whole Amount as of the specified or anticipated prepayment date.
+3.
+Conditions Precedent. This Amendment shall be effective when all of the following conditions set forth in this Section 3 shall have been satisfied:
+(a)
+receipt by the Company and the Noteholders of copies of this Amendment duly executed by the Company and the Noteholders; and
+(b)
+the Company pays (or causes to be paid) all reasonable out-of-pocket costs and expenses of Chapman and Cutler LLP in connection with the preparation, execution and delivery of this Amendment, subject to the receipt by the Company of an appropriate invoice.
+4.
+Representations and Warranties. The Company hereby represents and warrants that:
+(a)
+it has the requisite corporate power and authority to execute, deliver and perform this Amendment;
+(b)
+the execution, delivery and performance by it of this Amendment have been duly authorized by all necessary corporate action on the part of the Company;
+(c)
+no Default or Event of Default exists under the Note Purchase Agreement on and as of the date hereof and after giving effect to this Amendment;
+(d)
+no consent, approval, authorization or order of, or filing, registration or qualification with, any Governmental Authority is required in connection with the execution, delivery or performance by it of this Amendment; and
+(e)
+the execution, delivery and performance by it of this Amendment do not and will not (i) contravene, result in any breach of, or constitute a default under, any indenture, mortgage, deed of trust, loan, purchase or credit agreement, lease, corporate charter or by-laws, or any other material agreement or instrument to which the Company or any Subsidiary is bound or by which the Company or any Subsidiary or any of their respective properties may be bound or affected, (ii) conflict with or result in a breach of any of the terms, conditions or provisions of any order, judgment, decree, or ruling of any court, arbitrator or Governmental Authority applicable to the Company or any Subsidiary or (iii) violate in any material respect any provision of any statute or other rule or regulation of any Governmental Authority applicable to the Company or any Subsidiary.
+
+
+
+
+5.
+Miscellaneous.
+(a)
+This Amendment shall be construed in connection with and as part of the Note Purchase Agreement, and except as modified and expressly amended by this Amendment, all terms, conditions and covenants contained in the Note Purchase Agreement and the Notes are hereby ratified and shall be and remain in full force and effect.
+(b)
+Any and all notices, requests, certificates and other instruments executed and delivered after the execution and delivery of this Amendment may refer to the Note Purchase Agreement without making specific reference to this Amendment but nevertheless all such references shall include this Amendment unless the context otherwise requires.
+(c)
+The descriptive headings of the various Sections or parts of this Amendment are for convenience only and shall not affect the meaning or construction of any of the provisions hereof.
+(d)
+All covenants and other agreements contained in this Amendment by or on behalf of any of the parties hereto bind and inure to the benefit of their respective permitted successors and permitted assigns (including, without limitation, any subsequent holder of a Note) whether so expressed or not.
+(e)
+THIS AMENDMENT SHALL BE GOVERNED BY, AND SHALL BE CONSTRUED AND ENFORCED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF NEW YORK.
+(f)
+This Amendment may be executed in any number of counterparts, each of which when so executed and delivered shall be deemed an original and it shall not be necessary in making proof of this Amendment to produce or account for more than one such counterpart. Delivery of an executed counterpart of this Amendment by telecopy or electronic mail by any party hereto shall be effective as such party’s original executed counterpart.
+[SIGNATURE PAGES FOLLOW]
+IN WITNESS WHEREOF, each of the undersigned has caused this Amendment to be duly executed and delivered as of the date first above written.
+
+International Speedway Corporation
+
+
+By: /s/ Benjamin Odom                          
+Name: Benjamin Odom                          
+Title: Vice President - Deputy General Counsel
+
+Accepted as of the date first written above.
+
+Metropolitan Life Insurance Company
+by MetLife Investment Management, LLC,
+Its Investment Manager
+
+Metropolitan Tower Life Insurance Company
+As Successor by Merger to General American Life Insurance Company
+by MetLife Investment Management, LLC,
+Its Investment Manager
+
+
+
+
+
+
+
+By: /s/ John A. Tanyeri                        ______tp
+Name: John A. Tanyeri
+Title: Managing Director
+We acknowledge that Metropolitan Life Insurance Company holds $5,000,000 4.63% Series 2011A Senior Notes due January 18, 2021
+We acknowledge that Metropolitan Tower Life Insurance Company holds $10,000,000 4.63% Series 2011A Senior Notes due January 18, 2021
+
+
+Brighthouse Life Insurance Company
+by MetLife Investment Management, LLC,
+Its Investment Manager
+
+
+
+By: _/s/ Jason Rothenberg                         ___tp
+Name: Jason Rothenberg
+Title: Managing Director
+We acknowledge that Metropolitan Life Insurance Company holds $17,500,000 4.63% Series 2011A Senior Notes due January 18, 2021
+
+Accepted as of the date first written above.
+
+The Lincoln National Life Insurance Company
+
+By:
+Macquarie Investment Management Advisers, a series of Macquarie Investment Management Business Trust, Attorney in Fact
+
+
+By: /s/ Frank LaTorraca                                   
+Name: Frank LaTorraca
+Title: Senior Vice President
+We acknowledge that we hold $20,500,000 4.63% Series 2011A Senior Notes due January 18, 2021
+
+
+Accepted as of the date first written above.
+
+The Lincoln National Life Insurance Company
+
+By:
+Athene Asset Management LLC, its investment adviser
+
+
+By: /s/ Roger D. Fors                               __
+Name: Roger D. Fors
+Title: Senior Vice President, Fixed Income
+We acknowledge that we hold $12,000,000 4.63% Series 2011A Senior Notes due January 18, 2021

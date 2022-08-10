@@ -1,0 +1,407 @@
+EX-10.1 2 kamancreditagreementamendm.htm EXHIBIT 10.1
+
+
+EXECUTION VERSION
+
+
+
+AMENDMENT NO. 2 dated as of December 15, 2017 (this “Amendment”), to the CREDIT AGREEMENT dated as of November 20, 2012, as amended and restated as of May 6, 2015 (as amended by that certain Amendment No. 1 dated as of May 8, 2017, and as further amended, restated, supplemented or otherwise modified from time to time prior to the date hereof, the “Credit Agreement”), among KAMAN CORPORATION, a Connecticut corporation (the “Company”), RWG GERMANY GmbH, a company organized under the laws of Germany, KAMAN COMPOSITES - UK HOLDINGS LIMITED, a company organized under the laws of England and Wales, KAMAN LUX HOLDING, S.À.R.L, a company organized under the laws of the Grand Duchy of Luxembourg, and the other SUBSIDIARY BORROWERS from time to time party thereto (collectively, the “Borrowing Subsidiaries” and, together with the Company, the “Borrowers”), the LENDERS from time to time party thereto (the “Lenders”), JPMORGAN CHASE BANK, N.A., as Administrative Agent, BANK OF AMERICA, N.A. and CITIZENS BANK, N.A., as Co-Syndication Agents, and SUNTRUST BANK, KEYBANK NATIONAL ASSOCIATION, TD BANK, N.A., BRANCH BANKING & TRUST COMPANY and FIFTH THIRD BANK, as Co-Documentation Agents. Capitalized terms used in this Amendment but not otherwise defined shall have the meanings assigned to such terms in the Credit Agreement.
+WHEREAS pursuant to the Credit Agreement, the Lenders have agreed to extend credit to the Company and the Borrowing Subsidiaries on the terms and subject to the conditions set forth therein;
+WHEREAS the Company has requested that certain provisions of the Credit Agreement be amended as set forth herein; and
+WHEREAS the undersigned Lenders are willing to amend such provisions of the Credit Agreement, in each case on the terms and subject to the conditions set forth herein.
+NOW, THEREFORE, in consideration of the mutual agreements herein contained and other good and valuable consideration, the sufficiency and receipt of which are hereby acknowledged, and subject to the conditions set forth herein, the parties hereto hereby agree as follows:
+SECTION 1. Amendment to Section 1.01. Section 1.01 of the Credit Agreement is hereby amended as follows:
+(a) The definition of the term “Foreign Currencies” in Section 1.01 of the Credit Agreement is hereby replaced in its entirety with the following text:
+
+
+
+“Foreign Currencies” means (a) Agreed Currencies other than Dollars and (b) solely in respect of Letters of Credit, Additional Letter of Credit Currencies.
+(b) The definition of the term “Foreign Currency Sublimit” in Section 1.01 of the Credit Agreement is hereby replaced in its entirety with the following text:
+
+“Foreign Currency Sublimit” means $400,000,000.
+
+(c) The following definition is hereby added in the appropriate alphabetical order to Section 1.01 of the Credit Agreement:
+
+“Additional Letter of Credit Currencies” means any currency (other than Agreed Currencies) by which Letters of Credit are issued hereunder that is agreed to by the Administrative Agent and each applicable Issuing Bank.
+
+SECTION 2. Amendment to Section 2.06. Section 2.06 of the Credit Agreement is hereby amended as follows:
+(a) Section 2.06(a) of the Credit Agreement is hereby amended by replacing the first sentence thereof with the following text:
+
+Subject to the terms and conditions set forth herein, the Company may request the issuance of Letters of Credit denominated in Agreed Currencies or Additional Letter of Credit Currencies as the applicant thereof for the support of its or its Subsidiaries’ obligations, in a form reasonably acceptable to the Administrative Agent and the relevant Issuing Bank, at any time and from time to time during the Availability Period.
+(b) Section 2.06(b) of the Credit Agreement is hereby replaced in its entirety with the following text:
+
+(b) Notice of Issuance, Amendment, Renewal, Extension; Certain Conditions. To request the issuance of a Letter of Credit (or the amendment, renewal or extension of an outstanding Letter of Credit), the Company shall hand deliver or telecopy (or transmit by electronic communication, if arrangements for doing so have been approved by the relevant Issuing Bank) to the relevant Issuing Bank and the Administrative Agent (reasonably in advance of the requested date of issuance, amendment, renewal or extension) a notice requesting the issuance of a Letter of Credit, or identifying the Letter of Credit to be amended, renewed or extended, and specifying the date of issuance, amendment, renewal or extension (which shall be a Business Day), the date on which such Letter of Credit is to expire (which shall comply with paragraph (c) of this Section), the amount of such Letter of Credit, the Agreed Currency or Additional Letter of Credit Currency applicable thereto, the name and address of the beneficiary thereof and such other information as shall be necessary to prepare, amend, renew or extend such Letter of Credit. If requested by an Issuing Bank, the Company also shall submit a letter of credit application on such Issuing Bank’s standard form in connection with any request for a Letter of Credit. A Letter of Credit shall be issued, amended, renewed or extended only if (and upon issuance, amendment, renewal or extension of each Letter of Credit the Company shall be deemed to represent and warrant that), after giving effect to such issuance, amendment, renewal or extension (i) subject to Sections 2.04 and 2.11(b), the Dollar Amount of the LC Exposure shall not exceed $198,000,000, (ii) subject to Sections 2.04 and 2.11(b), the sum of the Dollar Amount of the total Revolving Credit Exposures shall not exceed
+
+
+
+the aggregate Revolving Commitments and (iii) subject to Sections 2.04 and 2.11(b), the Dollar Amount of the total outstanding Revolving Loans and LC Exposure, in each case denominated in Foreign Currencies, shall not exceed the Foreign Currency Sublimit. Notwithstanding anything herein to the contrary, the Dollar Amount of the aggregate face amount of Letters of Credit issued by (x) JPMorgan Chase Bank, N.A. shall not exceed $66,000,000 at any time, (y) Bank of America, N.A. shall not exceed $66,000,000 at any time and (z) Citizens Bank, N.A. shall not exceed $66,000,000 at any time (in each case, as such amount may be increased from time to time in the sole discretion of the applicable Issuing Bank, so long as such amount does not exceed the limit set forth in clause (i) and notice of such increase is provided to the Administrative Agent).
+(c) The second sentence of Section 2.06(d) of the Credit Agreement is hereby replaced in its entirety with the following text:
+
+In consideration and in furtherance of the foregoing, each Revolving Lender hereby absolutely and unconditionally agrees to pay to the Administrative Agent, for the account of the relevant Issuing Bank, such Lender’s Applicable Percentage of each LC Disbursement made by such Issuing Bank and not reimbursed by the Company on the date due as provided in paragraph (e) of this Section, or of any reimbursement payment required to be refunded to the Company for any reason (provided that if the LC Disbursement was made in an Additional Letter of Credit Currency, then the obligation of the Revolving Lenders to make such payment shall be denominated in Dollars in an amount determined by reference to the Exchange Rate for the date on which such payment is required to be made).
+(d) Section 2.06(e) of the Credit Agreement is hereby replaced in its entirety with the following text:
+
+(e) Reimbursement. If the relevant Issuing Bank shall make any LC Disbursement in respect of a Letter of Credit, the Company shall reimburse such LC Disbursement by paying to the Administrative Agent in Dollars the Dollar Amount equal to such LC Disbursement, calculated as of the date such Issuing Bank made such LC Disbursement (or if such Issuing Bank shall so elect in its sole discretion by notice to the Company, in such other Agreed Currency or Additional Letter of Credit Currency which was paid by such Issuing Bank pursuant to such LC Disbursement in an amount equal to such LC Disbursement) not later than 12:00 noon, Local Time, on the date that such LC Disbursement is made, if the Company shall have received notice of such LC Disbursement prior to 10:00 a.m., Local Time, on such date, or, if such notice has not been received by the Company prior to such time on such date, then not later than 12:00 noon, Local Time, on the Business Day immediately following the day that the Company receives such notice; provided that, if such LC Disbursement is not less than the Dollar Amount of $1,000,000, the Company may, subject to the conditions to borrowing set forth herein, request in accordance with Section 2.03 or 2.05 that such payment be financed with (i) to the extent such LC Disbursement was made in Dollars, an ABR Revolving Borrowing, Eurocurrency Revolving Borrowing or Swingline Loan in Dollars in an amount equal to such LC Disbursement, (ii) to the extent that such LC Disbursement was made in a Foreign Currency (other than an Additional Letter of Credit Currency), a Eurocurrency Revolving Borrowing in such Foreign Currency in an amount equal to such LC Disbursement or (iii) to the extent such LC Disbursement was made in an Additional Letter of Credit Currency, an ABR Revolving Borrowing, Eurocurrency Revolving Borrowing or Swingline Loan in Dollars in an amount equal to the Dollar Amount of such LC Disbursement
+
+
+
+and, in each case, to the extent so financed, the Company’s obligation to make such payment shall be discharged and replaced by the resulting ABR Revolving Borrowing, Eurocurrency Revolving Borrowing or Swingline Loan, as applicable. If the Company fails to make such payment when due, the Administrative Agent shall notify each Revolving Lender of the applicable LC Disbursement, the payment then due from the Company in respect thereof and such Lender’s Applicable Percentage thereof. Promptly following receipt of such notice, each Revolving Lender shall pay to the Administrative Agent its Applicable Percentage of the payment then due from the Company (provided that if the LC Disbursement was made in an Additional Letter of Credit Currency, then the obligation of the Revolving Lenders to make such payment shall be denominated in Dollars in an amount determined by reference to the Exchange Rate for the date on which such payment is required to be made), in the same manner as provided in Section 2.07 with respect to Loans made by such Lender (and Section 2.07 shall apply, mutatis mutandis, to the payment obligations of the Revolving Lenders), and the Administrative Agent shall promptly pay to the relevant Issuing Bank the amounts so received by it from the Revolving Lenders. Promptly following receipt by the Administrative Agent of any payment from the Company pursuant to this paragraph, the Administrative Agent shall distribute such payment to such Issuing Bank or, to the extent that Revolving Lenders have made payments pursuant to this paragraph to reimburse such Issuing Bank, then to such Lenders and such Issuing Bank as their interests may appear. Any payment made by a Revolving Lender pursuant to this paragraph to reimburse the relevant Issuing Bank for any LC Disbursement (other than the funding of ABR Revolving Loans or a Swingline Loan as contemplated above) shall not constitute a Loan and shall not relieve the Company of its obligation to reimburse such LC Disbursement. If the Company’s reimbursement of, or obligation to reimburse, any amounts in any Foreign Currency would subject the Administrative Agent, any Issuing Bank or any Lender to any stamp duty, ad valorem charge or similar tax that would not be payable if such reimbursement were made or required to be made in Dollars, the Company shall, at its option, either (x) pay the amount of any such tax requested by the Administrative Agent, the relevant Issuing Bank or the relevant Lender or (y) reimburse each LC Disbursement made in such Foreign Currency in Dollars, in an amount equal to the Dollar Amount, calculated using the applicable Exchange Rate, on the date such LC Disbursement is made, of such LC Disbursement.
+SECTION 3. Amendment to Section 2.12. Section 2.12(b) of the Credit Agreement is hereby amended by deleting the last sentence thereof and replacing it with the following text:
+
+Participation fees and fronting fees in respect of Letters of Credit denominated (A) in Dollars shall be paid in Dollars, (B) in a Foreign Currency (other than an Additional Letter of Credit Currency) shall be paid in such Foreign Currency and (C) in an Additional Letter of Credit Currency shall be paid in (1) in the case of participation fees, in Dollars calculated using the applicable Dollar Amount and Exchange Rate as of the most recent Computation Date with respect to the applicable Letter of Credit and (2) in the case of fronting fees, in such Additional Letter of Credit Currency.
+SECTION 4. Representations and Warranties. Each of the Borrowers represents and warrants to the Administrative Agent and to each of the Lenders that:
+
+(a) This Amendment has been duly authorized, executed and delivered by such Borrower and constitutes a legal, valid and binding obligation of such Borrower, enforceable against such Borrower in accordance with its terms, subject to applicable bankruptcy, insolvency, reorganization, moratorium or
+
+
+
+other laws affecting creditors’ rights generally and subject to general principles of equity, regardless of whether considered in a proceeding in equity or at law.
+
+(b) The representations and warranties of such Borrower set forth in the Loan Documents are true and correct in all material respects (or in all respects if the applicable representation and warranty is qualified by materiality or Material Adverse Effect) on and as of the Amendment Effective Date (as defined below), except to the extent such representations and warranties expressly relate to an earlier date (in which case such representations and warranties are true and correct in all material respects (or in all respects if the applicable representation and warranty is qualified by materiality or Material Adverse Effect) as of such earlier date.
+
+(c) At the time of and immediately after giving effect to this Amendment, no Default or Event of Default shall have occurred and be continuing.
+
+SECTION 5. Effectiveness. This Amendment shall become effective as of the date first above written (the “Amendment Effective Date”) when (a) the Administrative Agent shall have received counterparts of this Amendment that, when taken together, bear the signatures of each of the Borrowers, the Required Lenders and each Issuing Bank and (b) the Administrative Agent and the Lenders shall have received payment of all expenses required to be paid or reimbursed by the Borrowers under or in connection with this Amendment and any other Loan Document, including those expenses set forth in Section 9 hereof; provided that the Company has received one or more invoices setting forth such expenses at least three Business Days prior to the Amendment Effective Date.
+
+SECTION 6. Credit Agreement. Except as expressly set forth herein, this Amendment (a) shall not by implication or otherwise limit, impair, constitute a waiver of or otherwise affect the rights and remedies of the Lenders, the Administrative Agent, the Borrowers or any other Loan Party under the Credit Agreement or any other Loan Document and (b) shall not alter, modify, amend or in any way affect any of the terms, conditions, obligations, covenants or agreements contained in the Credit Agreement or any other Loan Document, all of which are ratified and affirmed in all respects and shall continue in full force and effect. Nothing herein shall be deemed to entitle any Borrower or any other Loan Party to any future consent to, or waiver, amendment, modification or other change of, any of the terms, conditions, obligations, covenants or agreements contained in the Credit Agreement or any other Loan Document in similar or different circumstances. After the date hereof, any reference in the Loan Documents to the Credit Agreement shall mean the Credit Agreement as modified hereby. This Amendment shall constitute a “Loan Document” for all purposes of the Credit Agreement and the other Loan Documents.
+
+SECTION 7. Applicable Law; Waiver of Jury Trial. (a) THIS AMENDMENT SHALL BE CONSTRUED IN ACCORDANCE WITH AND GOVERNED BY THE LAW OF THE STATE OF NEW YORK.
+(a) EACH PARTY HERETO HEREBY AGREES AS SET FORTH IN SECTION 9.10 OF THE CREDIT AGREEMENT AS IF SUCH SECTION WERE SET FORTH IN FULL HEREIN.
+
+SECTION 8. Counterparts; Amendment. This Amendment may be executed in two or more counterparts, each of which shall constitute an original but all of which when taken together shall constitute a single contract. Delivery of an executed counterpart of a signature page of this Amendment by telecopy or electronic transmission shall be effective as delivery of a manually executed counterpart of this Amendment. This Amendment may not be amended nor may any provision hereof be waived except pursuant
+
+
+
+to a writing signed by the Company, the Borrowing Subsidiaries, the Administrative Agent and the Required Lenders.
+
+SECTION 9. Expenses. The Company agrees to reimburse the Administrative Agent for its reasonable out-of-pocket expenses in connection with this Amendment to the extent required under Section 9.03(a) of the Credit Agreement.
+
+SECTION 10. Headings. The Section headings used herein are for convenience of reference only, are not part of this Amendment and are not to affect the construction of, or to be taken into consideration in interpreting, this Amendment.
+
+[Signature Pages Follow]
+
+
+
+IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be duly executed by their respective authorized officers as of the day and year first written above.
+KAMAN CORPORATION,
+as the Company
+by /s/ Robert D. Starr
+_________________________
+Name: Robert D. Starr
+Title: Executive Vice President & Chief Financial Officer
+
+
+RWG GERMANY GMBH,
+as a Subsidiary Borrower
+by /s/ Robert G. Paterson
+_________________________
+Name: Robert G. Paterson
+Title: Managing Director
+
+KAMAN COMPOSITES - UK HOLDINGS LIMITED,
+as a Subsidiary Borrower
+by /s/ Robert D. Starr
+_________________________
+Name: Robert D. Starr
+Title: Director
+
+KAMAN LUX HOLDING, S.À.R.L,
+as a Subsidiary Borrower
+by /s/ Robert D. Starr
+_________________________
+Name: Robert D. Starr
+Title: Category A Manager
+
+
+
+
+
+[Amendment No. 2 Signature Page]
+
+
+
+JPMORGAN CHASE BANK, N.A., individually and as Administrative Agent and an Issuing Bank,
+By
+  /s/ Peter M. Killea
+  Name: Peter M. Killea
+  Title: Executive Director
+         
+
+
+
+
+[Amendment No. 2 Signature Page]
+
+
+
+SIGNATURE PAGE TO AMENDMENT NO. 2 TO THE CREDIT AGREEMENT DATED AS OF NOVEMBER 20, 2012, AS AMENDED AND RESTATED AS OF MAY 6, 2015, AMONG KAMAN CORPORATION, RWG GERMANY GMBH, KAMAN COMPOSITES - UK HOLDINGS LIMITED, KAMAN LUX HOLDING, S.À.R.L AND THE OTHER SUBSIDIARY BORROWERS FROM TIME TO TIME PARTY THERETO, THE LENDERS FROM TIME TO TIME PARTY THERETO, JPMORGAN CHASE BANK, N.A., AS ADMINISTRATIVE AGENT, BANK OF AMERICA, N.A. AND CITIZENS BANK, N.A., AS CO-SYNDICATION AGENTS, AND SUNTRUST BANK, KEYBANK NATIONAL ASSOCIATION, TD BANK, N.A., BRANCH BANKING & TRUST COMPANY AND FIFTH THIRD BANK, AS CO-DOCUMENTATION AGENTS.
+
+Bank of America, N.A.
+Lender (with any Lender that is an Issuing Bank signing both in its capacity as a Lender and as an Issuing Bank):
+
+
+By:__/s/ Christopher T. Phelan _________
+Name: Christopher T. Phelan
+Title: Senior Vice President
+
+
+For Lenders/Issuing Banks that need two signature blocks:
+
+
+By:_________________________________
+Name:
+Title:
+
+
+
+[Amendment No. 2 Signature Page]
+
+
+
+
+
+SIGNATURE PAGE TO AMENDMENT NO. 2 TO THE CREDIT AGREEMENT DATED AS OF NOVEMBER 20, 2012, AS AMENDED AND RESTATED AS OF MAY 6, 2015, AMONG KAMAN CORPORATION, RWG GERMANY GMBH, KAMAN COMPOSITES - UK HOLDINGS LIMITED, KAMAN LUX HOLDING, S.À.R.L AND THE OTHER SUBSIDIARY BORROWERS FROM TIME TO TIME PARTY THERETO, THE LENDERS FROM TIME TO TIME PARTY THERETO, JPMORGAN CHASE BANK, N.A., AS ADMINISTRATIVE AGENT, BANK OF AMERICA, N.A. AND CITIZENS BANK, N.A., AS CO-SYNDICATION AGENTS, AND SUNTRUST BANK, KEYBANK NATIONAL ASSOCIATION, TD BANK, N.A., BRANCH BANKING & TRUST COMPANY AND FIFTH THIRD BANK, AS CO-DOCUMENTATION AGENTS.
+
+Branch Banking and Trust Company
+Lender (with any Lender that is an Issuing Bank signing both in its capacity as a Lender and as an Issuing Bank):
+
+
+By:___/s/ Trevor H. Williams ___________
+Name: Trevor H. Williams
+Title: Assistant Vice President
+
+
+For Lenders/Issuing Banks that need two signature blocks:
+
+
+By:_________________________________
+Name:
+Title:
+
+
+
+[Amendment No. 2 Signature Page]
+
+
+
+
+
+SIGNATURE PAGE TO AMENDMENT NO. 2 TO THE CREDIT AGREEMENT DATED AS OF NOVEMBER 20, 2012, AS AMENDED AND RESTATED AS OF MAY 6, 2015, AMONG KAMAN CORPORATION, RWG GERMANY GMBH, KAMAN COMPOSITES - UK HOLDINGS LIMITED, KAMAN LUX HOLDING, S.À.R.L AND THE OTHER SUBSIDIARY BORROWERS FROM TIME TO TIME PARTY THERETO, THE LENDERS FROM TIME TO TIME PARTY THERETO, JPMORGAN CHASE BANK, N.A., AS ADMINISTRATIVE AGENT, BANK OF AMERICA, N.A. AND CITIZENS BANK, N.A., AS CO-SYNDICATION AGENTS, AND SUNTRUST BANK, KEYBANK NATIONAL ASSOCIATION, TD BANK, N.A., BRANCH BANKING & TRUST COMPANY AND FIFTH THIRD BANK, AS CO-DOCUMENTATION AGENTS.
+
+CITIZENS BANK, N.A.
+Lender (with any Lender that is an Issuing Bank signing both in its capacity as a Lender and as an Issuing Bank):
+
+
+By:___/s/ Donald A. Wright ____________
+Name: Donald A. Wright
+Title: SVP
+
+
+For Lenders/Issuing Banks that need two signature blocks:
+
+
+By:_________________________________
+Name:
+Title:
+
+
+
+
+
+[Amendment No. 2 Signature Page]
+
+
+
+
+SIGNATURE PAGE TO AMENDMENT NO. 2 TO THE CREDIT AGREEMENT DATED AS OF NOVEMBER 20, 2012, AS AMENDED AND RESTATED AS OF MAY 6, 2015, AMONG KAMAN CORPORATION, RWG GERMANY GMBH, KAMAN COMPOSITES - UK HOLDINGS LIMITED, KAMAN LUX HOLDING, S.À.R.L AND THE OTHER SUBSIDIARY BORROWERS FROM TIME TO TIME PARTY THERETO, THE LENDERS FROM TIME TO TIME PARTY THERETO, JPMORGAN CHASE BANK, N.A., AS ADMINISTRATIVE AGENT, BANK OF AMERICA, N.A. AND CITIZENS BANK, N.A., AS CO-SYNDICATION AGENTS, AND SUNTRUST BANK, KEYBANK NATIONAL ASSOCIATION, TD BANK, N.A., BRANCH BANKING & TRUST COMPANY AND FIFTH THIRD BANK, AS CO-DOCUMENTATION AGENTS.
+
+Fifth Third Bank
+Lender (with any Lender that is an Issuing Bank signing both in its capacity as a Lender and as an Issuing Bank):
+
+
+By:___/s/ Valerie Schanzer ____________
+Name: Valerie Schanzer
+Title: Managing Director
+
+
+
+
+
+
+[Amendment No. 2 Signature Page]
+
+
+
+
+
+SIGNATURE PAGE TO AMENDMENT NO. 2 TO THE CREDIT AGREEMENT DATED AS OF NOVEMBER 20, 2012, AS AMENDED AND RESTATED AS OF MAY 6, 2015, AMONG KAMAN CORPORATION, RWG GERMANY GMBH, KAMAN COMPOSITES - UK HOLDINGS LIMITED, KAMAN LUX HOLDING, S.À.R.L AND THE OTHER SUBSIDIARY BORROWERS FROM TIME TO TIME PARTY THERETO, THE LENDERS FROM TIME TO TIME PARTY THERETO, JPMORGAN CHASE BANK, N.A., AS ADMINISTRATIVE AGENT, BANK OF AMERICA, N.A. AND CITIZENS BANK, N.A., AS CO-SYNDICATION AGENTS, AND SUNTRUST BANK, KEYBANK NATIONAL ASSOCIATION, TD BANK, N.A., BRANCH BANKING & TRUST COMPANY AND FIFTH THIRD BANK, AS CO-DOCUMENTATION AGENTS.
+
+HSBC Bank USA, NA, as a Lender
+
+By:__/s/ Robert Levins #21435__________
+Name: Robert Levins
+Title: Senior Portfolio Manager
+
+
+
+
+
+[Amendment No. 2 Signature Page]
+
+
+
+
+
+SIGNATURE PAGE TO AMENDMENT NO. 2 TO THE CREDIT AGREEMENT DATED AS OF NOVEMBER 20, 2012, AS AMENDED AND RESTATED AS OF MAY 6, 2015, AMONG KAMAN CORPORATION, RWG GERMANY GMBH, KAMAN COMPOSITES - UK HOLDINGS LIMITED, KAMAN LUX HOLDING, S.À.R.L AND THE OTHER SUBSIDIARY BORROWERS FROM TIME TO TIME PARTY THERETO, THE LENDERS FROM TIME TO TIME PARTY THERETO, JPMORGAN CHASE BANK, N.A., AS ADMINISTRATIVE AGENT, BANK OF AMERICA, N.A. AND CITIZENS BANK, N.A., AS CO-SYNDICATION AGENTS, AND SUNTRUST BANK, KEYBANK NATIONAL ASSOCIATION, TD BANK, N.A., BRANCH BANKING & TRUST COMPANY AND FIFTH THIRD BANK, AS CO-DOCUMENTATION AGENTS.
+
+KEYBANK NATIONAL ASSOCIATION
+Lender (with any Lender that is an Issuing Bank signing both in its capacity as a Lender and as an Issuing Bank):
+
+
+By:__/s/ Suzannah Valdivia ____________
+Name: SUZANNAH VALDIVIA
+Title: SENIOR VICE PRESIDENT
+
+
+For Lenders/Issuing Banks that need two signature blocks:
+
+
+By:_________________________________
+Name:
+Title:
+
+
+
+
+[Amendment No. 2 Signature Page]
+
+
+
+
+SIGNATURE PAGE TO AMENDMENT NO. 2 TO THE CREDIT AGREEMENT DATED AS OF NOVEMBER 20, 2012, AS AMENDED AND RESTATED AS OF MAY 6, 2015, AMONG KAMAN CORPORATION, RWG GERMANY GMBH, KAMAN COMPOSITES - UK HOLDINGS LIMITED, KAMAN LUX HOLDING, S.À.R.L AND THE OTHER SUBSIDIARY BORROWERS FROM TIME TO TIME PARTY THERETO, THE LENDERS FROM TIME TO TIME PARTY THERETO, JPMORGAN CHASE BANK, N.A., AS ADMINISTRATIVE AGENT, BANK OF AMERICA, N.A. AND CITIZENS BANK, N.A., AS CO-SYNDICATION AGENTS, AND SUNTRUST BANK, KEYBANK NATIONAL ASSOCIATION, TD BANK, N.A., BRANCH BANKING & TRUST COMPANY AND FIFTH THIRD BANK, AS CO-DOCUMENTATION AGENTS.
+
+
+
+The Northern Trust Company
+
+By:__/s/ Eric Siebert __________________
+Name: Eric Siebert
+Title: SVP
+
+ 
+
+[Amendment No. 2 Signature Page]
+
+
+
+
+
+SIGNATURE PAGE TO AMENDMENT NO. 2 TO THE CREDIT AGREEMENT DATED AS OF NOVEMBER 20, 2012, AS AMENDED AND RESTATED AS OF MAY 6, 2015, AMONG KAMAN CORPORATION, RWG GERMANY GMBH, KAMAN COMPOSITES - UK HOLDINGS LIMITED, KAMAN LUX HOLDING, S.À.R.L AND THE OTHER SUBSIDIARY BORROWERS FROM TIME TO TIME PARTY THERETO, THE LENDERS FROM TIME TO TIME PARTY THERETO, JPMORGAN CHASE BANK, N.A., AS ADMINISTRATIVE AGENT, BANK OF AMERICA, N.A. AND CITIZENS BANK, N.A., AS CO-SYNDICATION AGENTS, AND SUNTRUST BANK, KEYBANK NATIONAL ASSOCIATION, TD BANK, N.A., BRANCH BANKING & TRUST COMPANY AND FIFTH THIRD BANK, AS CO-DOCUMENTATION AGENTS.
+
+PNC Bank N.A.
+Lender (with any Lender that is an Issuing Bank signing both in its capacity as a Lender and as an Issuing Bank):
+
+
+By:_/s/ Eleanor Orlando _______________
+Name: Eleanor Orlando
+Title: Vice President
+
+
+For Lenders/Issuing Banks that need two signature blocks:
+
+
+By:_________________________________
+Name:
+Title:
+
+
+
+[Amendment No. 2 Signature Page]
+
+
+
+
+
+SIGNATURE PAGE TO AMENDMENT NO. 2 TO THE CREDIT AGREEMENT DATED AS OF NOVEMBER 20, 2012, AS AMENDED AND RESTATED AS OF MAY 6, 2015, AMONG KAMAN CORPORATION, RWG GERMANY GMBH, KAMAN COMPOSITES - UK HOLDINGS LIMITED, KAMAN LUX HOLDING, S.À.R.L AND THE OTHER SUBSIDIARY BORROWERS FROM TIME TO TIME PARTY THERETO, THE LENDERS FROM TIME TO TIME PARTY THERETO, JPMORGAN CHASE BANK, N.A., AS ADMINISTRATIVE AGENT, BANK OF AMERICA, N.A. AND CITIZENS BANK, N.A., AS CO-SYNDICATION AGENTS, AND SUNTRUST BANK, KEYBANK NATIONAL ASSOCIATION, TD BANK, N.A., BRANCH BANKING & TRUST COMPANY AND FIFTH THIRD BANK, AS CO-DOCUMENTATION AGENTS.
+
+SunTrust Bank
+Lender (with any Lender that is an Issuing Bank signing both in its capacity as a Lender and as an Issuing Bank):
+
+
+By:_/s/ Anika Kirs ___________________
+Name: Anika Kirs
+Title: Vice President
+
+
+For Lenders/Issuing Banks that need two signature blocks:
+
+
+By:_________________________________
+Name:
+Title:
+
+
+[Amendment No. 2 Signature Page]
+
+
+
+
+
+SIGNATURE PAGE TO AMENDMENT NO. 2 TO THE CREDIT AGREEMENT DATED AS OF NOVEMBER 20, 2012, AS AMENDED AND RESTATED AS OF MAY 6, 2015, AMONG KAMAN CORPORATION, RWG GERMANY GMBH, KAMAN COMPOSITES - UK HOLDINGS LIMITED, KAMAN LUX HOLDING, S.À.R.L AND THE OTHER SUBSIDIARY BORROWERS FROM TIME TO TIME PARTY THERETO, THE LENDERS FROM TIME TO TIME PARTY THERETO, JPMORGAN CHASE BANK, N.A., AS ADMINISTRATIVE AGENT, BANK OF AMERICA, N.A. AND CITIZENS BANK, N.A., AS CO-SYNDICATION AGENTS, AND SUNTRUST BANK, KEYBANK NATIONAL ASSOCIATION, TD BANK, N.A., BRANCH BANKING & TRUST COMPANY AND FIFTH THIRD BANK, AS CO-DOCUMENTATION AGENTS.
+
+TD Bank, N.A.
+Lender (with any Lender that is an Issuing Bank signing both in its capacity as a Lender and as an Issuing Bank):
+
+
+By:_/s/ M. Bernadette Collins ___________
+Name: M. Bernadette Collins
+Title: Senior Vice President
+
+
+
+
+[Amendment No. 2 Signature Page]
+
+
+
+
+
+SIGNATURE PAGE TO AMENDMENT NO. 2 TO THE CREDIT AGREEMENT DATED AS OF NOVEMBER 20, 2012, AS AMENDED AND RESTATED AS OF MAY 6, 2015, AMONG KAMAN CORPORATION, RWG GERMANY GMBH, KAMAN COMPOSITES - UK HOLDINGS LIMITED, KAMAN LUX HOLDING, S.À.R.L AND THE OTHER SUBSIDIARY BORROWERS FROM TIME TO TIME PARTY THERETO, THE LENDERS FROM TIME TO TIME PARTY THERETO, JPMORGAN CHASE BANK, N.A., AS ADMINISTRATIVE AGENT, BANK OF AMERICA, N.A. AND CITIZENS BANK, N.A., AS CO-SYNDICATION AGENTS, AND SUNTRUST BANK, KEYBANK NATIONAL ASSOCIATION, TD BANK, N.A., BRANCH BANKING & TRUST COMPANY AND FIFTH THIRD BANK, AS CO-DOCUMENTATION AGENTS.
+
+
+U.S. Bank National Association
+
+
+By:_/s/ Paul F. Johnson _______________
+Name: Paul F. Johnson
+Title: Vice President
+
+
+
+
+
+[Amendment No. 2 Signature Page]
+
+
+
+
+SIGNATURE PAGE TO AMENDMENT NO. 2 TO THE CREDIT AGREEMENT DATED AS OF NOVEMBER 20, 2012, AS AMENDED AND RESTATED AS OF MAY 6, 2015, AMONG KAMAN CORPORATION, RWG GERMANY GMBH, KAMAN COMPOSITES - UK HOLDINGS LIMITED, KAMAN LUX HOLDING, S.À.R.L AND THE OTHER SUBSIDIARY BORROWERS FROM TIME TO TIME PARTY THERETO, THE LENDERS FROM TIME TO TIME PARTY THERETO, JPMORGAN CHASE BANK, N.A., AS ADMINISTRATIVE AGENT, BANK OF AMERICA, N.A. AND CITIZENS BANK, N.A., AS CO-SYNDICATION AGENTS, AND SUNTRUST BANK, KEYBANK NATIONAL ASSOCIATION, TD BANK, N.A., BRANCH BANKING & TRUST COMPANY AND FIFTH THIRD BANK, AS CO-DOCUMENTATION AGENTS.
+
+Webster Bank, NA
+Lender (with any Lender that is an Issuing Bank signing both in its capacity as a Lender and as an Issuing Bank):
+
+
+By:__/s/ George G. Sims ______________
+Name: George G. Sims
+Title: Senior Vice President
+
+
+For Lenders/Issuing Banks that need two signature blocks:
+
+
+By:_________________________________
+Name:
+Title:
+
+
+
+[Amendment No. 2 Signature Page]

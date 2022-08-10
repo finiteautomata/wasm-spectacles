@@ -1,0 +1,292 @@
+EX-10.1 2 a50155705v10_activex-fourt.htm EXHIBIT 10.1
+10.1
+
+FOURTEENTH AMENDMENT TO CREDIT AGREEMENT
+AND SECOND AMENDMENT TO SECURITY AGREEMENT
+
+This FOURTEENTH AMENDMENT TO CREDIT AGREEMENT AND SECOND AMENDMENT TO SECURITY AGREEMENT (this “Agreement”), dated as of [__________], 2020, is entered into by and among THE DIXIE GROUP, INC., a Tennessee corporation (“Dixie”), TDG OPERATIONS, LLC, a Georgia limited liability company, formerly known as Masland Carpets, LLC and successor by merger to Fabrica International, Inc. (“TDG”; together with Dixie, are referred to hereinafter each individually as a “Borrower,” and individually and collectively, jointly and severally, as the “Borrowers”), the persons identified as the Lenders on the signature pages hereto (the “Lenders”), and WELLS FARGO CAPITAL FINANCE, LLC, a Delaware limited liability company, as administrative agent for the Lenders (in such capacity, together with its successors and assigns in such capacity, “Agent”).
+
+W I T N E S S E T H:
+
+WHEREAS, pursuant to the Credit Agreement dated as of September 13, 2011, as amended by the First Amendment to Credit Agreement dated as of November 2, 2012, the Second Amendment to Credit Agreement dated as of April 1, 2013, the Third Amendment to Credit Agreement dated as of May 22, 2013, the Fourth Amendment to Credit Agreement dated as of July 1, 2013, the Fifth Amendment to Credit Agreement dated as of July 30, 2013, the Sixth Amendment to Credit Agreement dated as of August 30, 2013, the Seventh Amendment to Credit Agreement dated as of January 20, 2014, the Eighth Amendment to Credit Agreement dated as of March 14, 2014, the Ninth Amendment to Credit Agreement dated as of March 26, 2014, the Tenth Amendment to Credit Agreement, First Amendment to Security Agreement, and First Amendment to Guaranty dated as of September 23, 2016, the Consent and Eleventh Amendment to Credit Agreement dated as of January 14, 2019, the Twelfth Amendment to Credit Agreement, dated as of October 3, 2019, and the Consent and Thirteenth Amendment to Credit Agreement, dated as of October 22, 2019 (as the same may be further amended, restated, supplemented, or otherwise modified from time to time, the “Credit Agreement”), among Agent, the Lenders, Candlewick Yarns, LLC, an Alabama limited liability company, and the Borrowers, the Lenders have made loans and advances and provided other financial accommodations to the Borrowers;
+
+WHEREAS, Borrowers and Agent are parties to that certain Security Agreement dated as of September 13, 2011, as amended by the Tenth Amendment to Credit Agreement, First Amendment to Security Agreement, and First Amendment to Guaranty dated as of September 23, 2016, (as further amended, restated, supplemented, or otherwise modified from time to time, the “Security Agreement”)
+
+WHEREAS, the Borrowers have requested that Agent and Lenders enter into this Agreement to make certain amendments to the Credit Agreement and the Security Agreement, and Agent and the Lenders are willing to do so, subject to the terms and conditions set forth herein.
+
+NOW, THEREFORE, in consideration of the agreements herein contained and other good and valuable consideration, the parties hereby agree as follows:
+
+I.    DEFINITIONS AND INTERPRETATION.
+
+1.1.    Definitions and Interpretation. Unless otherwise defined herein or the context otherwise requires, terms used in this Agreement, including its preamble and recitals, have the meanings provided in the Credit Agreement.
+
+
+1
+
+
+
+II.        AMENDMENTS TO CREDIT AGREEMENT.
+Subject to the satisfaction of each of the conditions precedent set forth in Section IV of this Agreement, the Credit Agreement is hereby amended as follows:
+2.1.    Additional Definitions. Schedule 1.1 of the Credit Agreement is hereby amended by inserting the following new defined terms therein in appropriate alphabetical order:
+“Ameristate Loan Date” means the date on a Permitted Fixed Asset Loan from Ameristate Bank to one or more of the Borrowers is consummated and the Net Cash Proceeds thereof have been paid to Agent for application to the Obligations in accordance with the terms of this Agreement and the Fourteenth Amendment.
+“Benchmark Replacement” means the sum of: (a) the alternate benchmark rate (which may include Term SOFR) that has been selected by Agent and Administrative Borrower giving due consideration to (i) any selection or recommendation of a replacement rate or the mechanism for determining such a rate by the Relevant Governmental Body or (ii) any evolving or then-prevailing market convention for determining a rate of interest as a replacement to the LIBOR Rate for United States dollar-denominated syndicated credit facilities and (b) the Benchmark Replacement Adjustment; provided that, if the Benchmark Replacement as so determined would be less than 1.00%, the Benchmark Replacement shall be deemed to be 1.00% for the purposes of this Agreement.
+“Benchmark Replacement Adjustment” means, with respect to any replacement of the LIBOR Rate with an Unadjusted Benchmark Replacement for each applicable Interest Period, the spread adjustment, or method for calculating or determining such spread adjustment, (which may be a positive or negative value or zero) that has been selected by Agent and Administrative Borrower giving due consideration to (i) any selection or recommendation of a spread adjustment, or method for calculating or determining such spread adjustment, for the replacement of the LIBOR Rate with the applicable Unadjusted Benchmark Replacement by the Relevant Governmental Body or (ii) any evolving or then-prevailing market convention for determining a spread adjustment, or method for calculating or determining such spread adjustment, for the replacement of the LIBOR Rate with the applicable Unadjusted Benchmark Replacement for United States dollar-denominated syndicated credit facilities at such time.
+“Benchmark Replacement Conforming Changes” means, with respect to any Benchmark Replacement, any technical, administrative or operational changes (including changes to the definition of “Base Rate”, the definition of “Interest Period”, timing and frequency of determining rates and making payments of interest and other administrative matters) that Agent decides may be appropriate to reflect the adoption and implementation of such Benchmark Replacement and to permit the administration thereof by Agent in a manner substantially consistent with market practice (or, if Agent decides that adoption of any portion of such market practice is not administratively feasible or if Agent determines that no market practice for the administration of the Benchmark Replacement exists, in such other manner of administration as Agent decides is reasonably necessary in connection with the administration of this Agreement).
+
+
+2
+
+
+“Benchmark Replacement Date” means the earlier to occur of the following events with respect to the LIBOR Rate:
+(a)    in the case of clause (a) or (b) of the definition of “Benchmark Transition Event,” the later of (i) the date of the public statement or publication of information referenced therein and (ii) the date on which the administrator of the LIBOR Rate permanently or indefinitely ceases to provide the LIBOR Rate; or
+(b)    in the case of clause (c) of the definition of “Benchmark Transition Event,” the date of the public statement or publication of information referenced therein.
+“Benchmark Transition Event” means the occurrence of one or more of the following events with respect to the LIBOR Rate:
+(a)    a public statement or publication of information by or on behalf of the administrator of the LIBOR Rate announcing that such administrator has ceased or will cease to provide the LIBOR Rate, permanently or indefinitely, provided that, at the time of such statement or publication, there is no successor administrator that will continue to provide the LIBOR Rate;
+(b)    a public statement or publication of information by the regulatory supervisor for the administrator of the LIBOR Rate, the Federal Reserve System of the United States (or any successor), an insolvency official with jurisdiction over the administrator for the LIBOR Rate, a resolution authority with jurisdiction over the administrator for the LIBOR Rate or a court or an entity with similar insolvency or resolution authority over the administrator for the LIBOR Rate, which states that the administrator of the LIBOR Rate has ceased or will cease to provide the LIBOR Rate permanently or indefinitely, provided that, at the time of such statement or publication, there is no successor administrator that will continue to provide the LIBOR Rate; or
+(c)    a public statement or publication of information by the regulatory supervisor for the administrator of the LIBOR Rate announcing that the LIBOR Rate is no longer representative.
+“Benchmark Transition Start Date” means (a) in the case of a Benchmark Transition Event, the earlier of (i) the applicable Benchmark Replacement Date and (ii) if such Benchmark Transition Event is a public statement or publication of information of a prospective event, the 90th day prior to the expected date of such event as of such public statement or publication of information (or if the expected date of such prospective event is fewer than 90 days after such statement or publication, the date of such statement or publication) and (b) in the case of an Early Opt-in Election, the date specified by Agent or the Required Lenders, as applicable, by notice to Administrative Borrower, Agent (in the case of such notice by the Required Lenders) and the Lenders.
+“Benchmark Unavailability Period” means, if a Benchmark Transition Event and its related Benchmark Replacement Date have occurred with respect to the LIBOR Rate and solely to the extent that the LIBOR Rate has not been replaced with a Benchmark Replacement, the period (x) beginning at the time that such Benchmark Replacement Date has occurred if, at such time, no Benchmark Replacement has replaced the LIBOR Rate for all purposes hereunder in accordance with Section 2.12(d)(iii) and (y) ending at the time that a Benchmark Replacement
+
+
+3
+
+
+has replaced the LIBOR Rate for all purposes hereunder pursuant to Section 2.12(d)(iii).
+“Early Opt-in Election” means the occurrence of:
+(a)    (i) a determination by Agent or (ii) a notification by the Required Lenders to Agent (with a copy to Administrative Borrower) that the Required Lenders have determined that United States dollar-denominated syndicated credit facilities being executed at such time, or that include language similar to that contained in Section 2.12(d)(iii) are being executed or amended, as applicable, to incorporate or adopt a new benchmark interest rate to replace the LIBOR Rate, and
+(b)    (i) the election by Agent or (ii) the election by the Required Lenders to declare that an Early Opt-in Election has occurred and the provision, as applicable, by Agent of written notice of such election to Administrative Borrower and the Lenders or by the Required Lenders of written notice of such election to Agent.
+“Federal Reserve Bank of New York’s Website” means the website of the Federal Reserve Bank of New York at http://www.newyorkfed.org, or any successor source.
+“Fourteenth Amendment” means that certain Fourteenth Amendment to Credit Agreement and Second Amendment to Security Agreement, dated as of the Fourteenth Amendment Effective Date, by and among, Agent, the Lenders, and the Loan Parties.
+“Fourteenth Amendment Effective Date” means [__________], 2020.
+“Real Property Indebtedness” means, as of any date of determination, Indebtedness incurred with respect to a loan secured by Real Property owned by a Loan Party.
+“Relevant Governmental Body” means the Federal Reserve Board and/or the Federal Reserve Bank of New York, or a committee officially endorsed or convened by the Federal Reserve Board and/or the Federal Reserve Bank of New York or any successor thereto.
+“SOFR” with respect to any day means the secured overnight financing rate published for such day by the Federal Reserve Bank of New York, as the administrator of the benchmark, (or a successor administrator) on the Federal Reserve Bank of New York’s Website.
+“Term SOFR” means the forward-looking term rate based on SOFR that has been selected or recommended by the Relevant Governmental Body.
+“Unadjusted Benchmark Replacement” means the Benchmark Replacement excluding the Benchmark Replacement Adjustment.
+2.2.    Deleted Definitions. Schedule 1.1 of the Credit Agreement is hereby amended by deleting the following defined terms in their entirety “Availability Block FCCR”, “Availability Block FCCR Measurement Period”, “Availability Block First Reduction Date”, and “Availability Block Second Reduction Date”.
+
+
+4
+
+
+2.3.    Applicable Margin. The definition of “Applicable Margin” as set forth in Schedule 1.1 of the Credit Agreement is hereby amended so that it reads, in its entirety, as follows:
+“Applicable Margin” means, as of any date of determination, (a) with respect to Base Rate Loans, 2.25% and (b) with respect to LIBOR Rate Loans, 3.25%.
+2.4.    Availability Block. The definition of “Availability Block” as set forth in Schedule 1.1 of the Credit Agreement is hereby amended so that it reads, in its entirety, as follows:
+“Availability Block” means (a) from the Fourteenth Amendment Effective Date until the Ameristate Loan Date, $3,500,000 and (b) from and after the Ameristate Loan Date, $6,500,000.
+2.5.    Borrowing Base. Clause (b) of the definition of “Borrowing Base” as set forth in Schedule 1.1 of the Credit Agreement is hereby amended by deleting the single instance of “$95,000,000” and inserting “$80,000,000” in lieu thereof.
+2.6.    Fixed Asset Availability Amount. The definition of “Fixed Asset Availability Amount” as set forth in Schedule 1.1 of the Credit Agreement is hereby amended so that it reads, in its entirety, as follows:
+“Fixed Asset Availability Amount” means (a) until and including July 31, 2020, $10,143,552.75, and (b) after July 31, 2020, the lesser of (i) $9,926,428.75, and (ii) the sum of (A) 85% of the net orderly liquidation value of Eligible M&E set forth in an appraisal of such Eligible M&E conducted by an appraisal company selected by Agent, plus (B) 75% of the fair market value (as determined on the basis of a 12-month sale period) of Borrowers’ Eligible Real Property set forth in an appraisal of such Eligible Real Property conducted by an appraisal company selected by Agent; provided, that such lesser amount in this clause (b) shall be reduced on a monthly basis (on September 1, 2020, and on the first day of each calendar month thereafter) by $217,124.00. In no event shall any increase in the appraised value of any Eligible M&E or Eligible Real Property, as set forth in any appraisal obtained after the Tenth Amendment Effective Date, be taken into account in the calculation of the Fixed Asset Availability Amount.
+2.7.    LIBOR Rate. The definition of “LIBOR Rate” as set forth in Schedule 1.1 of the Credit Agreement is hereby amended so that it reads, in its entirety, as follows:
+“LIBOR Rate” means the greater of (a) 1.00% per annum, and (b) the rate per annum as published by ICE Benchmark Administration Limited (or any successor page or other commercially available source as the Agent may designate from time to time) as of 11:00 a.m., London time, two Business Days prior to the commencement of the requested Interest Period, for a term, and in an amount, comparable to the Interest Period and the amount of the LIBOR Rate Loan requested (whether as an initial LIBOR Rate Loan or as a continuation of a LIBOR Rate Loan or as a conversion of a Base Rate Loan to a LIBOR Rate Loan) by Borrowers in accordance with this Agreement (and, if any such published rate is below zero, then the rate determined pursuant to this clause (b) shall be deemed to be zero). Each determination of the LIBOR Rate shall be made by the Agent and shall be conclusive in the absence of manifest error.
+
+
+5
+
+
+2.8.    Maximum Revolver Amount. The definition of “Maximum Revolver Amount” as set forth in Schedule 1.1 of the Credit Agreement is hereby amended by deleting the single instance of “$120,000,000” and inserting “$100,000,000” in lieu thereof.
+2.9.    Partial Release Conditions. The definition of “Partial Release Conditions” as set forth in Schedule 1.1 of the Credit Agreement is hereby amended so that it reads, in its entirety, as follows:
+“Partial Release Conditions” means, with respect to any request by Administrative Borrower that Agent release its Lien in any Real Property or Equipment in connection with any Permitted Disposition or Permitted Fixed Asset Loan involving such Real Property or Equipment, the following conditions, the satisfaction of each of which is required before Agent shall be obligated to release its Liens in any such Real Property or Equipment: (a) no Default or Event of Default exists or would result from such Permitted Disposition or Permitted Fixed Asset Loan; (b) Agent shall have received the Net Cash Proceeds from such Permitted Disposition or Permitted Fixed Asset Loan for application to the Obligations in accordance with Section 2.4(f) of the Agreement; (c) Administrative Borrower shall have delivered an updated Borrowing Base Certificate to Agent reflecting the removal of any such Real Property or Equipment from Eligible Real Property or Eligible M&E, to the extent applicable; (d) with respect to request that Agent release its lien on any Real Property, Agent shall have received Collateral Access Agreements and/or mortgagee waivers (in form and substance acceptable to Agent) with respect to such Real Property (or Agent shall have established a Reserve with respect to such Real Property in an amount determined by Agent in its Permitted Discretion); and (e) Administrative Borrower shall have delivered to Agent a certification as to the satisfaction of the foregoing conditions and that such Permitted Disposition or Permitted Fixed Asset Loan is permitted under the Agreement. Promptly following the satisfaction of all such Partial Release Conditions with respect to any Real Property or Equipment, Agent shall release its Lien in such Real Property or Equipment at Borrowers’ expense and pursuant to release documents that are satisfactory to Agent.
+2.10.    Trigger Level. The definition of “Trigger Level” as set forth in Schedule 1.1 of the Credit Agreement is hereby amended so that it reads, in its entirety, as follows:
+“Trigger Level” means $12,500,000.
+2.11.    Anti-Cash Hoarding. Section 2.4(e) of the Credit Agreement is hereby amended by adding the following new clause (vi) in appropriate numerical order:
+(vi)    Anti-Cash Hoarding. If on any day after the Fourteenth Amendment Effective Date the sum of cash and Cash Equivalents of the Loan Parties and their Subsidiaries, in the aggregate among all such entities, exceeds $2,000,000 then, to the extent such excess exists on the following day, the Borrowers shall prepay the outstanding amount of the Obligations in accordance with Section 2.4(f) in an amount equal to such excess.
+2.12.    Inventory Appraisals. Section 2.10(c)(iii)(B) of the Credit Agreement is hereby amended so that it reads, in its entirety, as follows:
+(B) (1) with respect to fiscal year 2020, 2 inventory appraisals during such fiscal year and (2) with respect to any other fiscal year, 1 inventory appraisal during
+
+
+6
+
+
+such fiscal year (unless Excess Availability is less than the Trigger Level for 5 or more consecutive Business Days at any time during a fiscal year, in which event Borrowers shall be obligated to reimburse for 2 inventory appraisals during such year), or
+2.13.    Benchmark Replacement. Section 2.12(d) of the Credit Agreement is hereby amended by (i) deleting clause (ii) and (ii) inserting the following new clauses (ii) and (iii) in lieu thereof:
+(ii)    Subject to the provisions set forth in Section 2.12(d)(iii) below, in the event that any change in market conditions or any Change in Law shall at any time after the date hereof, in the reasonable opinion of any Lender, make it unlawful or impractical for such Lender to fund or maintain LIBOR Rate Loans or to continue such funding or maintaining, or to determine or charge interest rates at the LIBOR Rate, such Lender shall give notice of such changed circumstances to Agent and Borrowers and Agent promptly shall transmit the notice to each other Lender and (y) in the case of any LIBOR Rate Loans of such Lender that are outstanding, the date specified in such Lender’s notice shall be deemed to be the last day of the Interest Period of such LIBOR Rate Loans, and interest upon the LIBOR Rate Loans of such Lender thereafter shall accrue interest at the rate then applicable to Base Rate Loans, and (z) Borrowers shall not be entitled to elect the LIBOR Option until such Lender determines that it would no longer be unlawful or impractical to do so.
+(iii)    Effect of Benchmark Transition Event.
+(A)    Benchmark Replacement. Notwithstanding anything to the contrary herein or in any other Loan Document, upon the occurrence of a Benchmark Transition Event or an Early Opt-in Election, as applicable, Agent and Administrative Borrower may amend this Agreement to replace the LIBOR Rate with a Benchmark Replacement. Any such amendment with respect to a Benchmark Transition Event will become effective at 5:00 p.m. on the fifth Business Day after Agent has posted such proposed amendment to all Lenders and Administrative Borrower so long as Agent has not received, by such time, written notice of objection to such amendment from Lenders comprising the Required Lenders. Any such amendment with respect to an Early Opt-in Election will become effective on the date that Lenders comprising the Required Lenders have delivered to Agent written notice that such Required Lenders accept such amendment. No replacement of the LIBOR Rate with a Benchmark Replacement pursuant to this Section 2.12(d)(iii) will occur prior to the applicable Benchmark Transition Start Date.
+(B)    Benchmark Replacement Conforming Changes. In connection with the implementation of a Benchmark Replacement, Agent will have the right to make Benchmark Replacement Conforming Changes from time to time and, notwithstanding anything to the contrary herein or in any other Loan Document, any amendments implementing such Benchmark Replacement Conforming Changes will become effective without any further action or consent of any other party to this Agreement.
+(C)    Notices; Standards for Decisions and Determinations. Agent will promptly notify Administrative Borrower and the Lenders of (1) any occurrence of a Benchmark Transition Event or an Early Opt-in Election, as applicable, and its related Benchmark Replacement Date and Benchmark
+
+
+7
+
+
+Transition Start Date, (2) the implementation of any Benchmark Replacement, (3) the effectiveness of any Benchmark Replacement Conforming Changes and (4) the commencement or conclusion of any Benchmark Unavailability Period. Any determination, decision or election that may be made by Agent or Lenders pursuant to this Section 2.12(d)(iii) including any determination with respect to a tenor, rate or adjustment or of the occurrence or non-occurrence of an event, circumstance or date and any decision to take or refrain from taking any action, will be conclusive and binding absent manifest error and may be made in its or their sole discretion and without consent from any other party hereto, except, in each case, as expressly required pursuant to this Section 2.12(d)(iii).
+(D)    Benchmark Unavailability Period. Upon Administrative Borrower’s receipt of notice of the commencement of a Benchmark Unavailability Period, Administrative Borrower may revoke any request for a Borrowing of, conversion to or continuation of LIBOR Rate Loans to be made, converted or continued during any Benchmark Unavailability Period and, failing that, Administrative Borrower will be deemed to have converted any such request into a request for a Borrowing of or conversion to Base Rate Loans. During any Benchmark Unavailability Period, the component of Base Rate based upon the LIBOR Rate will not be used in any determination of the Base Rate.
+2.14.    Prepayments of Indebtedness. Section 6.7(a)(i) of the Credit Agreement is hereby amended so that it reads, in its entirety, as follows:
+(i)    optionally prepay, redeem, defease, purchase, or otherwise acquire any Indebtedness of any Borrower and its Subsidiaries, other than the Obligations in accordance with this Agreement, or
+2.15.    Anti-Cash Hoarding; Borrowing Requests. Section 6 of the Credit Agreement is hereby amended by inserting the following new Section 6.18 in appropriate numerical order:
+6.18    Anti-Cash Hoarding; Borrowing Requests. Request any Borrowing, if after giving effect to the corresponding Advance and the contemporaneous uses of the proceeds thereof, the sum of cash and Cash Equivalents of the Loan Parties and their Subsidiaries, in the aggregate among all such entities, would exceed $2,000,000.
+2.16.    Amendments and Waivers. Section 14.1(e) of the Credit Agreement is hereby amended so that it reads, in its entirety, as follows:
+Anything in this Section 14.1 to the contrary notwithstanding, (i) any amendment, modification, elimination, waiver, consent, termination, or release of, or with respect to, any provision of this Agreement or any other Loan Document that relates only to the relationship of the Lender Group among themselves, and that does not affect the rights or obligations of any Borrower, shall not require consent by or the agreement of any Loan Party, (ii) any amendment, waiver, modification, elimination, or consent of or with respect to any provision of this Agreement or any other Loan Document may be entered into without the consent of, or over the objection of, any Defaulting Lender, and (iii) any amendment contemplated by Section 2.12(d)(iii) of this Agreement in connection with a Benchmark Transition Event or an Early Opt-in Election shall be effective as contemplated by such Section 2.12(d)(iii) hereof.
+
+
+8
+
+
+2.17.    Schedule A-2. Schedule A-2 to the Credit Agreement is hereby amended by including Jon A. Faulkner in his capacities as Vice President of Dixie and Vice President and Manager of TDG as an Authorized Person as to such Borrowers.
+2.18.    Schedule C-1. Schedule C-1 of the Credit Agreement is hereby replaced with Schedule C-1 of this Agreement
+2.19.    Schedule 5.2. Schedule 5.2 of the Credit Agreement is hereby replaced with Schedule 5.2 of this Agreement.
+III.        AMENDMENTS TO SECURITY AGREEMENT
+Subject to the satisfaction of each of the conditions precedent set forth in Section IV of this Agreement, the Security Agreement is hereby amended as follows:
+3.1.    Triggering Event. The definition of “Triggering Event” set forth in Section 1 of the Security Agreement is hereby deleted.
+3.2.    Section 6(k). Section 6(k)(ii) of the Security Agreement is hereby amended so that it reads, in its entirety, as follows:
+(ii)    Except as permitted by the Credit Agreement, each Grantor shall establish and maintain Controlled Account Agreements with Agent and the applicable Controlled Account Bank, in form and substance reasonably acceptable to Agent. Each such Controlled Account Agreement shall provide, among other things, that (A) the Controlled Account Bank will comply with any instructions originated by Agent directing the disposition of the funds in such Controlled Account without further consent by the applicable Grantor, (B) the Controlled Account Bank waives, subordinates, or agrees not to exercise any rights of setoff or recoupment or any other claim against the applicable Controlled Account other than for payment of its service fees and other charges directly related to the administration of such Controlled Account and for returned checks or other items of payment, and (C) upon the instruction of Agent (an “Activation Instruction”), the Controlled Account Bank will forward by daily sweep all amounts in the applicable Controlled Account to the Agent’s Account. Each Grantor acknowledges and agrees that (A) Agent may issue an Activation Instruction with respect to any or all of the Controlled Accounts at any time as deemed appropriate by Agent in Agent’s sole discretion, and (B) Agent may rescind any Activation Instruction (a “Rescission”) at any time as deemed appropriate by Agent in Agent’s sole discretion;
+IV.        CONDITIONS PRECEDENT.
+
+This Agreement shall become effective as of the date hereof, subject to the following conditions precedent having been satisfied or waived by Agent:
+
+
+
+9
+
+
+4.1.    Execution of Agreement. Agent shall have received fully executed counterparts of this Agreement, duly authorized, executed and delivered by each Borrower, Agent, and each Lender, and acknowledged by each Guarantor.
+
+4.2.    Amendment Fee. Borrowers shall have paid to Agent an amendment fee, for the ratable benefit of the Lenders, in the amount of $50,000, which fee shall be fully earned as of the date hereof and non-refundable under any and all circumstances (it being understood that the Agent is hereby authorized to charge such fee to the Loan Account).
+4.3.    Accuracy of Representations and Warranties. Each of the representations and warranties of the Borrowers set forth in Section 4 of the Credit Agreement shall be true and correct in all material respects (except that such materiality qualifier shall not be applicable to any representations and warranties that already are qualified or modified by materiality in the text thereof).
+
+4.4.    Other Documents. Agent shall have received such other agreements, documents, instruments, officer’s certificates, and information executed and/or delivered by the Loan Parties as Agent may reasonably request.
+
+4.5.    No Default or Event of Default. No Default or Event of Default shall have occurred and be continuing.
+
+V.         POST-EFFECTIVE DATE COVENANTS
+5.1.    Post-Effective Date Covenants. In addition to all other covenants and agreements of Borrowers set forth in this Agreement, Borrowers hereby covenant and agree that they shall timely comply each of the following (collectively, the “Post-Effective Date Covenants”) and any failure to so timely comply shall constitute an Event of Default:
+(a)    With respect to any consultant retained by any Borrower to perform such duties and for such period of time as Agent shall deem necessary in its reasonable discretion (any such consultant, a “Consultant”), (i) Borrowers shall be solely responsible for any and all of such Consultant’s fees, costs, and expenses, (ii) Borrowers shall cause Agent and Lenders to have direct and unfettered communication with such Consultant, including, without limitation, communication outside the presence of any Borrowers’ representatives, and (iii) Borrowers shall deliver (or cause such Consultant to deliver) to Agent all work product produced by such Consultant promptly after such work product is delivered by such Consultant to Borrowers.
+(b)    Borrowers shall deliver to Agent weekly (no later than the second Business Day of each calendar week) statements of cash flow (“Weekly Cash Flow Reporting”) until such time as Agent, in its sole discretion, provides written notice to Borrowers that the Weekly Cash Flow Reporting shall terminate; provided, that Agent shall not be required to terminate Weekly Cash Flow Reporting and any termination thereof shall not prohibit Agent from reinstating Weekly Cash Flow Reporting by written notice to Borrowers at such time Agent deems necessary and/or appropriate.
+(c)    On or before June 30, 2020 (or, subject to Agent’s written consent (given or withheld in Agent’s sole discretion) up to ten Business Days after June 30, 2020), Borrowers shall (i) consummate a Permitted Fixed Asset Loan from Ameristate Bank (“Ameristate”) secured by a Permitted Fixed Asset Lien on certain Real Property as approved by Agent in its Permitted Discretion (such Real Property, the “Specified Real Property”), (ii) shall deliver appraisals with respect to the Specified Real Property, each performed by
+
+
+10
+
+
+an appraiser reasonably acceptable to Agent, to Agent, (iii) shall have paid all Net Cash Proceeds of such Permitted Fixed Asset Loan, in the minimum amount equal to $9,000,000, to Agent for application to the Obligations in accordance with the terms of the Credit Agreement, (iv) to cause Ameristate to execute and deliver a mortgagee’s waiver in form and substance acceptable to Agent, and (v) shall have satisfied all Partial Release Conditions with respect to such Real Property.
+5.2.    Strict Compliance. Borrower shall strictly comply with all of the obligations, covenants, terms, and provisions of this Agreement and the Loan Documents, including, without limitation, the Post-Effective Date Covenants, in a prompt, timely, and faithful manner.
+VI.        MISCELLANEOUS.
+
+6.1.    No Additional Obligations. The Borrowers acknowledge and agree that the execution, delivery and performance of this Agreement shall not create (nor shall the Borrowers rely upon the existence of or claim or assert that there exists) any obligation of any of Agent or Lenders to consider or agree to any other amendment of or waiver or consent with respect to the Credit Agreement or any other instrument or agreement to which Agent or any Lender is a party (collectively, an “Additional Amendment” or “Consent”), and in the event that Agent and the Lenders subsequently agree to consider any requested Additional Amendment or Consent, neither the existence of this Agreement nor any other conduct of Agent or the Lenders related hereto, shall be of any force or effect on the Lenders’ consideration or decision with respect to any such requested Additional Amendment or Consent, and the Lenders shall not have any obligation whatsoever to consider or agree to any such Additional Amendment or Consent.
+
+6.2.    Acknowledgments and Stipulations. In order to induce Agent and Lenders to enter into this Agreement, each Borrower acknowledges, stipulates and agrees that (a) the Loan Documents executed by each Borrower are legal, valid and binding obligations of such Borrower enforceable against such Borrower in accordance with their respective terms, except as enforcement may be limited by equitable principles or by bankruptcy, insolvency, reorganization, moratorium, or similar laws relating to or limiting creditors’ rights generally; (b) the Liens granted by each Borrower to Agent in the Collateral are valid and duly perfected, first priority Liens, subject only to Permitted Liens; (c) each of the recitals contained at the beginning of this Agreement is true and correct; and (d) prior to executing this Agreement, each Borrower consulted with and had the benefit of advice of legal counsel of its own selection and has relied upon the advice of such counsel, and in no part upon the representation of Agent, any Lender or any counsel to Agent or any Lender concerning the legal effects of this Agreement or any provision hereof.
+
+6.3.    Additional Representations and Warranties of the Borrowers. Each Borrower hereby represents and warrants that on the date hereof and after giving effect to the amendments and waivers contained herein: (a) the representations and warranties contained in Section 4 of the Credit Agreement shall be correct in all material respects on and as of such date as though made on and as of such date, and (b) no Default or Event of Default exists under the Credit Agreement on and as of such date. Without limitation of the preceding sentence, each Borrower hereby expressly re-affirms the validity, effectiveness and enforceability of each Loan Document to which it is a party (in each case, as the same may be modified by the terms of this Agreement).
+
+6.4.    Effect of this Agreement. Except as expressly amended pursuant hereto, no other changes or modifications to the Credit Agreement or any of the other Loan Documents are intended or implied, and in all other respects, the Credit Agreement and each of the other Loan Documents is hereby specifically ratified, restated and confirmed by all parties hereto as of the date hereof. To the extent that any provision of the Credit Agreement or any of the other Loan Documents is inconsistent with the provisions of this
+
+
+11
+
+
+Agreement, the provisions of this Agreement shall control. All references in the Credit Agreement (including without limitation the Schedules thereto) to the “Agreement” and all references in the other Loan Documents to the “Credit Agreement” shall be deemed to refer to the Credit Agreement, as amended hereby.
+
+6.5.    Further Assurances. The Loan Parties shall execute and deliver such additional documents and take such additional action as may be reasonably requested by Agent to effectuate the provisions and purposes hereof.
+
+6.6.    Governing Law. THE VALIDITY OF THIS AGREEMENT, THE CONSTRUCTION, INTERPRETATION, AND ENFORCEMENT HEREOF, THE RIGHTS OF THE PARTIES HERETO WITH RESPECT TO ALL MATTERS ARISING HEREUNDER OR RELATED HERETO, AND ANY CLAIMS, CONTROVERSIES OR DISPUTES ARISING HEREUNDER OR RELATED HERETO SHALL BE DETERMINED UNDER, GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH THE LAWS OF THE STATE OF GEORGIA.
+
+6.7.    Binding Effect. This Agreement shall bind and inure to the benefit of the respective successors and permitted assigns of each of the parties hereto.
+
+6.8.    Counterparts; Electronic Execution. This Agreement may be executed in any number of counterparts and by different parties on separate counterparts, each of which, when executed and delivered, shall be deemed to be an original, and all of which, when taken together, shall constitute but one and the same agreement. Delivery of an executed counterpart of this Agreement by telefacsimile or other electronic method of transmission shall be equally as effective as delivery of an original executed counterpart of this Agreement. Any party delivering an executed counterpart of this Agreement by telefacsimile or other electronic method of transmission also shall deliver an original executed counterpart of this Agreement but the failure to deliver an original executed counterpart shall not affect the validity, enforceability, and binding effect of this Agreement.
+
+6.9.    Release of Claims. In consideration of the agreements contained hereunder, each Borrower hereby irrevocably releases and forever discharges Agent, each Lender and their respective affiliates, subsidiaries, successors, assigns, directors, officers, employees, agents, consultants and attorneys (each, a “Released Person”) of and from any and all claims, suits, actions, investigations, proceedings or demands, whether based in contract, tort, implied or express warranty, strict liability, criminal or civil statute or common law of any kind or character, known or unknown, which such Borrower ever had or now has against Agent, any Lender or any other Released Person which relates, directly or indirectly, to any acts or omissions of Agent, any Lender or any other Released Person relating to the Credit Agreement or any other Loan Document on or prior to the date hereof.
+
+[Continued on following page.]
+
+
+
+12
+
+
+
+Each of the parties hereto has caused a counterpart of this Agreement to be duly executed and delivered as of the date first above written.
+
+BORROWERS:
+THE DIXIE GROUP, INC.
+
+By:
+Name: Jon A. Faulkner 
+Title: Vice President
+
+  TDG OPERATIONS, LLC
+
+By:
+Name: Jon A. Faulkner 
+Title: Vice President and Manager
+
+
+
+
+
+
+
+AGENT AND LENDERS:
+WELLS FARGO CAPITAL FINANCE, LLC,
+as Agent and as a Lender
+
+By:
+Name: Zachary S. Buchanan
+Title: Authorized Signatory
+
+
+
+
+
+
+  BANK OF AMERICA, N.A.,
+as a Lender
+
+By:
+Name: Todd Tarrance
+Title: Vice President
+
+   
+     
+   
+
+
+
+
+SCHEDULE C-1
+COMMITMENTS
+Lender
+Amount
+Wells Fargo Capital Finance, LLC
+$50,000,000
+Bank of America, N.A.
+$50,000,000
+
+
+ACTIVE 50155705v10
+
+
+SCHEDULE 5.2
+Provide Agent (and if so requested by Agent, with copies for each Lender) with each of the documents set forth below at the following times in form satisfactory to Agent:
+(i) From the Fourteenth Amendment Effective Date through and including May 31, 2020, (A) as to the items in clauses (a), (b), (c), (f), (i), and (l), weekly (no later than the 2nd Business Day of each calendar week), (B) as to the items in clauses (d) and (e), every other week (no later than the 2nd Business Day of every such two calendar week period), and (C) as to the items in clauses (g), (h), (j), and (k), monthly (no later than the 20th day after each prior fiscal month end),
+and
+(ii) after May 31, 2020, (A) as to the items in clauses (a), (b), (c), (d), (e), (f), (i), and (l), weekly (no later than the 2nd Business Day of each calendar week), and (B) as to the items in clauses (g), (h), (j), and (k), monthly (no later than the 20th day after each prior fiscal month end); provided, that Agent may extend the date on which Borrowers must provide each of the documents by two Business Days in its sole discretion,
+(a)    a Borrowing Base Certificate,
+(b)    a detailed aging, by total, of Borrowers’ Accounts, together with a reconciliation and supporting documentation for any reconciling items noted (delivered electronically in an acceptable format, if Borrowers have implemented electronic reporting),
+(c)    a detailed calculation of those Accounts that are not eligible for the Borrowing Base, if Borrowers have not implemented electronic reporting,
+(d)    a detailed Inventory system/perpetual report specifying the cost of Borrowers’ Inventory, by category, together with a detailed report as to Borrowers’ Inventory reserves (delivered electronically in an acceptable format, if Borrowers have implemented electronic reporting),
+(e)    a detailed calculation of Inventory categories that are not eligible for the Borrowing Base, if Borrowers have not implemented electronic reporting,
+(f)    a summary aging, by vendor, of Borrowers’ accounts payable and any book overdraft balance (delivered electronically in an acceptable format, if Borrowers have implemented electronic reporting) and an aging, by vendor, of any held checks, if applicable,
+(g)    a detailed report regarding Borrowers’ cash and Cash Equivalents,
+(h)    an Account roll-forward, in a format acceptable to Agent in its discretion, tied to the beginning and ending account receivable balances of Borrowers’ general ledger,
+(i)    notice of all claims, offsets, or disputes asserted by Account Debtors with respect to Borrowers’ Accounts, in excess of an amount determined in the sole discretion of Agent,
+(j)    a reconciliation of Accounts, trade accounts payable, and Inventory of Borrowers’ general ledger accounts to its monthly financial statements including any book reserves related to each category,
+(k)    a report as to any sales or dispositions of Eligible M&E and Eligible Real Property, together with a report as to any Equipment or Real Property Collateral that was previously included in the Borrowing Base but no longer meets all applicable eligibility criteria, and
+(l)    a detailed report as to specifying Borrower’s forecasted sales and orders in form and substance satisfactory to Agent.
+
+Quarterly,
+(m)    a report regarding Borrowers’ accrued, but unpaid, ad valorem taxes.
+Annually,
+(n)    a detailed list of Borrowers’ customers, with address and contact information.
+
+ACTIVE 50155705v10
+
+
+Upon request by Agent,
+(o)    Inventory aging reports, short-roll reports and quality rework reports,
+(p)    copies of invoices together with corresponding shipping and delivery documents, and credit memos together with corresponding supporting documentation, with respect to invoices and credit memos in excess of an amount determined in the sole discretion of Agent, from time to time,
+(q)    copies of purchase orders and invoices for Inventory and Equipment acquired by Borrowers or their Subsidiaries, and
+(r)    such other reports as to the Collateral or the financial condition of Borrowers and their Subsidiaries, as Agent may reasonably request.
+
+
+
+ACTIVE 50155705v10

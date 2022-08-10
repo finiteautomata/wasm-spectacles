@@ -1,0 +1,307 @@
+EX-10.5 6 exhibit10520193-yearlo.htm EXHIBIT 10.5
+EXHIBIT 10.5
+
+LOCAL CURRENCY ADDENDUM
+LOCAL CURRENCY ADDENDUM dated as of September 5, 2019, to the Credit Agreement (as defined below), among Caterpillar Financial Services Corporation, Caterpillar International Finance Designated Activity Company, the Local Currency Banks (as defined below), Citibank, N.A., as Agent, and Citibank Europe plc, UK Branch, as Local Currency Agent.
+ARTICLE I
+Definitions
+SECTION 1.01. Defined Terms. As used in this Addendum, the following terms shall have the meanings specified below:
+“Credit Agreement” means the Second Amended and Restated Credit Agreement (Three-Year Facility) dated as of September 5, 2019, among Caterpillar Inc., Caterpillar Financial Services Corporation, Caterpillar International Finance Designated Activity Company, Caterpillar Finance Kabushiki Kaisha, the financial institutions from time to time party thereto as Banks, Citibank, N.A., as Agent, MUFG Bank, Ltd., as Japan Local Currency Agent, and Citibank Europe plc, UK Branch, as Local Currency Agent, as the same may be amended, waived, modified or restated from time to time.
+“Local Currency Advance” means any Advance, denominated in Pounds Sterling, Euro, or any other Agreed Currency which CIF requests the Local Currency Banks to include as a Local Currency and which is reasonably acceptable to the Local Currency Banks, made to CIF pursuant to Sections 2.03A and 2.03B of the Credit Agreement and this Addendum. A Local Currency Advance shall bear interest at the rate specified in Schedule II.
+“Local Currency Bank” means each Bank listed on the signature pages of this Addendum or which becomes a party hereto pursuant to an Assignment and Acceptance or an Assumption and Acceptance.
+SECTION 1.02. Terms Generally. Unless otherwise defined herein, terms defined in the Credit Agreement shall have the same meanings in this Addendum. Wherever the context may require, any pronoun shall include the corresponding masculine, feminine and neuter forms. The words “include”, “includes” and “including” shall be deemed to be followed by the phrase “without limitation”. All references herein to Sections and Schedules shall be deemed references to Sections of and Schedules to this Addendum unless the context shall otherwise require.
+ARTICLE II
+The Credits
+SECTION 2.01. Local Currency Advances. (a)  This Addendum (as the same may be amended, waived, modified or restated from time to time) is the “Local Currency Addendum” as defined in the Credit Agreement and is, together with the borrowings made hereunder, subject in all respects to the terms and provisions of the Credit Agreement except to the extent that the terms
+
+
+
+
+and provisions of the Credit Agreement are modified by or are inconsistent with this Addendum, in which case this Addendum shall control.
+(b)  Any modifications to the interest payment dates, Interest Periods, interest rates and any other special provisions applicable to Local Currency Advances under this Addendum are set forth on Schedule II. If Schedule II states “None” or “Same as Credit Agreement” with respect to any item listed thereon, then the corresponding provisions of the Credit Agreement, without modification, shall govern this Addendum and the Local Currency Advances made pursuant to this Addendum.
+(c)  Any special borrowing procedures or funding arrangements for Local Currency Advances under this Addendum, any provisions for the issuance of promissory notes to evidence the Local Currency Advances made hereunder and any additional information requirements applicable to Local Currency Advances under this Addendum are set forth on Schedule III. If no such special procedures, funding arrangements, provisions or additional requirements are set forth on Schedule III, then the corresponding procedures, funding arrangements, provisions and information requirements set forth in the Credit Agreement shall govern this Addendum.
+SECTION 2.02. Maximum Borrowing Amounts. (a)  The Total Local Currency Commitment, and the Local Currency Commitment and the Same Day Local Currency Commitment for each Local Currency Bank party to this Addendum as of the date hereof, are set forth on Schedule I.
+(b)  Upon at least five (5) Business Days prior irrevocable written notice to the Agent, the Local Currency Agent and the Local Currency Banks, CIF may from time to time permanently reduce the Total Local Currency Commitment under this Addendum in whole, or in part ratably among the Local Currency Banks, in an aggregate minimum Dollar Amount of $10,000,000, and integral multiples of $1,000,000 in excess thereof; provided, however, that the amount of the Total Local Currency Commitment may not be reduced below the aggregate principal amount of the outstanding Local Currency Advances with respect thereto. Any such reduction shall be allocated pro rata among all the Local Currency Banks party to this Addendum by reference to their Local Currency Commitments.
+ARTICLE III
+Representations and Warranties
+Each of CFSC and CIF makes and confirms each representation and warranty applicable to it or any of its Subsidiaries contained in Article IV of the Credit Agreement. Each of CFSC and CIF represents and warrants to each of the Local Currency Banks party to this Addendum that no Event of Default, or event which would constitute an Event of Default but for the requirement that notice be given or time elapse or both, has occurred and is continuing, and no Event of Default, or event which would constitute an Event of Default but for the requirement that notice be given or time elapse or both, shall arise as a result of the making of Local Currency Advances hereunder or any other transaction contemplated hereby.
+
+2
+
+
+ARTICLE IV
+Miscellaneous Provisions
+SECTION 4.01. Amendment; Termination. (a)  This Addendum (including the Schedules hereto) may not be amended without the prior written consent of the Majority Local Currency Banks hereunder and subject to the provisions of Section 8.01 of the Credit Agreement.
+(b)  This Addendum may not be terminated without the prior written consent of each Local Currency Bank party hereto, CFSC and CIF unless there are no Local Currency Advances or any other amounts outstanding hereunder, in which case no such consent of any Local Currency Bank shall be required; provided, however, that this Addendum shall terminate on the date that the Credit Agreement terminates in accordance with its terms.
+SECTION 4.02. Assignments.  Section 8.07 of the Credit Agreement shall apply to assignments by Local Currency Banks of obligations, Local Currency Commitments and Advances hereunder; provided, however, that a Local Currency Bank may not assign any obligations, Local Currency Commitments or rights hereunder to any Person which is not (or does not simultaneously become) a Bank under the Credit Agreement.
+SECTION 4.03. Notices, Etc. Except as otherwise provided herein, all notices, demands, requests, consents and other communications provided for hereunder shall be given in writing or by any telecommunication device capable of creating a written record (including electronic mail), and addressed to the party to be notified as follows:
+(a)    if to CIF, at Caterpillar International Finance Designated Activity Company, 2120 West End Avenue, Nashville, Tennessee 37203-0001, Attention Caterpillar International Finance Designated Activity Company c/o Treasurer (Facsimile No. 615-341-8596) with a copy to CFSC at its address and facsimile number or electronic mail address referenced in Section 8.02 of the Credit Agreement;
+(b)    if to CFSC, at its address and facsimile number or electronic mail address referenced in Section 8.02 of the Credit Agreement;
+(c)    if to the Local Currency Agent, at Citibank Europe plc, UK Branch, Citigroup Centre, 5th Floor, Canary Wharf, London, United Kingdom, E14 5LB, Facsimile No. 44 20 7492 3980 with a copy to the Agent at its address and facsimile number or electronic mail address referenced in Section 8.02 of the Credit Agreement;
+(d)    if to a Local Currency Bank, at its address (and facsimile number or electronic mail address) set forth in Schedule I or in the Assignment and Acceptance or Assumption and Acceptance pursuant to which such Local Currency Bank became a party hereto; and
+(e)    if to the Agent, at its address at Bank Loan Syndications, 1615 Brett Rd., Building No. 3, New Castle, Delaware 19720, Attention: Bank Loan Syndications, Telecopier No. 646-274-5080 (glagentofficeops@citi.com), with a copy to Citibank, N.A.,
+
+3
+
+
+388 Greenwich Street, New York, New York 10013, Attention: Lisa Stevens Harary (E-Mail Address: lisa.stevensharary@citi.com);
+or as to each party, at such other address as shall be designated by such party in a written notice to the other parties. All notices, demands, requests, consents and other communications described in this Section 4.03 shall be effective (i) if delivered by hand, including any overnight courier service, upon personal delivery, (ii) if delivered by mail, when deposited in the mails and (iii) if delivered by electronic mail or any other telecommunications device, when transmitted to an electronic mail address (or by another means of electronic delivery) as provided in this Section 4.03; provided, however, that notices and communications to the Local Currency Agent pursuant to Article II or V hereof or Article II of the Credit Agreement shall not be effective until received by the Local Currency Agent.
+SECTION 4.04. Ratification of Guaranty. By its execution of this Addendum, CFSC ratifies and confirms its guaranty contained in Article IX of the Credit Agreement with respect to the Local Currency Advances made pursuant to this Addendum which Guaranty remains in full force and effect.
+SECTION 4.05. Sharing of Payments, Etc. If any Local Currency Bank shall obtain any payment (whether voluntary, involuntary, through the exercise of any right of set-off, or otherwise) on account of the Local Currency Advances made by it (other than pursuant to Section 2.02(c), 2.05(d), 2.10, 2.12 or 8.04 of the Credit Agreement) in excess of its ratable share of payments on account of the Local Currency Advances obtained by all the Local Currency Banks, such Local Currency Bank shall forthwith purchase from the other Local Currency Banks such participations in the Local Currency Advances made by them as shall be necessary to cause such purchasing Local Currency Bank to share the excess payment ratably with each of them, provided, however, that if all or any portion of such excess payment is thereafter recovered from such purchasing Local Currency Bank, such purchase from each other Local Currency Bank shall be rescinded and each such other Local Currency Bank shall repay to the purchasing Local Currency Bank the purchase price to the extent of such recovery together with an amount equal to such other Local Currency Bank’s ratable share (according to the proportion of (i) the amount of such other Local Currency Bank’s required repayment to (ii) the total amount so recovered from the purchasing Local Currency Bank) of any interest or other amount paid or payable by the purchasing Local Currency Bank in respect of the total amount so recovered. CIF agrees that any Local Currency Bank so purchasing a participation from another Local Currency Bank pursuant to this Section 4.05 may, to the fullest extent permitted by law, exercise all its rights of payment (including the right of set-off) with respect to such participation as fully as if such Local Currency Bank were the direct creditor of CIF in the amount of such participation.
+SECTION 4.06. Applicable Law. THIS ADDENDUM SHALL BE GOVERNED BY AND INTERPRETED AND ENFORCED IN ACCORDANCE WITH THE LAW OF THE STATE OF NEW YORK (WITHOUT REGARD FOR CONFLICT OF LAW PRINCIPLES THAT WOULD RESULT IN THE APPLICATION OF ANY LAW OTHER THAN THE INTERNAL LAW OF THE STATE OF NEW YORK).
+
+4
+
+
+SECTION 4.07 Execution in Counterparts. This Addendum may be executed in any number of counterparts and by different parties hereto in separate counterparts, each of which when so executed shall be deemed to be an original and all of which taken together shall constitute one and the same agreement.
+ARTICLE V
+The Local Currency Agent
+SECTION 5.01 Appointment; Nature of Relationship. Citibank Europe plc, UK Branch is appointed by the Local Currency Banks as the Local Currency Agent hereunder and under the Credit Agreement, and each of the Local Currency Banks irrevocably authorizes the Local Currency Agent to act as the contractual representative of such Local Currency Bank with the rights and duties expressly set forth herein and in the Credit Agreement applicable to the Local Currency Agent. The Local Currency Agent agrees to act as such contractual representative upon the express conditions contained in this Article V. Notwithstanding the use of the defined term “Local Currency Agent,” it is expressly understood and agreed that the Local Currency Agent shall not have any fiduciary responsibilities to any Local Currency Bank or other Bank by reason of this Addendum and that the Local Currency Agent is merely acting as the representative of the Local Currency Banks with only those duties as are expressly set forth in this Addendum and the Credit Agreement. In its capacity as the Local Currency Banks’ contractual representative, the Local Currency Agent (i) does not assume any fiduciary duties to any of the Banks, (ii) is a “representative” of the Local Currency Banks within the meaning of Section 9-102 of the Uniform Commercial Code and (iii) is acting as an independent contractor, the rights and duties of which are limited to those expressly set forth in this Addendum and the Credit Agreement. Each of the Local Currency Banks agrees to assert no claim against the Local Currency Agent on any agency theory or any other theory of liability for breach of fiduciary duty, all of which claims each Bank waives.
+SECTION 5.02 Powers. The Local Currency Agent shall have and may exercise such powers under this Addendum and the Credit Agreement as are specifically delegated to the Local Currency Agent by the terms of each thereof, together with such powers as are reasonably incidental thereto. The Local Currency Agent shall have neither any implied duties or fiduciary duties to the Local Currency Banks or the Banks, nor any obligation to the Local Currency Banks or the Banks to take any action hereunder or under the Credit Agreement except any action specifically provided by this Addendum or the Credit Agreement required to be taken by the Local Currency Agent.
+SECTION 5.03 General Immunity. Neither the Local Currency Agent nor any of its respective directors, officers, agents or employees shall be liable to any of the Borrowers or any Bank for any action taken or omitted to be taken by it or them hereunder or under the Credit Agreement or in connection herewith or therewith except to the extent such action or inaction is found in a final non-appealable judgment by a court of competent jurisdiction to have arisen from the gross negligence or willful misconduct of such Person.
+SECTION 5.04 No Responsibility for Advances, Creditworthiness, Collateral, Recitals, Etc. [Intentionally Omitted. See Sections 7.03 and 7.04 of the Credit Agreement for these provisions.]
+
+5
+
+
+SECTION 5.05 Action on Instructions of Local Currency Banks. The Local Currency Agent shall in all cases be fully protected in acting, or in refraining from acting, hereunder and under the Credit Agreement in accordance with written instructions signed by Majority Local Currency Banks (except with respect to actions that require the consent of all of the Banks as provided in the Credit Agreement, including, without limitation, Section 8.01 thereof), and such instructions and any action taken or failure to act pursuant thereto shall be binding on all of the Local Currency Banks. The Local Currency Agent shall be fully justified in failing or refusing to take any action hereunder and under the Credit Agreement unless it shall first be indemnified to its satisfaction by the Local Currency Banks pro rata against any and all liability, cost and expense that it may incur by reason of taking or continuing to take any such action.
+SECTION 5.06 Employment of Agents and Counsel. The Local Currency Agent may execute any of its duties hereunder and under the Credit Agreement by or through employees, agents, and attorneys-in-fact, and shall not be answerable to the Banks or the Local Currency Banks, except as to money or securities received by it or its authorized agents, for the default or misconduct of any such agents or attorneys-in-fact selected by it with reasonable care. The Local Currency Agent shall be entitled to advice of counsel concerning the contractual arrangement among the Local Currency Agent and the Local Currency Banks, as the case may be, and all matters pertaining to its duties hereunder and under the Credit Agreement.
+SECTION 5.07 Reliance on Documents; Counsel. [Intentionally Omitted. See Section 7.03 of the Credit Agreement for these provisions.]
+SECTION 5.08 Other Transactions. The Local Currency Agent may accept deposits from, lend money to, and generally engage in any kind of trust, debt, equity or other transaction, in addition to those contemplated by this Addendum or the Credit Agreement, with CFSC, CIF or any of their respective Subsidiaries in which the Local Currency Agent is not prohibited hereby from engaging with any other Person.
+SECTION 5.09 Bank Credit Decision. [Intentionally Omitted. See Section 7.07 of the Credit Agreement for these provisions.]
+SECTION 5.10 Successor Local Currency Agent. The Local Currency Agent (i) may resign at any time by giving written notice thereof to the Agent, the Local Currency Banks and the Borrowers, and may appoint one of its affiliates as successor Local Currency Agent and (ii) may be removed at any time with or without cause by the Majority Local Currency Banks. Upon any such resignation or removal, the Majority Local Currency Banks, with the consent of the Agent, shall have the right to appoint (unless, in the case of the resignation of the Local Currency Agent, the resigning Local Currency Agent has appointed one of its affiliates as successor Local Currency Agent), on behalf of the Borrowers and the Local Currency Banks, a successor Local Currency Agent. If no successor Local Currency Agent shall have been so appointed and shall have accepted such appointment within thirty days after the retiring Local Currency Agent’s giving notice of resignation or the Majority Local Currency Banks’ removal of the retiring Local Currency Agent, then the retiring Local Currency Agent may appoint, on behalf of the Borrowers and the Local Currency Banks, a successor Local Currency Agent, which need not be one of its affiliates. Notwithstanding anything herein to the contrary, so long as no Event of Default, or event which
+
+6
+
+
+would constitute an Event of Default but for the requirement that notice be given, time elapse or both, has occurred and is continuing, each such successor Local Currency Agent shall be subject to written approval by CFSC and CIF, which approval shall not be unreasonably withheld. Such successor Local Currency Agent shall be a commercial bank having capital and retained earnings of at least $500,000,000. Upon the acceptance of any appointment as the Local Currency Agent hereunder by a successor Local Currency Agent, such successor Local Currency Agent shall thereupon succeed to and become vested with all the rights, powers, privileges and duties of the retiring Local Currency Agent, and the retiring Local Currency Agent shall be discharged from its duties and obligations hereunder and under the Credit Agreement. After any retiring Local Currency Agent’s resignation hereunder as Local Currency Agent, the provisions of this Article V shall continue in effect for its benefit in respect of any actions taken or omitted to be taken by it while it was acting as the Local Currency Agent hereunder and under the Credit Agreement.
+
+IN WITNESS WHEREOF, the parties hereto have caused this Addendum to be duly executed as a deed by their duly authorized officers, all as of the date and year first above written.
+CATERPILLAR INTERNATIONAL FINANCE DESIGNATED ACTIVITY COMPANY
+
+By:___________________________
+Name:
+Title:
+CATERPILLAR FINANCIAL SERVICES CORPORATION
+
+By:___________________________
+Name:
+Title:
+
+
+CITIBANK, N.A., as the Agent
+By:___________________________
+Name:
+Title:
+CITIBANK EUROPE PLC, UK BRANCH, as the Local Currency Agent
+By:___________________________
+Name:
+Title:
+
+CITIBANK, N.A., as Local Currency Bank
+By:___________________________
+Name:
+Title:
+
+
+JPMORGAN CHASE BANK, N.A., as Local Currency Bank
+By:___________________________
+Name:
+Title:
+
+
+BANK OF AMERICA MERRILL LYNCH INTERNATIONAL DESIGNATED ACTIVITY COMPANY, as Local Currency Bank
+By:___________________________
+Name:
+Title:
+BARCLAYS BANK PLC, as Local Currency Bank
+By:___________________________
+Name:
+Title:
+
+SOCIÉTÉ GÉNÉRALE, as Local Currency Bank
+By:___________________________
+Name:
+Title:
+
+BNP PARIBAS LONDON BRANCH, as Local Currency Bank
+By:___________________________
+Name:
+Title:
+
+COMMERZBANK AG, NEW YORK BRANCH, as Local Currency Bank
+By:___________________________
+Name:
+Title:
+
+LLOYDS BANK CORPORATE MARKETS PLC, as Local Currency Bank
+By:___________________________
+Name:
+Title:
+
+KBC BANK N.V., as Local Currency Bank
+By:___________________________
+Name:
+Title:
+
+
+
+
+
+
+SCHEDULE I
+to Local Currency Addendum
+Local Currency Banks
+Local Currency Commitments
+Total Local Currency Commitment
+Applicable Lending Office
+Local Currency Bank Name
+Local Currency Commitment
+Same Day Local Currency Commitment
+Citibank, N.A.
+$181,000,000
+$25,500,000
+JPMorgan Chase Bank, N.A.
+170,000,000
+25,500,000
+Barclays Bank PLC
+160,000,000
+26,000,000
+Bank of America Merrill Lynch International Designated Activity Company
+160,000,000
+23,000,000
+Société Générale
+160,000,000
+23,000,000
+BNP Paribas London Branch
+21,250,000
+3,750,000
+Commerzbank AG, New York Branch
+54,750,000
+8,250,000
+Lloyds Bank Corporate Markets plc
+67,500,000
+10,500,000
+KBC Bank N.V.
+25,500,000
+4,500,000
+
+Total Local Currency Commitment:
+ 
+US $1,000,000,000
+Total Same Day Local Currency Sub-Facility:
+ 
+US $150,000,000
+
+Local Currency Bank Name
+Applicable Local Currency Lending Office
+Citibank, N.A.
+
+Citibank, N.A.
+1615 Brett Rd., Building No. 3
+New Castle, Delaware 19720
+Attention of: Bank Loan Syndications
+Telecopier No.: 212-994-0961
+
+JPMorgan Chase Bank, N.A.
+
+JPMorgan Chase Bank, N.A.
+500 Stanton Christiana Road
+Ops 2, Floor 03
+Newark, DE 19713-2107
+Attention: Robert Diaz
+
+Bank of America Merrill Lynch International Designated Activity Company
+Bank of America Merrill Lynch International Designated Activity Company
+26 Elmfield Road,
+Bromley, Kent, BR1 1LR,
+United Kingdom
++44-208-313-2655 / 44 208 695 3389
++44 208 313 2140
+emealoanoperations@baml.com
+
+Barclays Bank PLC
+
+Barclays Bank PLC
+745 7th Avenue
+New York, NY 10019
+Société Générale
+
+Société Générale
+29 Boulevard Haussmann
+75009 Paris
+France
+BNP Paribas London Branch
+
+BNP Paribas London Branch
+10 Harewood Avenue
+London NW1 6AA
+Attention: Gary Mobley
+Tel: +44 (0)20 7595 6422
+Attention: Loans and Agency Desk
+Tel: +44 (0)20 7595 6887
+Commerzbank AG, New York Branch
+Commerzbank AG, New York Branch
+225 Liberty Street
+New York, NY 10281-1050
+Attention: Patrick Hartweger
+Lloyds Bank Corporate Markets plc
+Lloyds Bank Corporate Markets plc
+Wholesale Loans Servicing,
+Bank House,
+Wine Street,
+Bristol BS1 2AN
+Attention: Mike Wilson
+KBC Bank N.V.
+KBC Bank N.V.
+1177 Avenue of the Americas
+New York, NY 10036
+Attention: Joanne Gatto
+Phone: (212) 541-0720
+Fax: (212) 956-5581
+
+
+
+SCHEDULE II
+to Local Currency Addendum
+
+
+MODIFICATIONS
+1.    Business Day Definition:
+“Business Day”: Same as Credit Agreement.
+2.
+Interest Payment Dates: Same as Credit Agreement. (See Section 2.07 of Credit Agreement).
+3.
+Interest Periods: Same as Credit Agreement. (See definition of “Interest Period”, Section 1.01, and Section 2.07(d) of Credit Agreement).
+4.
+Interest Rates:
+Each Local Currency Advance shall bear interest from and including the first day of the Interest Period applicable thereto to (but not including) the last day of such Interest Period at a rate per annum equal to the sum of the Eurocurrency Rate for such Interest Period plus the Applicable Margin as in effect from time to time during such Interest Period; provided, however, after the occurrence and during the continuance of an Event of Default or an event that would constitute an Event of Default but for the requirement that notice be given or time elapse or both, the provisions of Section 2.07(d) of the Credit Agreement shall be applicable.
+5.
+Other:
+Additional Conditions Precedent: None
+Current Termination Date for Addendum: The “Current Termination Date” under the Credit Agreement.
+Extended Termination Date for Addendum: The “Extended Termination Date” under the Credit Agreement.
+Prepayment Notices: CIF shall be permitted to prepay a Local Currency Advance subject to the provisions of Section 8.04(b) of the Credit Agreement, on any Business Day, provided, in the case of any prepayment, notice thereof is given to the Local Currency Agent not later than 10:00 a.m. (London time) at least three (3) Business Days prior to the date of such prepayment.
+
+
+
+SCHEDULE III
+to Local Currency Addendum
+
+
+
+
+OTHER PROVISIONS
+1.
+Borrowing Procedures:
+(a)    Notice of Local Currency Borrowing shall be given by CIF to the Agent and the Local Currency Agent not later than 11:00 a.m. (London time) on the third Business Day prior to the date of the proposed Local Currency Borrowing (or not later than 10:00 a.m. (London time)) on the Business Day of the proposed Local Currency Borrowing, in the case of a Local Currency Borrowing consisting of Same Day Local Currency Advances), and the Agent (or the Local Currency Agent, in the case of a Local Currency Borrowing consisting of Same Day Local Currency Advances) shall give each Local Currency Bank prompt notice thereof in accordance with Section 4.03.
+(b)    Each Notice of Local Currency Borrowing shall be addressed to the Agent and the Local Currency Agent at its address set forth in Section 4.03 and shall specify the bank account to which the Local Currency Advances are to be made.
+2.
+Funding Arrangements:
+Minimum amounts/increments for Local Currency Borrowings, repayments and prepayments:
+Same as Credit Agreement.
+3.
+Promissory Notes: None required.
+
+
+7

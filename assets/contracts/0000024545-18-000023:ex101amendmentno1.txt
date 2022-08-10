@@ -1,0 +1,308 @@
+EX-10.1 2 ex101amendmentno1.htm EXHIBIT 10.1
+
+
+Exhibit 10.1
+
+AMENDMENT NO. 1 AND EXTENSION AGREEMENT
+AMENDMENT NO. 1 AND EXTENSION AGREEMENT (this “Amendment”) dated as of July 19, 2018 among MOLSON COORS BREWING COMPANY, a Delaware corporation (the “Company”), MOLSON COORS BREWING COMPANY (UK) LIMITED, MOLSON CANADA 2005, MOLSON COORS CANADA INC. and MOLSON COORS INTERNATIONAL LP, each a subsidiary of the Company (together with the Company, the “Borrowers”); the LENDERS that are signatories to this Amendment, CITIBANK, N.A., as administrative agent under the Credit Agreement referred to below (in such capacity, the “Administrative Agent”) and as an Issuing Bank, and BANK OF AMERICA, N.A. and MUFG BANK, LTD. (formerly known as The Bank of Tokyo Mitsubishi UFJ, Ltd.), as Issuing Banks.
+The Borrowers, the other Borrowing Subsidiaries from time to time party thereto, the lenders from time to time party thereto, the Issuing Banks from time to time party thereto and the Administrative Agent are parties to a Credit Agreement dated as of July 7, 2017 (as amended, supplemented or otherwise modified and in effect immediately prior to the effectiveness of this Amendment, the “Credit Agreement”).
+Pursuant to Section 10.02(b) of the Credit Agreement, the Company has requested that the Administrative Agent and the Lenders amend or waive certain provisions of the Credit Agreement as set forth herein.
+Pursuant to Section 2.08(f) of the Credit Agreement, the Company has requested that each Lender extend the Maturity Date for one (1) year from July 7, 2022 to July 7, 2023 as set forth herein (the “Extension”).
+Now, therefore, in consideration of the foregoing and for other good and valuable consideration, the receipt and sufficiency of all of which is hereby acknowledged, the parties hereto hereby agree as follows:
+Section 1.Definitions. Except as otherwise defined in this Amendment, terms defined in the Credit Agreement are used herein as defined therein.
+
+Section 2.Limited Waiver under the Credit Agreement. At the request of the Borrowers, the Lenders hereto hereby waive the notice period set forth in Section 2.08(f) of the Credit Agreement, which requires that the Company provide notice of its request for an extension of the Maturity Date under the Credit Agreement by the date that is not less than 30 nor more than 60 days prior to any anniversary of the Closing Date (the “Waiver”), such Waiver to be effective solely in connection with the Extension provided under this Amendment.
+
+Section 3.Amendments. Subject to the satisfaction of the conditions precedent specified in Section 5 hereof, but effective as of the date hereof, the Credit Agreement shall be amended as follows:
+3.01     References Generally. References in the Credit Agreement (including references to the Credit Agreement as amended hereby) to “this Agreement” (and indirect references such as “hereunder”, “hereby”, “herein” and “hereof”) shall be deemed to be references to the Credit Agreement as amended hereby.
+3.02    Certain Defined Terms.
+(a)The following definitions shall be added in the appropriate alphabetical location in Section 1.01 of the Credit Agreement as follows:
+“Amendment No. 1” means that certain Amendment No. 1 and Extension Agreement dated as of July 19, 2018, among the Administrative Agent, the Lenders party thereto and the Borrowers.
+“Benefit Plan” means any of (a) an “employee benefit plan” (as defined in ERISA) that is subject to Title I of ERISA, (b) a “plan” as defined in Section 4975 of the Code or (c) any Person whose assets include (for purposes of ERISA Section 3(42) or otherwise for purposes of Title I of ERISA or Section 4975 of the Code) the assets of any such “employee benefit plan” or “plan”.
+“LIBOR” means the London Interbank Offered Rate.
+“LIBOR Successor Rate” has the meaning set forth in Section 2.13(b).
+“LIBOR Successor Rate Conforming Changes” means, with respect to any proposed LIBOR Successor Rate, any conforming changes to the definition of Alternate Base Rate, Interest Period, timing and frequency of determining rates and
+
+
+
+
+making payments of interest and other administrative matters as may be appropriate, in the discretion of the Administrative Agent and with the consent of the Company (such consent not to be unreasonably withheld, delayed or conditioned), to reflect the adoption of such LIBOR Successor Rate and to permit the administration thereof by the Administrative Agent in a manner substantially consistent with market practice (or, if the Administrative Agent determines that adoption of any portion of such market practice is not administratively feasible or that no market practice for the administration of such LIBOR Successor Rate exists, in such other manner of administration as the Administrative Agent determines with the consent of the Company (such consent not to be unreasonably withheld, delayed or conditioned)).
+“PTE” means a prohibited transaction class exemption issued by the U.S. Department of Labor, as any such exemption may be amended from time to time.
+“Scheduled Unavailability Date” has the meaning set forth in Section 2.13(b).
+(b)The following definitions shall be amended to read in their entirety as follows:
+“Alternate Base Rate” means, for any day, a rate per annum equal to the highest of (a) the Prime Rate in effect on such day, (b) the Federal Funds Effective Rate in effect on such day plus 1/2 of 1% and (c) the Adjusted LIBO Rate for a Eurocurrency Loan with a one month Interest Period commencing on such day (or if such day is not a Business Day, the immediately preceding Business Day) plus 1%. Any change in the Alternate Base Rate due to a change in the Prime Rate or the Federal Funds Effective Rate shall be effective from and including the effective date of such change in the Prime Rate or the Federal Funds Effective Rate, respectively. If the Alternate Base Rate is being used as an alternate rate of interest pursuant to Section 2.13 hereof, then the Alternate Base Rate shall be the greater of clauses (a) and (b) above and shall be determined without reference to clause (c) above.
+“Loan Documents” means this Agreement, Amendment No. 1, each Borrowing Subsidiary Agreement, each Borrowing Subsidiary Termination, the Subsidiary Guarantee Agreement, each Issuing Bank Agreement, each B/A and each Letter of Credit, letter of credit application or any promissory note delivered pursuant to this Agreement.
+“Maturity Date” means July 7, 2023 or such later date to which the Maturity Date may be extended pursuant to Section 2.08(f), in each case unless such day is not a Business Day, then it shall be the immediately preceding Business Day.
+3.03    Alternate Rate of Interest. Section 2.13 of the Credit Agreement shall be amended and restated in its entirety to read as follows:
+SECTION 2.13. Alternate Rate of Interest.
+(a)If prior to the commencement of any Interest Period for a Eurocurrency Borrowing:
+
+(i)the Administrative Agent determines (which determination shall be conclusive absent manifest error) that adequate and reasonable means do not exist for ascertaining the Adjusted LIBO Rate for such Interest Period; or
+
+(ii)the Administrative Agent is advised by the Required Lenders that the Adjusted LIBO Rate for such Interest Period will not adequately and fairly reflect the cost to such Lenders of making or maintaining their Loans as Eurocurrency Loans included in such Borrowing for such Interest Period;
+
+then the Administrative Agent shall give notice thereof to the Company and the Lenders by telephone or telecopy as promptly as practicable thereafter and, until the Administrative Agent notifies the Company and the Lenders that the circumstances giving rise to such notice no longer exist, (i) any Borrowing Request that requests a Eurocurrency Borrowing shall be ineffective and the applicable Borrower may instead request an ABR Borrowing not later than 12:00 noon, Local Time, on the date of the proposed Borrowing and (ii) any Interest Election Request that requests the conversion or continuation of any Borrowing as a Eurocurrency Borrowing shall be ineffective, and such Borrowing shall be converted to or continued on the last day of the Interest Period applicable thereto (A) if such Borrowing is denominated in US Dollars (except for a Borrowing by a UK Borrowing Subsidiary), as an ABR Borrowing or (B) if such Borrowing is denominated in any other currency, or if such Borrowing is denominated in US Dollars and made by a UK Borrowing Subsidiary, as a Borrowing bearing interest at such rate as the Lenders and the Company may agree adequately reflects the costs to the Lenders of making or maintaining their Loans (or, in the absence of such agreement, shall be repaid as of the last day of the current Interest Period applicable thereto).
+
+
+
+
+
+(b)Notwithstanding anything to the contrary in this Agreement or any other Loan Documents, if the Administrative Agent determines (which determination shall be conclusive absent manifest error), or the Required Lenders notify the Administrative Agent (with a copy to the Company) that the Required Lenders have determined, that:
+
+(i)adequate and reasonable means do not exist for ascertaining LIBOR for any requested Interest Period, including, without limitation, because the LIBO Rate is not available or published on a current basis and such circumstances are unlikely to be temporary; or
+
+(ii)the supervisor for the administrator of the LIBO Rate or a Governmental Authority having jurisdiction over the Administrative Agent has made a public statement identifying a specific date after which LIBOR or the LIBO Rate shall no longer be made available, or used for determining the interest rate of loans (such specific date, the “Scheduled Unavailability Date”),
+
+then, after such determination by the Administrative Agent or receipt by the Administrative Agent of such notice, as applicable, the Administrative Agent and the Company may amend this Agreement to replace LIBOR with an alternate benchmark rate (including any mathematical or other adjustments to the benchmark (if any) incorporated therein) that has been broadly accepted by the syndicated loan market in the United States in lieu of LIBOR (any such proposed rate, a “LIBOR Successor Rate”), together with any proposed LIBOR Successor Rate Conforming Changes and, notwithstanding anything to the contrary in Section 10.02, any such amendment shall become effective at 5:00 p.m. (New York City time) on the fifth Business Day after the Administrative Agent shall have posted such proposed amendment to all Lenders unless, prior to such time, Lenders comprising the Required Lenders have delivered to the Administrative Agent notice that such Required Lenders do not accept such amendment.
+
+If no LIBOR Successor Rate has been determined and the circumstances under clause (i) above exist, the obligation of the Lenders to make or maintain Eurocurrency Loans shall be suspended (to the extent of the affected Eurocurrency Loans or Interest Periods).  Upon receipt of such notice, the applicable Borrower may revoke any pending request for a Eurocurrency Borrowing of, conversion to or continuation of Eurocurrency Loans (to the extent of the affected Eurocurrency Loans or Interest Periods) or, failing that, will be deemed to have converted such request into a request for (x) in the case of a Borrowing denominated in US Dollars, a Borrowing of ABR Loans in the amount specified therein, (y) in the case of a Borrowing denominated in Canadian Dollars, a Borrowing of Canadian Base Rate Loans in the amount specified therein and (z) in the case of a Borrowing denominated in Sterling or Euro, a Borrowing of Loans bearing interest at a rate for short term borrowings of Sterling or Euro, as applicable, determined in good faith by the Administrative Agent in a manner substantially consistent with market practice and with the consent of the Company (such consent not to be unreasonably withheld, delayed or conditioned), in each case in the amount specified therein.
+
+3.04    Waivers; Amendments. Section 10.02(b) of the Credit Agreement is hereby amended by adding “, Section 2.13(b)” immediately following the first reference to “Section 2.08(e)”.
+
+3.05    Certain ERISA Matters. Article X of the Credit Agreement is hereby amended to add a new Section 10.18 as follows:
+SECTION 10.18. Certain ERISA Matters.
+(a)    Each Lender (x) represents and warrants, as of the date such Person became a Lender party hereto, to, and (y) covenants, from the date such Person became a Lender party hereto to the date such Person ceases being a Lender party hereto, for the benefit of, the Administrative Agent and each Arranger and their respective Affiliates, and not, for the avoidance of doubt, to or for the benefit of the Company or any other Loan Party, that at least one of the following is and will be true:
+
+(i)    such Lender is not using “plan assets” (within the meaning of 29 CFR § 2510.3-101, as modified by Section 3(42) of ERISA) of one or more Benefit Plans in connection with the Loans, the Letters of Credit or the Commitments,
+
+(ii)    the transaction exemption set forth in one or more PTEs, such as PTE 84-14 (a class exemption for certain transactions determined by independent qualified professional asset managers), PTE 95-60 (a class exemption for certain transactions involving insurance company general accounts), PTE 90-1
+
+
+
+
+(a class exemption for certain transactions involving insurance company pooled separate accounts), PTE 91-38 (a class exemption for certain transactions involving bank collective investment funds) or PTE 96-23 (a class exemption for certain transactions determined by in-house asset managers), is applicable with respect to such Lender’s entrance into, participation in, administration of and performance of the Loans, the Letters of Credit, the Commitments and this Agreement,
+
+(iii)(A) such Lender is an investment fund managed by a “Qualified Professional Asset Manager” (within the meaning of Part VI of PTE 84-14), (B) such Qualified Professional Asset Manager made the investment decision on behalf of such Lender to enter into, participate in, administer and perform the Loans, the Letters of Credit, the Commitments and this Agreement, (C) the entrance into, participation in, administration of and performance of the Loans, the Letters of Credit, the Commitments and this Agreement satisfies the requirements of sub-sections (b) through (g) of Part I of PTE 84-14 and (D) to the best knowledge of such Lender, the requirements of subsection (a) of Part I of PTE 84-14 are satisfied with respect to such Lender’s entrance into, participation in, administration of and performance of the Loans, the Letters of Credit, the Commitments and this Agreement, or
+
+(iv)such other representation, warranty and covenant as may be agreed in writing between the Administrative Agent, in its sole discretion, and such Lender.
+
+(b)    In addition, unless sub-clause (i) in the immediately preceding clause (a) is true with respect to a Lender or such Lender has not provided another representation, warranty and covenant as provided in sub-clause (iv) in the immediately preceding clause (a), such Lender further (x) represents and warrants, as of the date such Person became a Lender party hereto, to, and (y) covenants, from the date such Person became a Lender party hereto to the date such Person ceases being a Lender party hereto, for the benefit of, the Administrative Agent and each Arranger and their respective Affiliates, and not, for the avoidance of doubt, to or for the benefit of the Company or any other Loan Party, that:
+
+(i)    none of the Administrative Agent or any Arranger or any of their respective Affiliates is a fiduciary with respect to the assets of such Lender (including in connection with the reservation or exercise of any rights by the Administrative Agent under this Agreement, any Loan Document or any documents related to hereto or thereto),
+
+(ii)    the Person making the investment decision on behalf of such Lender with respect to the entrance into, participation in, administration of and performance of the Loans, the Letters of Credit, the Commitments and this Agreement is independent (within the meaning of 29 CFR § 2510.3-21) and is a bank, an insurance carrier, an investment adviser, a broker-dealer or other person that holds, or has under management or control, total assets of at least $50 million, in each case as described in 29 CFR § 2510.3-21(c)(1)(i)(A)-(E),
+
+(iii)    the Person making the investment decision on behalf of such Lender with respect to the entrance into, participation in, administration of and performance of the Loans, the Letters of Credit, the Commitments and this Agreement is capable of evaluating investment risks independently, both in general and with regard to particular transactions and investment strategies (including in respect of the Obligations),
+
+(iv)    the Person making the investment decision on behalf of such Lender with respect to the entrance into, participation in, administration of and performance of the Loans, the Letters of Credit, the Commitments and this Agreement is a fiduciary under ERISA or the Code, or both, with respect to the Loans, the Letters of Credit, the Commitments and this Agreement and is responsible for exercising independent judgment in evaluating the transactions hereunder, and
+
+(v)no fee or other compensation is being paid directly to the Administrative Agent or any Arranger or any their respective Affiliates for investment advice (as opposed to other services) in connection with the Loans, the Letters of Credit, the Commitments or this Agreement.
+
+(c)The Administrative Agent and each Arranger hereby informs the Lenders that each such Person is not undertaking to provide impartial investment advice, or to give advice in a fiduciary capacity, in connection with the transactions contemplated hereby, and that such Person has a financial interest in the transactions contemplated hereby in that such Person or an Affiliate thereof (i) may receive interest or other payments with respect to the Loans, the Letters of Credit, the Commitments and this Agreement, (ii) may recognize a gain if it extended the Loans, the
+
+
+
+
+Letters of Credit or the Commitments for an amount less than the amount being paid for an interest in the Loans, the Letters of Credit or the Commitments by such Lender or (iii) may receive fees or other payments in connection with the transactions contemplated hereby, the Loan Documents or otherwise, including structuring fees, commitment fees, arrangement fees, facility fees, upfront fees, underwriting fees, ticking fees, agency fees, administrative agent or collateral agent fees, utilization fees, minimum usage fees, letter of credit fees, fronting fees, deal-away or alternate transaction fees, amendment fees, processing fees, term out premiums, banker’s acceptance fees, breakage or other early termination fees or fees similar to the foregoing.
+
+(d)Notwithstanding any provision herein, Section 10.18(b) above shall not apply to the extent that the regulations under Section 3(21) of ERISA issued by the U.S. Department of Labor on April 8, 2016 are rescinded or otherwise revoked, repealed, vacated or no longer effective.
+
+Section 4.Representations and Warranties. To induce the Lenders, the Issuing Banks and the Administrative Agent to enter into this Amendment, each Borrower hereby represents and warrants to the Lenders, the Issuing Banks and the Administrative Agent as follows:
+4.01    (i) Each Borrower has all corporate power and authority to execute, deliver and perform its obligations under this Amendment, (ii) this Amendment has been duly executed and delivered by each Borrower and (iii) this Amendment constitutes a legal, valid and binding obligation of each Borrower, enforceable against each Borrower in accordance with its terms, subject to applicable bankruptcy, insolvency, reorganization, moratorium or other laws affecting creditors’ rights generally and subject to general principles of equity, regardless of whether considered in a proceeding in equity or at law, and, in the case of obligations of UK Borrowing Subsidiaries, the time barring of claims under the Limitation Acts and the possibility that an undertaking to assume liability for or indemnify a person against non-payment of the UK stamp duty may be void.
+
+4.02    The representations and warranties set forth in Article III of the Credit Agreement (after giving effect to the amendments contemplated herein), other than those set forth in Sections 3.04(b) and 3.06(a) thereof are true and correct in all material respects as of the date hereof as if made on and as of the date hereof (except that any such representation given as of a particular date shall be true and correct in all material respects as of that date).
+
+4.03    As of the Amendment No. 1 Effective Date (as defined below) and after giving effect to the Waiver and the amendments contemplated herein, no Default or Event of Default shall have occurred and be continuing.
+
+Section 5.Conditions Precedent. The Waiver set forth in Section 2 hereof and the amendments set forth in Section 3 hereof shall become effective upon the date on which the following conditions precedent are first satisfied (the “Amendment No. 1 Effective Date”):
+
+(a)the Administrative Agent (or its counsel) shall have received either (i) a counterpart of this Amendment signed by each of the Borrowers, each Issuing Bank and each Lender party to the Credit Agreement as of the date hereof or (ii) written evidence satisfactory to the Administrative Agent (which may include telecopy transmission of a signed signature page of this Amendment) that such party has signed a counterpart of this Amendment;
+
+(b)the Administrative Agent shall have received (i) a consent fee for the accounts of each Lender that consents to the Extension (each, an “Extending Lender”) equal to 0.03% of the Commitment of each Extending Lender immediately after the Amendment No. 1 Effective Date, which shall be payable to the Administrative Agent for the accounts of the Extending Lenders on the Amendment No. 1 Effective Date and (ii) all other fees required to be paid on or prior to the Amendment No. 1 Effective Date by the Company under any separate letter agreement; and
+
+(c)the Administrative Agent, the Lenders and the Issuing Banks shall have received payment of all reasonable fees and expenses (including fees and disbursements of counsel for the Administrative Agent) payable under the Credit Agreement and invoiced two days prior to the Amendment No. 1 Effective Date.
+
+Section 6.Confirmation of Guarantee. The Company (a) confirms its obligations under the guarantee set forth in Article VIII of the Credit Agreement, (b) confirms that the obligations of the other Borrowers under the Credit Agreement as amended hereby are entitled to the benefits of such guarantee, (c) confirms that the obligations of the other Borrowers under the Credit Agreement as amended hereby constitute “Obligations” (as defined in the Credit Agreement) and (d) agrees that the Credit Agreement as amended hereby is the Credit Agreement under and for all purposes of such guarantee.
+
+
+
+
+
+Section 7.Reaffirmation of Obligations. The Credit Agreement and each of the other Loan Documents, as specifically amended by this Amendment, are and shall continue to be in full force and effect and each Borrower hereby ratifies the Credit Agreement and each other Loan Document to which such Borrower is a party and acknowledges and reaffirms (a) that it is bound by all terms of the Credit Agreement and the other Loan Documents applicable to it and (b) that it is responsible for the observance and full performance of its obligations.
+
+Section 8.Entirety. This Amendment, together with the other Loan Documents, embody the entire agreement among the parties hereto and supersede all prior agreements and understandings, oral or written, if any, relating to the subject matter hereof.
+
+Section 9.Miscellaneous.
+ 9.01    Except as herein provided, the Credit Agreement shall remain unchanged and in full force and effect. This Amendment shall constitute a “Loan Document” for all purposes of the Credit Agreement and the other Loan Documents. This Amendment may be executed in any number of counterparts, all of which taken together shall constitute one and the same amendatory instrument and any of the parties hereto may execute this Amendment by signing any such counterpart. Delivery of a counterpart by electronic transmission shall be effective as delivery of a manually executed counterpart hereof. This Amendment shall be governed by, and construed in accordance with, the law of the State of New York.
+
+9.02    The provisions of Sections 10.03 (Expenses; Indemnity; Damage Waiver); 10.06 (Counterparts; Integration; Effectiveness); 10.09 (Governing Law; Jurisdiction; Consent to Service of Process); 10.10 (Waiver of Jury Trial); and 10.12 (Confidentiality) of the Credit Agreement shall apply with like effect to this Amendment.
+
+Section 10.No Waivers. The execution, delivery and effectiveness of this Amendment shall not, except as expressly provided herein, operate as a waiver of any right, power or remedy of any Lender, the Administrative Agent or any other party under any of the Loan Documents, nor constitute a waiver of any provision of any of the Loan Documents, all of which are ratified and affirmed in all respects and shall continue in full force and effect.
+
+Section 11.Successors and Assigns. This Amendment shall be binding upon and inure to the benefit of the parties hereto and their respective successors and permitted assigns.
+
+Section 12.Headings. Section headings herein are included for convenience of reference only and shall not affect the interpretation of this Amendment.
+
+[Signature Pages Follow.]
+
+
+
+
+
+
+IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be duly executed by their respective authorized officers as of the day and year first above written.
+
+MOLSON COORS BREWING COMPANY
+By
+/s/ E. Lee Reichert
+  Name:E. Lee Reichert
+  Title:Chief Legal and Corporate Affairs Officer and Secretary
+
+MOLSON COORS BREWING COMPANY (UK) LIMITED
+By
+/s/ Kristin Wolfe
+  Name:Kristin Wolfe
+  Title:Secretary
+
+MOLSON CANADA 2005
+By
+/s/ Jan Faryaszewski
+  Name:Jan Faryaszewski
+  Title:Chief Financial Officer
+    By
+/s/ Paul Holden
+  Name:Paul Holden
+  Title:VP, Legal & Industry Affairs
+
+MOLSON COORS CANADA INC.
+By
+/s/ Jan Faryaszewski
+  Name:Jan Faryaszewski
+  Title:Chief Financial Officer
+    By
+/s/ Paul Holden
+  Name:Paul Holden
+  Title:VP, Legal & Industry Affairs
+
+MOLSON COORS INTERNATIONAL LP
+By
+/s/ Michael J. Rumley
+  Name:Michael J. Rumley
+  Title:Vice President, Treasurer
+
+
+
+
+
+
+
+CITIBANK, N.A., as Administrative Agent, an Issuing Bank and a Lender
+By
+/s/ Carolyn Kee
+  Name:Carolyn Kee
+  Title:Vice President
+
+
+BANK OF AMERICA, N.A., as an Issuing Bank and a Lender
+By
+/s/ Nicholas Cheng
+  Name:Nicholas Cheng
+  Title:Director
+
+
+MUFG BANK, LTD. (formerly known as The Bank of Tokyo Mitsubishi UFJ, Ltd.), as an Issuing Bank and a Lender
+By
+/s/ Victor Pierzchalski
+  Name:Victor Pierzchalski
+  Title:Authorized Signatory
+
+
+
+
+
+
+Bank of Montreal, as a Lender
+By
+/s/ Joan Murphy
+  Name:Joan Murphy
+  Title:Managing Director
+
+
+
+
+
+
+GOLDMAN SACHS BANK USA, as a Lender
+By
+/s/ Annie Carr
+  Name:Annie Carr
+  Title:Authorized Signatory
+
+
+
+
+
+
+ROYAL BANK OF CANADA, as a Lender
+By
+/s/ Julia Ivanova
+  Name:Julia Ivanova
+  Title:Authorized Signatory
+
+
+
+
+
+
+UBS AG, Stamford Branch, as a Lender
+By
+/s/ Darlene Arias
+  Name:Darlene Arias
+  Title:Director
+    By
+/s/ Houssem Daly
+  Name:Houssem Daly
+  Title:Associate Director
+
+
+
+
+
+
+COOPERATIEVE RABOBANK U.A., New York Branch, as a Lender
+By
+/s/ Chris Grimes
+  Name:Chris Grimes
+  Title:Executive Director
+    By
+/s/ Erin MacEachern
+  Name:Erin MacEachern
+  Title:Vice President
+
+
+
+
+
+
+LLOYDS BANK PLC, as a Lender
+By
+/s/ Kamala Basdeo
+  Name:Kamala Basdeo
+  Title:Assistant Manager
+    By
+/s/ Jennifer Larrow
+  Name:Jennifer Larrow
+  Title:Assistant Manager
+
+
+
+
+
+
+The Bank of Nova Scotia, as a Lender
+By
+/s/ Sangeeta Shah
+  Name:Sangeeta Shah
+  Title:Director
+   
+
+
+
+
+
+The Northern Trust Company, as a Lender
+By
+/s/ Molly Drennan
+  Name:Molly Dreenan
+  Title:Senior Vice President
+   

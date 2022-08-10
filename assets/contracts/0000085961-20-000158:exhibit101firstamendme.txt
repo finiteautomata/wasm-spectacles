@@ -1,0 +1,386 @@
+EX-10.1 2 exhibit101firstamendme.htm EX-10.1
+
+FIRST AMENDMENT TO SECOND AMENDED AND RESTATED GLOBAL REVOLVING CREDIT AGREEMENT
+THIS FIRST AMENDMENT TO SECOND AMENDED AND RESTATED GLOBAL REVOLVING CREDIT AGREEMENT (this “Agreement”), dated as of May 22, 2020, is entered into by and among RYDER SYSTEM, INC., a Florida corporation (“Ryder”), RYDER TRUCK RENTAL HOLDINGS CANADA LTD. (“Ryder Holdings Canada”), RYDER TRUCK RENTAL CANADA LTD. (“Ryder Canada Limited” and together with Ryder Holdings Canada, collectively, the “Canadian Borrowers”), RYDER LIMITED, a corporation organized under the laws of England and Wales (“Ryder Limited”), RYDER SYSTEM HOLDINGS (UK) LIMITED (“RSH” and together with Ryder Limited, collectively, the “U.K. Borrowers”) and RYDER PUERTO RICO, INC., a corporation organized under the laws of Delaware (“Ryder PR” and together with Ryder, the Canadian Borrowers and the U.K. Borrower, each, a “Borrower”, and collectively, the “Borrowers”), the Banks party hereto, BANK OF AMERICA, N.A., as Administrative Agent (the “Administrative Agent”), ROYAL BANK OF CANADA, as Canadian Agent (the “Canadian Agent”), and LLOYDS BANK PLC, as U.K. Agent (the “U.K. Agent” and together with the Administrative Agent and the Canadian Agent, collectively, the “Agents”). All capitalized terms used herein and not otherwise defined herein shall have the meanings given to such terms in the Credit Agreement (as defined below).
+RECITALS
+WHEREAS, the Borrowers, the Banks from time to time party thereto and the Agents, entered into that certain Second Amended and Restated Global Revolving Credit Agreement dated as of September 28, 2018 (as amended, restated, amended and restated, extended, supplemented or otherwise modified from time to time, the “Credit Agreement”);
+WHEREAS, the Borrowers have requested that the Credit Agreement be amended as set forth below, subject to the terms and conditions specified in this Agreement; and
+WHEREAS, the parties hereto are willing to amend the Credit Agreement, subject to the terms and conditions specified in this Agreement.
+NOW, THEREFORE, in consideration of the premises and the mutual covenants contained herein, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:
+1.Amendments to Credit Agreement.
+(a)The cover page of the Credit Agreement is amended to replace each reference to “MERRILL LYNCH, PIERCE, FENNER & SMITH INCORPORATED” with “BOFA SECURITIES, INC.”
+(b)§1.1 of the Credit Agreement is amended to add the following definitions in the appropriate alphabetical order to read as follows:
+“Affected Financial Institution”: Any EEA Financial Institution or any U.K. Financial Institution.
+“BHC Act Affiliate”: Of a party means an “affiliate” (as such term is defined under, and interpreted in accordance with, 12 U.S.C. 1841(k)) of such party.
+
+
+“BofA Securities”: BofA Securities, Inc.
+“CDOR Scheduled Unavailability Date”: See §6.18(a).
+“CDOR Successor Rate”: See §6.18(a).
+“ChoiceLease Charge to Equity”: See the definition of Consolidated Adjusted Net Worth.
+“Communication”: See §33.
+“Covered Entity”: Any of the following: (a) a “covered entity” as that term is defined in, and interpreted in accordance with, 12 C.F.R. § 252.82(b); (b) a “covered bank” as that term is defined in, and interpreted in accordance with, 12 C.F.R. § 47.3(b); or (c) a “covered FSI” as that term is defined in, and interpreted in accordance with, 12 C.F.R. § 382.2(b).
+“Covered Party”: See §35.
+“Default Right”: Has the meaning assigned to that term in, and shall be interpreted in accordance with, 12 C.F.R. §§ 252.81, 47.2 or 382.1, as applicable.
+“Electronic Copy”: See §33.
+“Electronic Record”: See §33.
+“Electronic Signature”: See §33.
+“First Amendment Effective Date”: May 22, 2020.
+“QFC”: Has the meaning assigned to the term “qualified financial contract” in, and shall be interpreted in accordance with, 12 U.S.C. 5390(c)(8)(D).
+“QFC Credit Support”: See §35.
+“Resolution Authority”: An EEA Resolution Authority or, with respect to any U.K. Financial Institution, a U.K. Resolution Authority.
+“Supported QFC”: See §35.
+“U.K. Financial Institution”: Any BRRD Undertaking (as such term is defined under the PRA Rulebook (as amended form time to time) promulgated by the United Kingdom Prudential Regulation Authority) or any person subject to IFPRU 11.6 of the FCA Handbook (as amended from time to time) promulgated by the United Kingdom Financial Conduct Authority, which includes certain credit institutions and investment firms, and certain affiliates of such credit institutions or investment firms.
+“U.K. Resolution Authority”: The Bank of England or any other public administrative authority having responsibility for the resolution of any U.K. Financial Institution.
+2
+
+
+“U.S. Special Resolution Regimes”: See §35.
+(c)The definition of “Bail-in Action” in §1.1 of the Credit Agreement is amended to read as follows:
+“Bail-In Action”: The exercise of any Write-Down and Conversion Powers by the applicable Resolution Authority in respect of any liability of an Affected Financial Institution.
+(d)The definition of “Bail-In Legislation” in §1.1 of the Credit Agreement is amended to read as follows:
+“Bail-In Legislation”: (a) With respect to any EEA Member Country implementing Article 55 of Directive 2014/59/EU of the European Parliament and of the Council of the European Union, the implementing law, rule, regulation or requirement for such EEA Member Country from time to time which is described in the EU Bail-In Legislation Schedule, and (b) with respect to the United Kingdom, Part I of the United Kingdom Banking Act 2009 (as amended from time to time) and any other law, regulation or rule applicable in the United Kingdom relating to the resolution of unsound or failing banks, investment firms or other financial institutions or their affiliates (other than through liquidation, administration or other insolvency proceedings).
+(e)The definition of “Co-Lead Arranger” in §1.1 of the Credit Agreement is amended to replace the reference to “MLPF&S” with “BofA Securities”.
+(f)The definition of “Consolidated Adjusted Net Worth” in §1.1 of the Credit Agreement is amended to read as follows:
+“Consolidated Adjusted Net Worth”: At any date, the total of (a) consolidated shareholders’ equity of Ryder and its Consolidated Subsidiaries, plus (b) any non-cash goodwill impairment charges for the FMS North America reporting unit of Ryder and its Consolidated Subsidiaries which after the First Amendment Effective Date are recorded on the consolidated financial statements of Ryder and its Consolidated Subsidiaries in accordance with GAAP in an aggregate amount not to exceed $244,000,000 during the term of this Agreement, plus (c) that certain $374,000,000 after-tax charge to shareholders’ equity of Ryder and its Consolidated Subsidiaries resulting from the adoption of FASB ASC 842 which was recorded on the consolidated financial statements of Ryder and its Consolidated Subsidiaries for the fiscal year ended December 31, 2018, in accordance with GAAP (the “ChoiceLease Charge to Equity”), minus (d) an amount equal to (i) $6,700,000 on the First Amendment Effective Date and (ii) $6,700,000 per fiscal quarter, commencing with the fiscal quarter ending June 30, 2020 (it being understood that each such $6,700,000 reduction of shareholders’ equity of Ryder and its Consolidated Subsidiaries pursuant to this clause (d)(ii) shall occur on the last day of each fiscal quarter), in each case, as amortization of the ChoiceLease Charge to Equity in an aggregate amount not to exceed $187,000,000 during the term of this Agreement, minus (e) investments in Subsidiaries other than Consolidated Subsidiaries; provided, however, that, Consolidated Adjusted Net Worth shall exclude (i) any accumulated other comprehensive income or loss associated with Ryder and its Consolidated Subsidiaries’ pension and other post-retirement plans which is recorded on the consolidated financial
+3
+
+
+statements of Ryder and its Consolidated Subsidiaries in accordance with GAAP, and (ii) any non-cash gains or losses from currency translation adjustments which are recorded in shareholders’ equity on the consolidated financial statements of Ryder and its Consolidated Subsidiaries in accordance with GAAP.
+(g)The definition of “Domestic Base Rate” in §1.1 of the Credit Agreement is amended to insert a new sentence at the end of such section to read as follows:
+If the Domestic Base Rate is being used as an alternate rate of interest pursuant to Section §6.6 or §6.17, then the Domestic Base Rate shall be the greater of clauses (a) and (b) above and shall be determined without reference to clause (c) above.
+(h)The definition of “Domestic LIBOR Rate” in §1.1 of the Credit Agreement is amended to read as follows:
+“Domestic LIBOR Rate”:
+(a) For any Interest Period with respect to a Domestic LIBOR Rate Loan, a rate per annum determined by the Administrative Agent pursuant to the following formula:
+Domestic LIBOR Rate =  Eurodollar Base Rate  
+1.00 – Eurodollar Reserve Percentage
+Where:
+“Eurodollar Base Rate” means, for any such Interest Period, the rate per annum equal to the London Interbank Offered Rate as administered by ICE Benchmark Administration (or any other Person that takes over the administration of such rate for Dollars for a period equal in length to such Interest Period) (“LIBOR”), as published on the applicable Bloomberg screen page (or such other commercially available source providing such quotations as may be designated by the Administrative Agent from time to time) (in such case, the “LIBOR Rate”) at or about 11:00 a.m. (London time), two Eurodollar Business Days prior to the commencement of such Interest Period, for Dollar deposits (for delivery on the first day of such Interest Period) with a term equivalent to such Interest Period; provided, that, if the Eurodollar Base Rate shall be less than zero, such rate shall be deemed zero for purposes of this Agreement;
+and
+“Eurodollar Reserve Percentage” means, for any day during any Interest Period, the reserve percentage (expressed as a decimal, carried out to five decimal places) in effect on such day, whether or not applicable to any Bank, under regulations issued from time to time by the FRB for determining the maximum reserve requirement (including any emergency, supplemental or other marginal reserve requirement) with respect to Eurocurrency funding (currently referred to as “Eurocurrency liabilities”), it being understood that the Domestic LIBOR Rate for each outstanding Domestic LIBOR Rate Loan shall be adjusted
+4
+
+
+automatically as of the effective date of any change in the Eurodollar Reserve Percentage.
+(b) For any interest calculation with respect to a Domestic Base Rate Loan on any date, the rate per annum equal to LIBOR Rate, at approximately 11:00 a.m., London time determined two Eurodollar Business Days prior to such date for Dollar deposits being delivered in the London interbank market for a term of one month commencing that day.
+provided, that, if the LIBOR Rate shall be less than zero, such rate shall be deemed zero for purposes of this Agreement.
+(i)The definition of “Federal Funds Effective Rate” in §1.1 of the Credit Agreement is amended to read as follows:
+“Federal Funds Effective Rate”: For any day, the rate per annum calculated by the Federal Reserve Bank of New York based on such day’s federal funds transactions by depository institutions (as determined in such manner as the Federal Reserve Bank of New York shall set forth on its public website from time to time) and published on the next succeeding Business Day by the Federal Reserve Bank of New York as the federal funds effective rate; provided, that, if the Federal Funds Effective Rate as so determined would be less than zero, such rate shall be deemed to be zero for the purposes of this Agreement.
+(j)The definition of “Fee Letter” in §1.1 of the Credit Agreement is amended to replace the reference to “MLPF&S” with “Merrill Lynch, Pierce, Fenner & Smith, Incorporated”.
+(k)The definition of “Generally Accepted Accounting Principles” and “GAAP” in §1.1 of the Credit Agreement is amended to read as follows:
+“Generally Accepted Accounting Principles” or “GAAP”: Generally accepted accounting principles in the United States set forth in the opinions and pronouncements of the Accounting Principles Board and the American Institute of Certified Public Accountants and statements and pronouncements of the Financial Accounting Standards Board (or agencies with similar functions of comparable stature and authority within the accounting profession) including the FASB Accounting Standards Codification, that are applicable to the circumstances as of the date of determination, consistently applied and subject to §1.3.
+(l)The definition of “MLPF&S” in §1.1 of the Credit Agreement is deleted.
+(m)The definition of “S&P” in §1.1 of the Credit Agreement is amended to read as follows:
+“S&P”: Standard & Poor’s Financial Services LLC, a subsidiary of S&P Global Inc. and any successor thereto.
+(n)The definition of “Write-Down and Conversion Powers” in §1.1 of the Credit Agreement is amended to read as follows:
+5
+
+
+“Write-Down and Conversion Powers”: (a) with respect to any EEA Resolution Authority, the write-down and conversion powers of such EEA Resolution Authority from time to time under the Bail-In Legislation for the applicable EEA Member Country, which write-down and conversion powers are described in the EU Bail-In Legislation Schedule, and (b) with respect to the United Kingdom, any powers of the applicable Resolution Authority under the Bail-In Legislation to cancel, reduce, modify or change the form of a liability of any U.K. Financial Institution or any contract or instrument under which that liability arises, to convert all or part of that liability into shares, securities or obligations of that person or any other person, to provide that any such contract or instrument is to have effect as if a right had been exercised under it or to suspend any obligation in respect of that liability or any of the powers under that Bail-In Legislation that are related to or ancillary to any of those powers.
+(o)§1.2 of the Credit Agreement is amended to insert a new clause (m) at the end of such section to read as follows:
+(m) Any reference herein to a merger, transfer, consolidation, amalgamation, assignment, sale, or disposition, or similar term, shall be deemed to apply to a division of or by a limited liability company, or an allocation of assets to a series of a limited liability company (or the unwinding of such a division or allocation), as if it were a merger, transfer, consolidation, amalgamation, assignment, sale, or disposition, or similar term, as applicable, to, of or with a separate Person. Any division of a limited liability company shall constitute a separate Person hereunder (and each division of any limited liability company that is a Subsidiary, joint venture or any other like term shall also constitute such a Person).
+(p)§1.3 of the Credit Agreement is amended to (i) replace the reference to “December 31, 2017” in clause (a) with “December 31, 2019”, (ii) delete the last sentence in clause (b) of such section, and (iii) revise the last sentence of clause (a) of such section to read as follows:
+Notwithstanding the foregoing, for purposes of determining compliance with any covenant (including the computation of any financial covenant) contained herein, (i) Indebtedness of the Borrowers and their Subsidiaries shall be deemed to be carried at 100% of the outstanding principal amount thereof, and the effects of FASB ASC 825 on financial liabilities shall be disregarded and (ii) all liability amounts shall be determined excluding any liability relating to any operating lease, all asset amounts shall be determined excluding any right-of-use assets relating to any operating lease, all amortization amounts shall be determined excluding any amortization of a right-of-use asset relating to any operating lease, and all interest amounts shall be determined excluding any deemed interest comprising a portion of fixed rent payable under any operating lease, in each case to the extent that such liability, asset, amortization or interest pertains to an operating lease under which the covenantor or a member of its consolidated group is the lessee and would not have been accounted for as such under GAAP as in effect on December 31, 2015.
+(q)§6 of the Credit Agreement is amended to insert a new §6.18 at the end of such section to read as follows:
+6
+
+
+§6.18 Successor CDOR.
+(a) Notwithstanding anything to the contrary in this Agreement or any other Loan Documents (including §17 hereof), if the Canadian Agent determines (which determination shall be conclusive absent manifest error), or Ryder or the Canadian Banks with collectively greater than 50% of the total Canadian Commitments notify the Canadian Agent that Ryder or the Canadian Banks with collectively greater than 50% of the total Canadian Commitments (as applicable) have determined that:
+(i) adequate and reasonable means do not exist for ascertaining CDOR Rate, including because the Reuters Screen CDOR page is not available or published on a current basis for the applicable period and such circumstances are unlikely to be temporary;
+(ii) the administrator of the CDOR Rate or a Governmental Authority having jurisdiction has made a public statement identifying a specific date after which CDOR Rate will permanently or indefinitely cease to be made available or permitted to be used for determining the interest rate of loans;
+(iii) a Governmental Authority having jurisdiction over the Canadian Agent has made a public statement identifying a specific date after which CDOR Rate shall no longer be permitted to be used for determining the interest rate of loans (each such specific date in clause (ii) and in this clause (iii) a “CDOR Scheduled Unavailability Date”); or
+(iv) syndicated loans currently being executed, or that include language similar to that contained in this §6.18, are being executed or amended (as applicable) to incorporate or adopt a new benchmark interest rate to replace the CDOR Rate,
+then reasonably promptly after such determination by the Canadian Agent or receipt by the Canadian Agent of such notice, as applicable, the Canadian Agent and Ryder may mutually agree upon a successor rate to the CDOR Rate, and the Canadian Agent and Ryder may amend this Agreement to replace the CDOR Rate with an alternate benchmark rate (including any mathematical or other adjustments to the benchmark (if any) incorporated therein ), giving due consideration to any evolving or then existing convention for similar Canadian Dollars denominated syndicated credit facilities for such alternative benchmarks (any such proposed rate, a “CDOR Successor Rate”), together with any proposed CDOR Successor Rate conforming changes and any such amendment shall become effective at 5:00 p.m. (Toronto time) on the fifth (5th) Business Day after the Canadian Agent shall have posted such proposed amendment to all Banks and Ryder unless, prior to such time, Canadian Banks comprising collectively greater than 50% of the total Canadian Commitments have delivered to the Canadian Agent written notice that Canadian Banks comprising collectively greater than 50% of the total Canadian Commitments do not accept such amendment.
+(b) If no CDOR Successor Rate has been determined and the circumstances under clause §6.18(a)(i) exist or a CDOR Scheduled Unavailability Date has occurred (as applicable), the Canadian Agent will promptly so notify Ryder and each Canadian Bank.
+7
+
+
+Thereafter, the obligation of the Canadian Banks to make or maintain Bankers’ Acceptances, shall be suspended (to the extent of the affected Bankers’ Acceptances or applicable periods). Upon receipt of such notice, the Canadian Borrowers’ may revoke any pending request for an advance of, conversion to or rollover of Bankers’ Acceptances, (to the extent of the affected Bankers’ Acceptances or applicable periods) or, failing that, will be deemed to have converted such request into a request for Canadian Prime Rate Loans in the amount specified therein.
+(c) Notwithstanding anything else herein, any definition of the CDOR Successor Rate (exclusive of any margin) shall provide that in no event shall such CDOR Successor Rate be less than zero for the purposes of this Agreement.
+(r)§7.17(b) of the Credit Agreement is amended to read as follows:
+(b) Each Borrower and its Subsidiaries have (i) conducted their businesses in compliance with (A) the United States Foreign Corrupt Practices Act of 1977, the UK Bribery Act 2010, and other similar anti-corruption legislation in other jurisdictions, (B) Anti-Money Laundering Laws and (C) all applicable Sanctions and (ii) instituted and maintained policies and procedures designed to promote and achieve compliance with such anti-corruption legislation, such Anti-Money Laundering Laws and such Sanctions.
+(s)§7.19 of the Credit Agreement is amended to read as follows:
+§7.19 No Affected Financial Institution. No Borrower nor any of its Subsidiaries is an Affected Financial Institution.
+(t)§7 of the Credit Agreement is amended to insert a new §7.20 at the end of such section to read as follows:
+§7.20 Covered Entity. No Borrower nor any of its Subsidiaries is a Covered Entity.
+(u)§8.16 of the Credit Agreement is amended to read as follows:
+§8.16 Anti-Corruption Laws; Anti-Money Laundering Laws; Sanctions. Each of the Borrowers will, and Ryder will cause each of its Consolidated Subsidiaries to, (a) conduct its business in compliance with (i) the United States Foreign Corrupt Practices Act of 1977, the UK Bribery Act 2010 and other similar anti-corruption legislation in other jurisdictions, (ii) Anti-Money Laundering Laws and (iii) applicable Sanctions and (b) maintain policies and procedures designed to promote and achieve compliance with such anti-corruption laws, such Anti-Money Laundering Laws and such Sanctions.
+(v)§16.7 of the Credit Agreement is amended to read as follows:
+§16.7 Non-Reliance on Agents and Other Banks. Each Bank and the Issuing Bank acknowledges that neither any Agent nor any Co-Lead Arranger has made any representation or warranty to it, and that no act by any Agent or any Co-Lead Arranger hereafter taken, including any consent to, and acceptance of any assignment or review of the affairs of any Borrower or any Affiliate thereof, shall be deemed to constitute any
+8
+
+
+representation or warranty by any Agent or any Co-Lead Arranger to any Bank or the Issuing Bank as to any matter, including whether any Agent or any Co-Lead Arranger has disclosed material information in their (or their Related Parties’) possession. Each Bank and the Issuing Bank represents to the Agents and the Co-Lead Arrangers that it has, independently and without reliance upon any Agent, any Lead Arranger, any other Bank, or the Issuing Bank or any of their Related Parties and based on such documents and information as it has deemed appropriate, made its own credit analysis of, appraisal of, and investigation into, the business, prospects, operations, property, financial and other condition and creditworthiness of each Borrower and its Subsidiaries, and all applicable bank or other regulatory laws relating to the transactions contemplated hereby, and made its own decision to enter into this Agreement and to extend credit to the Borrowers hereunder. Each Bank and the Issuing Bank also acknowledges that it will, independently and without reliance upon any Agent, any Co-Lead Arranger, any other Bank, the Issuing Bank or any of their Related Parties and based on such documents and information as it shall from time to time deem appropriate, continue to make its own credit analysis, appraisals and decisions in taking or not taking action under or based upon this Agreement, any other Loan Document or any related agreement or any document furnished hereunder or thereunder, and to make such investigations as it deems necessary to inform itself as to the business, prospects, operations, property, financial and other condition and creditworthiness of the Borrowers. Each Bank and the Issuing Bank represents and warrants that (a) the Loan Documents set forth the terms of a commercial lending facility and (b) it is engaged in making, acquiring or holding commercial loans in the ordinary course and is entering into this Agreement as a Bank or the Issuing Bank, as applicable, for the purpose of making, acquiring or holding commercial loans and providing other facilities set forth herein as may be applicable to such Bank or the Issuing Bank, as applicable, and not for the purpose of purchasing, acquiring or holding any other type of financial instrument, and each Bank and the Issuing Bank agrees not to assert a claim in contravention of the foregoing. Each Bank and the Issuing Bank represents and warrants that it is sophisticated with respect to decisions to make, acquire and/or hold commercial loans and to provide other facilities set forth herein, as may be applicable to such Bank or the Issuing Bank, as applicable, and either it, or the Person exercising discretion in making its decision to make, acquire and/or hold such commercial loans or to provide such other facilities, is experienced in making, acquiring or holding such commercial loans or providing such other facilities.
+(w)§16.10 of the Credit Agreement is amended to read as follows:
+§16.10 ERISA Matters.
+(a) Each Bank (x) represents and warrants, as of the date such Person became a Bank party hereto, to, and (y) covenants, from the date such Person became a Bank party hereto to the date such Person ceases being a Bank party hereto, for the benefit of, the Administrative Agent and not, for the avoidance of doubt, to or for the benefit of the Borrower, that at least one of the following is and will be true:
+(i) such Bank is not using “plan assets” (within the meaning of Section 3(42) of ERISA or otherwise) of one or more Benefit Plans with respect to such Bank’s entrance into, participation in, administration of and performance
+9
+
+
+of the Loans, the Bankers’ Acceptances, the Letters of Credit, the Commitments or this Agreement,
+(ii) the transaction exemption set forth in one or more PTEs, such as PTE 84–14 (a class exemption for certain transactions determined by independent qualified professional asset managers), PTE 95–60 (a class exemption for certain transactions involving insurance company general accounts), PTE 90–1 (a class exemption for certain transactions involving insurance company pooled separate accounts), PTE 91–38 (a class exemption for certain transactions involving bank collective investment funds) or PTE 96–23 (a class exemption for certain transactions determined by in-house asset managers), is applicable with respect to such Bank’s entrance into, participation in, administration of and performance of the Loans, the Bankers’ Acceptances, the Letters of Credit, the Commitments and this Agreement,
+(iii) (A) such Bank is an investment fund managed by a “Qualified Professional Asset Manager” (within the meaning of Part VI of PTE 84–14), (B) such Qualified Professional Asset Manager made the investment decision on behalf of such Bank to enter into, participate in, administer and perform the Loans, the Bankers’ Acceptances, the Letters of Credit, the Commitments and this Agreement, (C) the entrance into, participation in, administration of and performance of the Loans, the Bankers’ Acceptances, the Letters of Credit, the Commitments and this Agreement satisfies the requirements of sub-sections (b) through (g) of Part I of PTE 84–14 and (D) to the best knowledge of such Bank, the requirements of subsection (a) of Part I of PTE 84–14 are satisfied with respect to such Bank’s entrance into, participation in, administration of and performance of the Loans, the Bankers’ Acceptances, the Letters of Credit, the Commitments and this Agreement, or
+(iv) such other representation, warranty and covenant as may be agreed in writing between the Administrative Agent, in its sole discretion, and such Bank.
+(b) In addition, unless either (1) clause (i) in the immediately preceding clause (a) is true with respect to a Bank or (2) a Bank has provided another representation, warranty and covenant in accordance with clause (iv) in the immediately preceding clause (a), such Bank further (x) represents and warrants, as of the date such Person became a Bank party hereto, to, and (y) covenants, from the date such Person became a Bank party hereto to the date such Person ceases being a Bank party hereto, for the benefit of, the Administrative Agent and not, for the avoidance of doubt, to or for the benefit of any Borrower, that the Administrative Agent is not a fiduciary with respect to the assets of such Bank involved in such Bank’s entrance into, participation in, administration of and performance of the Loans, the Bankers’ Acceptances, the Letters of Credit, the Commitments and this Agreement (including in connection with the reservation or exercise of any rights by the Administrative Agent under this Agreement, any other Loan Document or any documents related hereto or thereto).
+(x)§24 of the Credit Agreement is amended to insert a new sentence at the end of such section to read as follows:
+10
+
+
+Delivery of an executed counterpart of a signature page of this Agreement or any other Loan Document, or any certificate delivered thereunder, by fax transmission or e-mail transmission (e.g., “pdf” or “tif”) shall be effective as delivery of a manually executed counterpart of this Agreement or such other Loan Document or certificate. Without limiting the foregoing, to the extent a manually executed counterpart is not specifically required to be delivered under the terms of any Loan Document, upon the request of any party, such fax transmission or e-mail transmission shall be promptly followed by such manually executed counterpart.
+(y)§33 of the Credit Agreement is amended to read as follows:
+§33 ELECTRONIC EXECUTION; ELECTRONIC RECORDS.
+This Agreement and any document, amendment, approval, consent, information, notice, certificate, request, statement, disclosure or authorization related to this Agreement (each a “Communication”), including Communications required to be in writing, may be in the form of an Electronic Record and may be executed using Electronic Signatures. The Borrowers agree that any Electronic Signature on or associated with any Communication shall be valid and binding on the Borrowers to the same extent as a manual, original signature, and that any Communication entered into by Electronic Signature, will constitute the legal, valid and binding obligation of the Borrowers enforceable against such in accordance with the terms thereof to the same extent as if a manually executed original signature was delivered.   Any Communication may be executed in as many counterparts as necessary or convenient, including both paper and electronic counterparts, but all such counterparts are one and the same Communication.  For the avoidance of doubt, the authorization under this §33 may include, without limitation, use or acceptance by the each of the Agents and each of the Banks of a manually signed paper Communication which has been converted into electronic form (such as scanned into PDF format), or an electronically signed Communication converted into another format, for transmission, delivery and/or retention. Each of the Agents and each of the Banks may, at its option, create one or more copies of any Communication in the form of an imaged Electronic Record (“Electronic Copy”), which shall be deemed created in the ordinary course of the such Person’s business, and destroy the original paper document.  All Communications in the form of an Electronic Record, including an Electronic Copy, shall be considered an original for all purposes, and shall have the same legal effect, validity and enforceability as a paper record. Notwithstanding anything contained herein to the contrary, no Agent is under any obligation to accept an Electronic Signature in any form or in any format unless expressly agreed to by such Agent pursuant to procedures approved by it; provided, further, without limiting the foregoing, (a) to the extent the Agents have agreed to accept such Electronic Signature, the Agents and each of the Banks shall be entitled to rely on any such Electronic Signature purportedly given by or on behalf of any Borrower without further verification and (b) upon the request of any Agent or any Bank, any Electronic Signature shall be promptly followed by such manually executed counterpart.  For purposes hereof, “Electronic Record” and “Electronic Signature” shall have the meanings assigned to them, respectively, by 15 USC §7006, as it may be amended from time to time.
+11
+
+
+(z)§34 of the Credit Agreement is amended to (i) replace each reference to “EEA Financial Institution” with “Affected Financial Institution” and (ii) replace each reference to “an EEA Resolution Authority” and “any EEA Resolution Authority” with “the applicable Resolution Authority”.
+(aa)The Credit Agreement is amended to insert a new §35 immediately following §34 to read as follows:
+§35 ACKNOWLEDGEMENT REGARDING ANY SUPPORTED QFCS. To the extent that the Loan Documents provide support, through a guarantee or otherwise, for any swap contract or any other agreement or instrument that is a QFC (such support, “QFC Credit Support”, and each such QFC, a “Supported QFC”), the parties acknowledge and agree that, with respect to the resolution power of the Federal Deposit Insurance Corporation under the Federal Deposit Insurance Act and Title II of the Dodd-Frank Wall Street Reform and Consumer Protection Act (together with the regulations promulgated thereunder, the “U.S. Special Resolution Regimes”) in respect of such Supported QFC and QFC Credit Support (with the provisions below applicable notwithstanding that the Loan Documents and any Supported QFC may in fact be stated to be governed by the laws of the State of New York and/or of the United States or any other state of the United States), in the event a Covered Entity that is party to a Supported QFC (each, a “Covered Party”) becomes subject to a proceeding under a U.S. Special Resolution Regime, the transfer of such Supported QFC and the benefit of such QFC Credit Support (and any interest and obligation in or under such Supported QFC and such QFC Credit Support, and any rights in property securing such Supported QFC or such QFC Credit Support) from such Covered Party will be effective to the same extent as the transfer would be effective under the U.S. Special Resolution Regime if the Supported QFC and such QFC Credit Support (and any such interest, obligation and rights in property) were governed by the laws of the United States or a state of the United States. In the event a Covered Party or a BHC Act Affiliate of a Covered Party becomes subject to a proceeding under a U.S. Special Resolution Regime, Default Rights under the Loan Documents that might otherwise apply to such Supported QFC or any QFC Credit Support that may be exercised against such Covered Party are permitted to be exercised to no greater extent than such Default Rights could be exercised under the U.S. Special Resolution Regime if the Supported QFC and the Loan Documents were governed by the laws of the United States or a state of the United States. Without limitation of the foregoing, it is understood and agreed that rights and remedies of the parties with respect to a Defaulting Bank shall in no event affect the rights of any Covered Party with respect to a Supported QFC or any QFC Credit Support.
+2.Condition Precedent. This Agreement shall be effective upon satisfaction of the following conditions precedent:
+(a)Receipt by the Administrative Agent of counterparts of this Agreement duly executed by the Borrowers, the Majority Banks, each Canadian Bank, and the Agents.
+(b)Receipt by BofA Securities (or any of its designated Affiliates) of any fees owing to BofA Securities (or any of its designated Affiliates), the Agents and the Banks that are required to be paid on or before the date hereof
+12
+
+
+(c)Ryder shall have paid all fees, charges and disbursements of counsel to the Administrative Agent (directly to such counsel, if so requested by the Administrative Agent) to the extent invoiced prior to or on the date hereof, plus such additional amounts of such fees, charges and disbursements as shall constitute its reasonable estimate of such fees, charges and disbursements incurred or to be incurred by it through the closing proceedings (provided, that, such estimate shall not thereafter preclude a final settling of accounts between Ryder and the Administrative Agent).
+3.Miscellaneous.
+(a)The Loan Documents, and the obligations of the Borrowers under the Loan Documents, are hereby ratified and confirmed and shall remain in full force and effect according to their terms. This Agreement is a Loan Document.
+(b)Each Borrower (i) acknowledges and consents to all of the terms and conditions of this Agreement, (ii) affirms all of its obligations under the Loan Documents, and (iii) agrees that this Agreement and all documents executed in connection herewith do not operate to reduce or discharge its obligations under the Loan Documents.
+(c)Each Borrower represents and warrants that:
+(i) Such Borrower has taken all necessary corporate or other organizational action to authorize the execution, delivery and performance of this Agreement.
+(ii) This Agreement has been duly executed and delivered by such Borrower and constitutes a valid and legally obligation of such Borrower, enforceable against such Borrower in accordance with its terms, except as enforceability is limited by bankruptcy, insolvency, reorganization, moratorium or other Laws relating to or affecting generally the enforcement of creditors’ rights and except to the extent that availability of the remedy of specific performance or injunctive relief is subject to the discretion of the court before which any proceeding therefor may be brought.
+(iii) The execution, delivery and performance of this Agreement by such Borrower and the consummation by such Borrower of the transactions contemplated hereby do not require any approval or consent of, or filing with, any governmental agency or authority other than those already obtained.
+(iv) After giving effect to this Agreement, (A) the representations and warranties of such Borrower contained in the Credit Agreement or any other Loan Document, or which are contained in any document furnished at any time under or in connection therewith, are true and correct in all material respects (and in all respects if any such representation and warranty is already qualified by materiality or reference to Material Adverse Effect) on and as of the date of this Agreement, except to the extent that such representations and warranties specifically refer to an earlier date, in which case they are true and correct in all material respects (and in all respects if any such representation and warranty is already qualified by materiality or reference to Material Adverse Effect) as of such earlier date, and (B) no Default or an Event of Default has occurred and is continuing.
+13
+
+
+(d)This Agreement may be executed in counterparts (and by different parties hereto in different counterparts), each of which shall constitute an original, but all of which when taken together shall constitute a single contract. Delivery of an executed counterpart of a signature page of this Agreement by facsimile or other electronic imagine means (e.g. “pdf” or “tif”) shall be effective as delivery of a manually executed counterpart of this Agreement.
+(e)If any provision of this Agreement is held to be illegal, invalid or unenforceable, (i) the legality, validity and enforceability of the remaining provisions of this Agreement shall not be affected or impaired thereby and (ii) the parties shall endeavor in good faith negotiations to replace the illegal, invalid or unenforceable provisions with valid provisions the economic effect of which comes as close as possible to that of the illegal, invalid or unenforceable provisions. The invalidity of a provision in a particular jurisdiction shall not invalidate or render unenforceable such provision in any other jurisdiction.
+(f)THIS AGREEMENT IS A CONTRACT UNDER THE LAWS OF THE STATE OF NEW YORK AND SHALL FOR ALL PURPOSES BE CONSTRUED IN ACCORDANCE WITH AND GOVERNED BY THE LAWS OF SAID STATE (EXCLUDING THE LAWS APPLICABLE TO CONFLICTS OR CHOICE OF LAW (OTHER THAN THE NEW YORK GENERAL OBLIGATIONS LAW §5-1401 AND §5-1402)).
+[SIGNATURE PAGES FOLLOW]
+
+
+14
+
+
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be duly executed as of the date first above written.
+BORROWERS: RYDER SYSTEM, INC.
+
+
+By: /s/ Braden K. Moll   
+Name: Braden K. Moll
+Title: Senior Assistant Treasurer
+RYDER TRUCK RENTAL CANADA LTD.
+
+
+By:  /s/ Braden K. Moll   
+Name: Braden K. Moll
+Title: Senior Assistant Treasurer
+RYDER TRUCK RENTAL HOLDINGS CANADA LTD.
+
+
+By: /s/ Braden K. Moll   
+Name: Braden K. Moll
+Title: Senior Assistant Treasurer
+RYDER LIMITED
+
+
+By: /s/ Braden K. Moll   
+Name: Braden K. Moll
+Title: Director
+RYDER SYSTEM HOLDINGS (UK) LIMITED
+
+
+By: /s/ Calene F. Candela   
+Name: Calene F. Candela
+Title: Director
+RYDER PUERTO RICO, INC.
+
+
+By:  /s/ Braden K. Moll   
+Name: Braden K. Moll
+Title: Senior Assistant Treasurer
+
+RYDER SYSTEM, INC.
+FIRST AMENDMENT TO SECOND AMENDED AND RESTATED GLOBAL REVOLVING CREDIT AGREEMENT
+
+
+AGENTS: BANK OF AMERICA, N.A.,
+as the Administrative Agent
+By: /s/ Anthea Del Bianco   
+Name: Anthea Del Bianco
+Title: Vice President
+
+RYDER SYSTEM, INC.
+FIRST AMENDMENT TO SECOND AMENDED AND RESTATED GLOBAL REVOLVING CREDIT AGREEMENT
+
+
+ROYAL BANK OF CANADA,
+as the Canadian Agent
+By: /s/ Susan Khokher   
+Name: Susan Khokher
+Title: Manager, Agency
+
+RYDER SYSTEM, INC.
+FIRST AMENDMENT TO SECOND AMENDED AND RESTATED GLOBAL REVOLVING CREDIT AGREEMENT
+
+
+LLOYDS BANK PLC,
+as the U.K. Agent
+By: /s/ John Togher   
+Name: John Togher
+Title: Associate Director
+        
+RYDER SYSTEM, INC.
+FIRST AMENDMENT TO SECOND AMENDED AND RESTATED GLOBAL REVOLVING CREDIT AGREEMENT
+
+
+BANKS: BANK OF AMERICA, N.A.,
+as a Bank
+By: /s/ Jason Yakabu   
+Name: Jason Yakabu
+Title: Vice President
+
+RYDER SYSTEM, INC.
+FIRST AMENDMENT TO SECOND AMENDED AND RESTATED GLOBAL REVOLVING CREDIT AGREEMENT
+
+
+BANK OF AMERICA MERRILL LYNCH INTERNATIONAL LIMITED,
+as a Bank
+By: /s/ Joanne Hilliard   
+Name: Joanne Hilliard
+Title: Vice President
+
+RYDER SYSTEM, INC.
+FIRST AMENDMENT TO SECOND AMENDED AND RESTATED GLOBAL REVOLVING CREDIT AGREEMENT
+
+
+ROYAL BANK OF CANADA,
+as a Bank
+By: /s/ Scott Umbs   
+Name: Scott Umbs
+Title: Authorized Signatory
+
+RYDER SYSTEM, INC.
+FIRST AMENDMENT TO SECOND AMENDED AND RESTATED GLOBAL REVOLVING CREDIT AGREEMENT
+
+
+LLOYDS BANK CORPORATE MARKETS PLC,
+as a Bank
+By: /s/ Kamala Basdeo   
+Name: Kamala Basdeo
+Title: Assistant Vice President
+By: /s/ Tina Wong   
+Name: Tina Wong
+Title: Assistant Vice President
+
+
+RYDER SYSTEM, INC.
+FIRST AMENDMENT TO SECOND AMENDED AND RESTATED GLOBAL REVOLVING CREDIT AGREEMENT
+
+
+LLOYDS BANK PLC,
+as a Bank
+By: /s/ Linda Koi   
+Name: Linda Koi
+Title: Associate Director
+
+RYDER SYSTEM, INC.
+FIRST AMENDMENT TO SECOND AMENDED AND RESTATED GLOBAL REVOLVING CREDIT AGREEMENT
+
+
+WELLS FARGO BANK, NATIONAL ASSOCIATION,
+as a Bank
+By: /s/ Kevin Valenta   
+Name: Kevin Valenta
+Title: Vice President
+
+RYDER SYSTEM, INC.
+FIRST AMENDMENT TO SECOND AMENDED AND RESTATED GLOBAL REVOLVING CREDIT AGREEMENT
+
+
+U.S. BANK NATIONAL ASSOCIATION,
+as a Bank
+By: /s/ Peter Bystol   
+Name: Peter Bystol
+Title: Senior Vice President
+
+RYDER SYSTEM, INC.
+FIRST AMENDMENT TO SECOND AMENDED AND RESTATED GLOBAL REVOLVING CREDIT AGREEMENT
+
+
+MUFG BANK, LTD.,
+as a Bank
+By: /s/ John Margetanski   
+Name: John Margetanski
+Title: Director
+
+RYDER SYSTEM, INC.
+FIRST AMENDMENT TO SECOND AMENDED AND RESTATED GLOBAL REVOLVING CREDIT AGREEMENT
+
+
+MIZUHO BANK, LTD.,
+as a Bank
+By: /s/ Donna DeMagistris   
+Name: Donna DeMagistris
+Title: Authorized Signatory
+
+RYDER SYSTEM, INC.
+FIRST AMENDMENT TO SECOND AMENDED AND RESTATED GLOBAL REVOLVING CREDIT AGREEMENT
+
+
+BNP PARIBAS,
+as a Bank
+By: /s/ Todd Grossnickle   
+Name: Todd Grossnickle
+Title: Director
+By: /s/ Nader Tannous   
+Name: Nader Tannous
+Title: Managing Director
+
+RYDER SYSTEM, INC.
+FIRST AMENDMENT TO SECOND AMENDED AND RESTATED GLOBAL REVOLVING CREDIT AGREEMENT
+
+
+PNC BANK, NATIONAL ASSOCIATION,
+as a Bank
+By: /s/ Matthew Titus   
+Name: Matthew Titus
+Title: Vice President
+
+RYDER SYSTEM, INC.
+FIRST AMENDMENT TO SECOND AMENDED AND RESTATED GLOBAL REVOLVING CREDIT AGREEMENT
+
+
+TRUIST BANK,
+as a Bank
+By: /s/ Max N. Greer III   
+Name: Max N. Greer III
+Title: Senior Vice President
+
+RYDER SYSTEM, INC.
+FIRST AMENDMENT TO SECOND AMENDED AND RESTATED GLOBAL REVOLVING CREDIT AGREEMENT
+
+
+REGIONS BANK,
+as a Bank
+By: /s/ Maggie Halleland   
+Name: Maggie Halleland
+Title: Director
+
+RYDER SYSTEM, INC.
+FIRST AMENDMENT TO SECOND AMENDED AND RESTATED GLOBAL REVOLVING CREDIT AGREEMENT
+
+
+COMERICA BANK,
+as a Bank
+By: /s/ Carl Bradley   
+Name: Carl Bradley
+Title: Portfolio Manager
+
+
+
+RYDER SYSTEM, INC.
+FIRST AMENDMENT TO SECOND AMENDED AND RESTATED GLOBAL REVOLVING CREDIT AGREEMENT

@@ -1,0 +1,900 @@
+EX-1.1 2 exc20200609ex11.htm EX-1.1
+
+
+
+Atlantic City Electric Company
+______________________
+Bond Purchase Agreement
+______________________
+Dated as of June 9, 2020
+$100,000,000 First Mortgage Bonds, 3.24% Series due June 9, 2050
+
+
+
+
+AmericasActive:13347863.5
+
+Table of Contents
+(Not a part of the Agreement)
+Section Heading PAGE
+SECTION 1. 
+Authorization of Bonds.
+1
+SECTION 2. 
+Sale and Purchase of Bonds.
+1
+SECTION 3.
+Closing.
+2
+SECTION 4.
+Conditions to Closing.
+2
+Section 4.1.
+Representations and Warranties
+2
+Section 4.2.
+Performance; No Default
+2
+Section 4.3.
+Compliance Certificates
+2
+Section 4.4.
+Opinions of Counsel
+3
+Section 4.5.
+Purchase Permitted By Applicable Law, Etc
+3
+Section 4.6.
+Related Transactions
+3
+Section 4.7.
+Payment of Special Counsel Fees.
+3
+Section 4.8.
+Private Placement Number
+4
+Section 4.9.
+Changes in Corporate Structure
+4
+Section 4.10.
+Supplemental Indenture
+4
+Section 4.11.
+Execution, Authentication and Delivery of Bonds
+4
+Section 4.12.
+Recording and Filing
+4
+Section 4.13.
+Approvals
+4
+Section 4.14.
+Funding Instructions
+4
+Section 4.15.
+Proceedings and Documents
+4
+SECTION 5.
+Representations and Warranties of the Company.
+5
+Section 5.1. 
+Organization; Power and Authority
+5
+Section 5.2. 
+Authorization, Etc. Matters Relating to the Mortgage
+5
+Section 5.3. 
+Disclosure
+6
+Section 5.4. 
+Subsidiaries
+6
+Section 5.5. 
+Financial Statements; Independent Auditors
+6
+Section 5.6. 
+Compliance with Laws, Other Instruments, Etc
+7
+Section 5.7. 
+Governmental Authorizations, Etc
+7
+Section 5.8. 
+Litigation; Observance of Agreements, Statutes and Orders
+7
+Section 5.9. 
+Taxes
+8
+Section 5.10. 
+Title to Property; Leases
+8
+Section 5.11. 
+Licenses, Permits, Etc
+8
+Section 5.12. 
+Compliance with ERISA
+8
+Section 5.13. 
+Private Offering by the Company
+9
+Section 5.14. 
+Use of Proceeds; Margin Regulations
+9
+Section 5.15. 
+Existing Indebtedness; Future Liens
+10
+Section 5.16. 
+Foreign Assets Control Regulations, Etc
+10
+Section 5.17. 
+Status under Certain Statutes
+11
+2
+AmericasActive:13347863.5
+
+Section 5.18. 
+Environmental Matters
+11
+Section 5.19. 
+Internal Controls
+12
+Section 5.20. 
+Compliance with Sarbanes-Oxley
+12
+SECTION 6. 
+Representations of the Purchasers.
+13
+Section 6.1. 
+Purchase for Investment
+13
+Section 6.2. 
+Source of Funds
+13
+SECTION 7. 
+Information as to Company.
+14
+SECTION 8. 
+Payment and Prepayment of the Bonds
+14
+SECTION 9. 
+Affirmative Covenants
+15
+Section 9.1. 
+Compliance with Laws
+15
+SECTION 10. 
+Negative Covenants
+15
+Section 10.1. 
+Transactions with Affiliates
+15
+Section 10.2. 
+Line of Business
+15
+Section 10.3. 
+Economic Sanctions, Etc
+16
+Section 10.4. 
+Withholding.
+16
+SECTION 11. 
+Events of Default
+16
+SECTION 12. 
+Remedies on Default, Etc.
+17
+SECTION 13. 
+Registration; Exchange; Substitution of Bonds
+17
+SECTION 14. 
+Payments on Bonds.
+17
+Section 14.1. 
+Place of Payment
+18
+Section 14.2. 
+Home Office Payment
+18
+SECTION 15. 
+Expenses, Etc.
+18
+Section 15.1. 
+Transaction Expenses
+18
+Section 15.2. 
+Survival
+19
+SECTION 16. 
+Survival of Representations and Warranties; Entire Agreement.
+19
+SECTION 17. 
+Amendment and Waiver.
+19
+Section 17.1. 
+Requirements
+19
+Section 17.2. 
+Solicitation of Holders of Bonds
+20
+Section 17.3. 
+Binding Effect, Etc
+20
+Section 17.4. 
+Bonds Held by Company, Etc
+21
+Section 17.5. 
+Governing Documents
+21
+SECTION 18. 
+Notices.
+21
+SECTION 19. 
+Reproduction of Documents.
+22
+SECTION 20. 
+Confidential Information.
+22
+SECTION 21. 
+Substitution of Purchaser.
+23
+SECTION 22. 
+Miscellaneous.
+23
+Section 22.1. 
+Successors and Assigns
+23
+3
+AmericasActive:13347863.5
+
+Section 22.2. 
+Severability
+24
+Section 22.3. 
+Construction
+24
+Section 22.4. 
+Counterparts
+25
+Section 22.5. 
+Governing Law
+25
+Section 22.6. 
+Jurisdiction and Process; Waiver of Jury Trial
+26
+
+4
+AmericasActive:13347863.5
+
+
+Schedule A — Information Relating to Purchasers
+Schedule B —
+Defined Terms
+Schedule 5.3 — Disclosure Documents
+Exhibit A — Form of Supplemental Indenture
+Exhibit 4.4(a) —
+Form of Opinion of Ballard Spahr LLP, Special Counsel for the Company
+Exhibit 4.4(b) —
+Form of Opinion of General Counsel of the Company
+Exhibit 4.4(c) —
+Form of Opinion of Winston & Strawn LLP, Special Counsel for the Purchasers
+Exhibit 10.4 —
+U.S. Tax Compliance Certificate
+
+5
+AmericasActive:13347863.5
+
+Atlantic City Electric Company
+500 North Wakefield Drive, 2nd Floor
+Newark, Delaware 19702
+
+$100,000,000 First Mortgage Bonds, 3.24% SERIES DUE JUNE 9, 2050
+
+
+Dated as of JUNE 9, 2020
+To the Purchasers Listed in
+the Attached Schedule A:
+Ladies and Gentlemen:
+Atlantic City Electric Company, a corporation organized and existing under the laws of the State of New Jersey (the “Company”), agrees with each of the institutional investors listed in the attached Schedule A (the “Purchasers”) to this Bond Purchase Agreement (this “Agreement”) as follows:
+SECTION 1.Authorization of Bonds.
+The Company will authorize the issue and sale of $100,000,000 aggregate principal amount of its First Mortgage Bonds, 3.24% Series due June 9, 2050 (the “Bonds”). The Bonds will be issued under and in accordance with and secured by the Mortgage and Deed of Trust, dated as of January 15, 1937 (the “Mortgage and Deed of Trust”), from the Company to The Bank of New York Mellon (formerly Irving Trust Company), as trustee (the “Trustee”), as amended and supplemented through the date hereof and as further amended and supplemented by the Indenture Supplemental to the Mortgage and Deed of Trust, dated as of June 1, 2020 (the “Supplemental Indenture”), establishing the terms of the Bonds (the Mortgage and Deed of Trust, as so amended and supplemented, being hereinafter called the “Mortgage”). The Supplemental Indenture shall be substantially in the form set out in Exhibit A hereto, with such changes therefrom, if any, as may be approved by the Purchasers and the Company. Certain capitalized terms used herein shall have the respective meanings ascribed to such terms in the Mortgage unless otherwise defined in Schedule B to this Agreement or the context hereof shall otherwise require.
+SECTION 2.Sale and Purchase of Bonds.
+Subject to the terms and conditions of this Agreement, the Company will issue and sell to each Purchaser and each Purchaser will purchase from the Company, at the Closing provided for in Section 3, Bonds in the principal amount specified opposite such Purchaser’s name in Schedule A to this Agreement at the purchase price of 100% of the principal amount thereof. The obligations of each Purchaser hereunder are several and not joint obligations and each Purchaser
+AmericasActive:13347863.5
+
+shall have no obligation and no liability to any Person for the performance or nonperformance by any other Purchaser hereunder.
+SECTION 3.Closing.
+The sale and purchase of the Bonds to be purchased by each Purchaser shall occur at the offices of Winston & Strawn LLP, 200 Park Avenue, New York, New York 10166, at 10:00 a.m., Eastern time, at a closing (the “Closing”) on June 9, 2020. At the Closing, the Company shall cause to be duly executed, authenticated and delivered to each Purchaser the Bonds to be purchased by such Purchaser in the form of a single Bond (or such greater number of Bonds in denominations of at least $100,000 as such Purchaser may request) dated the date of the Closing and registered in such Purchaser’s name (or in the name of such Purchaser’s nominee), against delivery by such Purchaser to the Company or its order of immediately available funds in the amount of the purchase price therefor by wire transfer of immediately available funds to the account specified by the Company in accordance with Section 4.14. If at the Closing the Company shall fail to tender such Bonds to a Purchaser as provided above in this Section 3, or any of the conditions specified in Section 4 shall not have been fulfilled to a Purchaser’s satisfaction, such Purchaser shall, at such Purchaser’s election, be relieved of all further obligations under this Agreement, without thereby waiving any rights such Purchaser may have by reason of such failure or such nonfulfillment.
+SECTION 4.Conditions to Closing.
+The obligation of each Purchaser to purchase and pay for the Bonds to be sold to such Purchaser at the Closing is subject to the fulfillment to such Purchaser’s satisfaction, prior to or at the Closing, of the following conditions:
+Section 4.1. Representations and Warranties. The representations and warranties of the Company in this Agreement and the other Bond Documents to which the Company is party shall be correct when made and at the time of the Closing.
+Section 4.2. Performance; No Default. The Company shall have performed and complied with all agreements and conditions contained in this Agreement and each other Bond Document to which it is party required to be performed or complied with by it prior to or at the Closing. From the date of this Agreement until the Closing, the Company shall comply with the provisions of the Mortgage relating to the Bonds, including those referenced in Sections 9 and 10 herein. From the date of this Agreement until the Closing, before and after giving effect to the issue and sale of the Bonds (and the application of the proceeds thereof as contemplated by Section 5.14), no Default or Event of Default shall have occurred and be continuing.
+Section 4.3. Compliance Certificates.
+(a) Officer’s Certificate. The Company shall have delivered to such Purchaser an Officer’s Certificate, dated the date of the Closing, certifying that the conditions specified in Sections 4.1, 4.2 and 4.9 have been fulfilled.
+2
+AmericasActive:13347863.5
+
+(b) Secretary’s Certificate. The Company shall have delivered to such Purchaser a certificate of its Secretary or Assistant Secretary, dated the date of the Closing, certifying as to (i) the resolutions attached thereto and other corporate proceedings relating to the authorization, execution and delivery of the Bonds, this Agreement and the other Bond Documents to which it is party and (ii) the Company organizational documents as then in effect.
+Section 4.4. Opinions of Counsel. Such Purchaser shall have received opinions in form and substance satisfactory to such Purchaser, dated the date of the Closing (a) from Ballard Spahr LLP, special counsel for the Company, covering the matters set forth in Exhibit 4.4(a) and covering such other matters incident to the transactions contemplated hereby as such Purchaser or such Purchaser’s counsel may reasonably request (and the Company hereby instructs its counsel to deliver such opinion to such Purchaser), (b) from Wendy E. Stark, Esq., Vice President and General Counsel of the Company, covering the matters set forth in Exhibit 4.4(b) and covering such other matters incident to the transactions contemplated hereby as such Purchaser or such Purchaser’s counsel may reasonably request (and the Company hereby instructs its counsel to deliver such opinion to such Purchaser) and (c) from Winston & Strawn LLP, special counsel for the Purchasers in connection with such transactions, substantially in the form set forth in Exhibit 4.4(c) and covering such other matters incident to such transactions as such Purchaser may reasonably request.
+Section 4.5. Purchase Permitted By Applicable Law, Etc. On the date of the Closing the purchase of Bonds by each Purchaser shall (a) be permitted by the laws and regulations of each jurisdiction to which such Purchaser is subject, without recourse to provisions (such as Section 1405(a)(8) of the New York Insurance Law) permitting limited investments by insurance companies without restriction as to the character of the particular investment, (b) not violate any applicable law or regulation (including, without limitation, Regulation T, U or X of the Board of Governors of the Federal Reserve System) and (c) not subject such Purchaser to any tax, penalty or liability under or pursuant to any applicable law or regulation, which law or regulation was not in effect on the date hereof. If requested by any Purchaser, such Purchaser shall have received an Officer’s Certificate certifying as to such matters of fact as such Purchaser may reasonably specify to enable such Purchaser to determine whether such purchase is so permitted.
+Section 4.6. Related Transactions. The Company shall have consummated the sale of the entire principal amount of the Bonds scheduled to be sold on the date of the Closing to the Purchasers pursuant to this Agreement; provided that if the condition set forth in this Section 4.6 is not satisfied as a result of the failure of any Purchaser to purchase any Bonds that it is obligated to purchase under this Agreement, then another Institutional Investor approved by the Company may purchase the Bonds scheduled to be purchased by the defaulting Purchaser on the date of the Closing and any such purchase shall be deemed to satisfy the requirement of this Section 4.6.
+Section 4.7. Payment of Special Counsel Fees. Without limiting Section 15.1, the Company shall have paid on or before the Closing the fees, charges and disbursements of the Purchasers’ special counsel to the extent reflected in a statement of such counsel rendered to the Company at least one Business Day prior to the Closing.
+3
+AmericasActive:13347863.5
+
+Section 4.8. Private Placement Number. A Private Placement Number issued by Standard & Poor’s CUSIP Service Bureau (in cooperation with the securities valuation office of the National Association of Insurance Commissioners) shall have been obtained for the Bonds.
+Section 4.9. Changes in Corporate Structure. The Company shall not have changed its jurisdiction of incorporation, been a party to any merger or consolidation or succeeded to all or any substantial part of the liabilities of any other entity, at any time following the date of the most recent financial statements referred to in Section 5.5.
+Section 4.10. Supplemental Indenture. The Supplemental Indenture shall have been duly authorized, executed and delivered by each of the Company and the Trustee.
+Section 4.11. Execution, Authentication and Delivery of Bonds. The Bond or Bonds to be purchased by each Purchaser shall have been duly authorized and executed by the Company, duly authenticated and delivered by the Trustee and duly delivered by the Company to each such Purchaser.
+Section 4.12. Recording and Filing. At the Closing, the Mortgage (except for the Supplemental Indenture) shall have been duly recorded, and the Supplemental Indenture shall have been duly filed for recordation as a mortgage of real estate, in the only counties in which any real property subject to the lien of the Mortgage is located, and all requisite steps shall have been taken to perfect the security interest of the Mortgage in the personal property of the Company; and at the Closing, all taxes and recording and filing fees required to be paid with respect to the execution, recording or filing of the Mortgage, the filing of financing statements and similar documents and the issuance of the Bonds shall have been paid.
+Section 4.13. Approvals. The Company shall have furnished to such Purchaser and such Purchaser’s special counsel true and correct copies of all certificates, approvals, authorization and consents necessary for the execution, delivery or performance by the Company of this Agreement and the other Bond Documents and for the issuance and sale of the Bonds including, without limitation, the consents and approvals referred to in Section 5.7 of this Agreement and in the Mortgage, if any.
+Section 4.14. Funding Instructions. At least three Business Days prior to the date of the Closing, each Purchaser shall have received written instructions executed by a Responsible Officer on letterhead of the Company directing the manner of the payment of the purchase price of the Bonds and setting forth (i) the name and address of the transferee bank, (ii) such transferee bank’s ABA number, (iii) the account name and number into which the purchase price for the Bonds is to be deposited and (iv) the name and telephone number of the account representative responsible for verifying receipt of such funds.
+Section 4.15. Proceedings and Documents. All corporate and other proceedings in connection with the transactions contemplated by this Agreement and all documents and instruments incident to such transactions shall be satisfactory to such Purchaser and such Purchaser’s special counsel, and such Purchaser and such Purchaser’s special counsel shall have received all such counterpart originals or certified or other copies of such documents, and any
+4
+AmericasActive:13347863.5
+
+such certificate of a Responsible Officer of the Company as to the matters contemplated herein, as such Purchaser or such Purchaser’s special counsel may request.
+SECTION 5.Representations and Warranties of the Company.
+The Company represents and warrants to each Purchaser that:
+Section 5.1. Organization; Power and Authority. The Company is a corporation duly organized and validly existing under the laws of the State of New Jersey, and is duly qualified as a foreign corporation and is in good standing in each jurisdiction in which such qualification is required by law, other than those jurisdictions as to which the failure to be so qualified or in good standing could not, individually or in the aggregate, reasonably be expected to have a Material Adverse Effect. The Company has the corporate power and authority to own or hold under lease the properties it purports to own or hold under lease, to transact the business it transacts and proposes to transact, to execute and deliver this Agreement, the Bonds and the other Bond Document and to perform the provisions hereof and thereof.
+Section 5.2. Authorization, Etc. Matters Relating to the Mortgage. (a) This Agreement has been duly authorized, executed and delivered by the Company and constitutes the valid and legally binding obligation of the Company, enforceable against the Company in accordance with its terms, subject to bankruptcy, insolvency, fraudulent transfer, reorganization, moratorium and similar laws of general applicability relating to or affecting creditors’ rights and to general equity principles.
+(b) The Mortgage has been duly authorized by the Company; the Mortgage (excluding the Supplemental Indenture) has been, and, at the Closing, the Mortgage will be, duly executed and delivered by the Company; and the Mortgage (excluding the Supplemental Indenture) constitutes, and, at the Closing, the Mortgage will constitute, the valid and legally binding obligation of the Company, enforceable against the Company in accordance with its terms, subject to bankruptcy, insolvency, fraudulent transfer, reorganization, moratorium and similar laws of general applicability relating to or affecting mortgagees’ and other creditors’ rights and to general equity principles and except to the extent that the law of the jurisdictions in which the mortgaged property is located may limit or deny certain remedial provisions of the Mortgage.
+(c) The Bonds have been duly authorized by the Company and, at the Closing, will have been duly executed by the Company; and, when the Bonds have been (i) authenticated and delivered by the Trustee under the Mortgage and (ii) issued and delivered by the Company against payment of the purchase price therefor as provided in this Agreement, the Bonds will constitute valid and legally binding obligations of the Company, enforceable against the Company in accordance with their terms, subject to bankruptcy, insolvency, fraudulent transfer, reorganization, moratorium and similar laws of general applicability relating to or affecting creditors’ rights and to general equity principles, and will be entitled to the benefits of the Mortgage ratably with all other securities outstanding thereunder.
+5
+AmericasActive:13347863.5
+
+(d) The Mortgage (excluding the Supplemental Indenture) constitutes, and, at the Closing, the Mortgage will constitute, a valid first lien upon and security interest in the interest held by the Company in its property covered by the Mortgage, subject to no mortgage, pledge, lien, security interest, charge or other encumbrance of any kind (collectively, “Liens”) prior to the lien of the Mortgage except “excepted encumbrances” (as defined in Article 6 of the Mortgage) and other Liens permitted by the Mortgage and to such other matters as do not materially affect the security for the Bonds. The Mortgage (excluding the Supplemental Indenture) by its terms effectively subjects, and, at and after the Closing, the Mortgage by its terms will effectively subject, to the lien thereof all property (except property of the kinds specifically excepted from the lien of the Mortgage) acquired by the Company after the date of the execution and delivery of the Mortgage, subject to no Lien prior to the lien of the Mortgage except (i) “excepted encumbrances” (as defined in Article 6 of the Mortgage), (ii) any Lien thereon existing at the time of such acquisition, (iii) any Lien for unpaid portions of the purchase price thereof placed thereon at the time of such acquisition, (iv) with respect to real property, any Lien placed thereon following the acquisition thereof by the Company and prior to the recording and filing of a supplemental indenture or other instrument specifically describing such real property, (v) as otherwise provided in Article XV of the Mortgage, (vi) except for possible claims in bankruptcy and possible claims for taxes and (vii) such other matters as would not materially affect the security for the Bonds.
+Section 5.3. Disclosure. The Private Placement Memorandum, dated January 2020 (the “Memorandum”), relating to the transactions contemplated hereby and the Exchange Act Reports (including the financial statements included therein) and the other documents, certificates or other writings delivered to the Purchasers by or on behalf of the Company in connection with the transactions contemplated hereby and identified in Schedule 5.3 (this Agreement, the Memorandum and such documents, certificates and other writings delivered to each Purchaser being referred to collectively as the “Disclosure Documents”), taken as a whole, do not contain any untrue statement of a material fact or omit to state any material fact necessary to make the statements therein not misleading in light of the circumstances under which they were made. Other than as set forth in the Disclosure Documents, since December 31, 2019, there has been no change in the financial condition, results of operations, business or properties of the Company except changes that individually or in the aggregate could not reasonably be expected to have a Material Adverse Effect. There is no fact known to the Company that could reasonably be expected to have a Material Adverse Effect that has not been set forth herein or in the Disclosure Documents.
+Section 5.4. Subsidiaries. Except as disclosed in the Company’s Form 10-K for the fiscal year ended December 31, 2019, the Company does not have any Significant Subsidiaries.
+Section 5.5. Financial Statements; Independent Auditors. (a) All of the financial statements (including in each case the related schedules and notes) contained in the Disclosure Documents fairly present in all material respects the consolidated financial position of the Company as of the respective dates of such financial statements and the consolidated results of their operations and cash flows for the respective periods so specified and have been prepared in accordance with GAAP consistently applied throughout the periods involved except as set forth
+6
+AmericasActive:13347863.5
+
+in the notes thereto (subject, in the case of any interim financial statements, to normal year-end adjustments).
+(b) PricewaterhouseCoopers LLP, which audited the financial statements and financial statement schedules included in the Company’s Annual Report on Form 10-K for the year ended December 31, 2019, has advised the Company that it is an independent registered public accounting firm with respect to the Company within the meaning of the Exchange Act.
+Section 5.6. Compliance with Laws, Other Instruments, Etc. The execution, delivery and performance by the Company of this Agreement, the Bonds and any other Bond Document to which the Company is party will not (i) contravene, result in any breach of, or constitute a default under, or result in the creation of any Lien (other than the Lien of the Mortgage) in respect of any property of the Company under, any indenture, mortgage, deed of trust, loan, purchase or credit agreement, lease, corporate charter or by-laws, or any other agreement or instrument to which the Company is bound or by which the Company or any of its properties may be bound or affected, except for such contraventions, breaches, defaults or Liens as would not result in a Material Adverse Effect, (ii) conflict with or result in a breach of any of the terms, conditions or provisions of any order, judgment, decree or ruling of any court, arbitrator or Governmental Authority applicable to the Company or (iii) violate any provision of any statute or other rule or regulation of any Governmental Authority applicable to the Company.
+Section 5.7. Governmental Authorizations, Etc. No consent, approval or authorization of, or registration, filing or declaration with, any Governmental Authority is required in connection with the execution, delivery or performance by the Company of this Agreement or any other Bond Document to which the Company is party, or for the issuance and sale of the Bonds, other than (i) the order of the New Jersey Board of Public Utilities (a) which is final and not subject to appeal and (b) with all terms and conditions contained in which the Company has complied and (ii) as may be required under state securities laws.
+Section 5.8. Litigation; Observance of Agreements, Statutes and Orders. (a) Except as disclosed in the Disclosure Documents, there are no actions, suits or proceedings pending or, to the best knowledge of the Company, threatened against or affecting the Company or any property of the Company in any court or before any arbitrator of any kind or before or by any Governmental Authority that could, individually or in the aggregate, reasonably be expected to have a Material Adverse Effect.
+(b) Except as disclosed in the Disclosure Documents, the Company is not in default under any term of any agreement or instrument to which it is a party or by which it is bound, is in default under any term of any order, judgment, decree or ruling of any court, arbitrator or Governmental Authority and is not in violation of any applicable law, ordinance, rule or regulation (including without limitation Environmental Laws, the USA PATRIOT Act or any of the other laws and regulations that are referred to in Section 5.16) of any Governmental Authority, which default or violation could, individually or in the aggregate, reasonably be expected to have a Material Adverse Effect.
+7
+AmericasActive:13347863.5
+
+Section 5.9. Taxes. The Company has filed all tax returns that are required to have been filed in any jurisdiction, and has paid all taxes shown to be due and payable on such returns and all other taxes and assessments payable by it, to the extent such taxes and assessments have become due and payable and before they have become delinquent, except for any taxes and assessments (i) the amount of which is not, individually or in the aggregate, Material or (ii) the amount, applicability or validity of which is currently being contested in good faith by appropriate proceedings and with respect to which the Company has established adequate reserves in accordance with GAAP. The Company knows of no basis for any other tax or assessment that could reasonably be expected to have a Material Adverse Effect.
+Section 5.10. Title to Property; Leases. (a) The Company has good and marketable title to all real property owned by the Company and described in the Mortgage as subject to the lien thereof, and good title to all other property owned by the Company and so described as subject to such lien, in each case, subject only to such exceptions, defects and qualifications as do not (i) affect the value of any such properties that are Material in any Material respect or (ii) affect the use made or proposed to be made of such properties by the Company in any Material respect; and the descriptions of all such property contained in the Mortgage are correct and adequate for purposes of the lien purported to be created by the Mortgage.
+(b) All leases that individually or in the aggregate are Material are valid and subsisting and are in full force and effect in all material respects.
+Section 5.11. Licenses, Permits, Etc.
+(a) The Company owns or possesses all licenses, permits, franchises, authorizations, patents, copyrights, service marks, trademarks and trade names, or rights thereto, that individually or in the aggregate are Material, without known Material conflict with the rights of others.
+(b) To the best knowledge of the Company, no product of the Company infringes in any material respect any license, permit, franchise, authorization, patent, copyright, service mark, trademark, trade name or other right owned by any other Person.
+(c) To the best knowledge of the Company, there is no Material violation by any Person of any right of the Company with respect to any patent, copyright, service mark, trademark, trade name or other right owned or used by the Company.
+Section 5.12. Compliance with ERISA. (a) The Company and each ERISA Affiliate have operated and administered each Plan in compliance with all applicable laws except for such instances of noncompliance as have not resulted in and could not, individually or in the aggregate, reasonably be expected to result in a Material Adverse Effect. Neither the Company nor any ERISA Affiliate has incurred any liability pursuant to Title I or IV of ERISA or the penalty or excise tax provisions of the Code relating to employee benefit plans (as defined in Section 3 of ERISA), and no event, transaction or condition has occurred or exists that would, individually or in the aggregate, reasonably be expected to result in the incurrence of any such liability by the Company or any ERISA Affiliate, or in the imposition of any Lien on any of the
+8
+AmericasActive:13347863.5
+
+rights, properties or assets of the Company or any ERISA Affiliate, in either case pursuant to Title I or IV of ERISA or Section 430(k) of the Code or to any such penalty or excise tax provisions under the Code or federal law or Section 4068 of ERISA or by the granting of a security interest in connection with the amendment of a Plan, other than such liabilities or Liens as would not be individually or in the aggregate Material.
+(b) The present value of the aggregate benefit liabilities under each of the Plans (other than Multiemployer Plans), determined as of the end of such Plan’s most recently ended plan year on the basis of the actuarial assumptions specified for funding purposes in such Plan’s most recent actuarial valuation report, did not exceed the aggregate current value of the assets of such Plan allocable to such benefit liabilities. The term “benefit liabilities” has the meaning specified in Section 4001 of ERISA and the terms “current value” and “present value” have the meanings specified in Section 3 of ERISA.
+(c) The Company and its ERISA Affiliates have not incurred withdrawal liabilities (and are not subject to contingent withdrawal liabilities) under Section 4201 or 4204 of ERISA in respect of Multiemployer Plans that individually or in the aggregate are Material.
+(d) The expected postretirement benefit obligation (determined as of the last day of the Company’s most recently ended fiscal year in accordance with Financial Accounting Standards Board Accounting Standards Codification Topic 715-60, without regard to liabilities attributable to continuation coverage mandated by Section 4980B of the Code) of the Company is not Material.
+(e) The execution and delivery of this Agreement and the Bond Documents and the issuance and sale of the Bonds hereunder will not involve any transaction that is subject to the prohibitions of Section 406 of ERISA or in connection with which a tax could be imposed pursuant to Section 4975(c)(1)(A)-(D) of the Code. The representation by the Company to each Purchaser in the first sentence of this Section 5.12(e) is made in reliance upon and subject to the accuracy of such Purchaser’s representation in Section 6.2 as to the sources of the funds to be used to pay the purchase price of the Bonds to be purchased by such Purchaser.
+(f) The Company does not have any Non-U.S. Plans.
+Section 5.13. Private Offering by the Company. Neither the Company nor anyone acting on its behalf has offered the Bonds (or any other debt securities the offering of which would be integrated pursuant to the integration principles under Section 4(a)(2) of the Securities Act) for sale to, or solicited any offer to buy any of the same from, or otherwise approached or negotiated in respect thereof with, any Person other than 55 or fewer Institutional Investors (including the Purchasers), each of which has been offered the Bonds at a private sale for investment. Neither the Company nor anyone acting on its behalf has taken, or will take, any action that would subject the offer or sale of the Bonds to the registration requirements of Section 5 of the Securities Act.
+Section 5.14. Use of Proceeds; Margin Regulations. The Company intends to apply the proceeds of the sale of the Bonds to repay existing Indebtedness and for general corporate
+9
+AmericasActive:13347863.5
+
+purposes, as disclosed in the Memorandum. No part of the proceeds from the sale of the Bonds hereunder will be used, directly or indirectly, for the purpose of buying or carrying any margin stock within the meaning of Regulation U of the Board of Governors of the Federal Reserve System (12 CFR 221), or for the purpose of buying or carrying or trading in any securities under such circumstances as to involve the Company in a violation of Regulation X of said Board (12 CFR 224) or to involve any broker or dealer in a violation of Regulation T of said Board (12 CFR 220). Margin stock does not constitute more than 2% of the value of the assets of the Company and the Company does not have any present intention that margin stock will constitute more than 2% of the value of such assets. As used in this Section 5.14, the terms “margin stock” and “purpose of buying or carrying” shall have the meanings assigned to them in Regulation U.
+Section 5.15. Existing Indebtedness; Future Liens. (a) The Company’s Form 10-K for the fiscal year ended December 31, 2019 sets forth a complete and correct list of all outstanding Indebtedness of the Company as of December 31, 2019 prepared in accordance with GAAP, since which date there has been no Material change in the amounts, interest rates, sinking funds, installment payments or maturities of the Indebtedness of the Company (excluding commercial paper). The Company is not in default and no waiver of default is currently in effect, in the payment of any principal or interest on any Indebtedness of the Company and no event or condition exists with respect to any Indebtedness of the Company that would permit (or that with notice or the lapse of time, or both, would permit) one or more Persons to cause such Indebtedness to become due and payable before its stated maturity or before its regularly scheduled dates of payment.
+(b) The Company has not agreed or consented to cause or permit in the future (upon the happening of a contingency or otherwise) any of its property, whether now owned or hereafter acquired, to be subject to a Lien not permitted by the Mortgage.
+(c) Except for that certain Second Amended and Restated Credit Agreement, dated as of August 1, 2011, as amended, among Pepco Holdings, Inc., Potomac Electric Power Company, Delmarva Power & Light Company and the Company, as Borrowers, the various financial institutions named therein, as Lenders, and Wells Fargo Bank, National Association, as Administrative Agent, the Company is not a party to, or otherwise subject to any provision contained in, any instrument evidencing Indebtedness of the Company, any agreement relating thereto or any other agreement (including, but not limited to, its charter or other organizational document) which limits the amount of, or otherwise imposes restrictions on the incurring of, Indebtedness of the Company.
+Section 5.16. Foreign Assets Control Regulations, Etc. (a) Neither the Company nor any Controlled Entity (i) is a Blocked Person, (ii) has been notified that its name appears or may in the future appear on a State Sanctions List or (iii) is a target of sanctions that have been imposed by the United Nations or the European Union.
+(b) Neither the Company nor any Controlled Entity (i) has violated, been found in violation of, or been charged or convicted under, any applicable U.S. Economic Sanctions Laws, Anti-Money Laundering Laws or Anti-Corruption Laws or (ii) to the Company’s knowledge, is under investigation by any Governmental Authority for possible
+10
+AmericasActive:13347863.5
+
+violation of any U.S. Economic Sanctions Laws, Anti-Money Laundering Laws or Anti-Corruption Laws.
+(c) No part of the proceeds from the sale of the Bonds hereunder:
+(i) constitutes or will constitute funds obtained on behalf of any Blocked Person or will otherwise be used by the Company or any Controlled Entity, directly or indirectly, (A) in connection with any investment in, or any transactions or dealings with, any Blocked Person, (B) for any purpose that would cause any Purchaser to be in violation of any U.S. Economic Sanctions Laws or (C) otherwise in violation of any U.S. Economic Sanctions Laws;
+(ii) will be used, directly or indirectly, in violation of, or cause any Purchaser to be in violation of, any applicable Anti-Money Laundering Laws; or
+(iii) will be used, directly or indirectly, for the purpose of making any improper payments, including bribes, to any Governmental Official or commercial counterparty in order to obtain, retain or direct business or obtain any improper advantage, in each case which would be in violation of, or cause any Purchaser to be in violation of, any applicable Anti-Corruption Laws.
+(d) The Company has established procedures and controls which it reasonably believes are adequate (and otherwise comply with applicable law) to ensure that the Company and each Controlled Entity is and will continue to be in compliance with all applicable U.S. Economic Sanctions Laws, Anti-Money Laundering Laws and Anti-Corruption Laws.
+Section 5.17. Status under Certain Statutes. The Company is not an “investment company” registered or required to be registered under the Investment Company Act of 1940, as amended, and is subject to the Public Utility Holding Company Act of 2005, as amended, and the Federal Power Act, as amended.
+Section 5.18. Environmental Matters. Except as described in the Disclosure Documents and except as would not, singly or in the aggregate, result in a Material Adverse Effect, (A) the Company is not in violation of any federal, state, local or foreign statute, law, rule, regulation, ordinance, code, policy or rule of common law or any judicial or administrative interpretation thereof, including any judicial or administrative order, consent, decree or judgment, relating to pollution or protection of human health, the environment (including, without limitation, ambient air, surface water, groundwater, land surface or subsurface strata) or wildlife, including, without limitation, laws and regulations relating to the release or threatened release of chemicals, pollutants, contaminants, wastes, toxic substances, hazardous substances, petroleum or petroleum products (collectively, “Hazardous Materials”) or to the manufacture, processing, distribution, use, treatment, storage, disposal, transport or handling of Hazardous Materials (collectively, “Environmental Laws”), (B) the Company has all permits, authorizations and approvals required under any applicable Environmental Laws and is in compliance with their requirements, (C) there are no pending, or to the knowledge of the Company, threatened administrative, regulatory or judicial actions, suits, demands, demand letters, claims, liens, notices of noncompliance or
+11
+AmericasActive:13347863.5
+
+violation, investigation or proceedings relating to any Environmental Law against the Company and (D) to the knowledge of the Company, there are no events or circumstances that could reasonably be expected to form the basis of an order for clean-up or remediation, or an action, suit or proceeding by any private party or governmental body or agency, against or affecting the Company relating to Hazardous Materials or Environmental Laws.
+Section 5.19. Internal Controls.
+(a) The Company has established and maintains the following:
+(i) a system of “internal accounting controls” as contemplated in Section 13(b)(2)(B) of the Exchange Act (“Accounting Controls”);
+(ii) “disclosure controls and procedures” as such term is defined in Rule 13a-15(e) under the Exchange Act (“Disclosure Controls”); and
+(iii) “internal control over financial reporting” as such term is defined in Rule 13a-15(f) under the Exchange Act (the “Reporting Controls” and, together with the Accounting Controls and the Disclosure Controls, the “Internal Controls”);
+(b) The Internal Controls are evaluated by the Company in accordance with Rule 13a-15 under the Exchange Act;
+(c) Based on the most recent evaluations of the Accounting Controls by the Company, the Accounting Controls perform the functions for which they were established in all material respects;
+(d) As of the most recent date as of which the effectiveness of the design and operation of the Disclosure Controls were evaluated by the Company, the Disclosure Controls were effective to provide reasonable assurance that material information relating to the Company that is required to be disclosed in reports filed with, or submitted to, the SEC under the Exchange Act (I) is recorded, processed, summarized and reported within the time periods specified by the SEC rules and forms and (II) is accumulated and communicated to the Company’s management, including its chief executive officer and chief financial officer, as appropriate, to allow timely decisions regarding required disclosure; and
+(e) Since the respective dates as of which the Internal Controls were last evaluated, nothing has come to the attention of the Company that has caused the Company to conclude that (I) the Accounting Controls do not perform the functions for which they were established in all material respects or (II) the Disclosure Controls or the Reporting Controls are not effective (within the meaning of the evaluation standards identified above).
+Section 5.20. Compliance with Sarbanes-Oxley. The Company is in compliance in all material respects with the Sarbanes-Oxley Act of 2002 and the rules and regulations of the SEC that have been adopted thereunder, all to the extent that the Sarbanes-Oxley Act of 2002 and such rules and regulations are in effect and applicable to the Company.
+12
+AmericasActive:13347863.5
+
+SECTION 6.Representations of the Purchasers.
+Section 6.1. Purchase for Investment. Each Purchaser severally represents that it is a “qualified institutional buyer” as defined by Rule 144A under the Securities Act or an institutional “accredited investor” as defined by Rule 501(a) under the Securities Act and is purchasing the Bonds for its own account or for one or more separate accounts maintained by such Purchaser or for the account of one or more pension or trust funds and not with a view to the distribution thereof, provided that the disposition of such Purchaser’s or their property shall at all times be within such Purchaser’s or their control. Each Purchaser understands that the Bonds have not been registered under the Securities Act and may be resold only if registered pursuant to the provisions of the Securities Act or if an exemption from registration is available, except under circumstances where neither such registration nor such an exemption is required by law, and that the Company is not required to register the Bonds.
+Section 6.2. Source of Funds. Each Purchaser severally represents that at least one of the following statements is an accurate representation as to each source of funds (a “Source”) to be used by such Purchaser to pay the purchase price of the Bonds to be purchased by such Purchaser hereunder:
+(a) the Source is an “insurance company general account” (as the term is defined in the United States Department of Labor’s Prohibited Transaction Exemption (“PTE’) 95-60) in respect of which the reserves and liabilities (as defined by the annual statement for life insurance companies approved by the National Association of Insurance Commissioners (the “NAIC Annual Statement”)) for the general account contract(s) held by or on behalf of any employee benefit plan together with the amount of the reserves and liabilities for the general account contract(s) held by or on behalf of any other employee benefit plans maintained by the same employer (or affiliate thereof as defined in PTE 95-60) or by the same employee organization in the general account do not exceed 10% of the total reserves and liabilities of the general account (exclusive of separate account liabilities) plus surplus as set forth in the NAIC Annual Statement filed with such Purchaser’s state of domicile; or
+(b) the Source is a separate account that is maintained solely in connection with such Purchaser’s fixed contractual obligations under which the amounts payable, or credited, to any employee benefit plan (or its related trust) that has any interest in such separate account (or to any participant or beneficiary of such plan (including any annuitant)) are not affected in any manner by the investment performance of the separate account; or
+(c) the Source is either (i) an insurance company pooled separate account, within the meaning of PTE 90-1 or (ii) a bank collective investment fund, within the meaning of the PTE 91-38 and, except as disclosed by such Purchaser to the Company in writing pursuant to this clause (c), no employee benefit plan or group of plans maintained by the same employer or employee organization beneficially owns more than 10% of all assets allocated to such pooled separate account or collective investment fund; or
+(d) the Source constitutes assets of an “investment fund” (within the meaning of Part VI of PTE 84-14 (the “QPAM Exemption”)) managed by a “qualified professional asset
+13
+AmericasActive:13347863.5
+
+manager” or “QPAM” (within the meaning of Part VI of the QPAM Exemption), no employee benefit plan’s assets that are managed by the QPAM in such investment fund, when combined with the assets of all other employee benefit plans established or maintained by the same employer or by an affiliate (within the meaning of Part VI(c)(l) of the QPAM Exemption) of such employer or by the same employee organization and managed by such QPAM, represent more than 20% of the total client assets managed by such QPAM, the conditions of Part 1(c) and (g) of the QPAM Exemption are satisfied, neither the QPAM nor a person controlling or controlled by the QPAM maintains an ownership interest in the Company that would cause the QPAM and the Company to be “related” within the meaning of Part VI(h) of the QPAM Exemption and (i) the identity of such QPAM and (ii) the names of any employee benefit plans whose assets in the investment fund, when combined with the assets of all other employee benefit plans established or maintained by the same employer or by an affiliate (within the meaning of Part VI(c)(l) of the QPAM Exemption) of such employer or by the same employee organization, represent 10% or more of the assets of such investment fund, have been disclosed to the Company in writing pursuant to this clause (d);or
+(e) the Source constitutes assets of a “plan(s)” (within the meaning of Part IV(h) of PTE 96-23 (the “INHAM Exemption”)) managed by an “in-house asset manager” or “INHAM” (within the meaning of Part IV(a) of the INHAM Exemption), the conditions of Part 1(a), (g) and (h) of the INHAM Exemption are satisfied, neither the INHAM nor a person controlling or controlled by the INHAM (applying the definition of “control” in Part IV(d)(3) of the INHAM Exemption) owns a 10% or more interest in the Company and (i) the identity of such INHAM and (ii) the name(s) of the employee benefit plan(s) whose assets constitute the Source have been disclosed to the Company in writing pursuant to this clause (e); or
+(f) the Source is a governmental plan; or
+(g) the Source is one or more employee benefit plans, or a separate account or trust fund comprised of one or more employee benefit plans, each of which has been identified to the Company in writing pursuant to this clause (g); or
+(h) the Source does not include assets of any employee benefit plan, other than a plan exempt from the coverage of ERISA.
+As used in this Section 6.2, the terms “employee benefit plan”, “governmental plan” and “separate account” shall have the respective meanings assigned to such terms in Section 3 of ERISA.
+SECTION 7.Information as to Company.
+Reference is made to the Form of Bond included in the Form of Supplemental Indenture attached as Exhibit A hereto for the provisions relating to information and visitation rights of the Trustee and/or the holders of the Bonds, as applicable.
+SECTION 8.Payment and Prepayment of the Bonds
+14
+AmericasActive:13347863.5
+
+Reference is made to the Form of Bond included in the Form of Supplemental Indenture attached as Exhibit A hereto for the agreements relating to the payment and prepayment of the Bonds made by the Company with the Trustee for the benefit of the holders of the Bonds.
+SECTION 9.Affirmative Covenants
+So long as any of the Bonds are outstanding, the Company covenants that it will abide by, maintain and keep all covenants made by it in the Mortgage to the Trustee for the benefit of the holders of the Bonds, including the covenants set forth in Article VIII of the Mortgage. In addition, so long as any of the Bonds are outstanding, the Company covenants as follows:
+Section 9.1. Compliance with Laws. Without limiting Section 10.3, the Company will, and will cause each of its Subsidiaries to, comply with all laws, ordinances or governmental rules or regulations to which each of them is subject (including ERISA, Environmental Laws, the USA PATRIOT Act and the other laws and regulations that are referred to in Section 5.16) and will obtain and maintain in effect all licenses, certificates, permits, franchises and other governmental authorizations necessary to the ownership of their respective properties or to the conduct of their respective businesses, in each case to the extent necessary to ensure that non-compliance with such laws, ordinances or governmental rules or regulations or failures to obtain or maintain in effect such licenses, certificates, permits, franchises and other governmental authorizations would not, individually or in the aggregate, reasonably be expected to have a Material Adverse Effect.
+SECTION 10.Negative Covenants
+So long as any of the Bonds are outstanding, the Company covenants that it will abide by, maintain and keep all covenants made by it in the Mortgage to the Trustee for the benefit of the holders of the Bonds, including the covenants set forth in Article VIII of the Mortgage. In addition, so long as any of the Bonds are outstanding, the Company covenants as follows:
+Section 10.1. Transactions with Affiliates. The Company will not, and will not permit any Subsidiary to, enter into directly or indirectly any Material transaction or Material group of related transactions (including the purchase, lease, sale or exchange of properties of any kind or the rendering of any service) with any Affiliate (other than the Company or another Subsidiary), except pursuant to the reasonable requirements of the Company’s or such Subsidiary’s business and upon fair and reasonable terms no less favorable to the Company or such Subsidiary than would be obtainable in a comparable arm’s-length transaction with a Person not an Affiliate.
+Section 10.2. Line of Business. The Company will not and will not permit any Subsidiary to engage in any business if, as a result, the general nature of the business in which the Company and its Subsidiaries, taken as a whole, would then be engaged would be substantially changed from the general nature of the business in which the Company and its Subsidiaries, taken as a whole, are engaged on the date of this Agreement as described in the Memorandum.
+15
+AmericasActive:13347863.5
+
+Section 10.3. Economic Sanctions, Etc. The Company will not, and will not permit any Controlled Entity to (a) become (including by virtue of being owned or controlled by a Blocked Person), own or control a Blocked Person or (b) directly or indirectly have any investment in or engage in any dealing or transaction (including any investment, dealing or transaction involving the proceeds of the Bonds) with any Person if such investment, dealing or transaction (i) would cause any holder or any affiliate of such holder to be in violation of, or subject to sanctions under, any law or regulation applicable to such holder, or (ii) is prohibited by or subject to sanctions under any U.S. Economic Sanctions Laws.
+Section 10.4. Withholding. Except as otherwise required by applicable law, the Company agrees that it will not withhold from any applicable payment to be made to a holder of a Bond that is not a United States Person (as defined in Section 7701(a)(30) of the Code) any tax so long as such holder shall have delivered to the Company (in such number of copies as shall be requested) on or about the date on which such holder becomes a holder under this Agreement (and from time to time thereafter upon the reasonable request of the Company), executed copies of IRS Form W-8BEN or IRS Form W-8BEN-E, as applicable, as well as the applicable U.S. Tax Compliance Certificate substantially in the form attached as Exhibit 10.4, in both cases correctly completed and executed.
+SECTION 11.Events of Default
+Reference is made to Section 65 of the Mortgage for Events of Default. An Event of Default shall also exist if any of the following conditions or events shall occur and be continuing:
+(a) default in the payment of the Make-Whole Amount, if any, on any Bond when the same shall have become due and payable;
+(b) any representation or warranty made in writing by or on behalf of the Company or by any officer of the Company in this Agreement or any writing furnished in connection with the transactions contemplated hereby proves to have been false or incorrect in any material respect on the date as of which made; or
+(c) one or more final judgments or orders for the payment of money aggregating in excess of $50,000,000 (or its equivalent in the relevant currency of payment), including any such final order enforcing a binding arbitration decision, are rendered against one or more of the Company and its Significant Subsidiaries and which judgments are not, within 60 days after entry thereof, bonded, discharged or stayed pending appeal, or are not discharged within 60 days after the expiration of such stay; or
+(d) if (i) any Plan shall fail to satisfy the minimum funding standards of ERISA or the Code for any plan year or part thereof or a waiver of such standards or extension of any amortization period is sought or granted under section 412 of the Code, (ii) a notice of intent to terminate any Plan shall have been or is reasonably expected to be filed with the PBGC or the PBGC shall have instituted proceedings under ERISA section 4042 to terminate or appoint a trustee to administer any Plan or the PBGC shall have notified the Company or any ERISA Affiliate that a Plan may become a subject of any such proceedings, (iii) there is any “amount of
+16
+AmericasActive:13347863.5
+
+unfunded benefit liabilities” (within the meaning of section 4001(a)(18) of ERISA) under one or more Plans, determined in accordance with Title IV of ERISA, (iv) the aggregate present value of accrued benefit liabilities under all funded Non-U.S. Plans exceeds the aggregate current value of the assets of such Non-U.S. Plans allocable to such liabilities, (v) the Company or any ERISA Affiliate shall have incurred or is reasonably expected to incur any liability pursuant to Title I or IV of ERISA or the penalty or excise tax provisions of the Code relating to employee benefit plans, (vi) the Company or any ERISA Affiliate withdraws from any Multiemployer Plan, (vii) the Company establishes or amends any employee welfare benefit plan that provides post-employment welfare benefits in a manner that would increase the liability of the Company thereunder, (viii) the Company fails to administer or maintain a Non-U.S. Plan in compliance with the requirements of any and all applicable laws, statutes, rules, regulations or court orders or any Non-U.S. Plan is involuntarily terminated or wound up, or (ix) the Company becomes subject to the imposition of a financial penalty (which for this purpose shall mean any tax, penalty or other liability, whether by way of indemnity or otherwise) with respect to one or more Non-U.S. Plans; and any such event or events described in clauses (i) through (ix) above, either individually or together with any other such event or events, would reasonably be expected to have a Material Adverse Effect. As used in this Section 11(e), the terms “employee benefit plan” and “employee welfare benefit plan” shall have the respective meanings assigned to such terms in section 3 of ERISA.
+SECTION 12.Remedies on Default, Etc.
+Reference is made to Sections 65 through 82 of the Mortgage for the remedies available to the holders of Bonds upon an Event of Default and other related provisions.
+Upon any Bonds becoming due and payable under Article XII of the Mortgage, whether automatically or by declaration, such Bonds will forthwith mature and the entire unpaid principal amount of such Bonds, plus (x) all accrued and unpaid interest thereon (including interest accrued thereon at the Default Rate) and (y) the Make-Whole Amount determined in respect of such principal amount, shall all be immediately due and payable, in each and every case without presentment, demand, protest or further notice, all of which are hereby waived. The Company acknowledges, and the parties hereto agree, that each holder of a Bond has the right to maintain its investment in the Bonds free from repayment by the Company (except as herein specifically provided for) and that the provision for payment of a Make-Whole Amount by the Company in the event that the Bonds are prepaid or are accelerated as a result of an Event of Default, is intended to provide compensation for the deprivation of such right under such circumstances.
+SECTION 13.Registration; Exchange; Substitution of Bonds
+So long as any of the Bonds are outstanding, the Company covenants that it will abide by, maintain and keep all agreements relating to the registration, exchange and substitution of the Bonds made by it in the Mortgage to the Trustee for the benefit of the holders of the Bonds, including the covenants set forth in Article II of the Mortgage.
+SECTION 14.Payments on Bonds.
+17
+AmericasActive:13347863.5
+
+Section 14.1. Place of Payment. Payments of principal, Make-Whole Amount, if any, and interest becoming due and payable on the Bonds shall be made in accordance with the terms and provisions of the Mortgage.
+Section 14.2. Home Office Payment. So long as any Purchaser or its nominee shall be the holder of any Bond and such Purchaser or its nominee shall have given written notice to the Trustee requesting that the provisions of this Section 14.2 apply (such notice hereby given in Schedule A to this Agreement), and notwithstanding anything contained in Section 14.1, the Company will pay all sums becoming due on such Bond for principal, Make-Whole Amount, if any, interest and all other amounts becoming payable hereunder by the method and at the address specified for such purpose below such Purchaser’s name in Schedule A, or by such other method (reasonably acceptable to the Trustee) or at such other address as such Purchaser shall have from time to time specified to the Trustee in writing for such purpose, without the presentation or surrender of such Bond. Each Purchaser hereby agrees that (i) before any sale or other transfer by such Purchaser or its nominee of any Bond in respect of which any principal payments or prepayments have been made in the manner provided in this Section 14.2, such Purchaser or its nominee, respectively, will present such Bond to the Trustee in exchange for a new Bond or Bonds and in a principal amount equal to the unpaid principal amount of such Bond and (ii) promptly following payment in full of any Bond thereby, such Purchaser, its nominee or a subsequent Institutional Investor will promptly surrender such Bond to the Trustee for cancellation. The Company will afford the benefits of this Section 14.2 to any Institutional Investor that is the direct or indirect transferee of any Bond purchased by a Purchaser under this Agreement and that has made the same agreement relating to such Bond as such Purchaser has made in this Section 14.2. Upon receiving payment as specified above without the presentation or surrender of any Bond, such Purchaser, its nominee or a subsequent Institutional Investor shall be deemed to have agreed to indemnify the Trustee for, and to hold it harmless against, any loss, liability or expense incurred without gross negligence, willful misconduct or bad faith on its part, arising out of or in connection with such Purchaser’s, its nominee’s or such subsequent Institutional Investor’s failure to comply with the provisions of this Section 14.2, including the costs of defending itself in connection therewith, such indemnity to survive the payment of such Bond and any resignation or removal of the Trustee. Each holder of a Bond, by its acceptance of a Bond, will be deemed to have agreed to be bound by and to be entitled to the benefits of this Section 14.2 as though it were a party to this Agreement.
+SECTION 15.Expenses, Etc.
+Section 15.1. Transaction Expenses. Whether or not the transactions contemplated hereby are consummated, the Company will pay (and indemnify the Purchasers for) all costs and expenses (including reasonable attorneys’ fees of a single special counsel hired by the Purchasers and, if reasonably required by the Required Holders, local or other counsel) incurred by the Purchasers, and each other holder of a Bond in connection with such transactions (including in connection with the filing or recordation of all financing statements and instruments as may be required by the Purchasers or the Trustee in connection with this Agreement or any Bond Document, or any amendment thereto, including, without limitation, all documentary stamps, recordation and transfer taxes and other costs and taxes incident to recordation of any document
+18
+AmericasActive:13347863.5
+
+or instrument in connection herewith) and in connection with any amendments, waivers or consents under or in respect of this Agreement or the Bonds (whether or not such amendment, waiver or consent becomes effective), including: (a) the costs and expenses incurred in enforcing or defending (or determining whether or how to enforce or defend) any rights under this Agreement, the other Bond Documents or the Bonds or in responding to any subpoena or other legal process or informal investigative demand issued in connection with this Agreement, the other Bonds Documents or the Bonds, or by reason of being a holder of any Bond, (b) the costs and expenses, including financial advisors’ fees, incurred in connection with the insolvency or bankruptcy of the Company or in connection with any work-out or restructuring of the transactions contemplated hereby and by the Bonds and (c) the costs and expenses incurred in connection with the initial filing of this Agreement and all related documents and financial information with the SVO provided, that such costs and expenses under this clause (c) shall not exceed $3,500. If required by the NAIC, the Company shall obtain and maintain at its own cost and expense a Legal Entity Identifier (LEI). The Company will pay, and will save each Purchaser harmless from, all claims in respect of any fees, costs or expenses, if any, of brokers and finders (other than those retained by the Purchasers). The Company agrees to save harmless and indemnify each Purchaser from and against any liability resulting from the failure to reimburse such Purchaser for any required documentary stamps, recordation and transfer taxes, recording costs, or any other expenses incurred by such Purchaser in connection with this Agreement which are required by the terms of this Agreement to be paid or reimbursed by the Company.
+Section 15.2. Survival. The obligations of the Company under this Section 15 will survive the payment or transfer of any Bond, the enforcement, amendment or waiver of any provision of this Agreement, the Bonds or any other Bond Document, and the termination of this Agreement.
+SECTION 16.Survival of Representations and Warranties; Entire Agreement.
+All representations and warranties contained herein shall survive the execution and delivery of this Agreement, the Bonds and the other Bond Documents, the purchase or transfer by any Purchaser of any Bond or portion thereof or interest therein and the payment of any Bond, and may be relied upon by any subsequent holder of a Bond, regardless of any investigation made at any time by or on behalf of such Purchaser or any other holder of a Bond. All statements contained in any certificate or other instrument delivered by or on behalf of the Company pursuant to this Agreement or the other Bond Documents shall be deemed representations and warranties of the Company under this Agreement. Subject to the preceding sentence, this Agreement, the Bonds and the other Bond Documents embody the entire agreement and understanding between each Purchaser and the Company and supersede all prior agreements and understandings relating to the subject matter hereof.
+SECTION 17.Amendment and Waiver.
+Section 17.1. Requirements. In addition to and not in limitation of any rights of a holder of a Security to amend or waive any provision of the Mortgage, or consent to an amendment or waiver thereof, this Agreement may be amended, and the observance of any term hereof may be
+19
+AmericasActive:13347863.5
+
+waived (either retroactively or prospectively), with (and only with) the written consent of the Company and the Required Holders, except that (a) no amendment or waiver of any of the provisions of Section 1, 2, 3, 4, 5, 6 or 21 hereof, or any defined term (as it is used therein), will be effective as to any Purchaser unless consented to by such Purchaser in writing, and (b) no amendment or waiver may, without the written consent of the holder of each Bond at the time outstanding, reduce the rate or change the time of payment or method of computation of the Make-Whole Amount or amend any of Sections 17 or 20.
+Section 17.2. Solicitation of Holders of Bonds.
+(a) Solicitation. The Company will provide each holder of the Bonds (and, until the Closing provided for in Section 3, each Purchaser) (irrespective of the amount of Bonds then owned by it) with sufficient information, sufficiently far in advance of the date a decision is required as set forth in Article XVIII of the Mortgage, to enable such holder (and Purchaser, if applicable) to make an informed and considered decision with respect to any proposed amendment, waiver or consent in respect of any of the provisions hereof or of the Bond Documents. The Company will deliver executed or true and correct copies of each amendment, waiver or consent effected pursuant to the provisions of this Section 17 to each holder (and Purchaser, if applicable) of outstanding Bonds promptly following the date on which it is executed and delivered by, or receives the consent or approval of, the requisite holders (and Purchasers, if applicable) of Bonds.
+(b) Payment. The Company will not directly or indirectly pay or cause to be paid any remuneration, whether by way of supplemental or additional interest, fee or otherwise, or grant any security or provide other credit support, to any holder of Bonds (and, until the Closing provided for in Section 3, each Purchaser) as consideration for or as an inducement to the entering into by any holder (and Purchaser, if applicable) of Bonds or any waiver or amendment of any of the terms and provisions hereof or any Bond unless such remuneration is concurrently paid, or security is concurrently granted or other credit support is concurrently granted, on the same terms, ratably to each holder (and Purchaser, if applicable) of Bonds then outstanding even if such holder (or Purchaser, if applicable) did not consent to such waiver or amendment.
+(c) Consent in Contemplation of Transfer. Any consent given pursuant to this Section 17 by a holder of a Bond that has transferred or has agreed to transfer its Bond to (i) the Company, (ii) any Subsidiary or any other Affiliate or (iii) any other Person in connection with, or in anticipation of, such other Person acquiring, making a tender offer for or merging with the Company and/or any of its Affiliates, in each case in connection with such consent, shall be void and of no force or effect except solely as to such holder, and any amendments effected or waivers granted or to be effected or granted that would not have been or would not be so effected or granted but for such consent (and the consents of all other holders of Bonds that were acquired under the same or similar conditions) shall be void and of no force or effect except solely as to such holder.
+Section 17.3. Binding Effect, Etc. Any amendment or waiver consented to as provided in this Section 17 applies equally to all Purchasers and holders of Bonds and is binding upon
+20
+AmericasActive:13347863.5
+
+them and upon each future holder of any Bond and upon the Company without regard to whether such Bond has been marked to indicate such amendment or waiver. No such amendment or waiver will extend to or affect any obligation, covenant, agreement, Default or Event of Default not expressly amended or waived or impair any right consequent thereon. No course of dealing between the Company and any Purchaser or holder of any Bond nor any delay in exercising any rights hereunder or under any Bond shall operate as a waiver of any rights of any Purchaser or holder of such Bond. As used herein, the term “this Agreement’ and references thereto shall mean this Agreement as it may from time to time be amended or supplemented.
+Section 17.4. Bonds Held by Company, Etc. Solely for the purpose of determining whether the holders of the requisite percentage of the aggregate principal amount of Bonds then outstanding approved or consented to any amendment, waiver or consent to be given under this Agreement or have directed the taking of any action provided herein to be taken upon the direction of the holders of a specified percentage of the aggregate principal amount of Bonds then outstanding, Bonds directly or indirectly owned by the Company or any of its Affiliates shall be deemed not to be outstanding.
+Section 17.5. Governing Documents. Anything in this Agreement to the contrary notwithstanding, any amendment, supplement or other modification of or to the Bonds, the Supplemental Indenture and/or the Mortgage, or any waiver of any covenant or other obligation thereunder or of any Default or Event of Default set forth therein, and the effect of any thereof, shall be governed solely by the provisions of the Mortgage.
+SECTION 18.Notices.
+All notices and communications provided for hereunder shall be in writing and sent (a) by telecopy if the sender on the same day sends a confirming copy of such notice by a recognized overnight delivery service (charges prepaid), or (b) by registered or certified mail with return receipt requested (postage prepaid), or (c) by a recognized overnight delivery service (with charges paid by the sender). Any such notice must be sent:
+(i) if to any Purchaser or its nominee, to such Purchaser or nominee at the address specified for such communications in Schedule A to this Agreement, or at such other address as such Purchaser or nominee shall have specified to the Company in a notice that satisfies the requirements of this Section 18,
+(ii) if to any other holder of any Bond, to such holder at such address as such other holder shall have specified to the Company in a notice that satisfies the requirements of this Section 18, or
+(iii) if to the Company, to the Company at its address set forth at the beginning hereof to the attention of Phillip S. Barnett, or at such other address as the Company shall have specified to the holder of each Bond in a notice that satisfies the requirements of this Section 18.
+Notices under this Section 18 will be deemed given only when actually received.
+21
+AmericasActive:13347863.5
+
+SECTION 19.Reproduction of Documents.
+This Agreement and all documents relating thereto, including, without limitation, (a) consents, waivers and modifications that may hereafter be executed, (b) documents received by such Purchaser at the Closing (except the Bonds themselves), and (c) financial statements, certificates and other information previously or hereafter furnished to any Purchaser, may be reproduced by such Purchaser by any photographic, photostatic, electronic, digital or other similar process and such Purchaser may destroy any original document so reproduced. The Company agrees and stipulates that, to the extent permitted by applicable law, any such reproduction shall be admissible in evidence as the original itself in any judicial or administrative proceeding (whether or not the original is in existence and whether or not such reproduction was made by such Purchaser in the regular course of business) and any enlargement, facsimile or further reproduction of such reproduction shall likewise be admissible in evidence. This Section 19 shall not prohibit the Company or any other holder of Bonds from contesting any such reproduction to the same extent that it could contest the original, or from introducing evidence to demonstrate the inaccuracy of any such reproduction.
+SECTION 20.Confidential Information.
+For the purposes of this Section 20, “Confidential Information” means information delivered to any Purchaser by or on behalf of the Company in connection with the transactions contemplated by or otherwise pursuant to this Agreement or the Bond Documents that is proprietary in nature and that was clearly marked or labeled or otherwise adequately identified when received by such Purchaser as being confidential information of the Company, provided that such term does not include information that (a) was publicly known or otherwise known to such Purchaser prior to the time of such disclosure, (b) subsequently becomes publicly known through no act or omission by such Purchaser or any Person acting on such Purchaser’s behalf, (c) otherwise becomes known to such Purchaser other than through disclosure by the Company or (d) constitutes financial statements delivered to such Purchaser that are otherwise publicly available. Each Purchaser will maintain the confidentiality of such Confidential Information in accordance with procedures adopted by such Purchaser in good faith to protect confidential information of third parties delivered to such Purchaser, provided that such Purchaser may deliver or disclose Confidential Information to (i) its directors, trustees, officers, employees, agents, attorneys and affiliates (to the extent such disclosure reasonably relates to the administration of the investment represented by its Bonds), (ii) its auditors, financial advisors and other professional advisors who agree to hold confidential the Confidential Information substantially in accordance with this Section 20, (iii) any other holder of any Bond or the Trustee, (iv) any Institutional Investor to which it sells or offers to sell such Bond or any part thereof or any participation therein (if such Person has agreed in writing prior to its receipt of such Confidential Information to be bound by the provisions of this Section 20), (v) any federal or state regulatory authority having jurisdiction over such Purchaser, (vi) the National Association of Insurance Commissioners or any similar organization, or any nationally recognized rating agency that requires access to information about such Purchaser’s investment portfolio or (vii) any other Person to which such delivery or disclosure may be necessary or appropriate (w) to effect compliance with any law, rule, regulation or order applicable to such
+22
+AmericasActive:13347863.5
+
+Purchaser, (x) in response to any subpoena or other legal process, (y) in connection with any litigation to which such Purchaser is a party or (z) if an Event of Default has occurred and is continuing, to the extent such Purchaser may reasonably determine such delivery and disclosure to be necessary or appropriate in the enforcement or for the protection of the rights and remedies under such Purchaser’s Bonds, this Agreement or the other Bond Documents. Each holder of a Bond, by its acceptance of a Bond, will be deemed to have agreed to be bound by and to be entitled to the benefits of this Section 20 as though it were a party to this Agreement. On reasonable request by the Company in connection with the delivery to any holder of a Bond of information required to be delivered to such holder under this Agreement or requested by such holder (other than a holder that is a party to this Agreement or its nominee), such holder will enter into an agreement with the Company embodying the provisions of this Section 20.
+In the event that as a condition to receiving access to information relating to the Company in connection with the transactions contemplated by or otherwise pursuant to this Agreement, any Purchaser or holder of a Bond is required to agree to a confidentiality undertaking (whether through IntraLinks, another secure website, a secure virtual workspace or otherwise) which is different from this Section 20, this Section 20 shall not be amended thereby and, as between such Purchaser or such holder and the Company, this Section 20 shall supersede any such other confidentiality undertaking.
+SECTION 21.Substitution of Purchaser.
+Each Purchaser shall have the right to substitute any one of its Affiliates or another Purchaser or any one of such other Purchaser’s Affiliates (a “Substitute Purchaser”) as the purchaser of the Bonds that it has agreed to purchase hereunder, by written notice to the Company, which notice shall be signed by both such Purchaser and such Substitute Purchaser, shall contain such Substitute Purchaser’s agreement to be bound by this Agreement and shall contain a confirmation by such Substitute Purchaser of the accuracy with respect to it of the representations set forth in Section 6. Upon receipt of such notice, any reference to such Purchaser in this Agreement (other than in this Section 21), shall be deemed to refer to such Substitute Purchaser in lieu of such original Purchaser. In the event that such Substitute Purchaser is so substituted as a Purchaser hereunder and such Substitute Purchaser thereafter transfers to such original Purchaser all of the Bonds then held by such Substitute Purchaser, upon receipt by the Company of notice of such transfer, any reference to such Substitute Purchaser as a “Purchaser” in this Agreement (other than in this Section 21), shall no longer be deemed to refer to such Substitute Purchaser, but shall refer to such original Purchaser, and such original Purchaser shall again have all the rights of an original holder of the Bonds under this Agreement and the other Bond Documents.
+SECTION 22.Miscellaneous.
+Section 22.1. Successors and Assigns. All covenants and other agreements contained in this Agreement by or on behalf of any of the parties hereto bind and inure to the benefit of their respective successors and assigns (including, without limitation, any subsequent holder of a Bond) whether so expressed or not, except that, subject to Section 122 of the Mortgage, the Company may not assign or otherwise transfer any of its rights or obligations
+23
+AmericasActive:13347863.5
+
+hereunder or under the Bonds without the prior written consent of each holder. Nothing in this Agreement, expressed or implied, shall be construed to confer upon any Person (other than the parties hereto and their respective successors and assigns permitted hereby) any legal or equitable right, remedy or claim under or by reason of this Agreement.
+Section 22.2. Severability. Any provision of this Agreement that is prohibited or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of such prohibition or unenforceability without invalidating the remaining provisions hereof, and any such prohibition or unenforceability in any jurisdiction shall (to the full extent permitted by law) not invalidate or render unenforceable such provision in any other jurisdiction.
+Section 22.3. Construction. Each covenant contained herein shall be construed (absent express provision to the contrary) as being independent of each other covenant contained herein, so that compliance with any one covenant shall not (absent such an express contrary provision) be deemed to excuse compliance with any other covenant. Where any provision herein refers to action to be taken by any Person, or which such Person is prohibited from taking, such provision shall be applicable whether such action is taken directly or indirectly by such Person.
+Defined terms herein shall apply equally to the singular and plural forms of the terms defined. Whenever the context may require, any pronoun shall include the corresponding masculine, feminine and neuter forms. The words “include,” “includes” and “including” shall be deemed to be followed by the phrase “without limitation.” The word “will” shall be construed to have the same meaning and effect as the word “shall.” Unless the context requires otherwise (a) any definition of or reference to any agreement, instrument or other document herein shall be construed as referring to such agreement, instrument or other document as from time to time amended, supplemented or otherwise modified (subject to any restrictions on such amendments, supplements or modifications set forth herein) and, for purposes of the Bonds, shall also include any such notes issued in substitution therefor pursuant to Section 13, (b) subject to Section 22.1, any reference herein to any Person shall be construed to include such Person’s successors and assigns, (c) the words “herein,” “hereof” and “hereunder,” and words of similar import, shall be construed to refer to this Agreement in its entirety and not to any particular provision hereof, (d) all references herein to Sections and Schedules shall be construed to refer to Sections of, and Schedules to, this Agreement, and (e) any reference to any law or regulation herein shall, unless otherwise specified, refer to such law or regulation as amended, modified or supplemented from time to time.
+Section 22.4. Counterparts. This Agreement may be executed in any number of counterparts, each of which shall be an original but all of which together shall constitute one instrument. Each counterpart may consist of a number of copies hereof, each signed by less than all, but together signed by all, of the parties hereto.
+Section 22.5. Governing Law. This Agreement shall be construed and enforced in accordance with, and the rights of the parties shall be governed by, the law of the State of New York excluding choice-of-law principles of the law of such State that would require the application of the laws of a jurisdiction other than such State.
+24
+AmericasActive:13347863.5
+
+Section 22.6. Jurisdiction and Process; Waiver of Jury Trial. (a) Each of the Company and each holder of a Bond irrevocably submits to the non-exclusive jurisdiction of any New York State or federal court sitting in the Borough of Manhattan, The City of New York, over any suit, action or proceeding arising out of or relating to this Agreement, but excluding the Bonds or the other Bond Documents. To the fullest extent permitted by applicable law, each of the Company and each holder of a Bond irrevocably waives and agrees not to assert, by way of motion, as a defense or otherwise, any claim that it is not subject to the jurisdiction of any such court, any objection that it may now or hereafter have to the laying of the venue of any such suit, action or proceeding brought in any such court and any claim that any such suit, action or proceeding brought in any such court has been brought in an inconvenient forum.
+(b) Nothing in this Section 22.6 shall affect the right of the Company or any holder of a Bond to serve process in any manner permitted by law, or limit any right that the Company or the holders of any of the Bonds may have to bring proceedings against the other in the courts of any appropriate jurisdiction or to enforce in any lawful manner a judgment obtained in one jurisdiction in any other jurisdiction.
+(c) The Company consents to process being served by or on behalf of any holder of Bonds, and each holder of a Bond consents to process being served by or on behalf of the Company, in any suit, action or proceeding of the nature referred to in Section 22.6(a) by mailing a copy thereof by registered or certified mail (or any substantially similar form of mail), postage prepaid, return receipt requested, to it at its address specified in Section 18 or at such other address of which such Person shall then have been notified pursuant to said Section. The Company and each holder of a Bond agrees that such service upon receipt (i) shall be deemed in every respect effective service of process upon it in any such suit, action or proceeding and (ii) shall, to the fullest extent permitted by applicable law, be taken and held to be valid personal service upon and personal delivery to it. Notices hereunder shall be conclusively presumed received as evidenced by a delivery receipt furnished by the United States Postal Service or any reputable commercial delivery service.
+(d) The Company and each holder of a Bond agrees, to the fullest extent permitted by applicable law, that a final judgment in any suit, action or proceeding of the nature referred to in Section 22.6(a) brought in any such court shall be conclusive and binding upon it subject to rights of appeal, as the case may be, and may be enforced in the courts of the United States of America or the State of New York (or any other courts to the jurisdiction of which it or any of its assets is or may be subject) by a suit upon such judgment.
+(e) THE PARTIES HERETO HEREBY WAIVE TRIAL BY JURY IN ANY ACTION BROUGHT ON OR WITH RESPECT TO THIS AGREEMENT, THE BONDS OR ANY OTHER DOCUMENT EXECUTED IN CONNECTION HEREWITH OR THEREWITH.
+(f) Each holder of a Bond, by its acceptance of a Bond, will be deemed to have agreed to be bound by and to be entitled to the benefits of this Section 21.6 as though it were a party to this Agreement.
+25
+AmericasActive:13347863.5
+
+[SIGNATURE PAGES FOLLOW]
+
+26
+AmericasActive:13347863.5
+
+The execution hereof by the Purchasers shall constitute a contract among the Company and the Purchasers for the uses and purposes hereinabove set forth. This Agreement may be executed in any number of counterparts, each executed counterpart constituting an original but all together only one agreement.
+Very truly yours,
+ATLANTIC CITY ELECTRIC COMPANY
+By
+Name: Phillip S. Barnett
+Title: Senior Vice President, Chief Financial Officer and Treasurer
+
+
+AmericasActive:13347863.5
+
+The foregoing is hereby agreed
+to as of the date thereof.
+[PURCHASER]
+By
+Name:
+Title:
+
+
+
+AmericasActive:13347863.5
+
+SCHEDULE A
+INFORMATION RELATING TO PURCHASERS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AmericasActive:13347863.5
+
+SCHEDULE B
+DEFINED TERMS
+As used herein, the following terms have the respective meanings set forth below or set forth in the Section hereof following such term:
+“Accounting Controls” is defined in Section 5.20(a)(i).
+“Affiliate” means, at any time, and with respect to any Person, any other Person that at such time directly or indirectly through one or more intermediaries Controls, or is Controlled by, or is under common Control with, such first Person. Unless the context otherwise clearly requires, any reference to an “Affiliate” is a reference to an Affiliate of the Company.
+“Agreement” means this Bond Purchase Agreement dated as of June 9, 2020.
+“Anti-Corruption Laws” means any law or regulation in a U.S. or any non-U.S. jurisdiction regarding bribery or any other corrupt activity, including the U.S. Foreign Corrupt Practices Act and the U.K. Bribery Act 2010.
+“Anti-Money Laundering Laws” means any law or regulation in a U.S. or any non-U.S. jurisdiction regarding money laundering, drug trafficking, terrorist-related activities or other money laundering predicate crimes, including the Currency and Foreign Transactions Reporting Act of 1970 (otherwise known as the Bank Secrecy Act) and the USA PATRIOT Act.
+“Blocked Person” means (a) a Person whose name appears on the list of Specially Designated Nationals and Blocked Persons published by OFAC, (b) a Person, entity, organization, country or regime that is blocked or a target of sanctions that have been imposed under U.S. Economic Sanctions Laws or (c) a Person that is an agent, department or instrumentality of, or is otherwise beneficially owned by, controlled by or acting on behalf of, directly or indirectly, any Person, entity, organization, country or regime described in clause (a) or (b).
+“Bond Documents” shall mean this Agreement, the Bonds, the Supplemental Indenture, the Mortgage and all amendments, supplements and other modifications thereto.
+“Bonds” is defined in Section 1.
+“Business Day” means any day other than a Saturday, a Sunday or a day on which commercial banks in New York, New York are required or authorized to be closed.
+“Closing” is defined in Section 3.
+“Code” means the Internal Revenue Code of 1986 and the rules and regulations promulgated thereunder from time to time in effect.
+“Company” means Atlantic City Electric Company, a New Jersey corporation.
+Schedule B
+(to Bond Purchase Agreement)
+AmericasActive:13347863.5
+
+“Confidential Information” is defined in Section 20.
+“Control” means the possession, directly or indirectly, of the power to direct or cause the direction of the management and policies of a Person, whether through the ownership of voting securities, by contract or otherwise; and the terms “Controlled” and “Controlling” shall have meanings correlative to the foregoing.
+“Controlled Entity” means (i) any of the Subsidiaries of the Company and any of their or the Company’s respective Controlled Affiliates and (ii) if the Company has a parent company, such parent company and its Controlled Affiliates.
+“Default” means an event or condition the occurrence or existence of which would, with the lapse of time or the giving of notice or both, become an Event of Default.
+“Default Rate” means that rate of interest per annum that is 2.00% per annum above the rate of interest specified in the title of the Bonds.
+“Disclosure Controls” is defined in Section 5.19(a)(ii).
+“Disclosure Documents” is defined in Section 5.3.
+“Environmental Laws” is defined in Section 5.18.
+“ERISA” means the Employee Retirement Income Security Act of 1974 and the rules and regulations promulgated thereunder from time to time in effect.
+“ERISA Affiliate” means any trade or business (whether or not incorporated) that is treated as a single employer together with the Company under Section 414 of the Code.
+“Event of Default” means an event or condition which constitutes a “completed default” within the meaning of the Mortgage and each event described in Section 11.
+“Exchange Act” means the Securities Exchange Act of 1934 and the rules and regulations promulgated thereunder from time to time in effect.
+“Exchange Act Reports” mean (i) the Company’s Annual Report on Form 10-K for the year ended December 31, 2019, including all exhibits thereto, and (ii) all other reports filed by the Company pursuant to Section 13(a) or Section 15(d) of the Exchange Act since December 31, 2019.
+“GAAP” means generally accepted accounting principles as in effect from time to time in the United States of America.
+“Governmental Authority” means
+(a) the government of
+B-2
+AmericasActive:13347863.5
+
+(i) the United States of America or any State or other political subdivision thereof, or
+(ii) any other jurisdiction in which the Company or any Subsidiary conducts all or any part of its business, or which asserts jurisdiction over any properties of the Company or any Subsidiary, or
+(b) any entity exercising executive, legislative, judicial, regulatory or administrative functions of, or pertaining to, any such government.
+“Governmental Official” means any governmental official or employee, employee of any government-owned or government-controlled entity, political party, any official of a political party, candidate for political office, official of any public international organization or anyone else acting in an official capacity.
+“Hazardous Materials” is defined in Section 5.18.
+“holder” means, with respect to any Bond, the Person in whose name such Bond is registered in the register maintained for the Bonds pursuant to the Mortgage, provided, however, that if such Person is a nominee, then for the purposes of Sections 17.2 and 18 and any related definitions in this Schedule A, “holder” shall mean the beneficial owner of such Bond whose name and address appears in such register.
+“Indebtedness” means all indebtedness of the Company which is required to be included on the consolidated balance sheet of the Company as a liability in accordance with GAAP.
+“INHAM Exemption” is defined in Section 6.2(e).
+“Institutional Investor” means (a) any original Purchaser of a Bond, (b) any holder of a Bond holding (together with one or more of its Affiliates) more than $1,000,000 in aggregate principal amount of the Bonds then outstanding, (c) any bank, trust company, savings and loan association or other financial institution, any pension plan, any investment company, any insurance company, any broker or dealer, or any other similar financial institution or entity, regardless of legal form, and (d) and Related Fund of any holder of any Bond.
+“Internal Controls” is defined in Section 5.19(a)(iii).
+“Lien” is defined in Section 5.2(d).
+“Make-Whole Amount” is defined in the Supplemental Indenture.
+“Material” means material in relation to the business, results of operations, financial condition, assets or properties of the Company and its Subsidiaries, if any, taken as a whole.
+“Material Adverse Effect” means a material adverse effect on (a) the business, results of operations, financial condition, assets or properties of the Company and its Subsidiaries, if any, taken as a whole, or (b) the ability of the Company to perform its obligations under this
+B-3
+AmericasActive:13347863.5
+
+Agreement, the Bonds, the Mortgage or any other Bond Document, or (c) the validity or enforceability of this Agreement, the Bonds, the Mortgage or any other Bond Document.
+“Memorandum” is defined in Section 5.3.
+“Mortgage” is defined in Section 1.
+“Multiemployer Plan” means any Plan that is a “multiemployer plan” (as such term is defined in Section 4001(a)(3) of ERISA).
+“NAIC Annual Statement” is defined in Section 6.2(a).
+“Non-U.S. Plan” means any plan, fund or other similar program that (a) is established or maintained outside the United States of America by the Company or any Subsidiary primarily for the benefit of employees of the Company or one or more Subsidiaries residing outside the United States of America, which plan, fund or other similar program provides, or results in, retirement income, a deferral of income in contemplation of retirement or payments to be made upon termination of employment, and (b) is not subject to ERISA or the Code.
+“OFAC” mean the Office of Foreign Assets Control of the United States Department of the Treasury.
+“OFAC Sanctions Program” means any economic or trade sanction that OFAC is responsible for administering and enforcing. A list of OFAC Sanctions Programs may be found at http://www.treasury.gov/resource-center/sanctions/Programs/Pages/Programs.aspx.
+“Officer’s Certificate” means a certificate of a Senior Financial Officer or of any other officer of the Company whose responsibilities extend to the subject matter of such certificate.
+“Person” means an individual, partnership, corporation, limited liability company, association, trust, unincorporated organization, business entity or Governmental Authority.
+“Plan” means an “employee benefit plan” (as defined in Section 3(3) of ERISA) that is or, within the preceding five years, has been established or maintained, or to which contributions are or, within the preceding five years, have been made or required to be made, by the Company or any ERISA Affiliate or with respect to which the Company or any ERISA Affiliate may have any liability.
+“property” or “properties” means, unless otherwise specifically limited, real or personal property of any kind, tangible or intangible, choate or inchoate.
+“PTE” is defined in Section 6.2(a).
+“Purchasers” means the Purchasers named in Schedule A hereto.
+“QPAM Exemption” is defined in Section 6.2(d).
+B-4
+AmericasActive:13347863.5
+
+“Related Fund” means, with respect to any holder of any Bond, any fund or entity that (a) invests in securities (as defined in Section 2(a)(1) of the Securities Act) or bank loans, and (b) is advised or managed by such holder, the same investment advisor as such holder or by an affiliate of such holder or such investment advisor.
+“Reporting Controls” is defined in Section 5.19(a)(iii).
+“Required Holders” means, at any time, (i) prior to the Closing, the Purchasers and (ii) on or after the Closing, the holders of more than 50% in principal amount of the Bonds at the time outstanding (exclusive of Bonds then owned by the Company or any of its Affiliates).
+“Responsible Officer” means any Senior Financial Officer and any other officer of the Company with responsibility for the administration of the relevant portion of this Agreement.
+“SEC” means the United States Securities and Exchange Commission.
+“Securities Act” means the Securities Act of 1933 and the rules and regulations promulgated thereunder from time to time in effect.
+“Senior Financial Officer” means the chief financial officer, principal accounting officer, treasurer or comptroller of the Company.
+“Significant Subsidiary” means any Subsidiary of the Company which constitutes a “significant subsidiary” as defined in Rule 1-02 of Regulation S-X of the rules and regulations of the Securities Act.
+“Source” is defined in Section 6.2.
+“State Sanctions List” means a list that is adopted by any state Governmental Authority within the United States of America pertaining to Persons that engage in investment or other commercial activities in Iran or any other country that is a target of economic sanctions imposed under U.S. Economic Sanctions Laws.
+“Subsidiary” means, as to any Person, any other Person in which such first Person or one or more of its Subsidiaries or such first Person and one or more of its Subsidiaries owns sufficient equity or voting interests to enable it or them (as a group) ordinarily, in the absence of contingencies, to elect a majority of the directors (or Persons performing similar functions) of such second Person, and any partnership or joint venture if more than a 50% interest in the profits or capital thereof is owned by such first Person or one or more of its Subsidiaries or such first Person and one or more of its Subsidiaries (unless such partnership or joint venture can and does ordinarily take major business actions without the prior approval of such Person or one or more of its Subsidiaries). Unless the context otherwise clearly requires, any reference to a “Subsidiary” is a reference to a Subsidiary of the Company.
+“Supplemental Indenture” is defined in Section 1.
+“Trustee” is defined in Section 1.
+B-5
+AmericasActive:13347863.5
+
+“U.S. Economic Sanctions Laws” means those laws, executive orders, enabling legislation or regulations administered and enforced by the United States pursuant to which economic sanctions have been imposed on any Person, entity, organization, country or regime, including the Trading with the Enemy Act, the International Emergency Economic Powers Act, the Iran Sanctions Act, the Sudan Accountability and Divestment Act and any other OFAC Sanctions Program.
+
+B-6
+AmericasActive:13347863.5
+
+SCHEDULE 5.3
+DISCLOSURE DOCUMENTS
+None.
+
+Schedule 5.3
+(to Bond Purchase Agreement)
+AmericasActive:13347863.5
+
+EXHIBIT A
+FORM OF SUPPLEMENTAL INDENTURE
+See attached.
+
+Exhibit A
+(to Bond Purchase Agreement)
+AmericasActive:13347863.5
+
+EXHIBIT 4.4(a)
+FORM OF OPINION OF BALLARD SPAHR LLP
+The Purchasers of Atlantic City Electric Company
+$100,000,000 First Mortgage Bonds, 3.24% SERIES DUE JUNE 9, 2050
+
+named in Schedule I attached hereto (collectively, the “Purchasers”)
+
+Ladies and Gentlemen:
+
+We have acted as counsel to Atlantic City Electric Company, a New Jersey corporation (the “Company”), in connection with the issuance and sale by the Company of $100,000,000 aggregate principal amount of its First Mortgage Bonds, 3.24% Series due June 9, 2050 (the “Bonds”) pursuant to the Bond Purchase Agreement, dated as of June 9, 2020 (the “Bond Purchase Agreement”), among the Company and the Purchasers. The Bonds will be issued under will be issued under the Mortgage and Deed of Trust, dated January 15, 1937, from the Company to The Bank of New York Mellon (formerly Irving Trust Company), as trustee (the “Trustee”), as amended and supplemented through the date hereof and as further amended and supplemented by the Indenture Supplemental to the Mortgage and Deed of Trust, dated as of June 1, 2020, relating to the issuance of the Bonds (the “Supplemental Indenture”) (such Mortgage and Deed of Trust, as so amended and supplemented, the “Mortgage”). This opinion is being delivered to you in accordance with Section 4.4(a) of the Bond Purchase Agreement. Unless otherwise defined herein, capitalized terms used herein have the respective meanings provided in the Bond Purchase Agreement.
+We have acted as counsel for the Company in connection with the preparation, execution and delivery of the Bond Purchase Agreement. In that capacity, we have examined the following:
+(i) the Bond Purchase Agreement;
+(ii) the Mortgage;
+(iii) the Bonds;
+(iv) the Restated Certificate and Articles of Incorporation of the Company (the “Articles”);
+(v) the Amended and Restated Bylaws of the Company (the “Bylaws”),
+(vi) certified resolutions of the board of directors of the Company;
+(vii) Good Standing Certificate, dated as of a recent date, from the New Jersey Department of the Treasury (the “Good Standing Certificate”);
+(viii) the Order of the New Jersey Board of Public Utilities dated [•], 2020; and
+Exhibit 4.4(a)
+(to Bond Purchase Agreement)
+AmericasActive:13347863.5
+
+(ix) a certificate of the Assistant Secretary of the Company dated the date hereof.
+We have also examined, and relied upon the accuracy of factual matters contained in, originals or copies, certified or otherwise identified to our satisfaction, of such other organizational records of the Company, certificates or comparable documents of public officials and of officers of the Company, and agreements, instruments and documents and have made such examinations of law as we have deemed necessary in connection with the opinions set forth below.
+We have assumed the legal capacity and competence of natural persons, the genuineness of all signatures, the authenticity of all documents submitted to us as originals and the conformity to original documents of documents submitted to us as certified, conformed, photostatic, electronic or facsimile copies. We have made no independent factual investigation other than as described above, and as to other factual matters, we have relied exclusively on the facts stated in the representations and warranties contained in the Bond Purchase Agreement (other than representations and warranties constituting conclusions of law on matters on which we opine). We have not examined any records of any court, administrative tribunal or other similar entity in connection with this opinion letter.
+When an opinion or confirmation is given to our knowledge, the relevant knowledge is limited to the actual contemporaneous knowledge of facts, without investigation, by the lawyer who is our current primary contact for the Company and the individual lawyers in this firm who have participated in the specific transaction to which this opinion letter relates.
+We have also assumed, without verification, (i) that each party to the Bond Purchase Agreement and the agreements, instruments and documents executed in connection therewith, other than the Company (each such party an “Other Party”), has the power (including, without limitation, corporate power where applicable) and authority to enter into and perform the Bond Purchase Agreement and such other agreements, instruments and documents, (ii) the due authorization, execution and delivery by each Other Party of the Bond Purchase Agreement and such other agreements, instruments and documents and (iii) that the Bond Purchase Agreement and such other agreements, instruments and documents constitute legal, valid and binding obligations of each Other Party, enforceable against such Other Party in accordance with their respective terms.
+Based upon the foregoing and subject to the assumptions, exceptions, limitations and qualifications set forth herein, we are of the opinion that:
+1. Based on the Good Standing Certificate, the Company is a corporation organized and in good standing under the laws of the State of New Jersey.
+2. The execution and delivery by the Company of the Bond Purchase Agreement, the Supplemental Indenture and the Bonds and the performance by the Company of its obligations under the Bond Purchase Agreement, the
+Exhibit 4.4(a)
+(to Bond Purchase Agreement)
+AmericasActive:13347863.5
+
+Mortgage and the Bonds (a) are within the Company’s corporate powers, (b) have been duly authorized by all necessary corporate action of the Company, (c) do not  violate the Articles or the Bylaws or  violate any present statute, rule or regulation promulgated by the United States or the State of New Jersey or any court decree that is known to us, (d) will not, as of the date hereof, breach or result in a default under the items listed in the Exhibit Index to the Company’s Annual Report on Form 10-K for the fiscal year ended December 31, 2019 and Forms 8-K filed with the United States Securities and Exchange Commission during the period between January 1, 2020 and the date hereof (collectively, the “34 Act Filings”) and (e) do not result in the creation or imposition of any lien, security interest or other charge or encumbrance upon or with respect to any property of the Company pursuant to any agreement or instrument referred to in clause (d), except security interests and liens created under the Mortgage.
+3. The Bond Purchase Agreement has been duly executed and delivered by the Company and constitutes a valid and binding obligation of the Company, enforceable against the Company in accordance with its terms, subject to bankruptcy, insolvency, fraudulent transfer, reorganization, moratorium and other laws of general applicability relating to or affecting creditors’ rights and to general equity principles.
+4. The Supplemental Indenture has been duly executed and delivered by the Company.
+5. The Mortgage constitutes a valid and binding obligation of the Company, enforceable against the Company in accordance with its terms, subject to bankruptcy, insolvency, fraudulent transfer, reorganization, moratorium and other laws of general applicability relating to or affecting creditors' rights and to general equity principles and except to the extent that the law of the jurisdictions in which the mortgaged property is located may limit or deny certain remedial provisions of the Mortgage.
+6. The Bonds are in the form contemplated by the Mortgage and have been duly executed by the Company, and when the Bonds have been (A) duly authenticated and delivered by the Trustee under the Mortgage and (B) issued and delivered by the Company against payment of the purchase price therefor as provided in the Bond Purchase Agreement, the Bonds will constitute valid and binding obligations of the Company, enforceable against the Company in accordance with their terms, subject to bankruptcy, insolvency, fraudulent transfer, reorganization, moratorium and other laws of general applicability relating to or affecting creditors’ rights and to general equity principles, and will be entitled to the benefits of the Mortgage.
+7. The New Jersey Board of Public Utilities has issued an order authorizing the Company to issue and sell the Bonds as contemplated by the Bond Purchase Agreement; such orders are in full force and effect and, to our knowledge, no proceeding has been initiated upon appeal from or to review the
+Exhibit 4.4(a)
+(to Bond Purchase Agreement)
+AmericasActive:13347863.5
+
+effectiveness of such orders. No other consent, approval, authorization or order of, or filing with, any state commission or regulatory authority or of any federal commission or regulatory authority, or of any other governmental agency or body, is required in connection with the transactions contemplated in the Bond Purchase Agreement, except as may be required under the blue sky or securities laws of any jurisdiction in connection with the purchase and sale of the Bonds by the Purchasers in the manner contemplated in the Bond Purchase Agreement.
+8. Based upon and assuming the accuracy of the representations and warranties set forth in the Bond Purchase Agreement, it is not necessary in connection with the issuance and sale to the Purchasers of the Bonds pursuant to the Bond Purchase Agreement to register the Bonds under the Securities Act of 1933, as amended or to qualify an indenture under the Trust Indenture Act of 1939, as amended.
+9. The Company is not, and, after giving effect to the offering and sale of the Bonds and the application of the proceeds thereof in accordance with the Bond Purchase Agreement, will not be required to register as an “investment company” under the Investment Company Act of 1940, as amended.
+10. The issuance and the sale of the Bonds by the Company and the use of the proceeds thereof as described in Section 5.14 of the Bond Purchase Agreement does not violate or conflict with Regulation T, U or X of the Board of Governors of the Federal Reserve System.
+We are not representing the Company in any pending litigation investigation or other proceeding against the Company or any of its properties, or in any litigation, investigation or other proceeding that is overtly threatened in writing against it or any of its properties by a potential claimant, that challenges the validity or enforceability of, or seeks to enjoin the performance of, the Bond Purchase Agreement, the Mortgage or the Bonds. We do not have knowledge of any litigation or governmental proceeding that is pending or threatened in writing against the Company that is required to be disclosed in the 34 Act Filings, other than those proceedings referred to in the 34 Act Filings.
+The foregoing opinions are subject to the following exceptions, limitations and qualifications:
+(a) We express no opinion herein as to: (a) whether any particular property is owned by the Company, (b) whether any property owned by the Company is subject to or affected by liens or encumbrances other than the Mortgage or (c) the priority of the lien of the Mortgage.
+(b) We express no opinion as to the application or requirements of state securities, patent, trademark, copyright, antitrust and unfair competition, pension or employee benefit, labor, environmental health and safety or tax laws in respect of the transactions contemplated by or referred to in the Bond Purchase Agreement.
+Exhibit 4.4(a)
+(to Bond Purchase Agreement)
+AmericasActive:13347863.5
+
+(c) We express no opinion as to (i) waivers of any statute of limitations; (ii) waivers of the benefits of statutory provisions or common law rights, including rights of notice, valuation, extension, redemption, reinstatement or stay; (iii) waivers of the right to counterclaim or cross-claim, to the extent that such counterclaim or cross-claim is mandatory or compulsory under applicable law or (iv) provisions requiring that amendments or waivers be in writing.
+We express no opinion as to the law of any jurisdiction other than the laws of the State of New Jersey, the State of New York and the federal law of the United States.
+This opinion is given solely for your benefit and may not be relied upon by any other person without our written consent, except that any institutional investor that becomes a registered holder (a “Holder”), as permitted by the transfer provisions of Section 13 of the Bond Purchase Agreement, of any Bonds purchased by a Purchaser under the Bond Purchase Agreement may rely on this opinion as of its date as if such opinion was addressed to such Holder and delivered to such Holder on the date hereof. This opinion may not be disclosed to any other person without our written consent; provided that the Purchasers may furnish a copy of this letter as required by the National Association of Insurance Commissioners and any state, federal or provincial authority or independent banking or insurance board or body having regulatory jurisdiction over a Purchaser in the exercise of their regulatory due diligence.
+This opinion letter is limited to the matters expressly stated herein. No implied opinion may be inferred to extend this opinion letter beyond the matters expressly stated herein. We do not undertake to advise you or anyone else of any changes in the opinions expressed herein resulting from changes in law, changes in facts or any other matters that hereafter might occur or be brought to our attention.
+
+Very truly yours,
+
+
+Exhibit 4.4(a)
+(to Bond Purchase Agreement)
+AmericasActive:13347863.5
+
+EXHIBIT 4.4(b)
+FORM OF OPINION OF GENERAL COUNSEL OF THE COMPANY
+
+The Purchasers of Atlantic City Electric Company
+First Mortgage Bonds, 3.24% Series due June 9, 2050
+named in Schedule I attached hereto
+Ladies and Gentlemen:
+Referring to the application made June [•], 2020 of Atlantic City Electric Company (the “Company”) for the authentication and delivery $100,000,000 aggregate principal amount of its First Mortgage Bonds, 3.24% Series due June 9, 2050 (the “Bonds”), pursuant to Section 4.4(b) of the Bond Purchase Agreement dated as of June 9, 2020 by and among the Company and the Purchasers named in Schedule I attached hereto, I advise you that, in my opinion:
+1.The issue of the Bonds has been duly authorized by the Company and by any and all governmental authorities, the consent of which is requisite to the legal issue of such bonds.
+2.Except as to paving, grading and other improvements to public highways or other public property, the Mortgage is a lien upon all property additions made the basis of the above mentioned request for the issuance of the Bonds, subject to no liens thereon prior to the lien of the Mortgage, except excepted encumbrances.
+3.The Company has corporate authority and all necessary permission from governmental authorities to own and operate the property additions made the basis of the above mentioned request for the issuance of the Bonds.
+4.There do not exist upon any of said property additions any prior liens, and there are no outstanding prior lien bonds.
+5.The Company has good title to all tracts and parcels of land included among the property additions made the basis of the above-mentioned application (except such as have been retired), subject only to such defects therein as the Company has power by appropriate legal proceedings to cure, or which, in my opinion, are inconsequential.
+6.As to such of the property additions made the basis of the above-mentioned application as consist of rights of way or easements or property additions located on property with respect to which the Company has only a right of way or easement, the Company is entitled to such rights of way or easements for an unlimited or indeterminate or indefinite period of time or for a period extending beyond the date of maturity of all of the Bonds applied for and also beyond the date of maturity of all bonds now outstanding under the Mortgage, or the Company has power under eminent domain or similar statutes to condemn and acquire such rights of way or rights of way adjacent thereto.
+Exhibit 4.4(b)
+(to Bond Purchase Agreement)
+AmericasActive:13347863.5
+
+
+7.As to such of the property additions made the basis of the above-mentioned application as consist of property additions located, under the terms of any permit or franchise granted by a governmental body, on property not owned by the Company, such permit or franchise is adequate for the operation of such property additions by the Company for an unlimited or indeterminate or indefinite period of time or for the periods specified in such permit or franchise or in the law under which it is held, and the terms of such permit or franchise, or the law under which they are held, do not contain any provisions giving to any public authority the right to take over such property additions without the payment of fair consideration therefor.
+8.All conditions precedent (including any covenants compliance with which constitutes a condition precedent) as specified in the Mortgage to the authentication and delivery of the Bonds have been complied with.
+I, or attorneys under my supervision, have reviewed all conditions precedent provided for in the Mortgage (including all covenants compliance with which constitutes a condition precedent) which relate to (i) the execution and delivery by the Trustee of the Supplemental Indenture and (ii) the authentication and delivery of the Bonds applied for and all documents and instruments referred to in this opinion (including the permits and franchises referred to in paragraph 7, above, and the instruments granting the rights of way and easements referred to in paragraph 6, above). In addition, I, or attorneys under my supervision, have reviewed the applicable laws of the United States of America and the State of New Jersey. I, or attorneys under my supervision, also have examined receipts or other evidence satisfactory to me or them with respect to the filings for recording mentioned in paragraph 1 above, and either title abstracts or certificates or insurance policies from title insurance companies secured at or after the acquisition of the land referred to in paragraph 5, above, or title examinations made and title opinions rendered in the past with respect to such lands by other attorneys regarded by me as competent. In my opinion, I have made such examination and investigation as is necessary to enable me to express an informed opinion as to whether such conditions and covenants have been complied with and, in my opinion, such conditions and covenants have been complied with.
+The terms used in this opinion which are defined in Article I of the Mortgage are used as therein defined.
+
+Very truly yours,
+Wendy E. Stark, Esq.
+Vice President and General Counsel
+
+
+
+
+
+
+
+Exhibit 4.4(b)
+(to Bond Purchase Agreement)
+AmericasActive:13347863.5
+
+EXHIBIT 4.4(c)
+FORM OF OPINION OF SPECIAL COUNSEL FOR THE PURCHASERS
+To the Purchasers listed on Schedule I
+attached hereto
+
+Re: Atlantic City Electric Company
+$100,000,000 First Mortgage Bonds, 3.24% Series due June 9, 2050
+
+Ladies and Gentlemen:
+We have acted as your special counsel in connection with (i) the issuance by Atlantic City Electric Company, a corporation organized and existing under the laws of the State of New Jersey (the “Issuer”), of $100,000,000 aggregate principal amount of its First Mortgage Bonds, 3.24% Series due June 9, 2050 (the “Bonds”) to be issued under and secured by the Mortgage and Deed of Trust, dated January 15, 1937 (the “Mortgage and Deed of Trust”), from the Company to The Bank of New York Mellon (formerly Irving Trust Company), as trustee (the “Trustee”), as amended and supplemented through the date hereof, including pursuant to the Indenture Supplemental to the Mortgage and Deed of Trust, dated as of June 1, 2020 (the “Supplemental Indenture”), and entitled to the benefits thereof, and (ii) the purchase by you pursuant to the Bond Purchase Agreement, dated as of June 9, 2020 (the “Bond Purchase Agreement”), by and among the Issuer and the Purchasers named therein of Bonds in the principal amounts set forth in Schedule A to the Bond Purchase Agreement. All capitalized terms used herein and not otherwise defined shall have the respective meanings ascribed thereto in the Bond Purchase Agreement. This opinion letter is delivered to you pursuant to Section 4.4(c) of the Bond Purchase Agreement.
+In rendering the opinions set forth herein, we have examined:
+(i) the Bond Purchase Agreement;
+(ii) the Bonds;
+(iii) the Mortgage and Deed of Trust;
+(iv) the Supplemental Indenture (the items identified in clauses (i) through (iv) are collectively hereinafter referred to as the “Transaction Documents”); and
+such other agreements, instruments and documents, and such questions of law as we have deemed necessary or appropriate to enable us to render the opinions expressed below. Additionally, we have examined originals or copies, certified to our satisfaction, of such certificates of public officials and officers of the Issuer, and we have made such inquiries of officers of the Issuer as we have deemed relevant or necessary, as the basis for the opinions set forth herein. As to questions of fact material to such opinions we have, when relevant facts were not independently established, relied upon the representations made in the Bond Purchase
+Exhibit 4.4(c)
+(to Bond Purchase Agreement)
+AmericasActive:13347863.5
+
+Agreement and the other Transaction Documents and upon certifications made by officers and other representatives of the Issuer.
+In rendering the opinions expressed below, we have, with your consent, assumed (i) that the Transaction Documents have been duly authorized, executed and delivered by each party thereto, (ii) that each Transaction Document (other than the Bond Purchase Agreement) is a valid and binding obligation of the Issuer enforceable against the Issuer in accordance with its terms, (iii) that the consummation of the transactions contemplated in the Transaction Documents has been duly authorized by the Issuer, (iv) the legal capacity of all natural persons executing documents, (v) that the signatures of persons signing all documents in connection with which this opinion letter is rendered are genuine, (vi) that all documents submitted to us as originals or duplicate originals are authentic and (vii) that all documents submitted to us as copies, whether certified or not, conform to authentic original documents. Additionally, we have, with your consent, assumed and relied upon, the following:
+(a) the accuracy and completeness of all certificates and other statements, documents, records, financial statements and papers reviewed by us, and the accuracy and completeness of all representations, warranties, schedules and exhibits contained in the Transaction Documents, with respect to the factual matters set forth therein;
+(b) all parties to the documents reviewed by us are duly organized, validly existing and in good standing under the laws of their respective jurisdictions of incorporation or formation and under the laws of all jurisdictions where they are conducting their businesses or otherwise required to be so qualified, and have full power and authority to execute, deliver and perform under such documents and all such documents have been duly authorized, executed and delivered by such parties; and
+(c) because a claimant bears the burden of proof required to support its claims, the Purchasers will undertake the effort and expense necessary to fully present their claims in the prosecution of any right or remedy accorded the Purchasers under the Transaction Documents.
+Based upon the foregoing and subject to the qualifications, limitations and comments stated herein, we are of the opinion that:
+1.The Bond Purchase Agreement constitutes the valid and binding obligations of the Issuer and is enforceable against the Issuer in accordance with its terms.
+2.It was not necessary in connection with the offering, issuance, sale and delivery of the Bonds, under the circumstances contemplated by the Bond Purchase Agreement, to register said Bonds under the Securities Act of 1933, as amended, or to qualify an indenture in respect of said Bonds under the Trust Indenture Act of 1939, as amended.
+3.Neither the execution or delivery by the Issuer of the Transaction Documents nor the performance by the Issuer of its obligations thereunder requires the consent or approval of, or any filing or registration with, any governmental body, agency or authority of the State of New York or the United States of America other than any consents, approvals or filings required in
+Exhibit 4.4(c)
+(to Bond Purchase Agreement)
+AmericasActive:13347863.5
+
+connection with the exercise by any Purchaser of certain remedies under the Transaction Documents to the extent required pursuant to the terms thereof.
+4.Each of the opinion letters dated today of (a) Ballard Spahr LLP, counsel to the Issuer, and delivered to you pursuant to Section 4.4(a) of the Bond Purchase Agreement and (b) Wendy E. Stark, Esq., Vice President and General Counsel of the Issuer, and delivered to you pursuant to Section 4.4(b) of the Bond Purchase Agreement, is satisfactory to us in form and scope with respect to the matters covered thereby and in our opinion you are justified in relying thereon.
+The opinions as expressed herein are subject to the following qualifications, limitations and comments:
+        (a) the enforceability of the Bond Purchase Agreement is and the respective obligations of the Issuer thereunder and the availability of certain rights and remedial provisions provided for in the Bond Purchase Agreement are subject to (1) the effect of bankruptcy, fraudulent conveyance or transfer, insolvency, reorganization, arrangement, liquidation, conservatorship, and moratorium laws, (2) limitations imposed by other laws and judicial decisions relating to or affecting the rights of creditors or secured creditors generally and (3) general principles of equity (regardless of whether enforcement is considered in proceedings at law or in equity), upon the availability of injunctive relief or other equitable remedies, including, without limitation, where: (A) the breach of such covenants or provisions imposes restrictions or burdens upon a debtor and it cannot be demonstrated that the enforcement of such remedies, restrictions or burdens is reasonably necessary for the protection of a creditor; (B) a creditor’s enforcement of such remedies, covenants or provisions under the circumstances, or the manner of such enforcement, would violate such creditor’s implied covenant of good faith and fair dealing, or would be commercially unreasonable; or (C) a court having jurisdiction finds that such remedies, covenants or provisions were, at the time made, or are in application, unconscionable as a matter of law or contrary to public policy;
+        (b) as to our opinions set forth in paragraph 1 hereof, we express no opinion as to the enforceability of cumulative remedies to the extent such cumulative remedies purport to or would have the effect of compensating the party entitled to the benefits thereof in amounts in excess of the actual loss suffered by such party;
+        (c) we express no opinion as to the validity, binding effect or enforceability of any indemnification provisions of the Bond Purchase Agreement to the extent such obligations are contrary to applicable law or public policy or require an indemnification of a party for its own actions or inactions, to the extent such action or inaction involves gross negligence, recklessness, willful misconduct or unlawful conduct;
+        (d) requirements in the Bond Purchase Agreement specifying that provisions thereof may only be waived in writing may not be valid, binding or enforceable to the extent that an oral agreement or an implied agreement by trade practice or course of conduct has been created modifying any provision of such documents;
+Exhibit 4.4(c)
+(to Bond Purchase Agreement)
+AmericasActive:13347863.5
+
+        (e) we express no opinion with respect to the validity, binding effect or enforceability of any purported waiver, release or disclaimer under the Bond Purchase Agreement relating to (i) statutory or equitable rights and defenses of the parties which are not subject to waiver, release or disclaimer, or (ii) rights or claims of, or duties owing to, the parties (including, without limitation, any waiver, release or disclaimer of any provision of the Uniform Commercial Code of the State of New York (the “Code”) to the extent limited by Sections 1-102(3), 9-207 and 9-602 of the Code or other provisions of applicable law, or to the extent such rights, claims and duties otherwise exist as a matter of law except to the extent the parties have effectively waived, released or disclaimed such rights, claims or duties in accordance with Section 9-602 of the Code or other applicable law;
+        (f) we express no opinion with respect to the applicability or effect of federal or state anti-trust, tax and, except as to matters covered in paragraph 2, securities or “blue sky” laws with respect to the transactions contemplated by the Transaction Documents;
+        (g) we express no opinion regarding the severability of any provision contained in the Bond Purchase Agreement;
+        (h) we express no opinion with respect to the validity, binding effect or enforceability of any provision of the Bond Purchase Agreement (i) purporting to establish consent to jurisdiction, insofar as it purports to confer subject matter jurisdiction on a United States District Court to adjudicate any controversy relating to the Bond Purchase Agreement in any circumstance in which such court would not have subject matter jurisdiction, (ii) the waiver of inconvenient forum with respect to proceedings in such United States District Court or (iii) the waiver of the right to jury trial; and
+        (i) in rendering the opinions expressed in paragraph 2 hereof, we have assumed the accuracy of the representations and warranties of the Purchasers in the Bond Purchase Agreement and representations by each of Mizuho Securities USA LLC and Scotia Capital (USA) Inc. as to, inter alia, the number of offerees of the Bonds. Further, we have assumed that no form of general solicitation or general advertising was used or will be used in connection with the offering of the Bonds.
+The opinions expressed herein are based upon and are limited to the laws of the State of New York and the laws of the United States of America and we express no opinion with respect to the laws of any other state, jurisdiction or political subdivision. The opinions expressed herein based on the laws of the State of New York and the United States of America are limited to the laws generally applicable in transactions of the type covered by the Transaction Documents.
+Our opinions set forth in this letter are based upon the facts in existence and laws in effect on the date hereof and we expressly disclaim any obligation to update our opinions herein, regardless of whether changes in such facts or laws come to our attention after the delivery hereof.
+This opinion letter is rendered only to the Purchasers and is solely for their benefit in connection with the execution and delivery of the Bonds and for the benefit of any institutional
+Exhibit 4.4(c)
+(to Bond Purchase Agreement)
+AmericasActive:13347863.5
+
+investor transferee of the Bonds; provided that any such transfer of the Bonds is made and consented to in accordance with the express provisions of Section 13 of the Bond Purchase Agreement, on the condition and understanding that (i) this opinion letter speaks only as of the date hereof, (ii) we have no responsibility or obligation to update this letter, to consider its applicability or correctness to other than its addressee(s), or to take into account changes in law, facts or any other developments of which we may later become aware, and (iii) any such reliance by a future transferee must be actual and reasonable under the circumstances existing at the time of transfer, including any changes in law, facts or any other developments known to or reasonably knowable by the transferee at such time. This opinion letter may not be relied upon in any manner by any other person and may not be disclosed, quoted, filed with a governmental agency or otherwise referred to without our prior written consent, except that the Purchasers (a) may deliver a copy of this opinion letter to such institutional investor transferee and (b) may furnish a copy of this opinion letter to applicable regulatory authorities or as may otherwise be required by law, court order or subpoena.
+Very truly yours,
+
+
+Exhibit 4.4(c)
+(to Bond Purchase Agreement)
+AmericasActive:13347863.5
+
+Exhibit 10.4
+FORM OF U.S. TAX COMPLIANCE CERTIFICATE
+
+        Reference is hereby made to the Bond Purchase Agreement dated as of June 9, 2020 (as amended, supplemented or otherwise modified from time to time, the “Bond Purchase Agreement”), among Atlantic City Electric Company and the Purchasers that are signatories thereto.
+        Unless otherwise defined herein, capitalized terms defined in the Bond Purchase Agreement and used herein have the meanings given to them in the Bond Purchase Agreement.
+        Pursuant to the provisions of Section 10.4 of the Bond Purchase Agreement, the undersigned hereby certifies that:
+(i)it is the sole record and beneficial owner of the Bond(s) in respect of which it is providing this certificate;
+(ii)it is not a bank within the meaning of Section 881(c)(3)(A) of the Code;
+(iii)it is not a ten percent shareholder of the Company within the meaning of Section 871(h)(3)(B) of the Code; and
+(iv)it is not a controlled foreign corporation related to the Company as described in Section 881(c)(3)(C) of the Code.
+        The undersigned has furnished the Issuer with a certificate of its non-U.S. Person status on IRS W-8BEN.
+
+[NAME OF HOLDER]
+By:
+
+Name:
+
+Title:
+Date: , 2020
+
+
+Exhibit 10.4
+(to Bond Purchase Agreement)
+AmericasActive:13347863.5

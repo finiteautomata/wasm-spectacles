@@ -1,0 +1,186 @@
+EX-10.2 3 ex102sif-jpmcreditagreemen.htm EXHIBIT 10.2 2ND AMENDMENT
+
+Execution Version
+
+SECOND AMENDMENT TO CREDIT AGREEMENT
+
+THIS SECOND AMENDMENT TO CREDIT AGREEMENT, dated as of December 17, 2018 (this "Amendment"), is by and among SIFCO Industries, Inc., an Ohio corporation (“SIFCO”), T & W Forge, LLC, an Ohio limited liability company (“T & W”), and Quality Aluminum Forge, LLC, an Ohio limited liability company (“Quality Forge” and, together with SIFCO and T & W, collectively, the “Borrowers” and each, individually, a “Borrower”), any other Loan Parties party hereto, and JPMorgan Chase Bank, N.A., a national banking association (the “Lender”).
+
+RECITALS
+
+A.    The Borrowers, any other Loan Parties party thereto, and the Lender are parties to a Credit Agreement dated as of August 8, 2018, as amended (as amended and as it may be further amended or modified from time to time, the “Credit Agreement”).
+
+B.    The Borrowers and the other Loan Parties desire to amend the Credit Agreement, and the Lender is willing to do so in accordance with the terms hereof.
+
+TERMS
+
+In consideration of the premises and of the mutual agreements herein contained, the parties agree as follows:
+
+ARTICLE I. AMENDMENTS. Upon fulfillment of the conditions set forth in Article III hereof, the Credit Agreement is amended as follows:
+
+1.1    Section 3.16 of the Credit Agreement is restated as follows:
+
+Section 3.16. Security Interest in Collateral. The provisions of the Collateral Documents when executed and delivered create legal and valid Liens on all of the Collateral in favor of the Lender, for the benefit of the Secured Parties, and such Liens constitute perfected and continuing Liens on the Collateral, securing the Secured Obligations, enforceable against the applicable Loan Party (except as enforceability may be limited by equitable principles or by bankruptcy, insolvency, reorganization, moratorium or similar laws relating to or limiting creditors’ rights generally), and having priority over all other Liens on the Collateral except in the case of (a) Permitted Encumbrances and other Liens permitted by Section 6.02, to the extent any such Liens would have priority over the Liens in favor of the Lender pursuant to any applicable law or agreement, (b) Liens perfected only by possession (including possession of any certificate of title) or control to the extent the Lender has not obtained or does not maintain possession or control of such Collateral, and (c) Liens on Ex-Im Priority Collateral pursuant to the Intracreditor Agreement, which are junior only to the Liens of the Lender in the Ex-Im Priority Collateral.
+
+1.2    The references to “Eligible Inventory” in Section 5.02(e), Section 5.16(b), and clause (g)(iii) of the Reporting Schedule of the Credit Agreement are replaced with references to “Eligible Inventory and Eligible Export-Related Inventory”.
+
+1.3    The references to “Eligible Accounts” in clause (g)(iii) of the Reporting Schedule of the Credit Agreement are replaced with references to “Eligible Accounts and Eligible Export-Related Accounts”.
+
+1
+
+
+
+1.4    Section 6.02(a) is restated as follows:
+
+(a)    Liens securing any of the Secured Obligations;
+
+1.5    The following paragraph is added to the end of Article VII of the Credit Agreement:
+
+Notwithstanding anything to contrary in this Agreement, any other Loan Document, the Export Credit Agreement or any document executed in connection therewith, any event that would constitute an “Event of Default” (as defined in the Export Credit Agreement) under the Export Credit Agreement solely as a result of one or more of the Borrowers failing to comply with a term in an Ex-Im Bank Document (as defined in the Export Credit Agreement) that differs from the corresponding term in this Agreement or any other Loan Document, and does not otherwise constitute an Event of Default hereunder, shall not constitute an Event of Default hereunder.
+
+1.6    The following definitions in the Definitions Schedule of the Credit Agreement are restated as follows:
+
+“Increased Borrowing Base Reporting Period” means the period commencing on the day on which Combined Availability, as calculated by the Lender, which calculation shall be deemed correct absent manifest error, is less than 12.5% of the Combined Commitments, and ending on the day on which Combined Availability, as calculated by the Lender, which calculation shall be deemed correct absent manifest error, is equal to or greater than 12.5% of the Combined Commitments for thirty (30) consecutive days.
+
+“Secured Obligations” means all Obligations, together with all (i) Ex-Im Obligations, (ii) Banking Services Obligations, and (iii) Swap Agreement Obligations owing to the Lender or its Affiliates; provided, however, that the definition of “Secured Obligations” shall not create any guarantee by any Loan Guarantor of (or grant of security interest by any Loan Guarantor to support, as applicable) any Excluded Swap Obligations of such Loan Guarantor for purposes of determining any obligations of any Loan Guarantor.
+
+1.7    The following new definitions are added to the Definitions Schedule of the Credit Agreement in proper alphabetical order:
+
+“Combined Availability” means (i) Availability, plus (ii) “Availability” as defined in the Export Credit Agreement.
+
+“Combined Commitments” means (i) the Revolving Commitment, plus (ii) the “Revolving Commitment” as defined in the Export Credit Agreement.
+
+“Eligible Export-Related Accounts” has the meaning given thereto in the Export Credit Agreement.
+
+“Eligible Export-Related Inventory” has the meaning given thereto in the Export Credit Agreement.
+
+“Ex-Im Obligations” means the Obligations, as defined in the Export Credit Agreement.
+
+“Ex-Im Priority Collateral” has the meaning given thereto in the Intracreditor Agreement.
+
+2
+
+
+
+“Export Credit Agreement” means the Export Credit Agreement dated as of [December __, 2018] among the Borrowers, the other Loan Parties party thereto, and the Lender, as may be as may be amended, modified, or restated from time to time.
+
+“Export-Related Account” has the meaning given thereto in the Export Credit Agreement.
+
+“Export-Related Inventory” has the meaning given thereto in the Export Credit Agreement.
+
+“Intracreditor Agreement” means the Intracreditor Subordination Agreement dated as of the date hereof by the Lender.
+
+“Wyman Gordon Share Repurchase” means the one time repurchase by the Company of 20,636 shares of its Equity Interests held by Wyman Gordon. For purposes of calculating Fixed Charges, the amount of the Wyman Gordon Share Repurchase shall be the lesser of (i) the amount actually paid by the Company for the repurchase of such shares, and (ii) $70,000.
+
+1.8    Clause (l) of the definition of “Eligible Accounts” in the Borrowing Base Schedule of the Credit Agreement is restated as follows:
+
+(l) which is an Export-Related Account;
+
+1.9    Clause (r) of the definition of “Eligible Inventory” in the Borrowing Base Schedule of the Credit Agreement is re-lettered as clause (s), and the following new clause (r) is added to the definition of “Eligible Inventory” in the Borrowing Base Schedule of the Credit Agreement:
+
+(r) which is Export-Related Inventory; or
+
+1.10    Section 14 of the Terms Schedule is restated as follows:
+
+14.    Field Examinations and Appraisals (Section 8.03):
+
+So long as no Event of Default has occurred or exists during such calendar year, the Loan Parties shall not be obligated to reimburse the Lender for more than the number of appraisals and field examinations set forth below during any calendar year:
+
+Field Examinations - One per calendar year, unless Combined Availability is less than 12.5% of the Combined Commitments at any time during such calendar year, in which case the Lender may require additional field examinations.
+
+Inventory Appraisals - One per calendar year, unless Combined Availability is less than 12.5% of the Combined Commitments at any time during such calendar year, in which case the Lender may require additional inventory appraisals.
+
+Equipment Appraisals – One per calendar year, unless Combined Availability is less than 12.5% of the Combined Commitments at any time during such calendar year, in which case the Lender may require additional equipment appraisals.
+
+1.11    The reference to “Availability” in clause (f) of the Reporting Schedule of the Credit Agreement is replaced with a reference to “Availability or Combined Availability”.
+
+3
+
+
+
+1.12    The definition of “Fixed Charges” in the Financial Covenants Schedule of the Credit Agreement is restated as follows:
+
+“Fixed Charges” means, for any period, without duplication, cash Interest Expense, plus prepayments (excluding prepayments to a Revolving Loan) and scheduled principal payments on Indebtedness made during such period, plus expense for taxes paid in cash, plus Restricted Payments paid in cash other than the Wyman Gordon Share Repurchase, plus Capital Lease Obligation payments, plus cash contributions to any Plan, all calculated for the Company and its Domestic Subsidiaries on a consolidated basis in accordance with GAAP but without giving effect to their Foreign Subsidiaries; provided that, notwithstanding the foregoing, cash Interest Expense and scheduled principal payments on Indebtedness for periods prior to the Effective Date shall be adjusted in a manner acceptable to the Lender to eliminate any such amounts attributable to Indebtedness paid in full on the Effective Date.
+
+1.13    Clause (B) of the definition of “Payment Condition” in the Financial Covenants Schedule of the Credit Agreement is restated as follows:
+
+(B) immediately after giving effect to and at all times during the 30-day period immediately prior to such Restricted Payment, the Borrowers shall have (1) Combined Availability calculated on a pro forma basis after giving effect to such Restricted Payment of not less than 20% of the Combined Commitments and (2) a Fixed Charge Coverage Ratio for the trailing twelve months calculated on a pro forma basis after giving effect to such Restricted Payment of not less than 1.25 to 1.00; and
+
+1.14    Section (B)(i) of the Financial Covenants Schedule of the Credit Agreement is restated as follows:
+
+(i)    Fixed Charge Coverage Ratio. The Borrowers will not permit the Fixed Charge Coverage Ratio to be less than 1.1 to 1.0 as of the last day of any calendar month; provided that the Fixed Charge Coverage Ratio will not be tested unless (i) a Default has occurred and is continuing or (ii) Combined Availability was less than or equal to 12.5% of the Combined Commitments for three or more Business Days in any consecutive 30 day period (with the Fixed Charge Coverage Ratio calculated as of the end of the month for which the Lender has most recently received financial statements).
+
+1.15    Section 3.06 to the Disclosure Certificate is replaced with Schedule 3.06 attached hereto.
+    ARTICLE II. REPRESENTATIONS. Each Loan Party represents and warrants to the Lender that:
+
+2.1    This Amendment has been duly executed and delivered by such Loan Party and constitutes a legal, valid and binding obligation of such Loan Party, enforceable in accordance with its terms, subject to applicable bankruptcy, insolvency, reorganization, moratorium or other laws affecting creditors' rights generally and subject to general principles of equity, regardless of whether considered in a proceeding in equity or at law.
+
+2.2    After giving effect to this Amendment, the representations and warranties contained in Article III of the Credit Agreement and in the other Loan Documents are true in all material respects on and as of the date hereof with the same force and effect as if made on and as of the date hereof (it being understood and agreed that any representation or warranty which by its terms is made as of a specified date shall be
+
+4
+
+
+required to be true and correct in all material respects only as of such specified date, and that any representation or warranty which is subject to any materiality qualifier shall be required to be true and correct in all respects).
+
+2.3    After giving effect to this Amendment, no Default exists or has occurred and is continuing, and no Default will be caused after giving effect to this Amendment.
+
+ARTICLE III. CONDITIONS OF EFFECTIVENESS. This Amendment shall become effective as of the date hereof when each of the following conditions is satisfied:
+    3.1    The Borrowers and the Lender shall have signed this Amendment.
+
+3.2    The Lender shall have received the executed Export Credit Agreement and all documents required to be delivered thereunder.
+
+3.3    The Lender shall have received such other documents, if any, as the Lender may request.
+
+ARTICLE IV. MISCELLANEOUS.
+
+4.1    References in the Credit Agreement or in any other Loan Document to the Credit Agreement shall be deemed to be references to the Credit Agreement as amended hereby, as amended previously and as further amended from time to time.
+
+4.2    Except as expressly amended hereby, the Loan Parties agree that the Credit Agreement and all other Loan Documents are ratified and confirmed, as amended hereby, and shall remain in full force and effect in accordance with their terms and that they have no set off, counterclaim, defense or other claim or dispute with respect to any of the foregoing. The amendment contained herein shall not be construed as a waiver or amendment of any other provision of the Credit Agreement or the other Loan Documents or for any purpose except as expressly set forth herein.
+
+4.3    Capitalized terms used but not defined herein shall have the respective meanings ascribed thereto in the Credit Agreement. This Amendment shall be governed by and construed in accordance with the internal laws and not the law of conflicts of the State of Ohio, but giving effect to federal laws applicable to national banks. This Amendment is a Loan Document. This Amendment may be signed upon any number of counterparts with the same effect as if the signatures thereto and hereto were upon the same instrument, and telecopied signatures or signatures sent by other electronic imaging shall be effective as originals.
+
+
+5
+
+
+
+IN WITNESS WHEREOF, the parties signing this Amendment have caused this Amendment to be executed and delivered as of the day and year first above written.
+
+BORROWERS:
+
+SIFCO INDUSTRIES, INC.
+
+
+By:/s/ Tom Kubera_____________________________
+Name: Tom Kubera
+Title: Chief Financial Officer
+
+T & W FORGE, LLC
+
+
+By:/s/ Tom Kubera_____________________________
+Name: Tom Kubera
+Title: Treasurer
+
+QUALITY ALUMINUM FORGE, LLC
+
+
+By:/s/ Tom Kubera_____________________________
+Name: Tom Kubera
+Title: Treasurer
+
+
+SIFCO Second Amendment Signature Page
+
+
+
+ LENDER:
+
+JPMORGAN CHASE BANK, N.A.
+
+
+By: /s/ Matthew McLuckey _____________________
+Name: Matthew McLuckey
+Title: Authorized Officer
+
+SIFCO Second Amendment Signature Page

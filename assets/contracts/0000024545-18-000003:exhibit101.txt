@@ -1,0 +1,115 @@
+EX-10.1 2 exhibit101.htm EXHIBIT 10.1
+
+EXHIBIT 10.1
+
+SETTLEMENT AGREEMENT
+THIS SETTLEMENT AGREEMENT (this “Settlement Agreement”) is made and entered into as of January 21, 2018 (the “Effective Date”) by and between ANHEUSER-BUSCH INBEV SA/NV, a public company organized under the laws of Belgium (“ABI”), and MOLSON COORS BREWING COMPANY, a Delaware corporation (“MCBC”). ABI and MCBC are referred to herein as a “Party” and collectively as the “Parties”. Capitalized terms used but not otherwise defined herein shall have the meanings assigned to such terms in the Purchase Agreement (as defined below).
+WHEREAS, ABI and MCBC are parties to that certain Purchase Agreement, dated as of November 11, 2015 (as amended by that certain Amendment No. 1 to Purchase Agreement, dated as of March 25, 2016, and that certain Amendment No. 2 to Purchase Agreement, dated as of October 3, 2016, collectively, the “Purchase Agreement”);
+WHEREAS, (A) ABI delivered to MCBC the Closing Income Statement and Closing Statement on February 8, 2017 pursuant to Section 2.02(b)(i) of the Purchase Agreement, (B) MCBC delivered a Notice of Disagreement to ABI on April 7, 2017 following a 60-day review period pursuant to Section 2.02(b)(ii) of the Purchase Agreement, and (C) ABI and MCBC submitted the items in dispute with respect to the Adjustment Amount to an independent, nationally recognized accounting, consulting or valuation firm mutually selected by ABI and MCBC on or about July 12, 2017 pursuant to Section 2.02(b)(iii) the Purchase Agreement (the “Arbiter”), for which a final determination of the Adjustment Amount (if any) is pending (such dispute, the “Purchase Price Adjustment Dispute”);
+WHEREAS, MCBC delivered to ABI a Notice of Dispute, dated as of March 17, 2017, under the Colombia License Agreement, dated as of October 11, 2016, among MCI Investments LLC, Coors Brewing Company d/b/a Molson Coors International, MCBC, Bavaria S.A., Cerveceria del Valle S.A. and ABI, into which the parties entered pursuant to Section 5.10 of the Purchase Agreement, and certain related correspondence dated as of August 2, 2017 and August 22, 2017 (the matters asserted, identified or described in such Notice of Dispute and related correspondence, the “Colombia Dispute”);
+WHEREAS, ABI and MCBC have respectively concluded that it would be in their best interests to enter into this Settlement Agreement to avoid the uncertainties and risks of complex arbitration, litigation or similar dispute resolution processes; and
+
+WHEREAS, arm’s-length settlement negotiations have taken place between ABI and MCBC, including with the assistance of counsel, and ABI and MCBC now desire to enter into this Settlement Agreement upon the terms and conditions set forth in this Settlement Agreement, which embodies all of the terms and conditions of the settlement between ABI and MCBC in respect of the matters specified herein;
+NOW, THEREFORE, in consideration of the foregoing and any and all covenants, representations, warranties and agreements contained herein, as well as other good and valuable consideration, including the Settlement Amount (as defined below), the sufficiency of which is hereby acknowledged, the Parties agree as follows:
+1.Payment of Settlement Amount. In connection with the settlement of the matters specified herein, ABI hereby agrees to make payment to MCBC, by wire transfer in immediately available funds to an account designated in writing to ABI by MCBC, of an amount equal to $330,000,000 (the “Settlement Amount”) on or prior to January 26, 2018.
+2.Agreement on Adjustment Amount. Pursuant to and in accordance with Section 2.02 of the Purchase Agreement, the Parties hereby irrevocably and unconditionally agree that the Adjustment Amount shall be equal to $328,000,000 and that this Settlement Agreement constitutes the final resolution of all matters specified in the Notice of Disagreement and shall be final and binding upon the Parties. Following receipt of the Settlement Amount, the Parties hereby agree to promptly jointly notify the Arbiter in the Purchase Price Adjustment Dispute that the Parties have finally and fully resolved all matters submitted to the Arbiter for determination.
+
+
+3.Withdrawal of Other Claims and Disputes. In consideration of the terms of this Settlement Agreement, the mutual releases provided by the Parties pursuant to Section 4 below and the payment by ABI to MCBC of the $2,000,000 of the Settlement Amount that does not comprise the Adjustment Amount, (i) MCBC agrees to immediately withdraw the Colombia Dispute, and (ii) each Party agrees that any and all claims asserted by such Party in respect of such dispute are fully, irrevocably and unconditionally released pursuant to Section 4 below.
+4.Mutual Release.
+(a)Except for the obligations this Settlement Agreement creates, effective as of the Effective Date, MCBC, for itself and its Affiliates, and its and their respective officers, directors, shareholders, partners, employees, agents, representatives (including attorneys), insurers, successors and assigns (collectively, the “MCBC Releasing Parties”), to the fullest extent permitted by applicable Law, fully, irrevocably and unconditionally waives, releases, acquits and forever discharges ABI and its Affiliates, and its and their respective officers, directors, shareholders, partners, employees, agents, representatives (including attorneys), insurers, successors and assigns (collectively, the “ABI Released Parties”) from and against any and all rights, claims, demands and causes of action of every kind, nature and description, whether in law or in equity, as well as any obligations, damages and liabilities, arising out of or relating to (i) the Closing Income Statement and the Closing Statement, the Notice of Disagreement and the Adjustment Amount or (ii) the Colombia Dispute (clauses (i) and (ii) collectively, the “ABI Released Matters”).
+(b)Except for the obligations this Settlement Agreement creates, effective as of the Effective Date, ABI, for itself and its Affiliates, and its and their respective officers, directors, shareholders, partners, employees, agents, representatives (including attorneys), insurers, successors and assigns (collectively, the “ABI Releasing Parties”), to the fullest extent permitted by applicable Law, fully, irrevocably and unconditionally waives, releases, acquits and forever discharges MCBC and its Affiliates, and its and their respective officers, directors, shareholders, partners, employees, agents, representatives (including attorneys), insurers, successors and assigns (collectively, the “MCBC Released Parties”) from and against any and all rights, claims, demands and causes of action of every kind, nature and description, whether in law or in equity, as well as any obligations, damages and liabilities, arising out of or relating to (i) the Closing Income Statement and the Closing Statement, the Notice of Disagreement and the Adjustment Amount or (ii) the Colombia Dispute (clauses (i) and (ii) collectively, the “MCBC Released Matters”).
+(c)Each of ABI and MCBC hereby agrees, for itself and the ABI Releasing Parties and the MCBC Releasing Parties, as applicable, not to take any position inconsistent with the release of the MCBC Released Matters and the ABI Released Matters pursuant to this Section 4 in any proceeding (whether judicial, regulatory or otherwise, and whether commenced by ABI, MCBC, any of their respective Affiliates or any third party) arising out of or relating to the transactions contemplated by the Purchase Agreement or the Closing Date Agreements.
+5.No Admission of Liability. Nothing in this Settlement Agreement shall be construed as an admission in any proceeding (whether judicial, regulatory or otherwise, and whether commenced by ABI, MCBC, any of their respective Affiliates or any third party) that a Party or any of its Affiliates has engaged in any conduct or practices that violate any contractual provision, statute, court order or decree (proposed or final) or other source of Law. This Settlement Agreement shall not be introduced by any Party, and shall not be admissible for any purpose, in any such action or proceeding except in an action to enforce its terms.
+6.Representations and Warranties. To induce each other to enter into this Settlement Agreement, each of the Parties represents and warrants to the other Party that it is authorized and has obtained all necessary authorizations to sign this Settlement Agreement in the capacity and manner set forth below, and to act on behalf of and to release each and every person or entity identified in Section 4.
+7.Disclosure. ABI and MCBC may disclose the terms of and file this Settlement Agreement with any applicable regulatory agency, including the United States Securities and Exchange Commission.
+8.Governing Law; Exclusive Jurisdiction. This Settlement Agreement shall be deemed to be made in accordance with, and in all respects shall be interpreted, construed and governed by and in accordance with, the law of the State of Delaware without regard to the conflicts of law principles thereof to the extent that such principles would
+
+2
+
+direct a matter to another jurisdiction. Any action to enforce this Settlement Agreement or any action otherwise regarding this Settlement Agreement must be brought in the Chancery Court of the State of Delaware, provided that, in the event that the Court of Chancery of the State of Delaware will not accept jurisdiction, any such action must be brought in another Delaware state court or federal court located in the State of Delaware. The Parties hereto hereby irrevocably submit to the personal jurisdiction of the Chancery Court of the State of Delaware and other federal and state courts located in the State of Delaware (and any appellate courts to which appeals therefrom may properly be taken) solely for purposes of an action relating to the interpretation and enforcement of the provisions of this Settlement Agreement.
+9.Waiver of Jury Trial. EACH PARTY ACKNOWLEDGES AND AGREES THAT ANY CONTROVERSY WHICH MAY ARISE UNDER THIS SETTLEMENT AGREEMENT IS LIKELY TO INVOLVE COMPLICATED AND DIFFICULT ISSUES, AND THEREFORE EACH SUCH PARTY HEREBY IRREVOCABLY AND UNCONDITIONALLY WAIVES ANY RIGHT SUCH PARTY MAY HAVE TO A TRIAL BY JURY IN RESPECT OF ANY LITIGATION DIRECTLY OR INDIRECTLY ARISING OUT OF OR RELATING TO THIS SETTLEMENT AGREEMENT OR THE TRANSACTIONS CONTEMPLATED BY THIS SETTLEMENT AGREEMENT. EACH PARTY CERTIFIES AND ACKNOWLEDGES THAT (A) NO REPRESENTATIVE, AGENT OR ATTORNEY OF ANY OTHER PARTY HAS REPRESENTED, EXPRESSLY OR OTHERWISE, THAT SUCH OTHER PARTY WOULD NOT, IN THE EVENT OF LITIGATION, SEEK TO ENFORCE THE FOREGOING WAIVER, (B) IT UNDERSTANDS AND HAS CONSIDERED THE IMPLICATIONS OF THIS WAIVER, (C) IT MAKES THIS WAIVER VOLUNTARILY AND (D) IT HAS BEEN INDUCED TO ENTER INTO THIS SETTLEMENT AGREEMENT BY, AMONG OTHER THINGS, THE MUTUAL WAIVERS AND CERTIFICATIONS HEREIN.
+10.Counterparts; Delivery by Electronic Transmission. This Settlement Agreement may be executed in one or more counterparts (including by electronic transmission in portable document format (pdf)), each of which shall be deemed an original, but all of which together shall constitute a single instrument. The reproduction of signatures by means of a facsimile device or electronic transmission in portable document format (pdf) shall be treated as though such reproductions are executed originals and, upon request, each Party shall provide the other Party with a copy of this Settlement Agreement bearing original signatures within five (5) Business Days following transmittal by facsimile device or electronic transmission in portable document format (pdf).
+11.Payment of Costs and Expenses on Default or Breach. In the event that any Party is required to enforce the terms of this Settlement Agreement in any court or other proceeding, the prevailing Party shall be entitled to receive all of its costs and expenses incurred in any such proceeding, including reasonable attorneys’ fees and costs.
+12.Binding Effect. This Settlement Agreement will be binding upon and inure to the benefit of the Parties and their respective successors and assigns.
+13.Integrated Agreement. This Settlement Agreement contains an entire, complete, and integrated statement of each and every term and provision agreed to, by and among the Parties.
+14.Amendments and Waivers. This Settlement Agreement may not be amended, modified or waived except by an instrument in writing signed by the Parties.
+15.Headings. The headings used in this Settlement Agreement are intended for reference purposes only and shall not affect in any way the meaning or interpretation of this Settlement Agreement.
+16.No Party is the Drafter. Neither Party shall be considered to be the drafter of this Settlement Agreement or any provision hereof for the purpose of any statute, case law, or rule of interpretation or construction that would or might cause any provision to be construed against the drafter hereof.
+17.Notice. Any and all notices or communications by either Party intended for the other Party shall be in writing and shall, unless expressly provided otherwise herein, be given personally, or by express courier, or by electronic transmission (such as e-mail), to the following persons, and shall be addressed as follows:
+
+3
+
+(a)if to ABI:
+
+Anheuser-Busch InBev SA/NV
+Brouwerijplein 1
+3000 Leuven, Belgium
+Attention: John Blood, General Counsel & Corporate Secretary
+René Paula
+Email: john.blood@ab-inbev.com
+rene.paula@zx-ventures.com
+
+With a copy (which shall not constitute notice hereunder) to:
+Cravath, Swaine & Moore LLP
+Worldwide Plaza
+825 Eighth Avenue
+New York, NY 10019
+Attention: Robert H. Baron
+Antony L. Ryan
+Email: rbaron@cravath.com
+aryan@cravath.com
+     (b)if to MCBC:
+
+Molson Coors Brewing Company
+1801 California Street, Ste. 4600
+Denver, Colorado 80202
+Attention: Samuel Walker, Chief Legal & Corporate Affairs Officer
+Lee Reichert
+Email:     samuel.walker@molsoncoors.com
+lee.reichert@molsoncoors.com
+
+With a copy (which shall not constitute notice hereunder) to:
+Ballard Spahr LLP
+1225 17th Street, Suite 2300
+Denver, CO 80202-5596
+Attention: Andrew J. Petrie
+Email:     PetrieA@ballardspahr.com
+
+Either Party may, from time to time, change the address to which such notices or communications are to be delivered, by giving the other Party prior written notice of the changed address, in the manner hereinabove provided, ten (10) calendar days before the change is effective.
+
+[Remainder of Page Intentionally Left Blank]
+
+
+
+
+
+
+
+
+
+
+4
+
+IN WITNESS WHEREOF, the Parties have caused this Settlement Agreement to be duly executed by their authorized respective officers as of the Effective Date.
+ANHEUSER-BUSCH INBEV SA/NV
+    By:
+/s/ Stuart MacFarlane
+  Name: Stuart MacFarlane
+  Title: Zone President Europe
+        By:
+/s/ Ann Randon
+  Name: Ann Randon
+  Title: VP Control & Tax
+   
+MOLSON COORS BREWING COMPANY
+    By:
+/s/ Sam Walker
+  Name: Sam Walker
+  Title: Chief Legal and Corporate Affairs Officer
+
+
+
+
+
+5

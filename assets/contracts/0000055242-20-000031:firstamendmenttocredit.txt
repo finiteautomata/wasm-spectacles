@@ -1,0 +1,618 @@
+EX-10.1 2 firstamendmenttocredit.htm EXHIBIT 10.1
+EXHIBIT 10.1
+
+FIRST AMENDMENT TO CREDIT AGREEMENT
+THIS FIRST AMENDMENT TO CREDIT AGREEMENT (this “Agreement”), dated as of September 10, 2020 (the “First Amendment Effective Date”), is entered into among KENNAMETAL INC., a Pennsylvania corporation (the “Company”), KENNAMETAL EUROPE GmbH, a limited liability company organized under the laws of Switzerland and a wholly-owned Foreign Subsidiary of the Company, (a “Foreign Borrower” and, together with any other wholly-owned Foreign Subsidiary of the Company which becomes a Foreign Borrower pursuant to the terms of the Credit Agreement, collectively, the “Foreign Borrowers”; and the Foreign Borrowers together with the Company, collectively, the “Borrowers”), the Subsidiary Guarantors party hereto, the Lenders party hereto, and BANK OF AMERICA, N.A., as the Administrative Agent. All capitalized terms used herein and not otherwise defined herein shall have the meanings given to such terms in the Credit Agreement (as defined below).
+RECITALS
+WHEREAS, the Borrowers, the Lenders from time to time party thereto, the Issuing Lenders from time to time party thereto, Bank of America, N.A., as Administrative Agent and Swingline Lender and Bank of America Merrill Lynch International Designated Activity Company, as Euro Swingline Lender, have entered into that certain Fifth Amended and Restated Credit Agreement dated as of June 21, 2018 (as amended, restated, amended and restated, supplemented, extended, replaced or otherwise modified from time to time, the “Credit Agreement”);
+WHEREAS, the Loan Parties have requested that the Credit Agreement be amended as set forth below, subject to the terms and conditions specified in this Agreement; and
+WHEREAS, the parties hereto are willing to amend the Credit Agreement, subject to the terms and conditions specified in this Agreement.
+NOW, THEREFORE, in consideration of the premises and the mutual covenants contained herein, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:
+1.Amendments to Credit Agreement.
+(a)Each reference to “MERRILL LYNCH, PIERCE, FENNER & SMITH INCORPORATED” on the cover page of the Credit Agreement is hereby amended to read “BOFA SECURITIES, INC.”.
+(b)The reference to “BANK OF AMERICA MERRILL LYNCH INTERNATIONAL LIMITED” in the preamble of the Credit Agreement is hereby amended to read “BANK OF AMERICA MERRILL LYNCH INTERNATIONAL DESIGNATED ACTIVITY COMPANY” and each other reference to “Bank of America Merrill Lynch International Limited” in the Credit Agreement (other than in Section 1.2(b) of the Credit Agreement) is amended to read “Bank of America Merrill Lynch International Designated Activity Company”.
+(c)Section 1.1 of the Credit Agreement is hereby amended to add the following defined terms in the appropriate alphabetical order:
+“Affected Financial Institution”: (a) any EEA Financial Institution or (b) any UK Financial Institution.
+
+
+
+
+“Applicable Currency”: Dollars or any Foreign Currency that bears interest at a rate based on an Applicable Reference Rate, as applicable.
+“Applicable Reference Rate”: for any Eurocurrency Rate Loan denominated in any LIBOR Quoted Currency, LIBOR, and for any Eurocurrency Rate Loan denominated in Canadian Dollars, the CDOR Rate, as applicable.
+“BHC Act Affiliate”: of a party means an “affiliate” (as such term is defined under, and interpreted in accordance with, 12 U.S.C. 1841(k)) of such party.
+“Blocking Law”: (a) any provision of Council Regulation (EC) No 2271/1996 of 22 November 1996 (or any law or regulation implementing such Regulation in any member state of the European Union or the United Kingdom), (b) section 7 of the German Foreign Trade Regulation (Außenwirtschaftsverordnung) or (c) any similar blocking or anti-boycott law or regulation.
+“BofA Securities”: BofA Securities, Inc.
+“Communication”: as defined in Section 9.18.
+“Covenant Relief End Date”: the first (1st) date occurring on or after the Covenant Relief Financial Deliveries Date on which the following conditions shall have been satisfied: (a) no Default or Event of Default shall have occurred and be continuing as of such date and (b) the Administrative Agent shall have received a Compliance Certificate of a Responsible Officer of the Company required by Section 5.2(b)(ii) demonstrating that (i) the Consolidated Leverage Ratio, as of the end of the period of four consecutive fiscal quarters of the Borrowers most recently ended on or prior to such date shall not be greater than 3.50 to 1.00 and (ii) the Borrowers were in compliance with Sections 6.1(a) and 6.1(b) as of the end of the period of four consecutive fiscal quarters of the Borrowers most recently ended on or prior to such date.
+“Covenant Relief Financial Deliveries Date”: the date upon which the Company shall have delivered to the Administrative Agent (a) the financial statements required by Section 5.1 for the period of four consecutive fiscal quarters of the Company ending December 31, 2021 and (b) the related Compliance Certificate of a Responsible Officer of the Company required by Section 5.2(b)(ii) for such period of four consecutive fiscal quarters of the Company.
+“Covenant Relief Period”: the period commencing on the First Amendment Effective Date and ending on the Covenant Relief End Date.
+“Covered Entity”: any of the following: (a) a “covered entity” as that term is defined in, and interpreted in accordance with, 12 C.F.R. § 252.82(b); (b) a “covered bank” as that term is defined in, and interpreted in accordance with, 12 C.F.R. § 47.3(b); or (c) a “covered FSI” as that term is defined in, and interpreted in accordance with, 12 C.F.R. § 382.2(b).
+“Covered Party”: as defined in Section 9.20.
+“Default Right”: has the meaning assigned to that term in, and shall be interpreted in accordance with, 12 C.F.R. §§ 252.81, 47.2 or 382.1, as applicable.
+
+2
+
+
+
+“Electronic Copy”: as defined in Section 9.18.
+“Electronic Record”: has the meaning assigned to that term in 15 USC §7006.
+“Electronic Signature”: has the meaning assigned to that term in 15 USC §7006.
+“First Amendment Effective Date”: September 10, 2020.
+“QFC”: has the meaning assigned to the term “qualified financial contract” in, and shall be interpreted in accordance with, 12 U.S.C. 5390(c)(8)(D).
+“QFC Credit Support”: as defined in Section 9.20.
+“Resolution Authority”: an EEA Resolution Authority or, with respect to any UK Financial Institution, a UK Resolution Authority.
+“Screen Rate”: the Applicable Reference Rate quote for an Applicable Currency on the applicable screen page the Administrative Agent designates to determine such Applicable Reference Rate for such Applicable Currency (or such other commercially available source providing such quotations for such Applicable Currency as may be designated by the Administrative Agent from time to time).
+“Successor Rate”: as defined in Section 2.38.
+“Successor Rate Conforming Changes”: with respect to any Successor Rate for an Applicable Currency, any conforming changes to the definition of ABR, Eurocurrency Base Rate, Interest Period, LIBOR Quoted Currency, timing and frequency of determining rates and making payments of interest and other technical, administrative or operational matters as may be appropriate, in the reasonable discretion of the Administrative Agent, to reflect the adoption of such Successor Rate and to permit the administration thereof by the Administrative Agent in a manner substantially consistent with market practice for such Applicable Currency (or, if the Administrative Agent reasonably determines that adoption of any portion of such market practice is not administratively feasible or that no market practice for the administration of such Successor Rate for such Applicable Currency exists, in such other manner of administration as the Administrative Agent determines in consultation with the applicable Borrower is reasonably necessary in connection with the administration of this Agreement).
+“Supported QFC”: as defined in Section 9.20.
+“UK Financial Institution”: any BRRD Undertaking (as such term is defined under the PRA Rulebook (as amended from time to time) promulgated by the United Kingdom Prudential Regulation Authority) or any person subject to IFPRU 11.6 of the FCA Handbook (as amended from time to time) promulgated by the United Kingdom Financial Conduct Authority, which includes certain credit institutions and investment firms, and certain affiliates of such credit institutions or investment firms.
+“UK Resolution Authority”: means the Bank of England or any other public administrative authority having responsibility for the resolution of any UK Financial Institution.
+“Unrestricted Cash”: as of any day of determination, an amount equal to the sum of (a) one-hundred percent (100%) of the cash and Cash Equivalents in excess of $25,000,000
+
+3
+
+
+
+in the aggregate, in each case, held on such day by the Company and its Domestic Subsidiaries in the United States which is not subject to a Lien (other than a Lien permitted pursuant to Section 6.3(m)) and (b) sixty percent (60%) of the cash and Cash Equivalents, in each case, held on such day by Foreign Subsidiaries of the Company which is not subject to a Lien (other than a Lien permitted pursuant to Section 6.3(m)).
+“U.S. Special Resolution Regimes”: as defined in Section 9.20.
+(d)The definitions of “LIBOR Screen Rate”, “LIBOR Successor Rate”, “LIBOR Successor Rate Conforming Changes”, “MLPFS”, and “Unrestricted Domestic Cash” in Section 1.1 of the Credit Agreement are hereby deleted in their entireties.
+(e)The definition of “ABR” in Section 1.1 of the Credit Agreement is hereby amended by adding the following sentence at the end of such definition:
+If the ABR is being used as an alternate rate of interest pursuant to Section 2.38, then the ABR shall be the greater of clauses (a) and (b) of this definition and shall be determined without reference to clause (c) of this definition.
+(f)The definition of “Bail-In Action” in Section 1.1 of the Credit Agreement is hereby amended to read as follows:
+“Bail-In Action”: the exercise of any Write-Down and Conversion Powers by the applicable Resolution Authority in respect of any liability of an Affected Financial Institution.
+(g)The definition of “Bail-In Legislation” in Section 1.1 of the Credit Agreement is hereby amended to read as follows:
+“Bail-In Legislation”: (a) with respect to any EEA Member Country implementing Article 55 of Directive 2014/59/EU of the European Parliament and of the Council of the European Union, the implementing law, rule, regulation or requirement for such EEA Member Country from time to time which is described in the EU Bail-In Legislation Schedule., and (b) with respect to the United Kingdom, Part I of the United Kingdom Banking Act 2009 (as amended from time to time) and any other law, regulation or rule applicable in the United Kingdom relating to the resolution of unsound or failing banks, investment firms or other financial institutions or their affiliates (other than through liquidation, administration or other insolvency proceedings).
+(h)The reference to “$80,000,000” in clause (d) in the definition of “Consolidated EBITDA” in Section 1.1 of the Credit Agreement is hereby amended to read “120,000,000”.
+(i)The language “Unrestricted Domestic Cash in excess of $25,000,000” in clause (a)(y) of the definition of “Consolidated Leverage Ratio” in Section 1.1 of the Credit Agreement is hereby amended to read “Unrestricted Cash”.
+(j)The reference to “MLPFS” in clause (a) of the definition of “Fee Letter(s)”
+in Section 1.1 of the Credit Agreement is hereby amended to read “Merrill Lynch, Pierce, Fenner & Smith Incorporated”.
+
+4
+
+
+
+(k)The reference to “MLPFS” in the definition of “Joint Book Runners”
+in Section 1.1 of the Credit Agreement is hereby amended to read “BofA Securities”.
+(l)The reference to “MLPFS” in the definition of “Joint Lead Arrangers”
+in Section 1.1 of the Credit Agreement is hereby amended to read “BofA Securities”.
+(m)The definition of “Pricing Grid” in Section 1.1 of the Credit Agreement is hereby amended to read as follows:
+“Pricing Grid”: The Facility Fee Rate, Eurocurrency Applicable Margin, ABR Applicable Margin, Swingline Applicable Margin, Standby Letter of Credit Fee Rate and Trade Letter of Credit Fee Rate shall be the percentages per annum set forth in the table below opposite the Pricing Level (with Pricing Level I being the lowest and Pricing Level V being the highest) determined by reference to the Debt Rating (as defined below) in effect at such time:
+Pricing Level
+Debt Rating S&P/Moody’s
+Facility Fee Rate
+Eurocurrency Applicable Margin and Swingline Applicable Margin
+ABR Applicable Margin
+Standby Letter of Credit Fee Rate
+Trade Letter of Credit Fee Rate
+I
+≥A-
+≥A3
+0.140%
+1.010%
+0.010%
+1.010%
+0.800%
+II
+BBB+
+Baa1
+0.175%
+1.075%
+0.075%
+1.075%
+0.850%
+III
+BBB
+Baa2
+0.200%
+1.175%
+0.175%
+1.175%
+0.925%
+IV
+BBB-
+Baa3
+0.250%
+1.375%
+0.375%
+1.375%
+1.075%
+V
+<BBB-
+<Baa3
+0.300%
+1.575%
+0.575%
+1.575%
+1.175%
+
+; provided, that, upon the occurrence of the Covenant Relief End Date and thereafter, the “Pricing Grid” shall be determined by reference to the below grid, instead of the grid immediately preceding this proviso (it being understood, for the avoidance of doubt, that the language immediately following the below grid shall continue be applicable at all times, i.e., both before and after the occurrence of the Covenant Relief End Date):
+
+5
+
+
+
+Pricing Level
+Debt Rating S&P/Moody’s
+Facility Fee Rate
+Eurocurrency Applicable Margin and Swingline Applicable Margin
+ABR Applicable Margin
+Standby Letter of Credit Fee Rate
+Trade Letter of Credit Fee Rate
+I
+≥A-
+≥A3
+0.090%
+0.810%
+0.000%
+0.810%
+0.600%
+II
+BBB+
+Baa1
+0.125%
+0.875%
+0.000%
+0.875%
+0.650%
+III
+BBB
+Baa2
+0.150%
+0.975%
+0.000%
+0.975%
+0.725%
+IV
+BBB-
+Baa3
+0.200%
+1.175%
+0.175%
+1.175%
+0.875%
+V
+<BBB-
+<Baa3
+0.250%
+1.375%
+0.375%
+1.375%
+0.975%
+For the purpose of determining the Pricing Level, “Debt Rating” means, as of any date of determination, the rating as determined by S&P and Moody’s (each a “Debt Rating” and collectively, the “Debt Ratings”) of the Company’s non-credit-enhanced, senior unsecured long-term debt; provided, that, in the event that the Debt Ratings between S&P and Moody’s differ, (i) if the Debt Ratings issued by such rating agencies differ by one level, then the Pricing Level that is applicable to the higher Debt Rating shall apply, (ii) if there is a split in the Debt Ratings of more than one level, then the Pricing Level that is applicable to the Debt Rating that is one level lower than the higher Debt Rating shall apply, (iii) if there is only one Debt Rating, such Debt Rating shall apply, and (iv) if there is no Debt Rating from either S&P or Moody’s, then the Pricing Level that is applicable to the lowest Debt Rating set forth above shall apply and the Lenders and the Company agree to negotiate in good faith to determine an alternate pricing metric within thirty (30) days of the date that the Company no longer maintains a Debt Rating with S&P and Moody’s.
+(n)The definition of “Qualified Acquisition” in Section 1.1 of the Credit Agreement is hereby amended to read as follows:
+“Qualified Acquisition”: (a) an acquisition permitted under Section 6.11(d) with aggregate Acquisition Consideration of at least $100,000,000, or (b) a series of related acquisitions permitted under Section 6.11(d) in any twelve (12) month period, with aggregate Acquisition Consideration for all such acquisitions of at least $100,000,000; provided, that, for any such acquisition or series of related acquisitions to qualify as a Qualified Acquisition, a Responsible Officer of the Company shall have delivered to the Administrative Agent a certificate (any such certificate, a “Qualified Acquisition Notice”) on or prior to the consummation of such acquisition or the final closing date with respect to a series of related acquisitions (i) certifying that the acquisition or series of related acquisitions meet the criteria set forth in the foregoing clause (a) or clause (b), as applicable, and (ii) notifying the Administrative Agent that the Company has elected to treat such acquisition or series of related acquisitions as a Qualified Acquisition; provided, further, that, (x) no acquisition or
+
+6
+
+
+
+series of related acquisitions, in each case, occurring during the Covenant Relief Period, whether all or in part, shall be a “Qualified Acquisition” and (y) the Company (or, for the avoidance of doubt, any Responsible Officer thereof) may not deliver a Qualified Acquisition Notice with respect to any such acquisition or series of related acquisitions occurring during the Covenant Relief Period.
+(o)The definition of “Write-Down and Conversion Powers” in Section 1.1 of the Credit Agreement is hereby amended to read as follows:
+“Write-Down and Conversion Powers”: (a) with respect to any EEA Resolution Authority, the write-down and conversion powers of such EEA Resolution Authority from time to time under the Bail-In Legislation for the applicable EEA Member Country, which write-down and conversion powers are described in the EU Bail-In Legislation Schedule., and (b) with respect to the United Kingdom, any powers of the applicable Resolution Authority under the Bail-In Legislation to cancel, reduce, modify or change the form of a liability of any UK Financial Institution or any contract or instrument under which that liability arises, to convert all or part of that liability into shares, securities or obligations of that person or any other person, to provide that any such contract or instrument is to have effect as if a right had been exercised under it or to suspend any obligation in respect of that liability or any of the powers under that Bail-In Legislation that are related to or ancillary to any of those powers.
+(p)In Section 1.2 of the Credit Agreement, a new clause (g) and a new clause (h) are hereby added after clause (f) to read as follows:
+(g)    Any reference herein to a merger, amalgamation, consolidation, assignment, sale, disposition or transfer, or similar term, shall be deemed to apply to a division of or by a limited liability company or a partnership, or an allocation of assets to a series of a limited liability company or a partnership (or the unwinding of such a division or allocation), as if it were a merger, amalgamation, consolidation, assignment, sale, disposition or transfer, or similar term, as applicable, to, of or with a separate Person. Any division of a limited liability company or a partnership shall constitute a separate Person hereunder (and each division of any limited liability company or any partnership that is a Subsidiary, joint venture or any other like term shall also constitute such a Person).
+(h)    No provision of Section 3.20, Section 5.11 or Section 6.12 shall apply to or in favor of any Person if and to the extent that such provision would result in a breach, by or in respect of that Person, of any applicable Blocking Law.
+(q)The reference to “comparable or successor rate thereto” in Section 1.5 of the Credit Agreement is hereby amended to read as follows:
+rate that is an alternative or replacement for or successor to any of such rates (including any LIBOR Successor Rate) or the effect of any of the foregoing, or of any LIBOR Successor Rate Conforming Changes.
+(r)The reference to “Unrestricted Domestic Cash” in Section 1.6(c) of the Credit Agreement is hereby amended to read “Unrestricted Cash”.
+(s)Section 2.38 of the Credit Agreement is hereby amended to read as follows:
+
+7
+
+
+
+2.38.    Successor Rate. Notwithstanding anything to the contrary in this Agreement or any other Loan Document (including Section 9.1 hereof), if the Administrative Agent determines (which determination shall be conclusive absent manifest error), or the Company or the Required Lenders notify the Administrative Agent (with, in the case of the Required Lenders, a copy to the Company) that the Company or the Required Lenders (as applicable) have determined, that: (a) adequate and reasonable means do not exist for ascertaining the Applicable Reference Rate for an Applicable Currency for any requested Interest Period because the Screen Rate for such Applicable Currency is not available or published on a current basis and such circumstances are unlikely to be temporary, (b) the administrator of the Screen Rate for an Applicable Currency or a Governmental Authority having jurisdiction over the Administrative Agent has made a public statement identifying a specific date after which the Applicable Reference Rate for an Applicable Currency or the Screen Rate for an Applicable Currency shall no longer be made available, or used for determining the interest rate of loans denominated in such Applicable Currency; provided, that, in each case, at the time of such statement, there is no successor administrator that is satisfactory to the Administrative Agent, that will continue to provide the Applicable Reference Rate for such Applicable Currency after such specific date (such specific date, the “Scheduled Unavailability Date”), or (c) syndicated loans currently being executed, or that include language similar to that contained in this Section 2.38, are being executed or amended (as applicable) to incorporate or adopt a new benchmark interest rate to replace the Applicable Reference Rate, then, reasonably promptly after such determination by the Administrative Agent or receipt by the Administrative Agent of such notice, as applicable, the Administrative Agent and the Company may amend this Agreement solely for the purpose of replacing the Applicable Reference Rate for the Applicable Currency in accordance with this Section 2.38 with an alternate benchmark rate giving due consideration to any evolving or then existing convention for similar syndicated credit facilities syndicated in the U.S. and denominated in the Applicable Currency for such alternative benchmarks (any such proposed rate, a “Successor Rate”) and, in each case, including any mathematical or other adjustments to such benchmark giving due consideration to any evolving or then existing convention for similar syndicated credit facilities syndicated in the U.S. and denominated in the Applicable Currency for such benchmarks, each of which adjustments or methods for calculating such adjustments shall be published on one or more information services as selected by the Administrative Agent from time to time in its reasonable discretion and may be periodically updated, and any such amendment shall become effective at 5:00 p.m. on the fifth (5th) Business Day after the Administrative Agent shall have posted such proposed amendment to all Lenders and the Company unless, prior to such time, Lenders comprising the Required Lenders have delivered to the Administrative Agent written notice that such Required Lenders do not accept such amendment. Such Successor Rate for the Applicable Currency shall be applied in a manner consistent with market practice; provided, that, to the extent such market practice is not administratively feasible for the Administrative Agent, such Successor Rate for such Applicable Currency shall be applied in a manner as otherwise reasonably determined by the Administrative Agent.
+If no Successor Rate has been determined and the circumstances under clause (a) above exist or the Scheduled Unavailability Date has occurred (as applicable), the Administrative Agent will promptly so notify the Company and each Lender. Thereafter, (x) the obligation of the Lenders to make or maintain Eurocurrency Loans shall be suspended, (to the extent of the affected Eurocurrency Loans or Interest Periods), and (y) the Eurocurrency Rate component shall no longer be utilized in determining the ABR. Upon
+
+8
+
+
+
+receipt of such notice, (i) the Borrowers may revoke any pending request for a Borrowing of, conversion to or continuation of Eurocurrency Loans (to the extent of the affected Eurocurrency Loans or Interest Periods) or, failing that, will be deemed to have converted such request into a request for a Borrowing of ABR Loans (subject to the foregoing clause (y)) in the amount specified therein and (ii) (A) any outstanding affected Eurocurrency Rate Loans denominated in Dollars will be deemed to have been converted into ABR Loans at the end of the applicable Interest Period and (B) any outstanding affected Eurocurrency Rate Loans denominated in an Alternative Currency, at the applicable Borrower’s election, shall either (1) be converted into a Borrowing of ABR Loans denominated in Dollars in the Dollar Equivalent of the amount of such outstanding Eurocurrency Rate Loan at the end of the applicable Interest Period or (2) be prepaid at the end of the applicable Interest Period in full; provided, that, if no election is made by the applicable Borrower by the earlier of (x) the date that is three (3) Business Days after receipt by the Company of such notice and (y) the last day of the current Interest Period for the applicable Eurocurrency Rate Loan, the applicable Borrower shall be deemed to have elected clause (1) above.
+Notwithstanding anything else herein, any definition of Successor Rate shall provide that in no event shall such Successor Rate be less than zero for purposes of this Agreement.
+In connection with the implementation of a Successor Rate for any currency, the Administrative Agent will have the right to make Successor Rate Conforming Changes with respect to such currency from time to time and, notwithstanding anything to the contrary herein or in any other Loan Document, any amendments implementing such Successor Rate Conforming Changes will become effective without any further action or consent of any other party to this Agreement; provided, that, with respect to any such amendment effected, the Administrative Agent shall post each such amendment implementing such Successor Conforming Changes for the Applicable Currency to the Lenders reasonably promptly after such amendment becomes effective.
+(t)Clause (e) of Section 3.12 of the Credit Agreement is hereby amended to read as follows:
+(e)    As of the Closing Date, no Borrower is or will be using “plan assets” (within the meaning of Section 3(42) of ERISA or otherwise) of one or more Benefit Plans with respect to such Borrower’s entrance into, participation in, administration of and performance of the Loans, the Letters of Credit, the Commitments or this Agreement.
+(u)Section 3.22 of the Credit Agreement is hereby amended to read as follows:
+3.22.    Affected Financial Institution; Covered Entity. No Loan Party is (a) an Affected Financial Institution or (b) a Covered Entity.
+(v)Section 5.2 of the Credit Agreement is hereby amended by (i) deleting the word “and” at the end of clause (d) of such Section, (ii) amending clause (e) to become clause (f) of such Section and (iii) adding a new clause (e) after clause (d) of such Section to read as follows:
+(e)    promptly following any request therefor, provide information and documentation reasonably requested by the Administrative Agent or any Lender for purposes of compliance with applicable “know your customer” and anti-money-laundering rules and
+
+9
+
+
+
+regulations, including, without limitation, the Act and the Beneficial Ownership Regulation; and
+(w)The text preceding the first proviso in Section 6.1(a) of the Credit Agreement is hereby amended to read as follows:
+(a)    Consolidated Leverage Ratio. Permit the Consolidated Leverage Ratio as at the last day of any period of four consecutive fiscal quarters of the Borrowers to exceed (i) 3.50 to 1.00, for any period of four consecutive fiscal quarters of the Borrowers ending during the period from the Closing Date through and including September 29, 2020, (ii) 4.25 to 1.00, for any period of four consecutive fiscal quarters of the Borrowers ending during the period from September 30, 2020 through and including December 31, 2021 and (iii) 3.50 to 1.00, for any period of four consecutive fiscal quarters of the Borrowers ending thereafter;
+(x)Clause (ii) of the second proviso in Section 6.4 of the Credit Agreement is hereby amended to read as follows:
+(ii) the Borrowers shall have demonstrated, as of the last day of the immediately preceding fiscal quarter for which financial statements have been delivered pursuant to Section 5.1 after giving effect, on a pro forma basis, to such merger or consolidation as if it had occurred on such last day or the first day of the relevant period, as appropriate, (A) compliance with the Consolidated Interest Coverage Ratio set forth in Section 6.1 and (B) that the Consolidated Leverage Ratio shall be less than 3.50 to 1.00, and
+(y)Section 6.11(d)(ii) of the Credit Agreement is hereby amended to read as follows:
+(ii) the Borrowers shall have demonstrated, on a pro forma basis after giving effect to such acquisition or Investment, (A) compliance with the Consolidated Interest Coverage Ratio set forth in Section 6.1 and (B) that the Consolidated Leverage Ratio shall be less than 3.50 to 1.00 (or, for any such acquisition or Investment that is a Qualified Acquisition (to the extent that the Company has delivered a Qualified Acquisition Notice in connection therewith, 3.75 to 1.00) and
+(z)Section 8.6 of the Credit Agreement is hereby amended by adding the following sentence to the end of such section:
+Each Lender and each Issuing Lender represents and warrants that (a) the Loan Documents set forth the terms of a commercial lending facility and (b) it is engaged in making, acquiring or holding commercial loans in the ordinary course and is entering into this Agreement as a Lender or an Issuing Lender for the purpose of making, acquiring or holding commercial loans and providing other facilities set forth herein as may be applicable to such Lender or such Issuing Lender, and not for the purpose of purchasing, acquiring or holding any other type of financial instrument, and each Lender and each Issuing Lender agrees not to assert a claim in contravention of the foregoing.
+(aa)Section 8.13 of the Credit Agreement is hereby amended to read as follows:
+(a)    Each Lender (i) represents and warrants, as of the date such Person became a Lender party hereto, and (ii) covenants, from the date such Person became a Lender party
+
+10
+
+
+
+hereto to the date such Person ceases being a Lender party hereto, for the benefit of the Administrative Agent, and not, for the avoidance of doubt, to or for the benefit of any Loan Party, that at least one of the following is and will be true: (A) such Lender is not using “plan assets” (within the meaning of Section 3(42) of ERISA or otherwise) of one or more Benefit Plans with respect to such Lender’s entrance into, participation in, administration of and performance of the Loans, the Letters of Credit, the Commitments, or this Agreement; (B) the transaction exemption set forth in one or more PTEs, such as PTE 84-14 (a class exemption for certain transactions determined by independent qualified professional asset managers), PTE 95-60 (a class exemption for certain transactions involving insurance company general accounts), PTE 90-1 (a class exemption for certain transactions involving insurance company pooled separate accounts), PTE 91-38 (a class exemption for certain transactions involving bank collective investment funds) or PTE 96-23 (a class exemption for certain transactions determined by in-house asset managers), is applicable with respect to such Lender’s entrance into, participation in, administration of and performance of the Loans, the Letters of Credit, the Commitments and this Agreement; (C)(1) such Lender is an investment fund managed by a “Qualified Professional Asset Manager” (within the meaning of Part VI of PTE 84-14), (2) such Qualified Professional Asset Manager made the investment decision on behalf of such Lender to enter into, participate in, administer and perform the Loans, the Letters of Credit, the Commitments and this Agreement, (3) the entrance into, participation in, administration of and performance of the Loans, the Letters of Credit, the Commitments and this Agreement satisfies the requirements of subsections (b) through (g) of Part I of PTE 84-14, and (4) to the best knowledge of such Lender, the requirements of subsection (a) of Part I of PTE 84-14 are satisfied with respect to such Lender’s entrance into, participation in, administration of and performance of the Loans, the Letters of Credit, the Commitments and this Agreement; or (D) such other representation, warranty and covenant as may be agreed in writing between the Administrative Agent, in its sole discretion, and such Lender.
+(b)    In addition, unless either (1) clause (A) in the immediately preceding clause (a) is true with respect to a Lender or (2) a Lender has provided another representation, warranty and covenant in accordance with clause (D) in the immediately preceding clause (a), such Lender further (x) represents and warrants, as of the date such Person became a Lender party hereto, to, and (y) covenants, from the date such Person became a Lender party hereto to the date such Person ceases being a Lender party hereto, for the benefit of, the Administrative Agent and not, for the avoidance of doubt, to or for the benefit of any Loan Party, that the Administrative Agent is not a fiduciary with respect to the assets of such Lender involved in such Lender’s entrance into, participation in, administration of and performance of the Loans, the Letters of Credit, the Commitments and this Agreement (including in connection with the reservation or exercise of any rights by the Administrative Agent under this Agreement, any Loan Document or any documents related hereto or thereto).
+(bb)     Section 9.18 of the Credit Agreement is hereby amended to read as follows:
+9.18.    Electronic Execution. This Agreement and any document, amendment, approval, consent, information, notice, certificate, request, statement, disclosure or authorization related to this Agreement (each a “Communication”), including Communications required to be in writing, may be in the form of an Electronic Record and may be executed using Electronic Signatures. Each Loan Party agrees that any Electronic
+
+11
+
+
+
+Signature on or associated with any Communication shall be valid and binding on such Loan Party to the same extent as a manual, original signature, and that any Communication entered into by Electronic Signature, will constitute the legal, valid and binding obligation of such Loan Party enforceable against such in accordance with the terms thereof to the same extent as if a manually executed original signature was delivered. Any Communication may be executed in as many counterparts as necessary or convenient, including both paper and electronic counterparts, but all such counterparts are one and the same Communication. For the avoidance of doubt, the authorization under this Section 9.18 may include use or acceptance by the Administrative Agent and each Lender of a manually signed paper Communication which has been converted into electronic form (such as scanned into PDF format), or an electronically signed Communication converted into another format, for transmission, delivery and/or retention. The Administrative Agent and each Lender may, at its option, create one or more copies of any Communication in the form of an imaged Electronic Record (“Electronic Copy”), which shall be deemed created in the ordinary course of the such Person’s business, and destroy the original paper document. All Communications in the form of an Electronic Record, including an Electronic Copy, shall be considered an original for all purposes, and shall have the same legal effect, validity and enforceability as a paper record. Notwithstanding anything contained herein to the contrary, the Administrative Agent is under no obligation to accept an Electronic Signature in any form or in any format unless expressly agreed to by the Administrative Agent pursuant to procedures approved by it; provided, that, without limiting the foregoing, (a) to the extent the Administrative Agent has agreed to accept such Electronic Signature, the Administrative Agent and each Lender shall be entitled to rely on any such Electronic Signature purportedly given by or on behalf of any Loan Party without further verification and (b) upon the request of the Administrative Agent or any Lender, any Electronic Signature shall be promptly followed by such manually executed counterpart.
+(cc)    In Section 9.19 of the Credit Agreement, (i) each reference to “EEA Financial Institution” is hereby amended to read “Affected Financial Institution”; (ii) each reference to “an EEA Resolution Authority” is hereby amended to read “the applicable Resolution Authority”; and (iii) the reference to “any EEA Resolution Authority” is hereby amended to read “the applicable Resolution Authority”.
+(dd)    A new Section 9.20 is hereby added after Section 9.19 of the Credit Agreement to read as follows:
+9.20.    Acknowledgement Regarding Any Supported QFCs. To the extent that the Loan Documents provide support, through a guarantee or otherwise, for any Hedge Agreement or any other agreement or instrument that is a QFC (such support, “QFC Credit Support”, and each such QFC, a “Supported QFC”), the parties acknowledge and agree as follows with respect to the resolution power of the Federal Deposit Insurance Corporation under the Federal Deposit Insurance Act and Title II of the Dodd-Frank Wall Street Reform and Consumer Protection Act (together with the regulations promulgated thereunder, the “U.S. Special Resolution Regimes”) in respect of such Supported QFC and QFC Credit Support (with the provisions below applicable notwithstanding that the Loan Documents and any Supported QFC may in fact be stated to be governed by the laws of the State of New York and/or of the United States or any other state of the United States):
+
+12
+
+
+
+In the event a Covered Entity that is party to a Supported QFC (each, a “Covered Party”) becomes subject to a proceeding under a U.S. Special Resolution Regime, the transfer of such Supported QFC and the benefit of such QFC Credit Support (and any interest and obligation in or under such Supported QFC and such QFC Credit Support, and any rights in property securing such Supported QFC or such QFC Credit Support) from such Covered Party will be effective to the same extent as the transfer would be effective under such U.S. Special Resolution Regime if the Supported QFC and such QFC Credit Support (and any such interest, obligation and rights in property) were governed by the laws of the United States or a state of the United States. In the event a Covered Party or a BHC Act Affiliate of a Covered Party becomes subject to a proceeding under a U.S. Special Resolution Regime, Default Rights under the Loan Documents that might otherwise apply to such Supported QFC or any QFC Credit Support that may be exercised against such Covered Party are permitted to be exercised to no greater extent than such Default Rights could be exercised under such U.S. Special Resolution Regime if the Supported QFC and the Loan Documents were governed by the laws of the United States or a state of the United States. Without limitation of the foregoing, it is understood and agreed that rights and remedies of the parties with respect to a Defaulting Lender shall in no event affect the rights of any Covered Party with respect to a Supported QFC or any QFC Credit Support.
+(ee)    Exhibit E to the Credit Agreement is hereby amended to read in the form of Exhibit E attached hereto and each other Exhibit to the Credit Agreement is hereby amended to replace each reference to “Bank of America Merrill Lynch International Limited” with “Bank of America Merrill Lynch International Designated Activity Company”.
+2.Conditions Precedent. This Agreement shall be effective upon satisfaction of the following conditions precedent:
+(a)receipt by the Administrative Agent of counterparts of this agreement duly executed by the Borrowers, the Guarantors, the Required Lenders and the Administrative Agent; and
+(b)    the Company shall have paid all fees and other amounts due and payable on or prior to the First Amendment Effective Date pursuant to this Agreement and/or any fee letter entered into in connection with this Agreement, including, to the extent invoiced prior to the First Amendment Effective Date (or such later date as the Company may agree), reimbursement or payment of all reasonable out-of-pocket expenses (including reasonable fees, charges and disbursements of counsel) required to be reimbursed or paid by the Company in connection with this Agreement and the transactions contemplated hereby.
+3.    Payment of Expenses. The Loan Parties agree to reimburse the Administrative Agent for all reasonable out-of-pocket expenses of the Administrative Agent in connection with the preparation, execution and delivery of this Agreement, including the reasonable out-of-pocket fees, disbursements and expenses of counsel to the Administrative Agent.
+4.    Miscellaneous.
+(a)    Except as set forth in this Agreement, the Loan Documents and the obligations of the Loan Parties thereunder are hereby ratified and confirmed and shall remain in full force and effect according to their terms. This Agreement is a Loan Document.
+
+13
+
+
+
+(b)    Each Loan Party (i) acknowledges and consents to all of the terms and conditions of this Agreement, (ii) affirms all of its obligations under the Loan Documents, and (iii) agrees that this Agreement and all documents executed in connection herewith do not operate to reduce or discharge its obligations under the Loan Documents.
+(c)    Each Loan Party represents and warrants that: (i) such Loan Party has all requisite power and authority and all requisite governmental licenses, authorizations, consents and approvals to execute, deliver and perform its obligations under this Agreement; (ii) the execution, delivery and performance by such Loan Party of this Agreement have been duly authorized by all necessary organizational action, and do not and will not (A) violate any Requirement of Law or any Contractual Obligation of any Group Member and (B) will not result in, or require, the creation or imposition of any Lien on any of their respective properties or revenues pursuant to any Requirement of Law or any such Contractual Obligation; (iii) no consent or authorization of, filing with, notice to or other act by or in respect of, any Governmental Authority or any other Person is required in connection with the execution, delivery, performance, validity or enforceability of this Agreement; (iv) this Agreement has been duly executed and delivered by such Loan Party and constitutes a legal, valid and binding obligation of such Loan Party, enforceable against such Loan Party in accordance with its terms, except as enforceability may be limited by applicable bankruptcy, insolvency, reorganization, moratorium or similar laws affecting the enforcement of creditors’ rights generally and by general equitable principles (whether enforcement is sought by proceedings in equity or at law); and (v) after giving effect to this Agreement, (A) each of the representations and warranties made by such Loan Party in or pursuant to the Loan Documents (other than the representation and warranty set forth in Section 3.2 of the Credit Agreement) shall be true and correct on and as of the First Amendment Effective Date as if made on and as of the First Amendment Effective Date, and (B) no Default or Event of Default has occurred and is continuing.
+(d)    This Agreement may be executed in counterparts (and by different parties hereto in different counterparts), each of which shall constitute an original, but all of which when taken together shall constitute a single contract. Delivery of an executed counterpart of a signature page of this Agreement by facsimile or other electronic imagine means (e.g. “pdf” or “tif”) shall be effective as delivery of a manually executed counterpart of this Agreement. Subject to Section 9.18 of the Credit Agreement (as amended by this Agreement), this Agreement may be in the form of an Electronic Record and may be executed using Electronic Signatures (including facsimile and .pdf) and shall be considered an original and shall have the same legal effect, validity and enforceability as a paper record.
+(e)    If any provision of this Agreement is held to be illegal, invalid or unenforceable, (i) the legality, validity and enforceability of the remaining provisions of this Agreement shall not be affected or impaired thereby and (ii) the parties shall endeavor in good faith negotiations to replace the illegal, invalid or unenforceable provisions with valid provisions the economic effect of which comes as close as possible to that of the illegal, invalid or unenforceable provisions. The invalidity of a provision in a particular jurisdiction shall not invalidate or render unenforceable such provision in any other jurisdiction.
+(f)    THIS AGREEMENT AND ANY CLAIMS, CONTROVERSY, DISPUTE OR CAUSE OF ACTION (WHETHER IN CONTRACT OR TORT OR OTHERWISE) BASED UPON, ARISING OUT OF OR RELATING TO THIS AGREEMENT AND THE TRANSACTIONS CONTEMPLATED HEREBY, SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF NEW YORK.
+
+14
+
+
+
+(g)    The terms of Sections 9.12 and 9.15 of the Credit Agreement with respect to submission to jurisdiction, waiver of venue and waiver of jury trial are incorporated herein by reference, mutatis mutandis, and the parties hereto agree to such terms.
+[Signature pages follow]
+
+
+
+15
+
+
+
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be duly executed as of the date first above written.
+BORROWERS:
+KENNAMETAL INC.,
+a Pennsylvania corporation
+By:    /s/ Mark J. Olyarnik        
+Name:    Mark J. Olyarnik
+Title:     Director Corporate Treasury and Treasurer
+KENNAMETAL EUROPE GMBH,
+a limited liability company organized under the laws of Switzerland
+By:    /s/ Michael Eiterich        
+Name:    Michael Eiterich
+Title:    Director Finance EMEA
+By:    /s/ Matthias Pasler        
+Name:    Matthias Pasler
+Title:    Director HR EMEA
+GUARANTORS:    KENNAMETAL HOLDINGS EUROPE, INC.,
+a Delaware corporation
+By:    /s/ Michelle R. Keating        
+Name:    Michelle R. Keating
+Title:    Director and Secretary
+
+KENNAMETAL INC.
+FIRST AMENDMENT TO CREDIT AGREEMENT
+
+
+
+
+ADMINISTRATIVE AGENT:            BANK OF AMERICA, N.A.,
+as the Administrative Agent
+By:    /s/ Anthea Del Bianco        
+Name:    Anthea Del Bianco
+Title:     Vice President
+
+KENNAMETAL INC.
+FIRST AMENDMENT TO CREDIT AGREEMENT
+
+
+
+
+LENDERS:                    BANK OF AMERICA, N.A.,
+as a Lender, an Issuing Lender and Swingline Lender
+By:    /s/ Susan Rich        
+Name:    Susan Rich
+Title:     Vice President
+
+KENNAMETAL INC.
+FIRST AMENDMENT TO CREDIT AGREEMENT
+
+
+
+
+BANK OF AMERICA MERRILL LYNCH INTERNATIONAL DESIGNATED ACTIVITY COMPANY,
+as Euro Swingline Lender
+By:    /s/ Joanne Hilliard        
+Name:    Joanne Hilliard
+Title:    Vice President
+
+KENNAMETAL INC.
+FIRST AMENDMENT TO CREDIT AGREEMENT
+
+
+
+
+JPMORGAN CHASE BANK, N.A,
+as a Lender and an Issuing Lender
+By:    /s/ Peter S. Predun        
+Name:    Peter S. Predun
+Title:    Executive Director
+
+KENNAMETAL INC.
+FIRST AMENDMENT TO CREDIT AGREEMENT
+
+
+
+
+PNC BANK, NATIONAL ASSOCIATION,
+as a Lender and an Issuing Lender
+By:    /s/ Joseph McElhinny        
+Name:    Joseph McElhinny
+Title:    Vice President
+
+KENNAMETAL INC.
+FIRST AMENDMENT TO CREDIT AGREEMENT
+
+
+
+
+CITIZENS BANK, N.A. (as successor by merger to Citizens Bank of Pennsylvania),
+as a Lender
+By:    /s/ A. Paul Dawley        
+Name:    A. Paul Dawley
+Title:    Senior Vice President
+
+KENNAMETAL INC.
+FIRST AMENDMENT TO CREDIT AGREEMENT
+
+
+
+
+MIZUHO BANK, LTD.,
+as a Lender
+By:    /s/ Donna DeMagistris        
+Name:    Donna DeMagistris
+Title:    Executive Director
+
+KENNAMETAL INC.
+FIRST AMENDMENT TO CREDIT AGREEMENT
+
+
+
+
+MUFG BANK, LTD.,
+as a Lender
+By:    /s/ Victor Pierzchalski        
+Name:    Victor Pierzchalski
+Title:    Authorized Signatory
+
+KENNAMETAL INC.
+FIRST AMENDMENT TO CREDIT AGREEMENT
+
+
+
+
+COMMERZBANK AG, NEW YORK BRANCH,
+as a Lender
+By:    /s/ Mathew Ward        
+Name:    Matthew Ward
+Title:    Director
+By:    /s/ Robert Sullivan        
+Name:    Robert Sullivan
+Title:    Vice President
+
+KENNAMETAL INC.
+FIRST AMENDMENT TO CREDIT AGREEMENT
+
+
+
+
+HSBC BANK USA, NATIONAL ASSOCIATION,
+as a Lender
+By:    /s/ Shaun R. Kleinman        
+Name:    Shaun R Kleinman
+Title:    Senior Vice President
+
+KENNAMETAL INC.
+FIRST AMENDMENT TO CREDIT AGREEMENT
+
+
+
+
+ING BANK N.V., DUBLIN BRANCH,
+as a Lender
+By:    /s/ Barry Fehily            
+Name:    Barry Fehily
+Title:    Managing Director
+By:    /s/ Sean Hassett            
+Name:    Sean Hassett
+Title:    Director
+
+KENNAMETAL INC.
+FIRST AMENDMENT TO CREDIT AGREEMENT
+
+
+
+
+U.S. BANK NATIONAL ASSOCIATION,
+as a Lender
+By:    /s/ Patrick H. McGraw        
+Name:    Patrick H. McGraw
+Title:    Senior Vice President
+
+KENNAMETAL INC.
+FIRST AMENDMENT TO CREDIT AGREEMENT
+
+
+
+
+TRUIST BANK,
+as a Lender
+By:    /s/ J. Carlos Navarrete        
+Name:    J. Carlos Navarrete
+Title:    Director
+
+KENNAMETAL INC.
+FIRST AMENDMENT TO CREDIT AGREEMENT
+
+
+
+
+BNP PARIBAS,
+as a Lender
+By:    /s/ Kirk Hoffman        
+Name:    Kirk Hoffman
+Title:    Managing Director
+By:    /s/ Monica Tilani        
+Name:    Monica Tilani
+Title:    Vice President
+
+KENNAMETAL INC.
+FIRST AMENDMENT TO CREDIT AGREEMENT
+
+
+
+
+THE HUNTINGTON NATIONAL BANK,
+as a Lender
+By:    /s/ Marcel Fournier        
+Name:    Marcel Fournier
+Title:    Vice President
+
+KENNAMETAL INC.
+FIRST AMENDMENT TO CREDIT AGREEMENT
+
+
+
+
+FIRST COMMONWEALTH BANK,
+as a Lender
+By:    /s/ Joe Hynds            
+Name:    Joe Hynds
+Title:    Senior Vice President
+
+
+
+KENNAMETAL INC.
+FIRST AMENDMENT TO CREDIT AGREEMENT
+
+
+
+EXHIBIT E
+FORM OF COMPLIANCE CERTIFICATE
+  Check for distribution to public and private side Lenders1
+
+This Compliance Certificate is delivered pursuant to Section 5.2(b) of the Fifth Amended and Restated Credit Agreement, dated as of June 21, 2018 (as amended, restated, amended and restated, extended, supplemented or otherwise modified in writing from time to time the “Credit Agreement”; capitalized terms used herein and not defined herein are used herein as defined therein), among Kennametal Inc., a Pennsylvania corporation (the “Company”), the other Borrowers from time to time party thereto, the Lenders and Issuing Lenders from time to time party thereto, Bank of America Merrill Lynch International Designated Activity Company, as Euro Swingline Lender, PNC Bank, National Association and JPMorgan Chase Bank, N.A., as co-syndication agents, Citizens Bank of Pennsylvania, MUFG Bank, Ltd., and Mizuho Bank, Ltd., as co-documentation agents, and Bank of America, N.A., as the administrative agent (in such capacity, the “Administrative Agent”).
+1.    I am the duly elected, qualified and acting [Chief Executive Officer] [President] [Chief Financial Officer] [Treasurer] [Assistant Treasurer] [Controller] of the Company.
+2.    I have reviewed and am familiar with the contents of this Compliance Certificate.
+3.    I have reviewed the terms of the Credit Agreement and the Loan Documents and have made or caused to be made under my supervision, a review in reasonable detail of the transactions and condition of the Company and its consolidated Subsidiaries during the accounting period covered by the financial statements attached hereto as Attachment 1 or in lieu of Attachment 1, such financial statements for the fiscal [year][quarter] dated [    , 20 ] that the Company has made available on the internet at www.kennametal.com or by similar electronic means, (the “Financial Statements”). Such Financial Statements include a Supplemental Detail Schedule identifying components of Consolidated EBITDA as built up from Net Income on a quarter by quarter basis. Such review did not disclose the existence during or at the end of the accounting period covered by the Financial Statements, and I have no knowledge of the existence as of the date of this Compliance Certificate, of any condition or event which constitutes a Default or Event of Default[, except as set forth below].
+4.    Attached hereto as Attachment 2 are the computations showing compliance with the covenants set forth in Section 6.1 of the Credit Agreement and the computations including the aggregate cumulative amount of the cash restructuring charges.
+5.    Attachment 3 identifies any Subsidiary of the Company which is not already a Subsidiary Guarantor and which is required to become a Subsidiary Guarantor pursuant to Section 5.10 of the Credit Agreement.
+[Signature Page Follows]
+
+_________________________
+1 If this box is not checked, this Compliance Certificate will only be posted to Private side Lenders.
+
+
+
+
+
+IN WITNESS WHEREOF, I have executed this Compliance Certificate this _____ day of ____________, 20__.
+    
+Name:
+
+Title:
+
+
+
+
+
+
+Attachment 1
+to Compliance Certificate
+The information described herein is as of         ,     , and pertains to the period from         ,     to              ,          .
+
+
+[Set forth Financial Statements]
+
+
+
+
+
+
+Attachment 2
+to Compliance Certificate
+For the Fiscal [Quarter][Year] ended     (“Statement Date”)
+In the event of conflict between the provisions and formulas set forth in this Attachment 2 and the provisions and formulas set forth in the Credit Agreement, the provisions and formulas of the Credit Agreement shall prevail.
+I.    Section 6.1(a) – Consolidated Leverage Ratio.
+A.
+Aggregate Indebtedness - Unrestricted Cash in excess of
+$25,000,000 on the Statement Date:    $__________
+B.
+Consolidated EBITDA:
+(for the last four (4) fiscal Quarters)    $__________
+C.
+Ratio of “A” to “B”:
+Maximum Consolidated Leverage Ratio permitted    [3.50]1[4.25]2:1.003 
+II.    Section 6.1(b) – Consolidated Interest Coverage Ratio.
+A.
+Consolidated EBITDA:    $__________
+B.
+Consolidated Adjusted Interest Expense:
+(For the last four (4) fiscal quarters)    $__________
+C.    Ratio of “A” to “B”:
+Minimum Consolidated Interest Coverage Ratio permitted    3.50:1.00
+______________________
+1 For any period of four consecutive fiscal quarters of the Borrowers ending during the period from the Closing Date through and including September 29, 2020 and for any period of four consecutive fiscal quarters of the Borrowers ending after December 31, 2021.
+2 For any period of four consecutive fiscal quarters of the Borrowers ending during the period from September 30, 2020 through and including December 31, 2021.
+3 Provided, that, During a Leverage Increase Period, the ratio set forth above may, upon receipt by the Administrative Agent of a Qualified Acquisition Notice, be increased to 3.75 to 1.00; provided, further, that, (a) for at least one (1) fiscal quarter of the Borrowers ending immediately following each Leverage Increase Period, the Consolidated Leverage Ratio as of the end of such fiscal quarter shall not be greater than 3.50 to 1.00 prior to giving effect to another Leverage Increase Period, (b) there shall be no more than two (2) Leverage Increase Periods during the term of the Credit Agreement, and (c) each Leverage Increase Period shall apply only with respect to the calculation of the Consolidated Leverage Ratio for purposes of determining compliance with Section 6.1(a) of the Credit Agreement and for purposes of any Qualified Acquisition Pro Forma Calculation; provided, further, that, (x) no acquisition or series of related acquisitions, in each case, occurring during the Covenant Relief Period, whether all or in part, shall be a “Qualified Acquisition” and (y) the Company (or, for the avoidance of doubt, any Responsible Officer thereof) may not deliver a Qualified Acquisition Notice with respect to any such acquisition or series of related acquisitions occurring during the Covenant Relief Period.
+
+
+
+
+
+III.
+Calculation of aggregate cumulative cash restructuring charges for purposes of clause (d) of the definition of Consolidated EBITDA.
+A.
+Cash restructuring charges described under clause B. below incurred
+during the four fiscal quarter period ending on the Statement Date:    $__________
+B.
+Aggregate cumulative amount of cash restructuring charges of the
+Company and its Subsidiaries (including cash payments in respect of
+non-cash restructuring charges taken in a prior period) incurred
+during any fiscal quarter, commencing with the fiscal quarter ended
+September 30, 2018, through the fiscal quarter ending December 31,
+2021, to the extent that such cash restructuring charges for any such
+Quarter when added with all cash restructuring charges for all prior such
+Quarters (including any such quarter which may precede the four fiscal
+Quarter period ending on the Statement Date) do not exceed the
+Maximum amount set forth below:    $__________
+Maximum allowed under definition for Consolidated EBITDA    $120,000,000.00
+
+
+
+
+
+
+Attachment 3
+to Compliance Certificate
+[Additional Significant Subsidiaries of the Company]

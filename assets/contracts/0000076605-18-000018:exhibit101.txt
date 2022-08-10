@@ -1,0 +1,248 @@
+EX-10.1 2 exhibit101.htm EXHIBIT 10.1
+FIFTH AMENDMENT TO AMENDED AND RESTATED CREDIT AGREEMENT AND COMMITMENT INCREASE AGREEMENT
+
+THIS FIFTH AMENDMENT TO AMENDED AND RESTATED CREDIT AGREEMENT AND COMMITMENT INCREASE AGREEMENT (this “Fifth Amendment”) is dated and effective as of January 29, 2018 (the “Fifth Amendment Effective Date”) by and among WELLS FARGO BANK, NATIONAL ASSOCIATION, as the Administrative Agent (“Administrative Agent”), the Lenders party hereto, PATRICK INDUSTRIES, INC., an Indiana corporation (“Borrower”), and ADORN HOLDINGS, INC., a Delaware corporation (“Guarantor”).
+Recitals
+A.    Borrower, Administrative Agent and the Lenders are parties to that certain Amended and Restated Credit Agreement dated as of April 28, 2015, as amended, restated, supplemented or otherwise modified from time to time prior to the date hereof (as amended to date, the “Credit Agreement”).
+B.     Borrower has requested that the Lenders and the Administrative Agent amend and modify the Credit Agreement to, among other things, (i) increase the aggregate amount of the Revolving Credit Commitments to $417,274,048.02, and (ii) reset the permitted aggregate amount for all future Incremental Loan Commitments and Incremental Loans.
+
+C.    Subject to the terms and conditions stated in this Fifth Amendment, the parties are willing to modify and amend the Credit Agreement, as provided in this Fifth Amendment.
+Agreement
+NOW, THEREFORE, in consideration of the premises, the mutual covenants and agreements herein, and each act performed and to be performed hereunder, Administrative Agent, the Lenders, Borrower and Guarantor agree as follows:
+1.Definitions. Except as otherwise expressly stated in this Fifth Amendment, all terms used in the Recitals and in this Fifth Amendment that are defined in the Credit Agreement, and that are not otherwise defined herein, shall have the same meanings in this Fifth Amendment as are ascribed to them in the Credit Agreement.
+2.Reallocation/Increase of Commitments. As of the Fifth Amendment Effective Date, the parties hereto agree that each Lender’s Commitments shall be the amounts set forth on Schedule 1.1(a) attached hereto and to the extent necessary, such Commitments reflect any adjustments, reallocations or increases, as applicable. The agreements of any Lenders to increase such Lenders’ Commitments under this Section 2 are several and not joint.
+3.Amendments to Credit Agreement. The following amendments are made to the Credit Agreement effective as of the Fifth Amendment Effective Date:
+
+(a)    New Definitions. The following definitions are added to Section 1.1 of the Credit Agreement to read in their entirety as follows:
+“Fifth Amendment” means that certain Fifth Amendment to Amended and Restated Credit Agreement and Commitment Increase Agreement, dated as of the Fifth Amendment Effective Date, by and among the Borrower, Guarantor, Administrative Agent and the Lenders.
+
+
+“Fifth Amendment Effective Date” means January 29, 2018.
+(b)    Amended Definitions. The following definitions contained in Section 1.1 of the Credit Agreement are amended, and as so amended, restated in their entirety as follows:
+“Incremental Facilities Limit” means $50,000,000 less the total aggregate initial principal amount (as of the date of incurrence thereof) of all unfunded Incremental Loan Commitments and Incremental Loans occurring after the Fifth Amendment Effective Date.
+“Revolving Credit Commitment” means (a) as to any Revolving Credit Lender, the obligation of such Revolving Credit Lender to make Revolving Credit Loans to, and to purchase participations in L/C Obligations and Swingline Loans for the account of the Borrower hereunder in an aggregate principal amount at any time outstanding not to exceed the amount set forth opposite such Revolving Credit Lender’s name on the Register, as such amount may be modified at any time or from time to time pursuant to the terms hereof (including, without limitation, Section 5.13) and (b) as to all Revolving Credit Lenders, the aggregate commitment of all Revolving Credit Lenders to make Revolving Credit Loans, as such amount may be modified at any time or from time to time pursuant to the terms hereof (including, without limitation, Section 5.13). The aggregate Revolving Credit Commitment of all the Revolving Credit Lenders on the Fifth Amendment Effective Date shall be $417,274,048.02.
+(c)    Amendment to Schedule 1.1(a). Schedule 1.1(a) attached to the Credit Agreement is amended, and as so amended, restated in its entirety in the form of Schedule 1.1(a) attached hereto.
+4.Rollover and Reallocation of Letters of Credit. As of the Fifth Amendment Effective Date, the Issuing Lender hereby grants to each L/C Participant, and each L/C Participant hereby accepts and purchases from the Issuing Lender, on the terms and conditions stated in the Credit Agreement, for such L/C Participant’s own account and risk an undivided interest equal to such L/C Participant’s Revolving Credit Commitment Percentage in the Issuing Lender’s obligations and rights under and in respect of each existing Letter of Credit issued under the Credit Agreement and the amount of each draft paid by the Issuing Lender thereunder.
+
+5.Representations of Borrower.  Borrower represents and warrants to the Lenders and Administrative Agent as follows:
+
+(a)    (i) The execution, delivery and performance of this Fifth Amendment and all agreements and documents delivered pursuant hereto by Borrower have been duly authorized by all necessary corporate action and do not and will not violate (x) any provision of any law, rule, regulation, order, judgment, injunction, or writ presently in effect applying to Borrower or its articles of incorporation or bylaws, as applicable, or (y) result in a breach of or constitute a default under any material agreement, lease or instrument to which Borrower is a party or by which Borrower or any of its properties may be bound or affected, which could, individually or in the aggregate, reasonably be expected to have a Material Adverse Effect; (ii) no authorization, consent, approval, license, exemption or filing of a registration with any court or governmental department, agency or instrumentality is or will be necessary to the valid execution, delivery or performance by Borrower of this Fifth Amendment and all agreements and documents delivered pursuant hereto, other than consents, authorizations, filings or other acts or consents for which the failure to obtain or make could not, individually or in the aggregate, reasonably be expected to have a Material Adverse Effect; and (iii) this Fifth Amendment and all agreements and documents delivered pursuant hereto by Borrower are the legal,
+
+
+valid and binding obligations of Borrower, as a signatory thereto, and enforceable against Borrower in accordance with the terms thereof except as such enforceability may be limited by bankruptcy, insolvency, reorganization, moratorium or similar state or federal Debtor Relief Laws from time to time in effect which affect the enforcement of creditors’ rights in general and the availability of equitable remedies.
+(b)    After giving effect to the amendments contained in this Fifth Amendment, the representations and warranties contained in Article VII of the Credit Agreement are true and correct in all material respects on and as of the Fifth Amendment Effective Date with the same force and effect as if made on and as of the Fifth Amendment Effective Date, except for any such representation and warranty that by its terms is made only as of an earlier date, which representation and warranty shall remain true and correct in all material respects, and except that the representation in Section 7.15 of the Credit Agreement shall be deemed to refer to the financial statements of Borrower most recently delivered to the Lenders and Administrative Agent prior to the Fifth Amendment Effective Date. 
+(c)    No Event of Default or, to the knowledge of Borrower, Default shall have occurred and be continuing under the Credit Agreement as of the Fifth Amendment Effective Date.
+6.Consent and Representations of Guarantor. Guarantor represents and warrants to the Lenders and Administrative Agent as follows:
+
+(a)Guarantor, by Guarantor’s execution of this Fifth Amendment, expressly consents to the execution, delivery and performance by Borrower, the Lenders and Administrative Agent of this Fifth Amendment and all agreements, instruments and documents delivered pursuant hereto, and agrees that neither the provisions of this Fifth Amendment nor any action taken or not taken in accordance with the terms of the this Fifth Amendment shall constitute a termination, extinguishment, release, or discharge of any of its obligations under the Amended and Restated Guaranty, dated as of April 28, 2015, executed by Guarantor in favor of the Lenders and Administrative Agent (as the same has been and may hereafter be amended and/or restated from time to time and at any time, the “Guaranty”), guaranteeing to the Lenders and Administrative Agent the payment of the Guaranteed Obligations (as such term is defined in the Guaranty) when due or provide a defense, set off, or counterclaim to it with respect to any Guarantor’s obligations under the Guaranty or any other Loan Documents. Guarantor affirms to the Lenders and Administrative Agent that the Guaranty is in full force and effect, is a valid and binding obligation of Guarantor and continues to secure and support the Guaranteed Obligations.
+
+(b)(i) The execution, delivery and performance of this Fifth Amendment and all agreements and documents delivered pursuant hereto by Guarantor have been duly authorized by all necessary corporate action and do not and will not violate (x) any provision of any law, rule, regulation, order, judgment, injunction, or writ presently in effect applying to Guarantor, or its articles of incorporation or bylaws, as applicable, or (y) result in a breach of or constitute a default under any material agreement, lease or instrument to which Guarantor is a party or by which Guarantor or any of its properties may be bound or affected, which could, individually or in the aggregate, reasonably be expected to have a Material Adverse Effect; (ii) no authorization, consent, approval, license, exemption or filing of a registration with any court or governmental department, agency or instrumentality is or will be necessary to the valid execution, delivery or performance by Guarantor of this Fifth Amendment and all agreements and documents delivered pursuant hereto, other than consents, authorizations, filings or other acts or consents for which the failure to obtain or make could not, individually or in the aggregate, reasonably be expected to have a Material Adverse Effect; and (iii) this Fifth Amendment and all agreements and documents delivered pursuant hereto by Guarantor are the legal, valid and binding obligations of Guarantor, as a signatory thereto, and enforceable against Guarantor in accordance with the terms thereof, except as such enforceability may be limited by bankruptcy, insolvency,
+
+
+reorganization, moratorium or similar state or federal Debtor Relief Laws from time to time in effect which affect the enforcement of creditors’ rights in general and the availability of equitable remedies.
+
+(c)The request for and the grant of the confirmations, consents and waivers given herein shall not establish a course of conduct or dealing among the Lenders, Administrative Agent and Guarantor and shall not impose any obligation on the Lenders or Administrative Agent to consult with, notify or obtain the consent of the Guarantor in the future if the financial accommodations provided to the Borrower should be revised, amended or increased.
+
+7.Conditions.  The obligation of the Lenders and Administrative Agent to execute and to perform this Fifth Amendment shall be subject to full satisfaction of the following conditions precedent on or before the Fifth Amendment Effective Date (in the case of deliveries of executed documents, such condition shall be satisfied by delivery of an electronic copy, with delivery of originals to promptly follow):
+
+(a)There shall exist no Event of Default or, to the knowledge of Borrower, Default.
+(b)All liens in favor of the Administrative Agent, for the benefit of the Lenders, shall be in full force and effect with the required priority.
+(c)This Fifth Amendment shall have been duly executed and delivered by Borrower and Guarantor to the Lenders and Administrative Agent.
+(d)Copies of such organizational documents or resolutions of Borrower or Guarantor as Administrative Agent may request evidencing necessary organizational action by Borrower or Guarantor with respect to this Fifth Amendment and all other agreements or documents delivered pursuant hereto as any Lender or Administrative Agent may reasonably request.
+(e)The Amended and Restated Revolving Credit Note, dated as of even date herewith, in favor of Wells Fargo Bank, National Association in the original principal amount of $93,097,080.12 shall have been duly executed and delivered by Borrower to Administrative Agent.
+(f)The Amended and Restated Revolving Credit Note, dated as of even date herewith, in favor of Bank of America, N.A. in the original principal amount of $93,097,080.12 shall have been duly executed and delivered by Borrower to Administrative Agent.
+(g)The Amended and Restated Revolving Credit Note, dated as of even date herewith, in favor of KeyBank National Association in the original principal amount of $72,865,102.63 shall have been duly executed and delivered by Borrower to Administrative Agent.
+(h)The Amended and Restated Revolving Credit Note, dated as of even date herewith, in favor of 1st Source Bank in the original principal amount of $22,587,949.23 shall have been duly executed and delivered by Borrower to Administrative Agent.
+(i)The Amended and Restated Revolving Credit Note, dated as of even date herewith, in favor of Fifth Third Bank in the original principal amount of $62,914,494.59 shall have been duly executed and delivered by Borrower to Administrative Agent.
+(j)The Amended and Restated Revolving Credit Note, dated as of even date herewith, in favor of U.S. Bank, National Association in the original principal amount of $48,227,404.80 shall have been duly executed and delivered by Borrower to Administrative Agent.
+(k)Borrower shall have paid to Wells Fargo Securities, LLC all fees and expenses required to be paid pursuant to the Engagement Letter dated as of December 22, 2017, by Wells Fargo Securities, LLC and agreed to and accepted by Borrower.
+
+8.Fees. Borrower shall promptly pay all costs and reasonable and documented out-of-pocket expenses incurred by the Administrative Agent in connection with the negotiation, preparation and closing of this Fifth Amendment and the other documents and agreements delivered pursuant hereto,
+
+
+including the reasonable and documented fees and out-of-pocket expenses of Faegre Baker Daniels LLP, special counsel to Administrative Agent.
+
+9.Waiver of Defenses and Claims. In consideration of the financial accommodations provided to Borrower by the Lenders as contemplated by this Fifth Amendment, Borrower and Guarantor, jointly and severally, hereby waive, release, and forever discharge the Lenders and Administrative Agent from and against any and all rights, claims or causes of actions of Borrower or Guarantor against the Lenders or Administrative Agent arising from any Lender’s or Administrative Agent’s actions or inactions with respect to the Loan Documents or any security interest, lien or collateral in connection therewith as well as any and all rights of set off, defenses, claims, causes of action and any other bar to the enforcement of the Loan Documents which exist as of the Fifth Amendment Effective Date.
+
+10.Binding on Successors and Assigns. All of the terms and provisions of this Fifth Amendment shall be binding upon and inure to the benefit of the parties hereto, their respective successors, assigns and legal representatives.
+
+11.Governing Law/Entire Agreement/Survival/Miscellaneous. This Fifth Amendment is a contract made under, and shall be governed by and construed in accordance with, the laws of the State of Illinois applicable to contracts made and to be performed entirely within such state and without giving effect to the choice or conflicts of laws principles of any other jurisdiction. This Fifth Amendment constitutes and expresses the entire understanding between the parties with respect to the subject matter hereof, and supersedes all prior agreements and understandings, commitments, inducements or conditions, whether expressed or implied, oral or written. All covenants, agreements, undertakings, representations and warranties made in this Fifth Amendment shall survive the execution and delivery of this Fifth Amendment, and shall not be affected by any investigation made by any person. The Credit Agreement, as amended hereby, remains in full force and effect in accordance with its terms and provisions.
+
+12.Amendment of Other Loan Documents. All references to the Credit Agreement in the other Loan Documents shall mean the Credit Agreement, as modified and amended by this Fifth Amendment and as it may be further amended, modified, extended, renewed, supplemented and/or restated from time to time and at any time. The other Loan Documents are hereby modified and amended to the extent necessary to conform them to, or to cause them to accurately reflect, the terms of the Credit Agreement, as modified by this Fifth Amendment. Except as otherwise expressly provided herein, all of the terms and provisions of the Credit Agreement and the other Loan Documents, as modified and amended by this Fifth Amendment, remain in full force and effect, and fully binding on the parties thereto and their respective successors and assigns.
+
+13.Further Assurances. The parties shall duly execute and deliver, or cause to be executed and delivered, such further instruments and perform or cause to be performed such further acts as may be necessary or proper in the reasonable opinion of any other party to carry out the provisions and purposes of this Fifth Amendment.
+
+14.Counterparts. This Fifth Amendment may be executed in two or more counterparts, each of which shall constitute an original, but all of which when taken together shall constitute but one agreement. In the event any party executes and delivers this Fifth Amendment via facsimile or electronic transmission, such party hereby agrees that for the purposes of enforcement and all applicable statutes, laws and rules, including, without limitation, the Uniform Commercial Code, rules of evidence and statutes of fraud: (i) the facsimile or electronic signature of such party shall constitute a binding signature of such party as a symbol and mark executed and adopted by such party with a present intention to authenticate this Fifth
+
+
+Amendment; (ii) the facsimile or electronic transmission of this Fifth Amendment shall constitute a writing signed by such party; and (iii) the facsimile or electronic transmission of this Fifth Amendment shall constitute an original of and best evidence of this Fifth Amendment.
+
+[Signatures on following pages]
+
+
+
+
+
+
+
+
+
+
+
+IN WITNESS WHEREOF, the parties hereto have caused this Fifth Amendment to be duly executed and delivered by their respective authorized signatories.
+
+PATRICK INDUSTRIES, INC., as Borrower
+
+
+By: /s/ Joshua Boone    
+Name: Joshua Boone
+Title: Vice President-Finance, Chief Financial Officer, Secretary and Treasurer
+
+
+ADORN HOLDINGS, INC., as Guarantor
+
+
+By: /s/ Joshua Boone    
+Name: Joshua Boone
+Title: Secretary and Treasurer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Signature Page to Fifth Amendment to Credit Agreement
+
+
+
+WELLS FARGO BANK, NATIONAL ASSOCIATION,
+as Administrative Agent and a Lender
+
+By: /s/ David W. O’Neal    
+Name: David O’Neal
+Title: Senior Vice President
+
+
+BANK OF AMERICA, N.A., as a Lender
+
+By: /s/ Gregory J. Bosio    
+Name: Gregory J. Bosio
+Title: Senior Vice President
+
+
+KEYBANK NATIONAL ASSOCIATION, as a Lender
+
+By: /s/ Geoffrey K. Henry    
+Name: Geoffrey K. Henry
+Title: Vice President
+
+
+1st SOURCE BANK, as a Lender
+
+By: /s/ Darren W. Teamer    
+Name: Darren W. Teamer
+Title: Vice President
+
+
+FIFTH THIRD BANK, as a Lender
+
+By: /s/ Craig Ellis    
+Name: Craig Ellis
+Title: Vice President
+
+
+U.S. BANK, NATIONAL ASSOCIATION, as a Lender
+
+By: /s/ Cassie Kim    
+Name: Cassie Kim
+Title: Vice President
+
+
+
+
+Signature Page to Fifth Amendment to Credit Agreement
+
+
+Schedule 1.1(a) Commitments/Loans
+
+Lender
+Revolving Credit Commitment
+Revolving Credit Commitment Percentage
+Term Loan Commitment
+Term Loan Commitment Percentage
+Total Commitment
+Wells Fargo Bank, National Association
+$93,097,080.12
+22.311%
+$18,383,544.88
+22.222%
+$111,480,625.00
+Bank of America, N.A.
+$93,097,080.12
+22.311%
+$18,383,544.88
+22.222%
+$111,480,625.00
+KeyBank National Association
+$72,865,102.63
+17.462%
+$15,286,147.37
+18.478%
+$88,151,250.00
+Fifth Third Bank
+$62,914,494.59
+15.078%
+$12,473,005.41
+15.077%
+$75,387,500.00
+U.S. Bank, National Association
+$48,227,404.80
+11.558%
+$8,272,595.20
+10.000%
+$56,500,000.00
+Lake City Bank
+$24,484,936.53
+5.868%
+$5,515,063.47
+6.667%
+$30,000,000.00
+1st Source Bank
+$22,587,949.23
+5.413%
+$4,412,050.77
+5.333%
+$27,000,000.00
+Total
+$417,274,048.02
+100%
+$82,725,951.98
+100%
+$500,000,000.00

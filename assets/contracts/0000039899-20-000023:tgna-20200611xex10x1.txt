@@ -1,0 +1,807 @@
+EX-10.1 2 tgna-20200611xex10x1.htm EXHIBIT 10.1
+Execution Version
+
+THIRTEENTH AMENDMENT TO THE AMENDED AND RESTATED COMPETITIVE ADVANCE AND REVOLVING CREDIT AGREEMENT
+This THIRTEENTH AMENDMENT, dated as of June 11, 2020 (this “Amendment”), to the Amended and Restated Competitive Advance and Revolving Credit Agreement, dated as of December 13, 2004 and effective as of January 5, 2005, and as amended and restated as of August 5, 2013, as further amended as of June 29, 2015, as further amended as of September 30, 2016, as further amended as of August 1, 2017, as further amended as of June 21, 2018 and as further amended as of August 15, 2019 (as thereafter amended and modified from time to time prior to the date hereof, the “Credit Agreement”), among TEGNA Inc. (f/k/a Gannett Co., Inc.), a Delaware corporation (the “Borrower”), the several banks and other financial institutions from time to time parties to the Credit Agreement (the “Lenders”), JPMorgan Chase Bank, N.A., as administrative agent (in such capacity, the “Administrative Agent”), JPMorgan Chase Bank, N.A. and Citibank, N.A., as syndication agents, and Barclays Bank PLC, Citizens Bank, N.A., Fifth Third Bank, National Association, Mizuho Bank, Ltd., MUFG Bank, Ltd., RBC Capital Markets, Sumitomo Mitsui Banking Corporation, SunTrust Bank, U.S. Bank National Association and Wells Fargo Bank, National Association, as documentation agents and JPMorgan Chase Bank, N.A., Citibank, N.A., Barclays Bank PLC and Royal Bank of Canada as the issuing lenders (the “Issuing Lenders”).
+W I T N E S S E T H:
+WHEREAS, the Borrower has requested certain amendments to the Credit Agreement as described herein;
+WHEREAS, the parties set forth in Section 3(a) of this Amendment are willing to consent to the requested amendments on the terms and conditions contained herein;
+NOW, THEREFORE, the parties hereto hereby agree as follows:
+1. Defined Terms. Unless otherwise defined herein, terms used herein shall have the meanings given to them in the Credit Agreement.
+2. Amendment. The Credit Agreement (excluding the exhibits thereto) is, effective as of the Thirteenth Amendment Effective Date (as defined below), hereby amended as follows:
+(a)    The following definitions are hereby added in the appropriate alphabetical order to Section 1.1 of the Credit Agreement:
+“Affected Financial Institution”: (a) any EEA Financial Institution or (b) any UK Financial Institution.
+“Ancillary Document”: has the meaning assigned to it in Section 9.8(b).
+“Electronic Signature”: an electronic sound, symbol, or process attached to, or associated with, a contract or other record and adopted by a Person with the intent to sign, authenticate or accept such contract or record.
+
+Active.35401915.2                    
+
+- -2 -
+
+
+“Liabilities”: any losses, claims (including intraparty claims), demands, damages or liabilities of any kind.
+“Resolution Authority”: an EEA Resolution Authority or, with respect to any UK Financial Institution, a UK Resolution Authority.
+“Thirteenth Amendment”: the Thirteenth Amendment to this Agreement, dated as of June 11, 2020, among the Borrower, the Lenders and the Administrative Agent.
+“Thirteenth Amendment Effective Date”: June 11, 2020.
+“UK Financial Institution”: any BRRD Undertaking (as such term is defined under the PRA Rulebook (as amended form time to time) promulgated by the United Kingdom Prudential Regulation Authority) or any person falling within IFPRU 11.6 of the FCA Handbook (as amended from time to time) promulgated by the United Kingdom Financial Conduct Authority, which includes certain credit institutions and investment firms, and certain affiliates of such credit institutions or investment firms.
+“UK Resolution Authority”: the Bank of England or any other public administrative authority having responsibility for the resolution of any UK Financial Institution.
+(b)    The definition of “Amendments” in Section 1.1 of the Credit Agreement is hereby amended and restated in its entirety as follows:
+““Amendments”: the First Amendment, the Second Amendment, the Third Amendment, the Fourth Amendment, the Fifth Amendment and Waiver, the Sixth Amendment, the Seventh Amendment, the Eighth Amendment, the Ninth Amendment, the Tenth Amendment, the Eleventh Amendment, the Twelfth Amendment and the Thirteenth Amendment.”
+(c)    The definition of “Bail-In Action” in Section 1.1 of the Credit Agreement is hereby amended and restated in its entirety as follows:
+““Bail-In Action”: the exercise of any Write-Down and Conversion Powers by the applicable Resolution Authority in respect of any liability of an Affected Financial Institution.”
+(d)    The definition of “Bail-In Legislation” in Section 1.1 of the Credit Agreement is hereby amended and restated in its entirety as follows:
+““Bail-In Legislation”: with respect to any EEA Member Country implementing Article 55 of Directive 2014/59/EU of the European Parliament and of the Council of the European Union, the implementing law, regulation rule or requirement for such EEA Member Country from time to time which is described in the EU Bail-In Legislation Schedule. and (b) with respect to the United Kingdom, Part I of the United
+
+Active.35401915.2                    
+
+- -3 -
+
+Kingdom Banking Act 2009 (as amended from time to time) and any other law, regulation or rule applicable in the United Kingdom relating to the resolution of unsound or failing banks, investment firms or other financial institutions or their affiliates (other than through liquidation, administration or other insolvency proceedings).”
+(e)    The definition of “EEA Financial Institution” in Section 1.1 of the Credit Agreement is hereby amended and restated in its entirety as follows:
+““EEA Financial Institution”: (a) any credit institution or investment firm established in any EEA Member Country which is subject to the supervision of an EEA Resolution Authority, (b) any entity established in an EEA Member Country which is a parent of an institution described in clause (a) of this definition, or (c) any financial institution established in an EEA Member Country which is a subsidiary of an institution described in clauses (a) or (b) of this definition and is subject to consolidated supervision with its parent.”
+(f)    The definition of “Write-Down and Conversion Powers” in Section 1.1 of the Credit Agreement is hereby amended and restated in its entirety as follows:
+““Write-Down and Conversion Powers”: (a) with respect to any EEA Resolution Authority, the write-down and conversion powers of such EEA Resolution Authority from time to time under the Bail-In Legislation for the applicable EEA Member Country, which write-down and conversion powers are described in the EU Bail-In Legislation Schedule., and (b) with respect to the United Kingdom, any powers of the applicable Resolution Authority under the Bail-In Legislation to cancel, reduce, modify or change the form of a liability of any UK Financial Institution or any contract or instrument under which that liability arises, to convert all or part of that liability into shares, securities or obligations of that Person or any other Person, to provide that any such contract or instrument is to have effect as if a right had been exercised under it or to suspend any obligation in respect of that liability or any of the powers under that Bail-In Legislation that are related to or ancillary to any of those powers.”
+(g)     Section 3.15 of the Credit Agreement is hereby amended and restated in its entirety as follows:
+“Section 3.15. Affected Financial Institutions. No Loan Party is an Affected Financial Institution.”
+(h)     Section 6.3 of the Credit Agreement is hereby amended and restated in its entirety as follows:
+“Section 6.3.    Total Leverage Ratio. Permit the Total Leverage Ratio as of the last day of any Test Period ending during any period set forth below to exceed the ratio set forth opposite such period:
+
+
+Active.35401915.2                    
+
+- -4 -
+
+Period
+Total
+Leverage Ratio
+Fiscal quarter ending September 30, 2019 through and including fiscal quarter ending December 31, 2021
+5.50 to 1.00
+Fiscal quarter ending March 31, 2022
+5.25 to 1.00
+Fiscal quarter ending June 30, 2022
+5.00 to 1.00
+Fiscal quarter ending September 30, 2022
+4.75 to 1.00
+Fiscal quarter ending December 31, 2022 and thereafter
+4.50 to 1.00
+”
+(i)     Section 9.8 of the Credit Agreement is hereby amended and restated in its entirety as follows:
+“Section 9.8.    Counterparts. (a) This Agreement may be executed by one or more of the parties to this Agreement on any number of separate counterparts, and all of said counterparts taken together shall be deemed to constitute one and the same instrument. Delivery of an executed signature page of this Agreement by facsimile transmission shall be effective as delivery of a manually executed counterpart hereof. A set of the copies of this Agreement signed by all the parties shall be lodged with the Borrower and the Administrative Agent.
+(b) Delivery of an executed counterpart of a signature page of (x) this Agreement, (y) any other Loan Document and/or (z) any document, amendment, approval, consent, information, notice (including, for the avoidance of doubt, any notice delivered pursuant to Section 9.2), certificate, request, statement, disclosure or authorization related to this Agreement, any other Loan Document and/or the transactions contemplated hereby and/or thereby (each an “Ancillary Document”) that is an Electronic Signature transmitted by telecopy, emailed pdf. or any other electronic means that reproduces an image of an actual executed signature page shall be effective as delivery of a manually executed counterpart of this Agreement, such other Loan Document or such Ancillary Document, as applicable. The words “execution,” “signed,” “signature,” “delivery,” and words of like import in or relating to this Agreement, any other Loan Document and/or any Ancillary Document shall be deemed to include Electronic Signatures, deliveries or the keeping of records in any electronic form (including deliveries by telecopy, emailed pdf. or any other electronic means that reproduces an image of an actual executed signature page), each of which shall be of the same legal effect, validity or enforceability as a manually executed signature, physical delivery thereof or the use of a paper-based recordkeeping system, as the case may be; provided that nothing herein shall require the Administrative Agent to accept Electronic Signatures in any form or format without its prior written consent and pursuant to procedures approved by it; provided, further, without limiting the foregoing, (i) to the extent the Administrative Agent has agreed to accept any Electronic Signature, the Administrative Agent and each of the Lenders shall be entitled to rely on such Electronic Signature purportedly given by or on behalf of the Borrower or
+
+Active.35401915.2                    
+
+- -5 -
+
+any other Loan Party without further verification thereof and without any obligation to review the appearance or form of any such Electronic signature and (ii) upon the request of the Administrative Agent or any Lender, any Electronic Signature shall be promptly followed by a manually executed counterpart. Without limiting the generality of the foregoing, the Borrower and each Loan Party hereby (i) agrees that, for all purposes, including without limitation, in connection with any workout, restructuring, enforcement of remedies, bankruptcy proceedings or litigation among the Administrative Agent, the Lenders, the Borrower and the Loan Parties, Electronic Signatures transmitted by telecopy, emailed pdf. or any other electronic means that reproduces an image of an actual executed signature page and/or any electronic images of this Agreement, any other Loan Document and/or any Ancillary Document shall have the same legal effect, validity and enforceability as any paper original, (ii) the Administrative Agent and each of the Lenders may, at its option, create one or more copies of this Agreement, any other Loan Document and/or any Ancillary Document in the form of an imaged electronic record in any format, which shall be deemed created in the ordinary course of such Person’s business, and destroy the original paper document (and all such electronic records shall be considered an original for all purposes and shall have the same legal effect, validity and enforceability as a paper record), (iii) waives any argument, defense or right to contest the legal effect, validity or enforceability of this Agreement, any other Loan Document and/or any Ancillary Document based solely on the lack of paper original copies of this Agreement, such other Loan Document and/or such Ancillary Document, respectively, including with respect to any signature pages thereto and (iv) waives any claim against any Lender-related Person for any Liabilities arising solely from the Administrative Agent’s and/or any Lender’s reliance on or use of Electronic Signatures and/or transmissions by telecopy, emailed pdf. or any other electronic means that reproduces an image of an actual executed signature page, including any Liabilities arising as a result of the failure of the Borrower and/or any Loan Party to use any available security measures in connection with the execution, delivery or transmission of any Electronic Signature.”
+(j)    Section 9.17 of the Credit Agreement is hereby amended and restated in its entirety as follows:
+“Section 9.17.    Acknowledgement and Consent to Bail-In of Affected Financial Institutions. Notwithstanding anything to the contrary in any Loan Document or in any other agreement, arrangement or understanding among any such parties, each party hereto acknowledges that any liability of any Affected Financial Institution arising under any Loan Document, to the extent such liability is unsecured, may be subject to the Write-Down and Conversion Powers of the applicable Resolution Authority and agrees and consents to, and acknowledges and agrees to be bound by:
+(a)    the application of any Write-Down and Conversion Powers by the applicable Resolution Authority to any such liabilities arising hereunder which may be payable to it by any party hereto that is an Affected Financial Institution; and
+
+Active.35401915.2                    
+
+- -6 -
+
+(b)    the effects of any Bail-In Action on any such liability, including, if applicable:
+(i)    a reduction in full or in part or cancellation of any such liability;
+(ii)    a conversion of all, or a portion of, such liability into shares or other instruments of ownership in such Affected Financial Institution, its parent entity, or a bridge institution that may be issued to it or otherwise conferred on it, and that such shares or other instruments of ownership will be accepted by it in lieu of any rights with respect to any such liability under this Agreement or any other Loan Document; or
+(iii)    the variation of the terms of such liability in connection with the exercise of the Write-Down and Conversion Powers of the applicable Resolution Authority.”
+3.Effectiveness. This Amendment shall become effective as of the date (the “Thirteenth Amendment Effective Date”) on which the following conditions precedent shall have been satisfied:
+(a)
+the Administrative Agent shall have received counterparts hereof duly executed and delivered by each of (i) the Borrower, (ii) the Guarantors, (iii) the Administrative Agent and (vi) Lenders constituting Required Lenders under the Credit Agreement;
+(b)
+(i) each of the representations and warranties of the Borrower in the Credit Agreement and this Amendment shall be true and correct in all material respects, as if made on and as of the date hereof (provided that any representation and warranty that is qualified as to “materiality” or “Material Adverse Effect” shall be true and correct in all respects as so qualified); (ii) since December 31, 2019 there shall have been no Material change in the business or financial condition of the Borrower and its Subsidiaries taken as a whole that has not been publicly disclosed, and (iii) no Default or Event of Default shall have occurred and be continuing; and
+(c)
+all fees, including consent fees, and reasonable and documented out-of-pocket costs and expenses of the Administrative Agent, including the reasonable fees and disbursements of counsel, shall have been paid or reimbursed.
+4.Representations and Warranties. The Borrower hereby represents and warrants that, on and as of the Thirteenth Amendment Effective Date, after giving effect to this Amendment:
+(a) no Default or Event of Default has occurred and is continuing; and
+(b) each of the representations and warranties of the Borrower in the Credit Agreement and this Amendment is true and correct in all material respects, as if made on and as of the date hereof (provided that any representation and warranty that is qualified as to “materiality” or “Material Adverse Effect” shall be true and correct in all respects as so qualified); and since December 31,
+
+Active.35401915.2                    
+
+- -7 -
+
+2019 there has been no Material change in the business or financial condition of the Borrower and its Subsidiaries taken as a whole that has not been publicly disclosed.
+5.Reaffirmation of Obligations. Each Guarantor and the Borrower hereby agrees that all of its obligations and liabilities under the Credit Agreement and each other Loan Document to which it is a party remain in full force and effect on a continuous basis after giving effect to this Amendment.
+6.Continuing Effect; no novation. Except as expressly amended hereby, the Credit Agreement shall continue to be and shall remain in full force and effect in accordance with its terms. From and after the date hereof, all references in the Credit Agreement thereto shall be to such Credit Agreement as amended hereby. Nothing herein contained shall be construed as a substitution or novation of the obligations outstanding under the Credit Agreement or instruments securing the same, which shall remain in full force and effect, except to any extent modified hereby or by instruments executed concurrently herewith and except to the extent repaid as provided therein. Nothing implied in this Amendment or in any other document contemplated hereby shall be construed as a release or other discharge of any of the Loan Parties under any Loan Document from any of its obligations and liabilities as a borrower, guarantor or pledgor under any of the Loan Documents.
+7.Counterparts. This Amendment may be executed by one or more of the parties hereto on any number of separate counterparts, and all of said counterparts taken together shall be deemed to constitute one and the same instrument. Delivery of an executed signature page of this Amendment that is an Electronic Signature (as defined below) transmitted by telecopy, emailed pdf. or any other electronic means that reproduces an image of an actual executed signature page shall be effective as delivery of a manually executed counterpart of this Amendment. The words “execution,” “signed,” “signature,” “delivery,” and words of like import in or relating to this Amendment shall be deemed to include Electronic Signatures, deliveries or the keeping of records in any electronic form (including deliveries by telecopy, emailed pdf. or any other electronic means that reproduces an image of an actual executed signature page), each of which shall be of the same legal effect, validity or enforceability as a manually executed signature, physical delivery thereof or the use of a paper-based recordkeeping system, as the case may be; provided that nothing herein shall require the Administrative Agent to accept Electronic Signatures in any form or format without its prior written consent and pursuant to procedures approved by it; provided, further, without limiting the foregoing, (i) to the extent the Administrative Agent has agreed to accept any Electronic Signature, the Administrative Agent and each of the Lenders shall be entitled to rely on such Electronic Signature purportedly given by or on behalf of the Borrower or any other Loan Party without further verification thereof and without any obligation to review the appearance or form of any such Electronic signature and (ii) upon the request of the Administrative Agent or any Lender, any Electronic Signature shall be promptly followed by a manually executed counterpart. For purposes of this Section 7, “Electronic Signature” means electronic sound, symbol, or process attached to, or associated with, a contract or other record and adopted by a Person with the intent to sign, authenticate or accept such contract or record.
+8.Severability. Any provision of this Amendment which is prohibited or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of such prohibition or unenforceability without invalidating the remaining provisions hereof, and any such
+
+Active.35401915.2                    
+
+- -8 -
+
+prohibition or unenforceability in any jurisdiction shall not invalidate or render unenforceable such provision in any other jurisdiction.
+9.Integration. This Amendment and the other Loan Documents represent the entire agreement of the Borrower, the Guarantors, the Administrative Agent and the Lenders party hereto with respect to the subject matter hereof, and there are no promises, undertakings, representations or warranties by the Administrative Agent or any Lender party hereto relative to the subject matter hereof not expressly set forth or referred to herein or in the other Loan Documents. Sections 9.12 and 9.14 of the Credit Agreement are incorporated herein by reference and shall apply mutatis mutandis.
+10.Headings. Section headings used in this Amendment are for convenience of reference only, are not part of this Amendment and are not to affect the constructions of, or to be taken into consideration in interpreting, this Amendment.
+11.GOVERNING LAW. THIS AMENDMENT AND THE RIGHTS AND OBLIGATIONS OF THE PARTIES UNDER THIS AMENDMENT SHALL BE GOVERNED BY, AND CONSTRUED AND INTERPRETED IN ACCORDANCE WITH, THE LAW OF THE STATE OF NEW YORK.
+12.Expenses. The Borrower agrees to pay or reimburse JPMorgan Chase Bank, N.A., in its capacities as Administrative Agent and as Arranger, for all of its reasonable out-of-pocket costs and expenses incurred in connection with the preparation, negotiation and execution of this Amendment, including, without limitation, the reasonable fees and disbursements of counsel to JPMorgan Chase Bank, N.A., in its capacities as Administrative Agent and as the Arranger.
+[Signature page follows]
+
+
+Active.35401915.2                    
+
+
+IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be executed and delivered by their duly authorized officers as of the date first written above.
+
+TEGNA INC.
+
+
+By:    /s/ Cherbury Chesser                
+    Name: Cherbury Chesser
+    Title:     Vice President and Treasurer
+
+GUARANTORS:
+BELO ADVERTISING CUSTOMER SERVICES, INC.
+BELO CAPITAL BUREAU, INC.
+BELO CORP.
+BELO HOLDINGS, INC.
+BELO INVESTMENT, LLC
+BELO KENTUCKY, INC.
+BELO MANAGEMENT SERVICES, INC.
+BELO SAN ANTONIO, INC.
+BELO TECHNOLOGY ASSETS II, INC.
+BELO TV, INC.
+BELO VENTURES, INC.
+CAPE PUBLICATIONS, INC.
+COMBINED COMMUNICATIONS OF OKLAHOMA, LLC
+CORPORATE ARENA ASSOCIATES, INC.
+DAILY BLAST LIVE LLC
+G/O DIGITAL MARKETING, LLC
+GTMP HOLDINGS, LLC
+KENS-TV, INC.
+KFMB-TV, LLC
+KHOU-TV, INC.
+KING BROADCASTING COMPANY
+KING NEWS CORPORATION
+KMSB-TV, INC.
+KONG-TV, INC.
+KSKN TELEVISION, INC.
+KTTU-TV, INC.
+KTVK, INC.
+KVUE TELEVISION, INC.
+KWES TELEVISION, LLC
+KXTV, LLC
+LSB BROADCASTING, INC.
+MULTIMEDIA ENTERTAINMENT, LLC
+MULTIMEDIA HOLDINGS CORPORATION
+MULTIMEDIA KSDK, LLC
+
+[Signature Page to Amendment - TEGNA Credit Agreement]
+
+
+
+NORTHWEST CABLE NEWS, INC.
+NTV, INC.
+PACIFIC AND SOUTHERN, LLC
+RADIOHIO INC.
+SANDER OPERATING CO. I LLC
+SANDER OPERATING CO. III LLC
+SANDER OPERATING CO. IV LLC
+SANDER OPERATING CO. V LLC
+SCREENSHOT DIGITAL, INC.
+SISTER CIRCLE LLC
+TEGNA BROADCAST HOLDINGS, LLC
+TEGNA BROADCAST SERVICE CENTER, LLC
+TEGNA MEMPHIS BROADCASTING, INC.
+TEGNA NATIONAL SALES & FINANCE, LLC
+TEGNA VENTURES, LLC
+TEXAS CABLE NEWS, INC.
+VIDEOHIO, INC.
+VIDEOINDIANA, INC.
+WBIR-TV, LLC
+WBNS TV, INC.
+WCNC-TV, INC.
+WFAA-TV, INC.
+WFMY TELEVISION, LLC
+WKYC HOLDINGS, LLC
+WKYC-TV, LLC
+WTOL TELEVISION, LLC
+WUSA-TV, INC.
+WVEC TELEVISION, LLC
+WWL-TV, INC.
+
+By:    /s/ Akin S. Harrison                        Name Akin S. Harrison
+    Title: Secretary
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Signature Page to Amendment - TEGNA Credit Agreement]
+
+
+
+JPMORGAN CHASE BANK, N.A., as Administrative Agent
+
+
+By:    /s/ Inderjeet Aneja            
+    Name: Inderjeet Aneja
+    Title: Executive Director
+
+JPMORGAN CHASE BANK, N.A., as a Lender
+
+
+By:    /s/ Inderjeet Aneja             
+    Name: Inderjeet Aneja
+    Title: Executive Director
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Signature Page to Amendment - TEGNA Credit Agreement]
+
+
+
+The undersigned hereby consents to the terms of the Amendment as a:
+
+x
+Five-Year Lender
+¨
+New Term Lender
+x
+New Term III Lender
+
+
+CITIBANK, N.A.                    
+(Five-Year Lender and New Term III Lender)
+
+
+By:    /s/ Elizabeth Minnella Gonzalez        
+    Name: Elizabeth Minnella Gonzalez
+    Title: Managing Director & Vice President
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Signature Page to Amendment - TEGNA Credit Agreement]
+
+
+
+The undersigned hereby consents to the terms of the Amendment as a:
+
+x
+Five-Year Lender
+¨
+New Term Lender
+¨
+New Term III Lender
+
+
+BARCLAYS BANK PLC                
+(Five-Year Lender)
+
+
+By:    /s/ Manuel Rubiano         
+    Name: Manuel Rubiano
+    Title: Associate
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Signature Page to Amendment - TEGNA Credit Agreement]
+
+
+
+The undersigned hereby consents to the terms of the Amendment as a:
+
+x
+Five-Year Lender
+x
+New Term Lender
+x
+New Term III Lender
+
+
+Citizens Bank, N.A.,                    
+(Five-Year Lender, New Term Lender and New Term III Lender)
+
+
+By:    /s/ Angela Reilly            
+    Name: Angela Reilly
+    Title: Senior Vice President
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Signature Page to Amendment - TEGNA Credit Agreement]
+
+
+
+The undersigned hereby consents to the terms of the Amendment as a:
+
+x
+Five-Year Lender
+x
+New Term Lender
+x
+New Term III Lender
+
+
+Fifth Third Bank, National Association            
+(Five-Year Lender, New Term Lender and New Term III Lender)
+
+
+By:    /s/ Bendly Jean                
+    Name: Bendly Jean
+    Title: Officer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Signature Page to Amendment - TEGNA Credit Agreement]
+
+
+
+The undersigned hereby consents to the terms of the Amendment as a:
+
+x    Five-Year Lender
+x
+New Term Lender
+x
+New Term III Lender
+
+
+Mizuho Bank, Ltd.                    
+(Five-Year Lender, New Term Lender and New Term III Lender)
+
+
+By:    /s/ Tracy Rahn                
+    Name: Tracy Rahn
+    Title: Executive Director
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Signature Page to Amendment - TEGNA Credit Agreement]
+
+
+
+
+The undersigned hereby consents to the terms of the Amendment as a:
+
+x
+Five-Year Lender
+¨
+New Term Lender
+¨
+New Term III Lender
+
+
+MUFG BANK, LTD. (f/k/a THE BANK OF         TOKYO-MITSUBISHI UFJ, LTD.)            
+(Five-Year Lender)
+
+
+By:    /s/ Ted Jurgielewicz         
+    Name: Ted Jurgielewicz
+    Title: Vice President
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Signature Page to Amendment - TEGNA Credit Agreement]
+
+
+
+
+The undersigned hereby consents to the terms of the Amendment as a:
+
+
+¨
+Five-Year Lender
+x
+New Term Lender
+x
+New Term III Lender
+
+
+MUFG UNION BANK, N.A.            
+(New Term Lender and New Term III Lender)
+
+
+By:    /s/ Ted Jurgielewicz                
+    Name: Ted Jurgielewicz
+    Title: Vice President
+
+
+[Signature Page to Amendment - TEGNA Credit Agreement]
+
+
+
+The undersigned hereby consents to the terms of the Amendment as a:
+
+
+x
+Five-Year Lender
+¨
+New Term Lender
+x
+New Term III Lender
+
+
+Royal Bank of Canada                
+(Five-Year Lender and New Term III Lender)
+
+
+By:    /s/ Alfonse Simone          
+    Name: Alfonse Simone
+    Title: Authorized Signatory
+
+
+
+
+
+[Signature Page to Amendment - TEGNA Credit Agreement]
+
+
+
+The undersigned hereby consents to the terms of the Amendment as a:
+
+
+x
+Five-Year Lender
+¨
+New Term Lender
+¨
+New Term III Lender
+
+
+Sumitomo Mitsui Banking Corporation        
+(Five-Year Lender)
+
+
+By:    /s/ Michael Maguire         
+    Name: Michael Maguire
+    Title: Managing Director
+
+[Signature Page to Amendment - TEGNA Credit Agreement]
+
+
+
+The undersigned hereby consents to the terms of the Amendment as a:
+
+
+x
+Five-Year Lender
+x
+New Term Lender
+x
+New Term III Lender
+
+
+TRUIST BANK                     
+(Five-Year Lender, New Term Lender and New Term III Lender)
+
+
+By:    /s/ Cynthia W. Burton     
+    Name: Cynthia W. Burton
+    Title: Director
+
+[Signature Page to Amendment - TEGNA Credit Agreement]
+
+
+
+The undersigned hereby consents to the terms of the Amendment as a:
+
+
+x
+Five-Year Lender
+x
+New Term Lender
+x
+New Term III Lender
+
+
+U.S. Bank, National Association     
+(Five-Year Lender, New Term Lender and New Term III Lender)
+
+
+By:    /s/ Garret Komjathy     
+    Name: Garret Komjathy
+    Title: Senior Vice President
+
+[Signature Page to Amendment - TEGNA Credit Agreement]
+
+
+
+The undersigned hereby consents to the terms of the Amendment as a:
+
+
+x
+Five-Year Lender
+¨
+New Term Lender
+x
+New Term III Lender
+
+
+Wells Fargo Bank, N.A.                
+(Five-Year Lender and New Term III Lender)
+
+
+By:    /s/ Daniel Kurtz             
+    Name: Daniel Kurtz
+    Title: Director
+
+[Signature Page to Amendment - TEGNA Credit Agreement]
+
+
+
+The undersigned hereby consents to the terms of the Amendment as a:
+
+
+x
+Five-Year Lender
+x
+New Term Lender
+x
+New Term III Lender
+
+
+TD Bank, N.A                 
+(Five-Year Lender, New Term Lender and New Term III Lender)
+
+By:    /s/ Jason Siewert         
+    Name: Jason Siewert
+    Title: Senior Vice President
+
+[Signature Page to Amendment - TEGNA Credit Agreement]
+
+
+
+The undersigned hereby consents to the terms of the Amendment as a:
+
+
+x
+Five-Year Lender
+¨
+New Term Lender
+x
+New Term III Lender
+
+
+THE NORTHERN TRUST COMPANY        
+(Five-Year Lender and New Term III Lender)
+
+
+By:    /s/ Kimberly A. Crotty     
+    Name: Kimberly A. Crotty
+    Title: Vice President
+
+[Signature Page to Amendment - TEGNA Credit Agreement]
+
+
+
+The undersigned hereby consents to the terms of the Amendment as a:
+
+
+x
+Five-Year Lender
+x
+New Term Lender
+x
+New Term III Lender
+
+
+Capital One, National Association     
+(Five-Year Lender, New Term Lender and New Term III Lender)
+
+
+By:    /s/ Charlie Trisiripisal                
+    Name: Charlie Trisiripisal
+    Title: Duly Authorized Signatory
+
+[Signature Page to Amendment - TEGNA Credit Agreement]
+
+
+
+The undersigned hereby consents to the terms of the Amendment as a:
+
+¨
+Five-Year Lender
+x
+New Term Lender
+x
+New Term III Lender
+
+
+First Hawaiian Bank                    
+(New Term Lender and New Term III Lender)
+
+
+By:    /s/ Derek Chang     
+    Name: Derek Chang
+    Title: Senior Vice President
+
+
+ 
+
+[Signature Page to Amendment - TEGNA Credit Agreement]

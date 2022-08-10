@@ -1,0 +1,474 @@
+EX-10.1 2 a101terexloanmodificat.htm EXHIBIT 10.1 LOAN MODIFICATION AND AMENDMENT NO. 4
+Exhibit 10.1
+EXECUTION VERSION
+
+
+LOAN MODIFICATION AGREEMENT AND AMENDMENT NO. 4 dated as of April 23, 2020 (this “Agreement”), relating to the CREDIT AGREEMENT dated as of January 31, 2017 (as amended by that certain Incremental Assumption Agreement and Amendment No. 1 dated as of August 17, 2017, that certain Incremental Assumption Agreement and Amendment No. 2 dated as of February 28, 2018, that certain Incremental Revolving Credit Assumption Agreement dated as of April 10, 2018, that certain Incremental Assumption Agreement and Amendment No. 3 dated as of March 7, 2019, and as further amended, supplemented or otherwise modified prior to the date hereof, the “Credit Agreement”), among TEREX CORPORATION, a Delaware corporation (“Terex”), NEW TEREX HOLDINGS UK LIMITED, with company number 02962659, a limited company organized under the laws of England, TEREX INTERNATIONAL FINANCIAL SERVICES COMPANY UNLIMITED COMPANY, with company number 327184, a company organized under the laws of Ireland, and TEREX AUSTRALIA PTY LTD (ACN 010 671 048), a company organized under the laws of Australia and registered in Queensland, Australia, the Lenders (as defined in Article I of the Credit Agreement), the Issuing Banks (as defined in Article I of the Credit Agreement) and CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH, as administrative agent (in such capacity, the “Administrative Agent”) and as collateral agent (in such capacity, the “Collateral Agent”) for the Lenders.
+A.Terex has requested that, on the Amendment No. 4 Effective Date (as defined below), (i) the final maturity date of the Revolving Credit Commitments be extended to January 31, 2023, and (ii) the Credit Agreement be amended as provided for herein.
+B.    The Revolving Credit Lenders party hereto (constituting on the date hereof (i) all of the Revolving Credit Lenders and (ii) the Required Lenders) are willing to so extend their Revolving Credit Commitments and to so amend the Credit Agreement, in each case on the terms and subject to the conditions set forth herein and in the Credit Agreement as so amended (the “Amended Credit Agreement”).
+C.    Accordingly, in consideration of the mutual agreements herein contained and other good and valuable consideration, the sufficiency and receipt of which are hereby acknowledged, the parties hereto agree as follows:
+SECTION 1.     Defined Terms. Capitalized terms used and not defined herein shall have the meanings assigned to such terms in the Credit Agreement. The rules of interpretation set forth in Section 1.02 of the Credit Agreement are hereby incorporated by reference herein, mutatis mutandis. This Agreement shall be a “Loan Modification Agreement” and a “Loan Document” for all purposes of the Amended Credit Agreement and the other Loan
+
+
+2
+
+Documents. As used in this agreement, the following terms shall have the meanings specified below:
+“Available Liquidity” shall mean, on any date, the sum of (i) the Consolidated Cash Balance and (ii) the amount of the Total Revolving Credit Commitments minus the sum of the Aggregate Revolving Credit Exposure and the Aggregate Contract Loan Exposure on such date.
+“Consolidated Cash Balance” shall mean, on any date, an amount equal to (a) the aggregate amount of cash and cash equivalents, marketable securities, treasury bonds and bills, certificates of deposit, investments in money market funds and commercial paper, in each case, held or owned by (whether directly or indirectly), credited to the account of, or otherwise reflected as an asset on the balance sheet of, Terex and its Restricted Subsidiaries taken as a whole minus (b) without duplication, the sum of (i) checks issued, wires initiated or ACH transfers initiated to any Person other than Terex or a Restricted Subsidiary that have not cleared or have otherwise been deducted from the amount set forth in clause (a) on such date, plus (ii) cash and cash equivalents held in any Excluded Account (as defined in the Guarantee and Collateral Agreement). Notwithstanding the foregoing, solely for the purposes of Sections 4(e) and 4(f) of this Agreement, (x) Consolidated Cash Balance on any date (other than the last day of any month for which a report has been delivered pursuant to Section 4(d)(ii) hereunder) shall be calculated as the Consolidated Cash Balance as of the last day of the most recent month for which a report has been delivered pursuant to Section 4(d)(ii) hereunder plus or minus the net change to Consolidated Cash Balance as of such date that Terex can determine under its current daily cash balance reporting systems and (y) concurrently with the delivery of any Borrowing Request requesting a Borrowing of Swingline Loans, Contract Loans or Revolving Loans during the Waiver Period, Terex shall deliver a supplemental report to the Administrative Agent certified by a Financial Officer of Terex detailing any such change (determined under Terex’s daily cash balance reporting systems) to the most recently reported Consolidated Cash Balance.
+“Consolidated Cash Balance Limit” shall mean, on any date of determination, (i) $200,000,000 plus (ii) the sum, without duplication of any payments required to be made by Terex or any of its Restricted Subsidiaries within five Business Days after such date in respect of trade payables, Indebtedness (including interest thereon), taxes, payroll or other expenses as certified in writing to the Administrative Agent on or before the date on which a prepayment would have been required under Section 4(e) hereof but for clause (ii) hereof.
+“Covenant Reversion Notice” shall mean a written notice delivered by Terex to the Administrative Agent electing to end the Waiver Period or the Reinstatement Period, as applicable.
+“Reinstatement Period” shall mean the period commencing on January 1, 2021 and ending on the earlier of (a) December 31, 2021 or (b) the date on which Terex delivers a Covenant Reversion Notice; provided that if Terex delivers a Covenant Reversion Notice
+
+
+3
+
+prior to the commencement of the Reinstatement Period, then the Reinstatement Period shall not commence.
+“Waiver Period” shall mean the period commencing on April 1, 2020, and ending on the earlier of (a) December 31, 2020, or (b) the date on which Terex delivers a Covenant Reversion Notice.
+SECTION 2.     Amendments. Effective as of the Amendment No. 4 Effective Date, the Credit Agreement is hereby amended as follows:
+(a)     Section 1.01 of the Credit Agreement is hereby amended by adding the following definitions in proper alphabetical order:
+(i)“Affected Financial Institution” shall mean (a) any EEA Financial Institution or (b) any U.K. Financial Institution.
+“Amendment No. 4” shall mean the Loan Modification Agreement and Amendment No. 4 dated as of April 23, 2020, relating to this Agreement.
+“Amendment No. 4 Effective Date” shall have the meaning assigned to such term in Amendment No. 4.
+“Benchmark Replacement” shall mean the sum of: (a) the alternate benchmark rate (which, in the case of Dollar Loans, may be a SOFR-Based Rate) that has been selected by the Administrative Agent and Terex giving due consideration to (i) any selection or recommendation of a replacement rate or the mechanism for determining such a rate by the Relevant Governmental Body and/or (ii) any evolving or then-prevailing market convention for determining a rate of interest as a replacement to the LIBO Rate or the EURIBO Rate, as applicable, for syndicated credit facilities denominated in Dollars or Euro, as applicable, and (b) the Benchmark Replacement Adjustment; provided that, if the Benchmark Replacement as so determined would be less than zero, the Benchmark Replacement will be deemed to be zero for the purposes of this Agreement; provided further that any such Benchmark Replacement shall be administratively feasible as determined by the Administrative Agent in its sole discretion.
+
+“Benchmark Replacement Adjustment” shall mean the spread adjustment, or method for calculating or determining such spread adjustment (which may be a positive or negative value or zero), that has been selected by the Administrative Agent and Terex giving due consideration to (i) any selection or recommendation of a spread adjustment, or method for calculating or determining such spread adjustment, for the replacement of the LIBO Rate or the EURIBO Rate, as applicable, with the applicable Unadjusted Benchmark Replacement by the Relevant Governmental Body and/or (ii) any evolving or then-prevailing market convention for determining a spread adjustment, or method for calculating or determining such
+
+
+4
+
+spread adjustment, for the replacement of the LIBO Rate or the EURIBO Rate, as applicable, with the applicable Unadjusted Benchmark Replacement for syndicated credit facilities denominated in Dollars or Euro, as applicable, at such time (for the avoidance of doubt, such Benchmark Replacement Adjustment shall not be in the form of a reduction to any Applicable Percentage).
+
+“Benchmark Replacement Conforming Changes” shall mean, with respect to any Benchmark Replacement, any technical, administrative or operational changes (including changes to the definition of “Alternate Base Rate”, the definition of “Interest Period”, timing and frequency of determining rates and making payments of interest and other administrative matters) that the Administrative Agent decides in its reasonable discretion may be appropriate to reflect the adoption and implementation of such Benchmark Replacement and to permit the administration thereof by the Administrative Agent in a manner substantially consistent with market practice (or, if the Administrative Agent decides that adoption of any portion of such market practice is not administratively feasible or if the Administrative Agent determines that no market practice for the administration of the Benchmark Replacement exists, in such other manner of administration as the Administrative Agent decides is reasonably necessary in connection with the administration of this Agreement).
+
+“Benchmark Replacement Date” shall mean the earlier to occur of the following events with respect to the LIBO Rate or the EURIBO Rate, as applicable:
+
+(a) in the case of clause (a) or (b) of the definition of “Benchmark Transition Event”, the later of (i) the date of the public statement or publication of information referenced therein and (ii) the date on which the administrator of the LIBO Rate or the EURIBO Rate, as applicable, permanently or indefinitely ceases to provide the LIBO Rate or the EURIBO Rate, as applicable; or
+
+(b) in the case of clause (c) of the definition of “Benchmark Transition Event”, the date of the public statement or publication of information referenced therein.
+
+“Benchmark Transition Event” shall mean the occurrence of one or more of the following events with respect to the LIBO Rate or the EURIBO Rate, as applicable:
+
+(a) a public statement or publication of information by or on behalf of the administrator of the LIBO Rate or the EURIBO Rate, as applicable, announcing that such administrator has ceased or will cease to provide the LIBO Rate or the EURIBO Rate, as applicable, permanently or indefinitely, provided that, at the time of such statement or publication, there is no successor administrator that will continue to provide the LIBO Rate or the EURIBO Rate, as applicable;
+
+
+
+5
+
+(b) a public statement or publication of information by the regulatory supervisor for the administrator of the LIBO Rate or the EURIBO Rate, as applicable, the U.S. Federal Reserve System, an insolvency official with jurisdiction over the administrator for the LIBO Rate or the EURIBO Rate, as applicable, a resolution authority with jurisdiction over the administrator for the LIBO Rate or the EURIBO Rate, as applicable, or a court or an entity with similar insolvency or resolution authority over the administrator for the LIBO Rate or the EURIBO Rate, as applicable, in each case which states that the administrator of the LIBO Rate or the EURIBO Rate, as applicable, has ceased or will cease to provide the LIBO Rate or the EURIBO Rate, as applicable, permanently or indefinitely, provided that, at the time of such statement or publication, there is no successor administrator that will continue to provide the LIBO Rate or the EURIBO Rate, as applicable; and/or
+
+(c) a public statement or publication of information by the regulatory supervisor for the administrator of the LIBO Rate or the EURIBO Rate, as applicable, announcing that the LIBO Rate or the EURIBO Rate, as applicable, is no longer representative.
+
+“Benchmark Transition Start Date” shall mean (a) in the case of a Benchmark Transition Event, the earlier of (i) the applicable Benchmark Replacement Date and (ii) if such Benchmark Transition Event is a public statement or publication of information of a prospective event, the 90th day prior to the expected date of such event as of such public statement or publication of information (or if the expected date of such prospective event is fewer than 90 days after such statement or publication, the date of such statement or publication) and (b) in the case of an Early Opt-in Election, the date specified by the Administrative Agent or the Required Lenders, as applicable, by notice to Terex, the Administrative Agent (in the case of such notice by the Required Lenders) and the Lenders.
+
+“Benchmark Unavailability Period” shall mean, if a Benchmark Transition Event and its related Benchmark Replacement Date have occurred with respect to the LIBO Rate or the EURIBO Rate, as applicable, and solely to the extent that the LIBO Rate or the EURIBO Rate, as applicable, has not been replaced with a Benchmark Replacement, the period (x) beginning at the time that such Benchmark Replacement Date has occurred if, at such time, no Benchmark Replacement has replaced the LIBO Rate or the EURIBO Rate, as applicable, for all purposes hereunder in accordance with Section 2.08 and (y) ending at the time that a Benchmark Replacement has replaced the LIBO Rate or the EURIBO Rate, as applicable, for all purposes hereunder pursuant to Section 2.08.
+
+“Benefit Plan” shall mean any of (a) an “employee benefit plan” (as defined in Section 3(3) of ERISA) that is subject to Title I of ERISA, (b) a “plan” as defined in Section 4975 of the Code to which Section 4975 of the Code applies, and (c) any Person whose assets include (for purposes of the Plan Asset
+
+
+6
+
+Regulations or otherwise for purposes of Title I of ERISA or Section 4975 of the Code) the assets of any such “employee benefit plan” or “plan”.
+
+“BHC Act Affiliate” of a party shall mean an “affiliate” (as such term is defined under, and interpreted in accordance with, 12 U.S.C. 1841(k)) of such party.
+“Compounded SOFR” shall mean the compounded average of SOFRs for the applicable Corresponding Tenor, with the rate, or methodology for this rate, and conventions for this rate (which may include compounding in arrears with a lookback and/or suspension period as a mechanism to determine the interest amount payable prior to the end of each Interest Period) being established by the Administrative Agent in accordance with:
+
+(a)    the rate, or methodology for this rate, and conventions for this rate selected or recommended by the Relevant Governmental Body for determining compounded SOFR; or
+
+(b)    if, and to the extent that, the Administrative Agent determines that Compounded SOFR cannot be determined in accordance with clause (a) above, then the rate, or methodology for this rate, and conventions for this rate that the Administrative Agent determines in its reasonable discretion are substantially consistent with any evolving or then-prevailing market convention for determining compounded SOFR for syndicated credit facilities denominated in Dollars at such time;
+
+provided, that if the Administrative Agent decides that any such rate, methodology or convention determined in accordance with clause (a) or clause (b) above is not administratively feasible for the Administrative Agent, then Compounded SOFR will be deemed unable to be determined for purposes of the definition of “Benchmark Replacement.”
+
+“Corresponding Tenor” with respect to a Benchmark Replacement shall mean a tenor (including overnight) having approximately the same length (disregarding business day adjustment) as the applicable tenor for the applicable Interest Period with respect to the LIBO Rate or the EURIBO Rate, as applicable.
+“Covered Entity” shall mean any of the following: (i) a “covered entity” as that term is defined in, and interpreted in accordance with, 12 C.F.R. § 252.82(b); (ii) a “covered bank” as that term is defined in, and interpreted in accordance with, 12 C.F.R. § 47.3(b); or (iii) a “covered FSI” as that term is defined in, and interpreted in accordance with, 12 C.F.R. § 382.2(b).
+“Default Right” shall have the meaning assigned to that term in, and shall be interpreted in accordance with, 12 C.F.R. §§ 252.81, 47.2 or 382.1, as applicable.
+
+
+7
+
+“Disqualified Equity Interests” shall mean any Equity Interest that, by its terms (or by the terms of any security into which it is convertible or for which it is exchangeable), or upon the happening of any event, (i) matures or is mandatorily redeemable, pursuant to a sinking fund obligation or otherwise, or is redeemable at the option of the holder thereof, in whole or in part, or requires the payment of any cash dividend or any other scheduled payment constituting a return of capital, in each case at any time on or prior to the date that is 91 days following the Latest Maturity Date at the time of the issuance of such Equity Interest; provided, however, that (a) any class of Equity Interests of any Person that by its terms authorizes such Person to satisfy its obligations thereunder by delivery of Qualified Equity Interests shall not be deemed to be Disqualified Equity Interests and (b) Equity Interests will not constitute Disqualified Equity Interests solely because of provisions giving holders thereof the right to require repurchase or redemption upon a change in control occurring prior to such date; or (ii) is convertible into or exchangeable (unless at the sole option of the issuer thereof) for (a) Indebtedness or (b) any Equity Interest referred to in clause (i) above, in each case at any time prior to the date that is 91 days following the Latest Maturity Date at the time of the issuance of such Equity Interest.
+“Early Opt-in Election” shall mean the occurrence of:
+ (a)(i)    a determination by the Administrative Agent or (ii) a notification by the Required Lenders to the Administrative Agent (with a copy to Terex) that the Required Lenders have determined that syndicated credit facilities denominated in Dollars or Euro, as applicable, being executed at such time, or that include language similar to that contained in Section 2.08 are being executed or amended, as applicable, to incorporate or adopt a new benchmark interest rate to replace the LIBO Rate or the EURIBO Rate, as applicable; and
+
+(b)(i)    the election by the Administrative Agent or (ii) the election by the Required Lenders to declare that an Early Opt-in Election has occurred and the provision, as applicable, by the Administrative Agent of written notice of such election to Terex and the Lenders or by the Required Lenders of written notice of such election to the Administrative Agent.
+
+“PTE” shall mean a prohibited transaction class exemption issued by the U.S. Department of Labor, as any such exemption may be amended from time to time.
+
+“QFC” shall have the meaning assigned to the term “qualified financial contract” in, and shall be interpreted in accordance with, 12 U.S.C. 5390(c)(8)(D).
+“Qualified Equity Interests” shall mean any Equity Interests other than Disqualified Equity Interests.
+
+
+8
+
+“Reinstatement Period” shall have the meaning assigned to such term in Amendment No. 4.
+“Resolution Authority” shall mean an EEA Resolution Authority or, with respect to any U.K. Financial Institution, a U.K. Resolution Authority.
+“SOFR” with respect to any day shall mean the secured overnight financing rate published for such day by Federal Reserve Bank of New York, as the administrator of the benchmark (or a successor administrator), on the Federal Reserve Bank of New York’s Website.
+
+“SOFR-Based Rate” shall mean SOFR, Compounded SOFR or Term SOFR.
+
+“Term SOFR” shall mean the forward-looking term rate based on SOFR that has been selected or recommended by the Relevant Governmental Body.
+“U.K. Financial Institution” shall mean any BRRD Undertaking (as such term is defined under the PRA Rulebook (as amended form time to time) promulgated by the United Kingdom Prudential Regulation Authority) or any Person falling within IFPRU 11.6 of the FCA Handbook (as amended from time to time) promulgated by the United Kingdom Financial Conduct Authority, which includes certain credit institutions and investment firms, and certain Affiliates of such credit institutions or investment firms.
+“U.K. Resolution Authority” shall mean the Bank of England or any other public administrative authority having responsibility for the resolution of any U.K. Financial Institution.
+“Unadjusted Benchmark Replacement” shall mean the Benchmark Replacement excluding the Benchmark Replacement Adjustment; provided that, if the Unadjusted Benchmark Replacement as so determined would be less than zero, the Unadjusted Benchmark Replacement will be deemed to be zero for the purposes of this Agreement.
+“Waiver Period” shall have the meaning assigned to such term in Amendment No. 4.
+(b)     The last sentence of the definition of the term “Applicable Percentage” set forth in Section 1.01 of the Credit Agreement is hereby amended and restated in its entirety to read as follows:
+Notwithstanding the foregoing, (i) at all times during the Waiver Period and the Reinstatement Period, each of the Applicable Percentages set forth in the table above (and not, for the avoidance of doubt, the Applicable Percentages relating to the Term Loans) shall be increased by 0.25% per annum, and (ii) at any time after the occurrence and during the continuance of an Event of Default, the
+
+
+9
+
+Consolidated Leverage Ratio shall be deemed to be in Category 1 for purposes of determining the Applicable Percentage.
+(c)     The definition of the term “Bail-In Action” set forth in Section 1.01 of the Credit Agreement is hereby amended by deleting the words “EEA Resolution Authority” set forth therein and substituting therefor the words “applicable Resolution Authority” and (ii) deleting the words “EEA Financial Institution” set forth therein and substituting therefor the words “Affected Financial Institution”.
+(d)     The definition of the term “Bail-In Legislation” set forth in Section 1.01 of the Credit Agreement is hereby amended and restated in its entirety to read as follows:
+“Bail-In Legislation” shall mean (a) with respect to any EEA Member Country implementing Article 55 of Directive 2014/59/EU of the European Parliament and of the Council of the European Union, the implementing law, regulation, rule or requirement for such EEA Member Country from time to time that is described in the EU Bail-In Legislation Schedule and (b) with respect to the United Kingdom, Part I of the United Kingdom Banking Act 2009 (as amended from time to time) and any other law, regulation or rule applicable in the United Kingdom relating to the resolution of unsound or failing banks, investment firms or other financial institutions or their Affiliates (other than through liquidation, administration or other insolvency proceedings.
+(e)     The definition of the term “Consolidated EBITDA” set forth in Section 1.01 of the Credit Agreement is hereby amended by (i) deleting from clause (g) thereof the words “solely for purposes of calculating Consolidated EBITDA in order to determine the Senior Secured Leverage Ratio or the Consolidated Leverage Ratio as of any date of determination,” and (ii) adding the following sentence at the end thereof: “Notwithstanding the foregoing, for purposes of determining compliance with Section 6.11 at any time during the Reinstatement Period, Consolidated EBITDA for the fiscal quarters ended June 30, 2019, September 30, 2019, and December 31, 2019 shall be deemed to be $156,100,000, $109,200,000 and $55,500,000, respectively.”
+(f)     The definition of the term “Indebtedness” set forth in Section 1.01 of the Credit Agreement is hereby amended by (i) deleting the word “and” at the end of clause (j) thereof and substituting a comma therefor and (ii) inserting the following at the end of clause (k) thereof: “and (l) the liquidation preference or maximum fixed repurchase price, as the case may be, of any Disqualified Equity Interests of such person”.
+(g)     The definition of the term “Interest Coverage Ratio” set forth in Section 1.01 of the Credit Agreement is hereby amended by inserting at the end thereof the words “payable in cash”.
+(h)     The definition of the term “Revolving Credit Maturity Date” set forth in Section 1.01 of the Credit Agreement is hereby amended by deleting the words “January 31, 2022” set forth therein and substituting therefor the words “January 31, 2023”.
+
+
+10
+
+(i)     The definition of the term “Senior Secured Leverage Ratio” set forth in Section 1.01 of the Credit Agreement is hereby amended by inserting in clause (b) thereof immediately after the words “the period of four consecutive fiscal quarters most recently ended on or prior to such date” the words “(or, for purposes of determining compliance with Section 6.11 during the Reinstatement Period, for the period of eight consecutive fiscal quarters most recently ended on or prior to such date, divided by two)”.
+(j)     The definition of the term “Write-Down and Conversion Powers” set forth in Section 1.01 of the Credit Agreement is hereby amended and restated in its entirety to read as follows:
+“Write-Down and Conversion Powers” shall mean (a) with respect to any EEA Resolution Authority, the write-down and conversion powers of such EEA Resolution Authority from time to time under the Bail-In Legislation for the applicable EEA Member Country, which write-down and conversion powers are described in the EU Bail-In Legislation Schedule and (b) with respect to the United Kingdom, any powers of the applicable Resolution Authority under the Bail-In Legislation to cancel, reduce, modify or change the form of a liability of any U.K. Financial Institution or any contract or instrument under which that liability arises, to convert all or part of that liability into shares, securities or obligations of such Person or any other Person, to provide that any such contract or instrument is to have effect as if a right had been exercised under it or to suspend any obligation in respect of that liability or any of the powers under that Bail-In Legislation that are related to or ancillary to any of those powers.
+(k)     Section 1.05 of the Credit Agreement is hereby amended by deleting the word “and” immediately after the words “Consolidated Leverage Ratio” and substituting therefor the words “, Interest Coverage Ratio and”.
+(l)     Article I of the Credit Agreement is hereby amended by inserting the following new Section 1.07 at the end thereof:
+SECTION 1.07. Divisions. For all purposes under the Loan Documents, in connection with any division or plan of division under Delaware law (or any comparable event under a different jurisdiction’s laws): (a) if any asset, right, obligation or liability of any Person becomes the asset, right, obligation or liability of a different Person, then it shall be deemed to have been transferred from the original Person to the subsequent Person and (b) if any new Person comes into existence, such new Person shall be deemed to have been organized on the first date of its existence by the holders of its Equity Interests at such time.
+(m)     Section 2.08 of the Credit Agreement is hereby amended and restated in its entirety to read as follows:
+SECTION 2.08. Alternate Rate of Interest.
+
+
+
+11
+
+(a)    In the event, and on each occasion, that (i) on the day two Business Days prior to the commencement of any Interest Period for a Eurocurrency Borrowing, the Administrative Agent shall have determined that (A) deposits in the principal amounts of the Loans comprising such Borrowing are not generally available in the relevant market, (B) the rates at which such deposits are being offered will not adequately and fairly reflect the cost to any Lender of making or maintaining its Eurocurrency Loan during such Interest Period, or (C) reasonable means do not exist for ascertaining the LIBO Rate or the EURIBO Rate, as applicable; provided that no Benchmark Transition Event shall have occurred at such time, or (ii) before 5:00 p.m. (Sydney time) on the Business Day after the first day of an Interest Period for a Bank Bill Rate Borrowing, the Administrative Agent receives a notification from a Lender or Lenders (whose Loans in a Bank Bill Rate Borrowing collectively exceed 35% of the relevant Bank Bill Rate Borrowing) that as a result of market circumstances not limited to it (whether or not those circumstances, or their effect on any such Lender’s cost of funds, subsist on the date it becomes a Lender), the cost to it of funding its portion of that Bank Bill Rate Borrowing (from whatever source it may reasonably select) would be in excess of the Bank Bill Rate, as the case may be, the Administrative Agent shall, as soon as practicable thereafter, give written notice explaining such determination or notification to the applicable Borrower and the Lenders.
+
+(b)    In the event of any such determination by the Administrative Agent under clause (a)(i) of this Section 2.08, until the Administrative Agent shall have advised such Borrower and the Lenders that the circumstances giving rise to such notice no longer exist, any request by such Borrower for a Eurocurrency Borrowing denominated in dollars pursuant to Section 2.03 or 2.10 shall be deemed to be a request for an ABR Borrowing and any request by such Borrower for a Eurocurrency Borrowing denominated in any Alternative Currency pursuant to Section 2.03 or 2.10 shall be deemed to be a request for a Non-U.S. Base Rate Loan, and in the event of any such notification to the Administrative Agent under clause (a)(ii) of this Section 2.08, the Bank Bill Rate shall be the rate reasonably determined by the relevant Lender or Lenders to be its or their cost of funds, provided that if the Administrative Agent or the Australian Borrower so requires, the Administrative Agent and the Australian Borrower shall enter into negotiations (for a period of not more than thirty days) with a view to agreeing a substitute basis for determining the rate of interest (and any substitute basis of interest pursuant to this proviso shall only apply with the prior consent of all the Lenders providing such Bank Bill Rate Loan and the Australian Borrower, and then shall be binding on all such parties). Each determination by the Administrative Agent or a Lender hereunder shall be conclusive absent manifest error.
+
+(c)    Notwithstanding anything to the contrary herein or in any other Loan Document, upon the occurrence of a Benchmark Transition Event or an Early Opt-in Election, as applicable, the Administrative Agent and Terex may amend this Agreement to replace the LIBO Rate or the EURIBO Rate, as applicable, with a
+
+
+12
+
+Benchmark Replacement. Any such amendment with respect to a Benchmark Transition Event will become effective at 5:00 p.m. on the fifth Business Day after the Administrative Agent has posted such proposed amendment to all Lenders and Terex, so long as the Administrative Agent has not received, by such time, written notice of objection to such proposed amendment from Lenders comprising the Required Lenders; provided that, with respect to any proposed amendment containing any SOFR-Based Rate, the Lenders shall be entitled to object only to the Benchmark Replacement Adjustment contained therein. Any such amendment with respect to an Early Opt-in Election will become effective on the date that Lenders comprising the Required Lenders have delivered to the Administrative Agent written notice that such Required Lenders accept such amendment. No replacement of the LIBO Rate or the EURIBO Rate, as applicable, with a Benchmark Replacement pursuant to this Section 2.08 will occur prior to the applicable Benchmark Transition Start Date.
+
+(d)    In connection with the implementation of a Benchmark Replacement, the Administrative Agent will have the right to make Benchmark Replacement Conforming Changes from time to time and, notwithstanding anything to the contrary herein or in any other Loan Document, any amendments implementing such Benchmark Replacement Conforming Changes will become effective without any further action or consent of any other party to this Agreement.
+
+(e)    The Administrative Agent will promptly notify Terex and the Lenders of (i) any occurrence of a Benchmark Transition Event or an Early Opt-in Election, as applicable, (ii) the implementation of any Benchmark Replacement, (iii) the effectiveness of any Benchmark Replacement Conforming Changes and (iv) the commencement or conclusion of any Benchmark Unavailability Period. Any determination, decision or election that may be made by the Administrative Agent or Lenders pursuant to this Section 2.08, including any determination with respect to a tenor, rate or adjustment or of the occurrence or non-occurrence of an event, circumstance or date and any decision to take or refrain from taking any action, will be conclusive and binding absent manifest error and may be made in its or their sole discretion and without consent from any other party hereto, except, in each case, as expressly required pursuant to this Section 2.08.
+
+(f)    Upon Terex’s receipt of notice of the commencement of a Benchmark Unavailability Period, the provisions of Section 2.08(b) shall apply, mutatis mutandis, and the component of the Alternate Base Rate based upon the Adjusted LIBO Rate will not be used in any determination of the Alternate Base Rate.
+
+(n)     Section 3.06 of the Credit Agreement is hereby amended and restated in its entirety to read as follows:
+SECTION 3.06. No Material Adverse Change. Except as disclosed by Terex in Communications posted by the Administrative Agent to the Platform on or prior
+
+
+13
+
+to the Amendment No. 4 Effective Date or in periodic and other reports filed by Terex with the SEC on or prior to the Amendment No. 4 Effective Date (excluding any disclosures set forth in any risk factor section and in any section relating to forward-looking or safe harbor statements), there has been no material adverse change in the business, assets, operations, condition, financial or otherwise, of Terex and its Restricted Subsidiaries, taken as a whole, since March 31, 2020.
+(o)     Section 3.23 is hereby amended by inserting the following new clause (e) at the end thereof: “(e)    The representations and warranties set forth in this Section 3.23 are made only to the extent that such representations or warranties would not result in a violation of Council Regulation (EC) No 2271/96, as amended (or any implementing law or regulation in any member state of the European Union or the United Kingdom).”
+(p)     Sections 5.01(b) and 5.08 are hereby amended by, in each case, deleting the period at the end thereof and inserting the following words at the end thereof: “, in each case, other than to the extent this provision would result in a violation of Council Regulation (EC) No 2271/96, as amended (or any implementing law or regulation in any member state of the European Union or the United Kingdom). The covenants set forth in this section agreed between any Borrower and any Lender domiciled in Germany (Inländer) within the meaning of Section 2, paragraph 15 of the German Foreign Trade Act (Außenwirtschaftsgesetz) are agreed only to the extent that any such Borrower would be permitted to comply with such covenants pursuant to Section 7 of the German Foreign Trade Ordinance (Verordnung zur Durchführung des Außenwirtschaftsgesetzes (Außenwirtschaftsverordnung)). In relation to each Lender that notifies the Administrative Agent that it is a “Restricted Finance Party” (each a “Restricted Finance Party”), the covenants set forth in this section (the “Sanctions Provisions”) only apply for the benefit of that Restricted Finance Party to the extent that the Sanctions Provision would not result in any violation of or conflict with or liability under Section 7 of the German Foreign Trade Ordinance (Verordnung zur Durchführung des Außenwirtschaftsgesetzes (Außenwirtschaftsverordnung)).”
+(q)     Section 6.04(i) is hereby amended by inserting immediately after the words “such common stock” therein the words “provided further, that, during the Waiver Period and the Reinstatement Period, if no Default or Event of Default shall have occurred and be continuing at the time of such payment or after giving effect thereto, the transactions described in clauses (A) and (B) of this Section 6.04(i) shall be permitted in an aggregate amount not to exceed $7,500,000, even if the Consolidated Leverage Ratio shall be greater than 3.75 to 1.00”.
+(r)     The last sentence of Section 6.06(a) is herby amended by inserting immediately after the words “in accordance with Section 6.04(i)” therein the words “or with the net proceeds of a substantially concurrent issuance of Qualified Equity Interests”.
+(s)     Section 6.08 of the Credit Agreement is hereby amended by deleting the amount “$1,500,000,000” set forth therein and substituting therefor the amount “$2,000,000,000”.
+
+
+14
+
+(t)     Section 6.10 of the Credit Agreement is hereby amended by inserting immediately after the words “If on the last day of any fiscal quarter of Terex” the words “(other than a fiscal quarter ending during the Waiver Period or the Reinstatement Period)”.
+(u)     Section 6.11 of the Credit Agreement is hereby amended and restated in its entirety to read as follows:
+SECTION 6.11. Senior Secured Leverage Ratio.
+(a) If on the last day of any fiscal quarter of Terex (other than a fiscal quarter ending during the Waiver Period or the Reinstatement Period), the sum of the Aggregate Revolving Credit Exposure and the Aggregate Contract Loan Exposure exceeds 30% of the Total Revolving Credit Commitments, permit the Senior Secured Leverage Ratio as of such date to be greater than 2.75 to 1.00.
+(b) During the Reinstatement Period, if on the last day of any fiscal quarter of Terex, the sum of the Aggregate Revolving Credit Exposure and the Aggregate Contract Loan Exposure exceeds 30% of the Total Revolving Credit Commitments, permit the Senior Secured Leverage Ratio as of the last day of any fiscal quarter ending during a period set forth below to be greater than the ratio set forth opposite such period below:
+Period
+Ratio
+January 1, 2021 through March 31, 2021
+3.75 to 1.00
+April 1, 2021 through June 30, 2021
+3.25 to 1.00
+July 1, 2021 through December 31, 2021
+2.75 to 1.00
+
+(v)     Section 9.13 of the Credit Agreement is hereby amended by inserting at the end thereof the words: “The words “execution,” “signed,” “signature,” and words of like import in this Agreement and the other Loan Documents including any Assignment and Acceptance shall be deemed to include electronic signatures or electronic records, each of which shall be of the same legal effect, validity or enforceability as a manually executed signature or the use of a paper-based recordkeeping system, as the case may be, to the extent and as provided for in any applicable law, including the Federal Electronic Signatures in Global and National Commerce Act, the New York State Electronic Signatures and Records Act, or any other similar state laws based on the Uniform Electronic Transactions Act.”
+(w)     Section 9.24 of the Credit Agreement is hereby amended and restated in its entirety to read as follows:
+SECTION 9.24. Acknowledgement and Consent to Bail-In of Affected Financial Institutions. Notwithstanding anything to the contrary in any Loan
+
+
+15
+
+Document or in any other agreement, arrangement or understanding among any such parties, each party hereto acknowledges that any liability of any Affected Financial Institution arising under any Loan Document, to the extent such liability is unsecured, may be subject to the Write-Down and Conversion Powers of the applicable Resolution Authority and agrees and consents to, and acknowledges and agrees to be bound by:
+(a)    the application of any Write-Down and Conversion Powers by an the applicable Resolution Authority to any such liabilities arising hereunder which may be payable to it by any party hereto that is an Affected Financial Institution; and
+(b)    the effects of any Bail-In Action on any such liability, including, if applicable:
+(i)    a reduction in full or in part or cancellation of any such liability;
+(ii)    a conversion of all, or a portion of, such liability into shares or other instruments of ownership in such Affected Financial Institution, its parent undertaking, or a bridge institution that may be issued to it or otherwise conferred on it, and that such shares or other instruments of ownership will be accepted by it in lieu of any rights with respect to any such liability under this Agreement or any other Loan Document; or
+(iii)    the variation of the terms of such liability in connection with the exercise of the Write-Down and Conversion Powers of the applicable Resolution Authority.
+(x)     Article IX of the Credit Agreement is hereby amended by inserting the following new Sections 9.26 and 9.27 at the end thereof:
+SECTION 9.26. Certain ERISA Matters.
+(a)     Each Lender (x) represents and warrants, as of the date such Person became a Lender party hereto, to, and (y) covenants, from the date such Person became a Lender party hereto to the date such Person ceases being a Lender party hereto, for the benefit of, the Administrative Agent and not, for the avoidance of doubt, to or for the benefit of the Borrowers or any other Loan Party, that at least one of the following is and will be true:
+(i)    such Lender is not using “plan assets” (within the meaning of Section 3(42) of ERISA or otherwise) of one or more Benefit Plans with respect to such Lender’s entrance into, participation in, administration of and performance of the Loans, the Letters of Credit, the Commitments or this Agreement;
+
+
+16
+
+(ii)    the transaction exemption set forth in one or more PTEs, such as PTE 84-14 (a class exemption for certain transactions determined by independent qualified professional asset managers), PTE 95-60 (a class exemption for certain transactions involving insurance company general accounts), PTE 90-1 (a class exemption for certain transactions involving insurance company pooled separate accounts), PTE 91-38 (a class exemption for certain transactions involving bank collective investment funds) or PTE 96-23 (a class exemption for certain transactions determined by in-house asset managers), is applicable with respect to such Lender’s entrance into, participation in, administration of and performance of the Loans, the Letters of Credit, the Commitments and this Agreement;
+(iii)    (A) such Lender is an investment fund managed by a “Qualified Professional Asset Manager” (within the meaning of Part VI of PTE 84-14), (B) such Qualified Professional Asset Manager made the investment decision on behalf of such Lender to enter into, participate in, administer and perform the Loans, the Letters of Credit, the Commitments and this Agreement, (C) the entrance into, participation in, administration of and performance of the Loans, the Letters of Credit, the Commitments and this Agreement satisfies the requirements of sub-sections (b) through (g) of Part I of PTE 84- 14 and (D) to the best knowledge of such Lender, the requirements of subsection (a) of Part I of PTE 84-14 are satisfied with respect to such Lender’s entrance into, participation in, administration of and performance of the Loans, the Letters of Credit, the Commitments and this Agreement; or
+(iv)    such other representation, warranty and covenant as may be agreed in writing between the Administrative Agent, in its sole discretion, and such Lender.
+(b)     In addition, unless either (1) sub-clause (i) in the immediately preceding clause (a) is true with respect to a Lender or (2) a Lender has provided another representation, warranty and covenant in accordance with sub-clause (iv) in the immediately preceding clause (a), such Lender further (x) represents and warrants, as of the date such Person became a Lender party hereto, to, and (y) covenants, from the date such Person became a Lender party hereto to the date such Person ceases being a Lender party hereto, for the benefit of, the Administrative Agent and not, for the avoidance of doubt, to or for the benefit of the Borrowers or any other Loan Party, that the Administrative Agent is not a fiduciary with respect to the assets of such Lender involved in such Lender’s entrance into, participation in, administration of and performance of the Loans, the Letters of Credit, the Commitments and this Agreement (including in connection with the reservation or exercise of any rights by the Administrative Agent under this Agreement, any Loan Document or any documents related hereto or thereto).
+
+
+17
+
+SECTION 9.27. Acknowledgement Regarding Any Supported QFCs. To the extent that the Loan Documents provide support, through a guarantee or otherwise, for Hedging Agreements or any other agreement or instrument that is a QFC (such support, “QFC Credit Support” and each such QFC a “Supported QFC”), the parties acknowledge and agree as follows with respect to the resolution power of the Federal Deposit Insurance Corporation under the Federal Deposit Insurance Act and Title II of the Dodd-Frank Wall Street Reform and Consumer Protection Act (together with the regulations promulgated thereunder, the “U.S. Special Resolution Regimes”) in respect of such Supported QFC and QFC Credit Support (with the provisions below applicable notwithstanding that the Loan Documents and any Supported QFC may in fact be stated to be governed by the laws of the State of New York and/or of the United States or any other state of the United States): in the event a Covered Entity that is party to a Supported QFC (each, a “Covered Party”) becomes subject to a proceeding under a U.S. Special Resolution Regime, the transfer of such Supported QFC and the benefit of such QFC Credit Support (and any interest and obligation in or under such Supported QFC and such QFC Credit Support, and any rights in property securing such Supported QFC or such QFC Credit Support) from such Covered Party will be effective to the same extent as the transfer would be effective under the U.S. Special Resolution Regime if the Supported QFC and such QFC Credit Support (and any such interest, obligation and rights in property) were governed by the laws of the United States or a state of the United States. In the event a Covered Party or a BHC Act Affiliate of a Covered Party becomes subject to a proceeding under a U.S. Special Resolution Regime, Default Rights under the Loan Documents that might otherwise apply to such Supported QFC or any QFC Credit Support that may be exercised against such Covered Party are permitted to be exercised to no greater extent than such Default Rights could be exercised under the U.S. Special Resolution Regime if the Supported QFC and the Loan Documents were governed by the laws of the United States or a state of the United States. Without limitation of the foregoing, it is understood and agreed that rights and remedies of the parties with respect to a Defaulting Lender shall in no event affect the rights of any Covered Party with respect to a Supported QFC or any QFC Credit Support.
+
+SECTION 3.     Effect of Amendments. As used in the Amended Credit Agreement, the terms “Agreement”, “this Agreement”, “herein”, “hereinafter”, “hereto”, “hereof” and words of similar import shall, unless the context otherwise requires, from and after the Amendment No. 4 Effective Date, mean or refer to the Amended Credit Agreement. As used in any other Loan Document, from and after the Amendment No. 4 Effective Date, all references to the Credit Agreement in such Loan Documents shall, unless the context otherwise requires, mean or refer to the Amended Credit Agreement.
+SECTION 4.     Additional Undertakings. Notwithstanding anything to the contrary in the Amended Credit Agreement, each Borrower covenants and agrees with each Revolving Credit Lender that, on and after the Amendment No. 4 Effective Date, so long as the Amended Credit Agreement remains in effect and until the Revolving Credit Commitments have been terminated, the Aggregate Revolving Credit Exposure has been reduced to zero and all Fees
+
+
+18
+
+and other expenses or amounts payable under any Loan Document to or for the benefit of the Administrative Agent or any Revolving Credit Lender, Swingline Lender or Issuing Bank shall have been paid in full (other than contingent indemnification obligations not then due and payable), unless the Required Revolving Credit Lenders shall otherwise consent in writing:
+(a)     In the case of Terex, during the Waiver Period, Terex will not permit Available Liquidity to be less than (i) on June 30, 2020 or September 30, 2020, $100,000,000, and (ii) on December 31, 2020, $150,000,000.
+(b)     In the case of Terex, during the Waiver Period or the Reinstatement Period, Terex will not declare or pay, directly or indirectly, any dividend or make any other distribution (by reduction of capital or otherwise), whether in cash, property, securities or a combination thereof, with respect to any of its Equity Interests or directly or indirectly redeem, purchase, retire or otherwise acquire for value any of its Equity Interests or set aside any amount for any such purpose, including pursuant to Section 6.06 of the Amended Credit Agreement; provided, however, that (i) during the Waiver Period and the Reinstatement Period, Terex may pay dividends with respect to its Equity Interests solely in additional shares of its Equity Interests, (ii) during the Waiver Period and the Reinstatement Period, Terex may repurchase Equity Interests (x) in accordance with Section 6.04(i) of the Amended Credit Agreement and (y) with the net proceeds of a substantially concurrent issuance of Qualified Equity Interests and (iii) during the Reinstatement Period, if, after giving effect to the payment of such dividend or making of such distribution, the pro forma Available Liquidity of Terex and its Restricted Subsidiaries is not less than $300,000,000, Terex may do any of the foregoing to the extent otherwise permitted by Section 6.06(a) of the Amended Credit Agreement.
+(c)     Such Borrower will not, and will not cause or permit any of the Restricted Subsidiaries to:
+(i)    during the Waiver Period or the Reinstatement Period, request Incremental Commitments pursuant to Section 2.27(a)(x) of the Amended Credit Agreement in an aggregate amount that, together with all Incremental Commitments previously established under such Section 2.27(a)(x), would exceed $150,000,000; or
+(ii)    (A) during the Waiver Period, borrow any Incremental Term Loans pursuant to Section 2.27 of the Amended Credit Agreement or (B) during the Reinstatement Period, borrow any Incremental Term Loans pursuant to Section 2.27(a)(x) of the Amended Credit Agreement, in each case, unless such Incremental Term Loans are either unsecured or secured by liens junior to the Liens securing the Obligations pursuant to an intercreditor agreement reasonably satisfactory to the Administrative Agent.
+(d)     In the case of Terex, during the Waiver Period, Terex will furnish to the Administrative Agent for distribution by the Administrative Agent to each Consenting
+
+
+19
+
+Revolving Credit Lender (i) within 30 days after the end of each of the first two months of each fiscal quarter, the financial information provided on Exhibit A hereto, all certified by one of its Financial Officers as fairly presenting in all material respects the financial condition and results of operations of Terex and its consolidated Subsidiaries on a consolidated basis in accordance with GAAP consistently applied and (ii) on or prior to the seventh Business Day of each month, a report in a form reasonably satisfactory to the Administrative Agent detailing the Consolidated Cash Balance as of the last Business Day of the immediately preceding month certified by a Financial Officer of Terex.
+(e)     In the case of Terex, if on any Business Day during the Waiver Period (i) the sum of the Aggregate Revolving Credit Exposure and the Aggregate Contract Loan Exposure is greater than $180,000,000 and (ii) the Consolidated Cash Balance exceeds the Consolidated Cash Balance Limit, then Terex shall, within five Business Days, cause the applicable Borrower to prepay outstanding Swingline Loans and Revolving Loans (as determined by Terex) in an aggregate principal amount equal to the lesser of (i) an amount sufficient to eliminate such excess and (ii) the aggregate amount of the then outstanding Swingline Loans and Revolving Loans. Each prepayment pursuant to this Section 4(e) shall be accompanied by accrued and unpaid interest on the amount prepaid to the date of such prepayment, and shall be without premium or penalty but otherwise subject to the requirements of Section 2.16 of the Amended Credit Agreement.
+(f)     Such Borrower will not, during the Waiver Period, request any Borrowing of any Swingline Loans, Contract Loans or Revolving Loans if, after giving effect to such Borrowing and the application of the proceeds thereof, (i) the sum of the Aggregate Revolving Credit Exposure and the Aggregate Contract Loan Exposure would exceed $180,000,000 and (ii) the pro forma Consolidated Cash Balance would exceed the Consolidated Cash Balance Limit. Each Borrowing during the Waiver Period shall be deemed to constitute a representation and warranty by Terex and the applicable Borrower on the date of such Borrowing as to the matters specified in this Section 4(f).  
+For the avoidance of doubt, following the earlier of (i) January 1, 2022 and (ii) the delivery of a Covenant Reversion Notice, the provisions of this Section 4 shall cease to apply and the provisions in the Amended Credit Agreement shall govern without regard to this Section 4.
+SECTION 5.     Representations and Warranties. To induce the other parties hereto to enter into this Agreement, each Loan Party party hereto hereby represents and warrants to the Administrative Agent and each of the Revolving Credit Lenders party hereto that:
+(a)     This Agreement has been duly authorized, executed and delivered by it and constitutes its legal, valid and binding obligation, enforceable against each of the Loan Parties party hereto in accordance with its terms except as such enforceability may be limited by bankruptcy, insolvency, reorganization, moratorium or other similar laws affecting creditors’ rights generally and by general principles of equity (regardless of whether such enforceability is considered in a proceeding at law or in equity).
+
+
+20
+
+(b)     At the time of and immediately after giving effect to this Agreement, the representations and warranties set forth in Article III of the Amended Credit Agreement are true and correct in all material respects (or, in the case of any representations and warranties qualified by materiality, Material Adverse Effect or words of similar import, in all respects) on and as of the date hereof with the same effect as though made on and as of the date hereof, except to the extent such representations and warranties expressly relate to an earlier date, in which case they shall have been true and correct in all material respects (or, in the case of any representations and warranties qualified by materiality, Material Adverse Effect or words of similar import, in all respects) as of such earlier date.
+(c)     Each Borrower and each other Loan Party is in compliance in all material respects with all the terms and provisions set forth in each Loan Document on its part to be observed or performed, and at the time of and immediately after giving effect to this Agreement, no Event of Default or Default has occurred and is continuing.
+(d)     The information included in any certification regarding beneficial ownership as required by 31 C.F.R. § 1010.230 (the “Beneficial Ownership Regulation”) provided by any Loan Party on or prior to the Amendment No. 4 Effective Date to any Lender in connection with this Agreement, the Credit Agreement or any other Loan Document is true and correct in all material respects.
+SECTION 6.     Conditions to Effectiveness. The effectiveness of this Agreement and the obligations of the parties hereto are subject to the satisfaction or waiver of the following conditions precedent (the date on which such conditions precedent are so satisfied or waived, the “Amendment No. 4 Effective Date”):
+(a)     the Administrative Agent shall have received counterparts of this Agreement that, when taken together, bear the signatures of Terex, each Subsidiary Borrower, each Subsidiary Guarantor, each Revolving Credit Lender and the Required Lenders;
+(b)     the representations and warranties set forth in Section 5 hereof shall be true and correct, and the Administrative Agent shall have received a certificate to that effect, dated the Amendment No. 4 Effective Date and signed by a President, a Vice President or a Financial Officer of Terex;
+(c)     Terex shall have paid (i) to each Revolving Credit Lender party hereto an amendment and extension fee in an aggregate amount equal to 0.375% of the aggregate amount of Revolving Credit Commitments (whether used or unused) of such Revolving Credit Lender on the Amendment No. 4 Effective Date and (ii) to the Administrative Agent, all fees and other amounts due and payable by it on or prior to the Amendment No. 4 Effective Date and, to the extent invoiced, reimbursement or payment of all reasonable and documented out-of-pocket expenses required to be reimbursed or paid by any Loan Party under any Loan Document;
+(d)     the Administrative Agent shall have received (i) a certificate as to the good standing of each Borrower and each Subsidiary Guarantor as of a recent date, from the
+
+
+21
+
+Secretary of State (or comparable entity) of the state (or comparable jurisdiction) of its organization (or, if such jurisdiction does not issue such certificates, a comparable document or the results of searches of official registries demonstrating good standing or lack of insolvency proceedings against such person, as available); (ii) a certificate of the Secretary or Assistant Secretary of each Borrower and each Subsidiary Guarantor dated the Incremental Effective Date and certifying (A) that attached thereto is a true and complete copy of (1) the by-laws (or comparable organizational documents) and (2) the certificate or articles of incorporation (or comparable organizational documents), including all amendments thereto, in each case of such person as in effect on the Amendment No. 4 Effective Date and at all times since a date prior to the date of the resolutions described in clause (B) below (or, if such by-laws (or comparable documents) or certificate or articles of incorporation (or comparable documents) have not been amended or modified since any delivery thereof to the Administrative Agent on or following the Closing Date, certifying that no such amendment or modification has occurred), (B) that attached thereto is a true and complete copy of resolutions duly adopted by the Board of Directors (or comparable governing body) of each Borrower and each Subsidiary Guarantor authorizing the execution, delivery and performance of this Agreement and that such resolutions have not been modified, rescinded or amended and are in full force and effect, and (C) as to the incumbency and specimen signature of each officer executing any Loan Document or any other document delivered in connection herewith on behalf of such person; and (iii) a certificate of another officer as to the incumbency and specimen signature of the Secretary or Assistant Secretary executing the certificate pursuant to clause (ii) above;
+(e)     the Administrative Agent shall have received, on behalf of itself and the Lenders, executed legal opinions of (i) the General Counsel of Terex, (ii) Bryan Cave Leighton Paisner LLP, counsel to the Borrowers and the Subsidiary Guarantors and (iii) local counsel for each of the Subsidiary Borrowers, in each case, (A) dated the Amendment No. 4 Effective Date, (B) addressed to the Administrative Agent and the Revolving Credit Lenders party hereto and (C) covering such matters as the Administrative Agent shall reasonably request, and Terex hereby requests such counsel to deliver such opinions; and
+(f)     the Administrative Agent shall have received all documentation and other information reasonably requested by it at least five days prior to the Amendment No. 4 Effective Date that is required by regulatory authorities under applicable “know your customer” and anti-money laundering rules and regulations, including the USA PATRIOT Act and the Beneficial Ownership Regulation.
+The Administrative Agent shall notify Terex and the Revolving Credit Lenders of the Amendment No. 4 Effective Date and such notice shall be conclusive and binding.
+SECTION 7.     Real Estate Collateral. Terex shall, and shall cause Terex USA, LLC to, deliver to the Collateral Agent as soon as practicable and in any event within 60 calendar days after the Amendment No. 4 Effective Date (or such later date as shall be acceptable to the Collateral Agent in its sole discretion), (a) an amendment to the Mortgage encumbering the Mortgaged Property which shall provide that such Mortgage remains in full force and
+
+
+22
+
+effect and continues to secure the Obligations and (b) if available in the applicable jurisdiction, a date down endorsement to the mortgagee’s title policy issued to the Administrative Agent in connection with the Mortgage in respect of the Mortgaged Property, in each case in form and substance satisfactory to the Administrative Agent.
+SECTION 8.     Consent and Reaffirmation. Terex and each Subsidiary Guarantor hereby (a) consents to this Agreement and the transactions contemplated hereby, (b) agrees that, notwithstanding the effectiveness of this Agreement, the Guarantee and Collateral Agreement and each of the other Security Documents to which it is a party continue to be in full force and effect, (c) affirms and confirms its guarantee (in the case of a Guarantor) of the Obligations and the pledge and/or grant (in the case of a Grantor (as defined in the Guarantee and Collateral Agreement)) of a security interest in its assets as Collateral pursuant to the Security Documents to secure the Obligations, all as provided in the Loan Documents, and (d) acknowledges and agrees that such guarantee, pledge and/or grant continues in full force and effect in respect of, and to secure, the Obligations. Without limiting the foregoing, nothing herein contained shall be construed as a novation of any of the Loan Documents or a substitution or novation of the Obligations or instruments guaranteeing or securing the same, which Loan Documents, Obligations and instruments shall remain and continue in full force and effect.
+SECTION 9.     Applicable Law. THIS AGREEMENT SHALL BE CONSTRUED IN ACCORDANCE WITH AND GOVERNED BY THE LAWS OF THE STATE OF NEW YORK.
+SECTION 10.     Counterparts. This Agreement may be executed in counterparts (and by different parties hereto on different counterparts), each of which shall constitute an original but all of which when taken together shall constitute a single contract. Delivery of an executed signature page to this Agreement by facsimile or other electronic transmission shall be effective as delivery of a manually signed counterpart of this Agreement. The words “execution,” “signed,” “signature,” and words of like import in this Agreement shall be deemed to include electronic signatures or electronic records, each of which shall be of the same legal effect, validity or enforceability as a manually executed signature or the use of a paper-based recordkeeping system, as the case may be, to the extent and as provided for in any applicable law, including the Federal Electronic Signatures in Global and National Commerce Act, the New York State Electronic Signatures and Records Act, or any other similar state laws based on the Uniform Electronic Transactions Act.
+SECTION 11.     Notices. All notices hereunder or in connection herewith shall be given in accordance with the provisions of Section 9.01 of the Amended Credit Agreement.
+SECTION 12.     Headings. Section headings used herein are for convenience of reference only, are not part of this Agreement and are not to affect the construction of, or to be taken into consideration in interpreting, this Agreement.
+[Remainder of this page intentionally left blank]
+
+
+23
+
+
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be duly executed by their respective authorized officers as of the day and year first above written.
+
+TEREX CORPORATION,
+By
+  /s/Scott Posner
+  Name: Scott Posner
+  Title: Senior Vice President
+
+NEW TEREX HOLDINGS UK LIMITED,
+by
+  /s/Scott Posner
+  Name: Scott Posner
+  Title: Director
+
+TEREX INTERNATIONAL FINANCIAL SERVICES COMPANY UNLIMITED COMPANY,
+by
+  /s/David Viney
+  Name: David Viney
+  Title: Director
+
+TEREX AUSTRALIA PTY LTD
+(ACN 010 671 048),
+
+by
+  /s/John D.Sheehan
+  Name: John D. Sheehan
+  Title: Director
+  by
+  /s/Scott Posner
+  Name: Scott Posner
+  Title: Company Secretary
+
+
+
+
+
+
+
+GENIE INDUSTRIES, INC. 
+TEREX SOUTH DAKOTA, INC.
+TEREX WASHINGTON, INC.
+TEREX ADVANCE MIXER, INC.
+TEREX FINANCIAL SERVICES, INC.,
+
+By
+  /s/Scott Posner
+  Name: Scott Posner
+  Title: Vice President
+
+
+TEREX USA, LLC,
+By
+  /s/Scott Posner
+  Name: Scott Posner
+  Title: Senior Vice President
+
+
+TEREX UTILITIES, INC.,
+By
+  /s/Scott Posner
+  Name: Scott Posner
+  Title: President
+
+
+
+
+
+CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH, individually and as Administrative Agent and Collateral Agent,
+  By
+  /s/William O'Daly
+  Name: William O'Daly
+  Title: Authorized Signatory
+  By
+  /s/Nicloas Thierry
+  Name: Nicolas Thierry
+  Title: Authorized Signatory
+         
+
+
+
+
+
+
+SIGNATURE PAGE TO LOAN MODIFICATION AGREEMENT AND AMENDMENT NO. 4 TO THE TEREX CORPORATION CREDIT AGREEMENT DATED AS OF JANUARY 31, 2017, AS AMENDED
+
+
+
+Name of Institution: BARCLAYS BANK PLC
+
+    by
+/s/Sean Duggan
+  Name: Sean Duggan
+  Title: Vice President
+For any institution requiring a second signature line:
+by
+    Name:
+  Title:
+
+
+
+SIGNATURE PAGE TO LOAN MODIFICATION AGREEMENT AND AMENDMENT NO. 4 TO THE TEREX CORPORATION CREDIT AGREEMENT DATED AS OF JANUARY 31, 2017, AS AMENDED
+
+
+
+Name of Institution: Commerzbank AG New York Branck
+
+    by
+/s/Thomas Devitt
+  Name: Thomas Devitt
+  Title: Director
+For any institution requiring a second signature line:
+by
+/s/Caio Kac
+  Name: Caio Kac
+  Director
+
+
+SIGNATURE PAGE TO LOAN MODIFICATION AGREEMENT AND AMENDMENT NO. 4 TO THE TEREX CORPORATION CREDIT AGREEMENT DATED AS OF JANUARY 31, 2017, AS AMENDED
+
+
+
+Name of Institution: CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK
+
+    by
+/s/Gordon Yip
+  Name: Gordon Yip
+  Title: Director
+For any institution requiring a second signature line:
+by
+/s/Jill Wong
+  Name: Jill Wong
+  Title: Director
+
+
+SIGNATURE PAGE TO LOAN MODIFICATION AGREEMENT AND AMENDMENT NO. 4 TO THE TEREX CORPORATION CREDIT AGREEMENT DATED AS OF JANUARY 31, 2017, AS AMENDED
+
+
+
+Name of Institution: Deutsche Bank AG New York Branch
+
+    by
+/s/Maria Guinchard
+  Name: Maria Guinchard
+  Title: Director
+For any institution requiring a second signature line:
+by
+/s/Philip Tancorra
+  Name: Philip Tancorra
+  Title: Vice President
+
+
+
+SIGNATURE PAGE TO LOAN MODIFICATION AGREEMENT AND AMENDMENT NO. 4 TO THE TEREX CORPORATION CREDIT AGREEMENT DATED AS OF JANUARY 31, 2017, AS AMENDED
+
+
+
+Name of Institution: HSBC Bank USA, National Association
+
+    by
+/s/Patrick Mueller
+  Name: Patrick Mueller
+  Title: Managing Director
+For any institution requiring a second signature line:
+by
+         
+
+SIGNATURE PAGE TO LOAN MODIFICATION AGREEMENT AND AMENDMENT NO. 4 TO THE TEREX CORPORATION CREDIT AGREEMENT DATED AS OF JANUARY 31, 2017, AS AMENDED
+
+
+
+Name of Institution: HSBC UK Bank, Plc
+
+    by
+/s/Jonathan O'Hara
+  Name: Jonathan O'Hara
+  Title: Relationship Director
+For any institution requiring a second signature line:
+by
+         
+
+SIGNATURE PAGE TO LOAN MODIFICATION AGREEMENT AND AMENDMENT NO. 4 TO THE TEREX CORPORATION CREDIT AGREEMENT DATED AS OF JANUARY 31, 2017, AS AMENDED
+
+
+
+Name of Institution: Morgan Stanley Bank, N.A.
+
+    by
+/s/Alysha Salinger
+  Name: Alysha Salinger
+  Title: Authorized Signatory
+For any institution requiring a second signature line:
+by
+         

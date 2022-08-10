@@ -1,0 +1,210 @@
+EX-10.1 2 mcbc8-krcfamend2ex101.htm EX-10.1
+
+AMENDMENT NO. 2
+AMENDMENT NO. 2 (this “Amendment”) dated as of June 19, 2020 among Molson Coors Beverage Company (formerly known as Molson Coors Brewing Company), a Delaware corporation (the “Company”), MOLSON COORS BREWING COMPANY (UK) LIMITED, MOLSON CANADA 2005, MOLSON COORS CANADA INC. and MOLSON COORS INTERNATIONAL LP, each a subsidiary of the Company (together with the Company, the “Borrowers”), the LENDERS that are signatories to this Amendment and CITIBANK, N.A., as administrative agent under the Credit Agreement referred to below (in such capacity, the “Administrative Agent”).
+The Borrowers, the other Borrowing Subsidiaries from time to time party thereto, the lenders from time to time party thereto, the Issuing Banks from time to time party thereto and the Administrative Agent are parties to a Credit Agreement dated as of July 7, 2017 (as amended, supplemented or otherwise modified and in effect immediately prior to the effectiveness of this Amendment, the “Credit Agreement”).
+Pursuant to Section 10.02(b) of the Credit Agreement, the Company has requested that the Administrative Agent and the Lenders amend certain provisions of the Credit Agreement as set forth herein.
+Now, therefore, in consideration of the foregoing and for other good and valuable consideration, the receipt and sufficiency of all of which is hereby acknowledged, the parties hereto hereby agree as follows:
+Section 1. Definitions. Except as otherwise defined in this Amendment, terms defined in the Credit Agreement are used herein as defined therein.
+Section 2. Amendments. Subject to the satisfaction of the conditions precedent specified in Section 4 hereof, but effective as of the date hereof, the Credit Agreement shall be amended as follows:
+2.01. Certain Defined Terms. The following definition will be added in the appropriate alphabetical order in Section 1.01 of the Credit Agreement as follows:
+
+“Affected Financial Institution” means (a) any EEA Financial Institution or (b) any UK Financial Institution.
+
+“Amendment No. 2” means that certain Amendment No. 2, dated as of the Amendment No. 2 Effective Date, among the Administrative Agent, the Lenders party thereto and the Borrowers.
+
+“Amendment No. 2 Effective Date” means June 19, 2020.
+
+“Resolution Authority” means an EEA Resolution Authority or, with respect to any UK Financial Institution, a UK Resolution Authority.
+
+“UK Financial Institution” means any BRRD Undertaking (as such term is defined under the PRA Rulebook (as amended form time to time) promulgated by the United Kingdom Prudential Regulation Authority) or any person falling within IFPRU 11.6 of the FCA Handbook (as amended from time to time) promulgated by the United Kingdom
+
+
+
+Financial Conduct Authority, which includes certain credit institutions and investment firms, and certain affiliates of such credit institutions or investment firms.
+
+“UK Resolution Authority” means the Bank of England or any other public administrative authority having responsibility for the resolution of any UK Financial Institution.
+
+2.02. Applicable Rate. The definition of “Applicable Rate” in the Credit Agreement shall be amended by inserting the following immediately after the existing pricing grid therein:
+
+
+Notwithstanding the foregoing, solely for the period beginning on the Amendment No. 2 Effective Date and ending on the last day of the fiscal quarter ending September 30, 2021, the Applicable Rate set forth in the table above for “Eurocurrency and B/A Drawing Rate” opposite “Rating Level 3” “Rating Level 4” and “Rating Level 5” shall be replaced with the Applicable Rates shown below:
+
+Index Debt Ratings
+(S&P or Moody’s) Eurocurrency and
+B/A Drawing Rate
+Rating Level 3
+BBB-/Baa3
+1.500%
+Rating Level 4
+BB+/Ba1
+1.875%
+Rating Level 5
+BB / Ba2 or below
+2.125%
+
+2.03. Priority Indebtedness. Section 6.01 of the Credit Agreement is hereby amended by:
+(a) (i) deleting the word “and” at the end of clause (l) and (ii) replacing the period at the end of clause (m) with “; and”; and
+(b) adding a new clause (n) as follows:
+Indebtedness of up to £300,000,000 issued under that certain Dealer Agreement, dated as of May 21, 2020, by and between Molson Coors Brewing Company (UK) Limited, as issuer, the Company, as guarantor, Lloyds Bank Corporate Markets plc, as arranger and original dealer, which was established for the purpose of the Joint HM Treasury and Bank of England’s COVID Corporate Financing Facility.
+2.04. Leverage Ratio. The table included in Section 6.05 of the Credit Agreement is hereby replaced in its entirety with the following table:
+2
+
+
+Fiscal Quarter Leverage Ratio
+as of the last day of the first fiscal quarter after the Closing Date and each of the following fiscal quarters through September 30, 2017 5.75:1.00
+as of the last day of the fiscal quarter ending December 31, 2017 and the last day of each of the following fiscal quarters through September 30, 2018 5.25:1.00
+as of the last day of the fiscal quarter ending December 31, 2018 and the last day of each of the following fiscal quarters through September 30, 2019 4.75:1.00
+as of the last day of the fiscal quarter ending December 31, 2019 and the last day of each of the following fiscal quarters through March 31, 2020 4.25:1.00
+as of the last day of the fiscal quarter ending June 30, 2020 4.75:1.00
+as of the last day of the fiscal quarter ending September 30, 2020 and the last day of each of the following fiscal quarters through March 31, 2021 5.25:1.00
+as of the last day of the fiscal quarter ending June 30, 2021 4.75:1.00
+as of the last day of the fiscal quarter ending September 30, 2021 4.50:1.00
+as of the last day of the fiscal quarter ending December 31, 2021 and the last day of each of the following fiscal quarters 4.00:1.00
+
+2.05. Subsidiary Guarantor Schedule. Schedule 3.13 of the Credit Agreement is hereby amended by deleting (i) “*” in each place it appears and (ii) “* UK Guarantor and Elective Guarantor”.
+2.06. UK Guarantors. It is understood and agreed that (notwithstanding anything in the Loan Documents to the contrary) the following entities have been, are, and will continue to be UK Guarantors and not Elective Guarantors under each Loan Document: MOLSON COORS BREWING COMPANY (UK) LIMITED, MOLSON COORS HOLDINGS LIMITED and GOLDEN ACQUISITION.
+2.07. Divisions by Delaware Limited Liability Companies. A new Section 1.07 shall be added to the Credit Agreement as follows:
+         SECTION 1.07. Divisions. For all purposes under the Loan Documents, in connection with any division or plan of division under Delaware law (or any comparable event under a different jurisdiction’s laws): (a) if any asset, right, obligation or liability of any Person becomes the asset, right, obligation or liability of a different Person, then it shall be deemed to have been transferred from the original Person to the subsequent Person, and (b) if any new Person comes into existence, such new Person shall be deemed to have been organized on the first date of its existence by the holders of its Equity Interests at such time.
+2.08. Acknowledgement and Consent to Bail-in of Affected Financial Institutions. Section 10.17 of the Credit Agreement shall be amended and restated in its entirety as follows:
+SECTION 10.17 Acknowledgement and Consent to Bail-In of Affected Financial Institutions. Notwithstanding anything to the contrary in any Loan Document or in any other agreement,
+3
+
+
+arrangement or understanding among any such parties, each party hereto acknowledges that any liability of any Affected Financial Institution arising under any Loan Document, to the extent such liability is unsecured, may be subject to the write-down and conversion powers of the applicable Resolution Authority and agrees and consents to, and acknowledges and agrees to be bound by:
+(a) the application of any Write-Down and Conversion Powers by the applicable Resolution Authority to any such liabilities arising hereunder which may be payable to it by any party hereto that is an Affected Financial Institution; and
+(b) the effects of any Bail-in Action on any such liability, including, if applicable:
+(i) a reduction in full or in part or cancellation of any such liability;
+(ii) a conversion of all, or a portion of, such liability into shares or other instruments of ownership in such Affected Financial Institution, its parent undertaking, or a bridge institution that may be issued to it or otherwise conferred on it, and that such shares or other instruments of ownership will be accepted by it in lieu of any rights with respect to any such liability under this Agreement or any other Loan Document; or
+(iii) the variation of the terms of such liability in connection with the exercise of the write-down and conversion powers of the applicable Resolution Authority.
+2.09. Amended Definitions. The following definitions shall be amended and restated as follows:
+“Bail-In Action” means the exercise of any Write-Down and Conversion Powers by the applicable Resolution Authority in respect of any liability of an Affected Financial Institution.
+
+“Bail-In Legislation” means (a) with respect to any EEA Member Country implementing Article 55 of Directive 2014/59/EU of the European Parliament and of the Council of the European Union, the implementing law, regulation rule or requirement for such EEA Member Country from time to time which is described in the EU Bail-In Legislation Schedule and (b) with respect to the United Kingdom, Part I of the United Kingdom Banking Act 2009 (as amended from time to time) and any other law, regulation or rule applicable in the United Kingdom relating to the resolution of unsound or failing banks, investment firms or other financial institutions or their affiliates (other than through liquidation, administration or other insolvency proceedings).
+
+“Write-Down and Conversion Powers” means, (a) with respect to any EEA Resolution Authority, the write-down and conversion powers of such EEA Resolution Authority from time to time under the Bail-In Legislation for the applicable EEA Member Country, which write-down and conversion powers are described in the EU Bail-In Legislation Schedule, and (b) with respect to the United Kingdom, any powers of the applicable Resolution Authority under the Bail-In Legislation to cancel, reduce, modify or change the form of a liability of any UK Financial Institution or any contract or instrument under which that liability arises, to convert all or part of that liability into shares, securities or obligations of that person or any other person, to provide that any such contract or instrument is to have effect as if a right had been exercised under it or to suspend any
+4
+
+
+obligation in respect of that liability or any of the powers under that Bail-In Legislation that are related to or ancillary to any of those powers.
+2.10. References Generally. References in the Credit Agreement (including references to the Credit Agreement as amended hereby) to “this Agreement” (and indirect references such as “hereunder”, “hereby”, “herein” and “hereof”) shall be deemed to be references to the Credit Agreement as amended hereby.
+Section 3. Representations and Warranties. To induce the Lenders and the Administrative Agent to enter into this Amendment, each Borrower hereby represents and warrants to the Lenders and the Administrative Agent as follows:
+3.01. (i) Each Borrower has all corporate power and authority to execute, deliver and perform its obligations under this Amendment, (ii) this Amendment has been duly executed and delivered by each Borrower and (iii) this Amendment constitutes a legal, valid and binding obligation of each Borrower, enforceable against each Borrower in accordance with its terms, subject to applicable bankruptcy, insolvency, reorganization, moratorium or other laws affecting creditors’ rights generally and subject to general principles of equity, regardless of whether considered in a proceeding in equity or at law, and, in the case of obligations of UK Borrowing Subsidiaries, the time barring of claims under the Limitation Acts and the possibility that an undertaking to assume liability for or indemnify a person against non-payment of the UK stamp duty may be void.
+3.02. The representations and warranties set forth in Article III of the Credit Agreement (after giving effect to the amendments contemplated herein), other than those set forth in Sections 3.04(b) and 3.06(a) thereof are true and correct in all material respects as of the date hereof as if made on and as of the date hereof (except that any such representation given as of a particular date shall be true and correct in all material respects as of that date).
+3.03. As of the Amendment No. 2 Effective Date (as defined below) and after giving effect to the amendments contemplated herein, no Default or Event of Default shall have occurred and be continuing.
+Section 4. Conditions Precedent. The amendments set forth in Section 2 hereof shall become effective upon the date on which the following conditions precedent are first satisfied (the “Amendment No. 2 Effective Date”):
+(a) the Administrative Agent (or its counsel) shall have received either (i) a counterpart of this Amendment signed by each of the Borrowers and at least the Required Lenders or (ii) written evidence satisfactory to the Administrative Agent (which may include telecopy or other electronic transmission of a signed signature page of this Amendment) that such party has signed a counterpart of this Amendment;
+(b) the Administrative Agent shall have received (i) a consent fee for the accounts of each Lender party to this Amendment (each, a “Consenting Lender”) equal to 0.10% of the Commitment of each Consenting Lender immediately after the Amendment No. 2 Effective Date, which shall be payable to the Administrative Agent for the accounts of the Consenting Lenders on the Amendment No. 2 Effective Date and (ii) all other fees required to be paid on or prior to the Amendment No. 2 Effective Date by the Company under any separate letter agreement; and
+5
+
+
+(c) the Administrative Agent, the Lenders and the Issuing Banks shall have received payment of all reasonable fees and expenses (including fees and disbursements of counsel for the Administrative Agent) payable under the Credit Agreement and invoiced two days prior to the Amendment No. 2 Effective Date.
+Section 5. Confirmation of Guarantee. The Company (a) confirms its obligations under the guarantee set forth in Article VIII of the Credit Agreement, (b) confirms that the obligations of the other Borrowers under the Credit Agreement as amended hereby are entitled to the benefits of such guarantee, (c) confirms that the obligations of the other Borrowers under the Credit Agreement as amended hereby constitute “Obligations” (as defined in the Credit Agreement) and (d) agrees that the Credit Agreement as amended hereby is the Credit Agreement under and for all purposes of such guarantee.
+Section 6. Reaffirmation of Obligations. The Credit Agreement and each of the other Loan Documents, as specifically amended by this Amendment, are and shall continue to be in full force and effect and each Borrower hereby ratifies the Credit Agreement and each other Loan Document to which such Borrower is a party and acknowledges and reaffirms (a) that it is bound by all terms of the Credit Agreement and the other Loan Documents applicable to it and (b) that it is responsible for the observance and full performance of its obligations.
+Section 7. Entirety. This Amendment, together with the other Loan Documents, embody the entire agreement among the parties hereto and supersede all prior agreements and understandings, oral or written, if any, relating to the subject matter hereof.
+Section 8. Miscellaneous.
+8.01. Except as herein provided, the Credit Agreement shall remain unchanged and in full force and effect. This Amendment shall constitute a “Loan Document” for all purposes of the Credit Agreement and the other Loan Documents. This Amendment may be executed in any number of counterparts, all of which taken together shall constitute one and the same amendatory instrument and any of the parties hereto may execute this Amendment by signing any such counterpart. Delivery of a counterpart by electronic transmission shall be effective as delivery of a manually executed counterpart hereof. This Amendment shall be governed by, and construed in accordance with, the law of the State of New York.
+8.02. The provisions of Sections 10.03 (Expenses; Indemnity; Damage Waiver); 10.06 (Counterparts; Integration; Effectiveness); 10.09 (Governing Law; Jurisdiction; Consent to Service of Process); 10.10 (Waiver of Jury Trial); and 10.12 (Confidentiality) of the Credit Agreement shall apply with like effect to this Amendment.
+Section 9. No Waivers. The execution, delivery and effectiveness of this Amendment shall not, except as expressly provided herein, operate as a waiver of any right, power or remedy of any Lender, the Administrative Agent or any other party under any of the Loan Documents, nor constitute a waiver of any provision of any of the Loan Documents, all of which are ratified and affirmed in all respects and shall continue in full force and effect.
+Section 10. Successors and Assigns. This Amendment shall be binding upon and inure to the benefit of the parties hereto and their respective successors and permitted assigns.
+6
+
+
+Section 11. Headings. Section headings herein are included for convenience of reference only and shall not affect the interpretation of this Amendment.
+[Signature Pages Follow.]
+7
+
+
+IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be duly executed by their respective authorized officers as of the day and year first above written.
+MOLSON COORS BEVERAGE COMPANY
+By /s/ Patrick Porter
+Name: Patrick Porter
+Title: Vice President, Treasurer
+MOLSON COORS BREWING COMPANY (UK) LIMITED
+By /s/ Amy Procter
+Name: Amy Procter
+Title: Secretary
+MOLSON CANADA 2005
+By /s/ Patrick Porter
+Name: Patrick Porter
+Title: Treasurer
+MOLSON COORS CANADA INC.
+By /s/ Patrick Porter
+Name: Patrick Porter
+Title: Treasurer
+MOLSON COORS INTERNATIONAL LP
+By /s/ Patrick Porter
+Name: Patrick Porter
+Title: Vice President, Treasurer
+[Signature Page to Molson Coors Amendment No. 2]
+
+CITIBANK, N.A., as Administrative Agent and a Lender
+By /s/ Carolyn A. Kee
+Name: Carolyn A. Kee
+Title: Vice President
+
+
+
+[Signature Page to Molson Coors Amendment No. 2]
+
+Bank of America, as a Lender
+By /s/ Nicholas Cheng
+Name: Nicholas Cheng
+Title: Director
+MUFG BANK LTD. (formerly known as The Bank of Tokyo Mitsubishi UFJ, Ltd.), as an Issuing Bank and a Lender
+By /s/ Reema Sharma
+Name: Reema Sharma
+Title: Authorized Signatory
+Bank of Montreal, as a Lender
+By /s/ Sean Gallaway
+Name: Sean Gallaway
+Title: Director
+Bank of Montreal, as a Lender
+By /s/ Andrew Berryman
+Name: Andrew Berryman
+Title: Vice President
+Bank of Montreal, as a Lender
+By /s/ Tom Woolgar /s/ Scott Matthews
+Name: Tom Woolgar Scott Matthews
+Title: Managing Director Managing Director
+Goldman Sachs Bank USA, as a Lender
+By /s/ David K. Gaskell
+Name: David K. Gaskell
+Title: Authorized Signer
+
+[Signature Page to Molson Coors Amendment No. 2]
+
+
+ROYAL BANK OF CANADA, as a Lender
+By /s/ Julia Ivanova
+Name: Julia Ivanova
+Title: Authorized Signatory
+JPMORGAN CHASE BANK, N.A., as a Lender
+By /s/ Heather Hoopingarner
+Name: Heather Hoopingarner
+Title: Vice President
+Lloyds Bank Corporate Markets plc, as a Lender
+By /s/ Kamala Basdeo
+Name: Kamala Basdeo
+Title: Assistant Vice President
+By /s/ Tina Wong
+Name: Tina Wong
+Title: Assistant Vice President
+
+The Northern Trust Company, as a Lender
+By /s/ Molly Drennan
+Name: Molly Drennan
+Title: Senior Vice President
+COÖPERATIEVE RABOBANK U.A., NEW YORK BRANCH, as a Lender
+By /s/ Van Brandenburg
+Name: Van Brandenburg
+Title: Managing Director
+By /s/ Joshua Leonard
+Name: Joshua Leonard
+Title: Vice President
+THE BANK OF NOVA SCOTIA, as a Lender
+By /s/ Frans Braniotis
+Name: Frans Braniotis
+Title: Managing Director
+
+[Signature Page to Molson Coors Amendment No. 2]

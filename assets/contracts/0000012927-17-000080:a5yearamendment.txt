@@ -1,0 +1,921 @@
+EX-10.2 3 a5yearamendment.htm EXHIBIT 10.2
+
+
+Exhibit 10.2
+AMENDMENT NO. 4 TO THE
+CREDIT AGREEMENT
+Dated as of November 1, 2017
+AMENDMENT NO. 4 TO THE CREDIT AGREEMENT among THE BOEING COMPANY, a Delaware corporation (“TBC”), the banks, financial institutions and other institutional lenders parties to the Credit Agreement referred to below (collectively, the “Lenders”) and CITIBANK, N.A., as administrative agent (the “Agent”) for the Lenders.
+PRELIMINARY STATEMENTS:
+(1)    TBC, the Lenders and the Agent have entered into a Five Year Credit Agreement dated as of November 10, 2011 (as extended and amended to date, the “Credit Agreement”). Capitalized terms not otherwise defined in this Amendment shall have the same meanings as specified in the Credit Agreement.
+(2)    TBC and the Majority Lenders have agreed to amend the Credit Agreement as hereinafter set forth.
+(3)    Pursuant to Section 2.22(a) of the Credit Agreement, TBC has requested that the Termination Date be extended to November 1, 2022.
+Section 1. Amendments to Credit Agreement. The Credit Agreement is, effective as set forth in Section 3 of this Amendment, hereby amended as follows:
+(a)The definition of “S&P” in Section 1.1 is amended in full to read as follows:
+“S&P” means S&P Global Ratings, a division of S&P Global, Inc.
+(b)Section 2.2(a) is amended by deleting the time “11:00 a.m.” and substituting therefor the time “1:00 p.m.”
+(c)Section 2.2(b) is amended by deleting the time “1:00 p.m.” and substituting therefor the time “3:00 p.m.”
+(d)A new clause (j) is added at the end of Section 3.1 to read as follows:
+(j)    ERISA. No Borrower is nor will be (1) an employee benefit plan subject to Title I of ERISA, (2) a plan or account subject to Section 4975 of the Internal Revenue Code; (3) an entity deemed to hold “plan assets” of any such plans or accounts for purposes of ERISA or the Internal Revenue Code; or (4) a “governmental plan” within the meaning of ERISA.
+(e)Section 2.24(d) is amended by deleting the phrase “purchase that portion of outstanding Advances of the other Lenders” and substituting therefor the phrase “purchase at par that portion of outstanding Advances of the other Lenders.”
+
+
+
+(f)Section 4.2(a)(6) is amended by deleting the date “September 30, 2016” and substituting therefor the date “September 30, 2017”.
+(g)Section 6.1(d) is amended in full to read as follows:
+(d)    Failure by TBC to pay when due (i) any obligation for the payment of borrowed money on any regularly scheduled payment date or following acceleration thereof or (ii) any other monetary obligation if, in the case of either of clauses (i) or (ii), the aggregate unpaid principal amount of the obligations with respect to which such failure to pay or acceleration occurred (excluding any failure to pay that TBC certifies is a result of the application of Sanctions) equals or exceeds $500,000,000 and such failure is not remedied within 5 Business Days after TBC receives notice thereof from the Agent or the creditor on such obligation;
+(h)Section 6.1(e) is amended (i) by deleting the figure “$150,000,000” in each place such figure appears and substituting therefor the figure “$500,000,000” and (ii) replacing in clause (1)(B) the phrase “reportable event within the meaning of ERISA” with the phrase “reportable event as defined in Section 4043 of ERISA”.
+(i)A new Section 7.10 is added at the end of Article 7 to read as follows:
+7.10    Lender ERISA Representation. Each Lender party to this Agreement as of November 1, 2017 represents and warrants as of such date to the Agent and each other Joint Lead Arranger and their respective Affiliates, and not, for the avoidance of doubt, for the benefit of the Company or any other Borrower, that such Lender is not and will not be (i) an employee benefit plan subject to Title I of ERISA, (ii) a plan or account subject to Section 4975 of the Internal Revenue Code; (iii) an entity deemed to hold “plan assets” of any such plans or accounts for purposes of ERISA or the Internal Revenue Code that is using “plan assets” of any such plans or accounts to fund or hold Advances or perform its obligations under this Agreement; or (iv) a “governmental plan” within the meaning of ERISA.
+(j)Section 8.15 is amended by adding immediately before the first sentence the following sentence:
+The Agent, each Lender and their Affiliates may have economic interests that conflict with those of the Borrowers.
+Section 2. Consent to Extension Request. Each Lender so indicating on its signature page to this Amendment agrees to extend the Termination Date with respect to its Commitment to November 1, 2022. This agreement to extend the Termination Date is subject in all respects to the terms of the Credit Agreement and is irrevocable.
+Section 3. Conditions of Effectiveness. This Amendment shall become effective as of the date first above written when, and only when, the Agent shall have received counterparts of this Amendment executed by TBC and the Majority Lenders. Each Lender that consents to the Extension Request shall so indicate its consent by executing as indicated on the signature page.
+
+2
+
+
+Section 4. Representations and Warranties of TBC. TBC represents and warrants as follows:
+(a)    The execution and delivery and the performance of the terms of this Amendment and the Credit Agreement, as amended hereby, are within the corporate powers of TBC, have been duly authorized by all necessary corporate action, have all necessary governmental approval, if any (which approval, if any, remains in full force and effect), and do not contravene any provision of the Certificate of Incorporation or By-Laws of TBC, or do not contravene any law or any contractual restriction binding on TBC, except where such contravention would not have a material adverse effect on the financial condition of TBC and its Subsidiaries, taken as a whole); and
+(b)    This Amendment and the Credit Agreement, as amended hereby, constitute legal, valid and binding obligations of TBC, enforceable against TBC in accordance with their respective terms, subject to general equitable principles and except as the enforceability thereof may be limited by applicable bankruptcy, insolvency, reorganization, moratorium or other similar laws of general application relating to creditors’ rights.
+Section 5. Reference to and Effect on the Credit Agreement and the Notes.
+(a)On and after the effectiveness of this Amendment, each reference in the Credit Agreement to “this Agreement”, “hereunder”, “hereof” or words of like import referring to the Credit Agreement, and each reference in the Notes to “the Credit Agreement”, “thereunder”, “thereof” or words of like import referring to the Credit Agreement, shall mean and be a reference to the Credit Agreement, as amended by this Amendment.
+(b)The Credit Agreement and the Notes, as specifically amended by this Amendment, are and shall continue to be in full force and effect and are hereby in all respects ratified and confirmed.
+(c)The execution, delivery and effectiveness of this Amendment shall not, except as expressly provided herein, operate as a waiver of any right, power or remedy of any Lender or the Agent under the Credit Agreement, nor constitute a waiver of any provision of the Credit Agreement.
+Section 6. Costs and Expenses. TBC agrees to pay upon written request all reasonable costs and expenses of the Agent in connection with the preparation, execution, delivery and administration of this Amendment and the other instruments and documents to be delivered hereunder (including, without limitation, the reasonable fees and out-of-pocket expenses of counsel for the Agent) in accordance with the terms of Section 8.3(a) of the Credit Agreement.
+Section 7. Execution in Counterparts. This Amendment may be executed in any number of counterparts and by different parties hereto in separate counterparts, each of which when so executed shall be deemed to be an original and all of which taken together shall constitute but one and the same agreement. Delivery of an executed counterpart of a signature page to this Amendment by telecopier shall be effective as delivery of a manually executed counterpart of this Amendment.
+Section 8. Governing Law. This Amendment shall be governed by, and construed in accordance with, the laws of the State of New York.
+
+3
+
+
+IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be executed by their respective officers thereunto duly authorized, as of the date first above written.
+THE BOEING COMPANY
+
+By /s/ Ruud P. Roggekamp    
+Name: Ruud P. Roggekamp
+Title: Assistant Treasurer
+
+CITIBANK, N.A.,
+as Agent and Lender
+
+By /s/ Susan M. Olsen    
+Name: Susan M. Olsen
+Title: Vice President
+
+
+
+
+Consent to the forgoing Amendment:
+
+CITIBANK, N.A.
+
+By
+/s/ Susan M. Olsen
+Name: Susan M. Olsen
+Title: Vice President
+
+
+Consent to the Extension Request:
+
+CITIBANK, N.A.
+
+By
+/s/ Susan M. Olsen
+Name: Susan M. Olsen
+Title: Vice President
+
+
+
+
+Consent to the forgoing Amendment:
+
+JPMORGAN CHASE BANK, N.A.
+
+By
+/s/ Robert P. Kellas
+Name: Robert P. Kellas
+Title: Executive Director
+
+
+Consent to the Extension Request:
+
+JPMORGAN CHASE BANK, N.A.
+
+By
+/s/ Robert P. Kellas
+Name: Robert P. Kellas
+Title: Executive Director
+
+
+
+
+Consent to the forgoing Amendment:
+
+Bank of America, N.A.
+
+By
+/s/ Prathamesh Kshirsagar
+Name: Prathamesh Kshirsagar
+Title: Vice President
+
+
+Consent to the Extension Request:
+
+Bank of America, N.A.
+
+By
+/s/ Prathamesh Kshirsagar
+Name: Prathamesh Kshirsagar
+Title: Vice President
+
+
+
+
+
+Consent to the forgoing Amendment:
+
+Mizuho Bank, Ltd.
+
+By
+/s/ Donna DeMagistris
+Name: Donna DeMagistris
+Title: Authorized Signatory
+
+
+Consent to the Extension Request:
+
+Mizuho Bank, Ltd.
+
+By
+/s/ Donna DeMagistris
+Name: Donna DeMagistris
+Title: Authorized Signatory
+
+
+
+
+Consent to the forgoing Amendment:
+
+Wells Fargo Bank, N.A.
+
+By
+/s/ Adam Spreyer
+Name: Adam Spreyer
+Title: Director
+
+
+Consent to the Extension Request:
+
+Wells Fargo Bank, N.A.
+
+By
+/s/ Adam Spreyer
+Name: Adam Spreyer
+Title: Director
+
+
+
+
+
+Consent to the forgoing Amendment:
+
+Barclays Bank PLC
+
+By
+/s/ Russell C. Johnson
+Name: Russell C. Johnson
+Title: Director
+Executed in New York    
+
+
+Consent to the Extension Request:
+
+Barclays Bank PLC
+
+By
+/s/ Russell C. Johnson
+Name: Russell C. Johnson
+Title: Director
+Executed in New York
+
+
+
+
+Consent to the forgoing Amendment:
+
+BNP PARIBAS
+
+By
+/s/ Richard Pace
+Name: Richard Pace
+Title: Managing Director
+
+By
+/s/ Pamela J. Fitton
+Name: Pamela J. Fitton
+Title: Managing Director
+
+
+Consent to the Extension Request:
+
+BNP PARIBAS
+
+By
+/s/ Richard Pace
+Name: Richard Pace
+Title: Managing Director
+
+By
+/s/ Pamela J. Fitton
+Name: Pamela J. Fitton
+Title: Managing Director
+
+
+
+
+
+
+Consent to the forgoing Amendment:
+
+DEUTSCHE BANK AG NEW YORK BRANCH
+
+By
+/s/ Ming K. Chu
+Name: Ming K. Chu
+Title: Director
+
+By
+/s/ Virginia Cosenza
+Name: Virginia Cosenza
+Title: Vice President
+
+
+Consent to the Extension Request:
+
+DEUTSCHE BANK AG NEW YORK BRANCH
+
+By
+/s/ Ming K. Chu
+Name: Ming K. Chu
+Title: Director
+
+By
+/s/ Virginia Cosenza
+Name: Virginia Cosenza
+Title: Vice President
+
+
+
+
+Consent to the forgoing Amendment:
+
+ROYAL BANK OF CANADA
+
+By
+/s/ Richard C. Smith
+Name: Richard C. Smith
+Title: Managing Director
+
+
+Consent to the Extension Request:
+
+ROYAL BANK OF CANADA
+
+By
+/s/ Richard C. Smith
+Name: Richard C. Smith
+Title: Managing Director
+
+
+
+
+
+
+Consent to the forgoing Amendment:
+
+Sumitomo Mitsui Banking Corporation
+
+By
+/s/ Katsuyuki Kubo
+Name: Katsuyuki Kubo
+Title: Managing Director
+
+
+Consent to the Extension Request:
+
+Sumitomo Mitsui Banking Corporation
+
+By
+/s/ Katsuyuki Kubo
+Name: Katsuyuki Kubo
+Title: Managing Director
+
+
+
+
+
+Consent to the forgoing Amendment:
+
+THE BANK OF TOKYO-MITSUBISHI UFJ, LTD.
+
+By
+/s/ Thomas J. Sterr
+Name: Thomas J. Sterr
+Title: Authorized Signatory
+
+
+Consent to the Extension Request:
+
+THE BANK OF TOKYO-MITSUBISHI UFJ, LTD.
+
+By
+/s/ Thomas J. Sterr
+Name: Thomas J. Sterr
+Title: Authorized Signatory
+
+
+
+
+Consent to the forgoing Amendment:
+
+Banco Santander, S.A.
+
+By
+/s/ Federico Robin
+Name: Federico Robin
+Title: Executive Director
+
+By
+/s/ Paloma Garcia-Castro
+Name: Paloma Garcia-Castro
+Title: Vice President
+
+
+Consent to the Extension Request:
+
+Banco Santander, S.A.
+
+By
+/s/ Federico Robin
+Name: Federico Robin
+Title: Executive Director
+
+By
+/s/ Paloma Garcia-Castro
+Name: Paloma Garcia-Castro
+Title: Vice President
+
+
+
+
+Consent to the forgoing Amendment:
+
+COMMERZBANK AG, NEW YORK BRANCH
+
+By
+/s/ Michael Ravelo
+Name: Michael Ravelo
+Title: Managing Director
+
+
+Consent to the Extension Request:
+
+COMMERZBANK AG, NEW YORK BRANCH
+
+By
+/s/ Marie Duflos
+Name: Marie Duflos
+Title: Director
+
+
+
+
+Consent to the forgoing Amendment:
+
+GOLDMAN SACHS BANK USA
+
+By
+/s/ Ryan Durkin
+Name: Ryan Durkin
+Title: Authorized Signatory
+
+
+Consent to the Extension Request:
+
+GOLDMAN SACHS BANK USA
+
+By
+/s/ Ryan Durkin
+Name: Ryan Durkin
+Title: Authorized Signatory
+
+
+
+
+Consent to the forgoing Amendment:
+
+CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK
+
+By
+/s/ Gordon Yip
+Name: Gordon Yip
+Title: Director
+
+By
+/s/ Michael Madnick
+Name: Michael Madnick
+Title: Managing Director
+
+
+Consent to the Extension Request:
+
+CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK
+
+By
+/s/ Gordon Yip
+Name: Gordon Yip
+Title: Director
+
+By
+/s/ Michael Madnick
+Name: Michael Madnick
+Title: Managing Director
+
+
+
+
+
+Consent to the forgoing Amendment:
+
+DBS Bank Ltd.
+
+By
+/s/ Yeo How Ngee
+Name: Yeo How Ngee
+Title: Managing Director
+
+
+Consent to the Extension Request:
+
+DBS Bank Ltd.
+
+By
+/s/ Yeo How Ngee
+Name: Yeo How Ngee
+Title: Managing Director
+
+
+
+
+
+
+
+Consent to the forgoing Amendment:
+
+SOCIETE GENERALE
+
+By /s/ Kimberly Metzger
+Name: Kimberly Metzger
+Title: Director
+
+
+Consent to the Extension Request:
+
+SOCIETE GENERALE
+
+By /s/ Kimberly Metzger
+Name: Kimberly Metzger
+Title: Director
+
+
+
+
+Consent to the forgoing Amendment:
+
+THE NORTHERN TRUST COMPANY
+
+By /s/ Peter J. Hallan
+Name: Peter J. Hallan
+Title: Vice President
+
+
+Consent to the Extension Request:
+
+THE NORTHERN TRUST COMPANY
+
+By /s/ Peter J. Hallan
+Name: Peter J. Hallan
+Title: Vice President
+
+
+
+
+
+Consent to the forgoing Amendment:
+
+U.S. BANK NATIONAL ASSOCIATION
+
+By /s/ Barry Litwin
+Name: Barry Litwin
+Title: Senior Vice President
+
+
+Consent to the Extension Request:
+
+U.S. BANK NATIONAL ASSOCIATION
+
+By /s/ Barry Litwin
+Name: Barry Litwin
+Title: Senior Vice President
+
+
+
+
+Consent to the forgoing Amendment:
+
+BANCO BILBAO VIZCAYA ARGENTARIA S.A., NEW YORK BRANCH
+
+By /s/ Brian Crowley
+Name: Brian Crowley
+Title: Managing Director
+
+By /s/ Cristina Cignoli
+Name: Cristina Cignoli
+Title: Director
+
+
+Consent to the Extension Request:
+
+BANCO BILBAO VIZCAYA ARGENTARIA S.A., NEW YORK BRANCH
+
+By /s/ Brian Crowley
+Name: Brian Crowley
+Title: Managing Director
+
+By /s/ Cristina Cignoli
+Name: Cristina Cignoli
+Title: Director
+
+
+
+
+Consent to the forgoing Amendment:
+
+BANK OF CHINA, NEW YORK BRANCH
+
+By /s/ Raymond Qiao
+Name: Raymond Qiao
+Title: Managing Director
+
+
+Consent to the Extension Request:
+
+BANK OF CHINA, NEW YORK BRANCH
+
+By /s/ Raymond Qiao
+Name: Raymond Qiao
+Title: Managing Director
+
+
+
+
+Consent to the forgoing Amendment:
+
+Bayerische Landesbank, New York Branch
+
+By /s/ Matthew DeCarlo
+Name: Matthew DeCarlo
+Title: Senior Director
+
+By /s/ Rolf Siebert
+Name: Rolf Siebert
+Title: Executive Director
+
+
+Consent to the Extension Request:
+
+Bayerische Landesbank, New York Branch
+
+By /s/ Matthew DeCarlo
+Name: Matthew DeCarlo
+Title: Senior Director
+
+By /s/ Rolf Siebert
+Name: Rolf Siebert
+Title: Executive Director
+
+
+
+
+Consent to the forgoing Amendment:
+
+INDUSTRIAL AND COMMERCIAL BANK OF CHINA LIMITED, NEW YORK BRANCH
+
+By /s/ Kan Chen
+Name: Kan Chen
+Title: Vice President
+
+By /s/ Gang Duan
+Name: Gang Duan
+Title: Executive Director
+
+
+Consent to the Extension Request:
+
+INDUSTRIAL AND COMMERCIAL BANK OF CHINA LIMITED, NEW YORK BRANCH
+
+By /s/ Kan Chen
+Name: Kan Chen
+Title: Vice President
+
+By /s/ Gang Duan
+Name: Gang Duan
+Title: Executive Director
+
+
+
+
+Consent to the forgoing Amendment:
+
+LLOYDS BANK PLC
+
+By /s/ Daven Popat
+Name: Daven Popat
+Title: Senior Vice President
+
+By /s/ Cheryl Wilson
+Name: Cheryl Wilson
+Title: Head of Operations, North America
+
+
+Consent to the Extension Request:
+
+LLOYDS BANK PLC
+
+By /s/ Daven Popat
+Name: Daven Popat
+Title: Senior Vice President
+
+By /s/ Cheryl Wilson
+Name: Cheryl Wilson
+Title: Head of Operations, North America
+
+
+
+
+Consent to the forgoing Amendment:
+
+MORGAN STANLEY BANK, N.A.
+
+By /s/ Michael King
+Name: Michael King
+Title: Authorized Signatory
+
+
+Consent to the Extension Request:
+
+MORGAN STANLEY BANK, N.A.
+
+By /s/ Michael King
+Name: Michael King
+Title: Authorized Signatory
+
+
+
+
+Consent to the forgoing Amendment:
+
+NBAD Americas N.V.
+
+By /s/ David Young
+Name: David Young
+Title: Director
+
+
+Consent to the Extension Request:
+
+NBAD Americas N.V.
+
+By /s/ William Ghazar
+Name: William Ghazar
+Title: Executive Director
+
+
+
+
+Consent to the forgoing Amendment:
+
+ARAB BANKING CORPORATION (B.S.C.),
+GRAND CAYMAN BRANCH
+
+By /s/ Richard Tull
+Name: Richard Tull
+Title: Head of Wholesale Banking, North America
+
+By /s/ Gautier Strub
+Name: Gautier Strub
+Title: Vice President
+
+
+Consent to the Extension Request:
+
+ARAB BANKING CORPORATION (B.S.C.),
+GRAND CAYMAN BRANCH
+
+By /s/ Richard Tull
+Name: Richard Tull
+Title: Head of Wholesale Banking, North America
+
+By /s/ Gautier Strub
+Name: Gautier Strub
+Title: Vice President
+
+
+
+
+Consent to the forgoing Amendment:
+
+Australia and New Zealand Banking Group Limited
+
+By /s/ Robert Grillo
+Name: Robert Grillo
+Title: Director
+
+
+Consent to the Extension Request:
+
+Australia and New Zealand Banking Group Limited
+
+By /s/ Robert Grillo
+Name: Robert Grillo
+Title: Director
+
+
+
+
+
+Consent to the forgoing Amendment:
+
+ICICI Bank Limited New York Branch
+
+By /s/ Akashdeep Sarpal
+Name: Akashdeep Sarpal
+Title: Country Head - USA
+
+
+Consent to the Extension Request:
+
+ICICI Bank Limited New York Branch
+
+By /s/ Akashdeep Sarpal
+Name: Akashdeep Sarpal
+Title: Country Head - USA
+
+
+
+
+Consent to the forgoing Amendment:
+
+Standard Chartered Bank
+
+By /s/ Daniel Mattern
+Name: Daniel Mattern
+Title: Associate Director
+
+
+Consent to the Extension Request:
+
+Standard Chartered Bank
+
+By /s/ Daniel Mattern
+Name: Daniel Mattern
+Title: Associate Director
+
+
+
+
+Consent to the forgoing Amendment:
+
+[State Bank of India, New York Branch]
+
+By /s/ Karunesh Mishra
+Name: Karunesh Mishra
+Title: Vice President (Credit)
+
+
+Consent to the Extension Request:
+
+[State Bank of India, New York Branch]
+
+By /s/ Karunesh Mishra
+Name: Karunesh Mishra
+Title: Vice President (Credit)
+
+
+
+
+Consent to the forgoing Amendment:
+
+THE BANK OF NEW YORK MELLON
+
+By /s/ John T. Smathers
+Name: John T. Smathers
+Title: Director
+
+
+Consent to the Extension Request:
+
+THE BANK OF NEW YORK MELLON
+
+By /s/ John T. Smathers
+Name: John T. Smathers
+Title: Director
+
+
+
+
+Consent to the forgoing Amendment:
+
+Westpac Banking Corporation
+
+By /s/ Su-Lin Watson
+Name: Su-Lin Watson
+Title: Director
+
+
+Consent to the Extension Request:
+
+Westpac Banking Corporation
+
+By /s/ Su-Lin Watson
+Name: Su-Lin Watson
+Title: Director
+
+
+
+
+Consent to the forgoing Amendment:
+
+RIYAD BANK, HOUSTON AGENCY
+
+By /s/ Michael Meiss
+Name: Michael Meiss
+Title: General Manager
+
+
+Consent to the Extension Request:
+
+RIYAD BANK, HOUSTON AGENCY
+
+By /s/ Tim Hartnett
+Name: Tim Hartnett
+Title: Vice President and Administrative Officer
+
+
+
+
+Consent to the forgoing Amendment:
+
+State Street Bank and Trust Company
+
+By /s/ Mary H. Carey
+Name: Mary H. Carey
+Title: Vice President
+
+
+Consent to the Extension Request:
+
+State Street Bank and Trust Company
+
+By /s/ Mary H. Carey
+Name: Mary H. Carey
+Title: Vice President
+
+
+
+
+Consent to the forgoing Amendment:
+
+Credit Suisse AG, Cayman Islands Branch
+
+By /s/ John D. Toronto
+Name: John D. Toronto
+Title: Authorized Signatory
+
+By /s/ Shyam Kapadia
+Name: Shyam Kapadia
+Title: Authorized Signatory
+
+
+Consent to the Extension Request:
+
+Credit Suisse AG, Cayman Islands Branch
+
+By /s/ John D. Toronto
+Name: John D. Toronto
+Title: Authorized Signatory
+
+By /s/ Shyam Kapadia
+Name: Shyam Kapadia
+Title: Authorized Signatory

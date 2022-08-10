@@ -1,0 +1,164 @@
+EX-10.1 2 thirdamendmenttocreditagre.htm EXHIBIT 10.1
+
+Exhibit 10.1
+
+THIRD AMENDMENT TO CREDIT AGREEMENT
+THIS THIRD AMENDMENT TO CREDIT AGREEMENT (this “Amendment”) is entered into this 27th of June 2017, among Powell Industries, Inc., a Delaware corporation (“Borrower”), Powell Electrical Systems, Inc., and Powell Industries International, Inc. (collectively, “Guarantors”), Bank of America, N.A., as Administrative Agent, Swingline Lender and L/C Issuer under the Credit Agreement (in such capacity as administrative agent, together with its successors in such capacity, “Administrative Agent”), and each lender from time to time party to the Credit Agreement (collectively, “Lenders” and individually, a “Lender”). Capitalized terms used but not defined in this Amendment have the meaning given them in the Credit Agreement (defined below).
+RECITALS
+A.    Borrower and Guarantors (collectively, the “Loan Parties”), Administrative Agent and Lenders are party to that certain Credit Agreement dated as of December 31, 2013 (as amended by that certain First Amendment to Credit Agreement dated as of March 28, 2014, that certain Second Amendment to Credit Agreement dated as of December 31, 2014, and as further amended, restated or supplemented from time to time, the “Credit Agreement”). As of the date hereof, Bank of America, N.A. is the sole Lender under the Credit Agreement.
+B.    Borrower, Guarantors, Administrative Agent and Lender have agreed to amend the Credit Agreement, subject to the terms and conditions of this Amendment.
+NOW THEREFORE, for good and valuable consideration, the receipt and sufficiency of which are acknowledged, the undersigned hereby agree to make the following amendments to the Credit Agreement, which amendments shall be effective as of the Third Amendment Effective Date set forth below:
+1.Amendments to Credit Agreement.
+(a)    Section 1.01 (Defined Terms) of the Credit Agreement is hereby amended to amend and restate the definitions of “Applicable Rate” and “Maturity Date” in their entirety as follows:
+“Applicable Rate” means, for any day, the rate per annum set forth below opposite the applicable Level then in effect, it being understood that the Applicable Rate for (a) Revolving Loans that are Base Rate Loans shall be the percentage set forth under the column “Base Rate”, (b) Revolving Loans that are Eurocurrency Rate Loans shall be the percentage set forth under the column “Eurocurrency Rate”, (c) the Letter of Credit Fee shall be the percentage set forth under the column “Letter of Credit Fee”, and (d) the Commitment Fee shall be the percentage set forth under the column “Commitment Fee”:
+Pricing Level
+Eurocurrency Rate
+Base Rate
+Letter of Credit Fee
+Commitment Fee
+Level I
+1
+%
+-0.50%
+0.875%
+0.20%
+Level II
+1.25
+%
+-0.25%
+1.00%
+0.20%
+
+1
+
+
+
+
+
+
+
+
+
+Level I shall apply whenever a Cash Collateral Period is in effect. If no Cash Collateral Period is in effect, then Level II shall apply. Level I of the Applicable Rate shall be in effect commencing on the Third Amendment Effective Date. Thereafter, any adjustment to the Applicable Rate shall be made as of the first day of each fiscal quarter for which a Compliance Certificate is delivered pursuant to Section 6.02(a) to the Administrative Agent, based on whether a Cash Collateral Period is in effect for such fiscal quarter. Any adjustment to the Applicable Rate shall be applicable to all Credit Extensions then existing or subsequently made or issued.
+
+“Maturity Date” means June 27, 2022, provided, however, that, if such date is not a Business Day, the Maturity Date shall be the next preceding Business Day.
+
+(b)    The definition of “Eurocurrency Rate” in Section 1.01 (Defined Terms) of the Credit Agreement is hereby amended to delete the two proviso clauses after clause (b) of such definition, and to replace them with the following:
+
+“provided that (i) to the extent a comparable or successor rate is approved by the Administrative Agent in connection with any rate set forth in this definition, the approved rate shall be applied in a manner consistent with market practice; provided, further that to the extent such market practice is not administratively feasible for the Administrative Agent, such approved rate shall be applied in a manner as otherwise reasonably determined by the Administrative Agent, and (ii) if the Eurocurrency Rate shall be less than zero, such rate shall be deemed zero for purposes of this Agreement.”
+
+(c)    Section 1.01 (Defined Terms) of the Credit Agreement is hereby amended to add the new defined terms below in their appropriate alphabetical order:
+“Cash Collateral Period” means each fiscal quarter during which the Borrower has pledged its Level I Cash Collateral Account to the Administrative Agent as security for the Obligations and its Level I Cash Collateral Account complies with the requirements in Section 5.21(c). The initial Cash Collateral Period is deemed to have commenced as of April 1, 2017, and will terminate on the last day of the fiscal quarter in which the Borrower satisfies the Level II Pricing Covenants in accordance with Section 7.11(c). Thereafter, each Cash Collateral Period may start on the first day of a fiscal quarter in accordance with Section 7.11, and will end on the last day of a fiscal quarter upon the satisfaction of the Level II Pricing Covenants for such fiscal quarter. While the initial Cash Collateral Period shall be deemed to have commenced on April 1, 2017, the Borrower’s initial obligation to cause its Level I Cash Collateral Account to comply with the requirements of Section 5.21 shall not commence until June 27, 2017.
+
+
+2
+
+“Consolidated Current Ratio” means, as of any date of determination, for the Borrower and its Subsidiaries on a Consolidated basis, the ratio of (%4) the aggregate amount of all of assets which would, in accordance with GAAP, be properly defined as current assets, to (%4) the aggregate amount of all current liabilities as determined in accordance with GAAP, but in any event shall include all liabilities except those having a maturity date which is more than one year from the date as of which such computation is being made.
+
+“Level I Cash Collateral Account” means the designated deposit account of the Borrower at Bank of America pledged by the Borrower to the Administrative Agent as collateral and security for the Obligations.
+
+“Third Amendment Effective Date” means April 1, 2017.
+
+(d)    Section 5.21 (Collateral Representations) of the Credit Agreement is hereby amended to add a new clause (c) at the end of such section as follows:
+“(c) Level I Cash Collateral Account. Commencing on the Third Amendment Effective Date and thereafter at any time that the Borrower is not in compliance with the Level II Pricing Covenants, Borrower represents and warrants that it maintains a cash balance in its Level I Cash Collateral Account equal to (at all times) at least 102% of the Outstanding Amount of all Revolving Loans and L/C Obligations. Any amounts on deposit in excess of the required Level I Cash Collateral Account amount, will be released to the Borrower by the Agent promptly upon the Borrower’s request, so long as no Event of Default exists and is continuing.”
+(e)    Section 7.06 (Restricted Payments) of the Credit Agreement is hereby amended to delete clauses (d) and (e) in their entirety and to replace them with the following clauses (d), (e) and (f):
+“(d)     During any Cash Collateral Period, Borrower is only permitted to pay quarterly dividends to its shareholders in cash so long as, the Consolidated Current Ratio for the most recent Measurement Period on a Pro Forma Basis, after giving effect to such dividend, is greater than 1.10 to 1.00;
+
+(e)    If no Cash Collateral Period is in effect, Borrower is only permitted to pay quarterly dividends to its shareholders in cash so long as the Consolidated Leverage Ratio for the most recent Measurement Period on a Pro Forma Basis, after giving effect to such cash dividend, would not exceed 1.75 to 1.00; and
+
+(f)    Borrower may purchase or otherwise acquire shares of its common stock pursuant to share repurchase programs authorized, from time to time, by its board of directors, in an amount not to exceed $35,000,000 in the aggregate, from the Third Amendment Effective Date through the Maturity Date.”
+
+(f)    Section 7.11 (Financial Covenants) of the Credit Agreement is hereby deleted in its entirety and replaced with the following:
+“7.11 Financial Covenants.
+
+3
+
+i.
+During any Cash Collateral Period, each of the Loan Parties shall not permit the Consolidated Current Ratio as of the end of any Measurement Period ending as of the end of any fiscal quarter of the Borrower during which a Cash Collateral Period is in effect, to be less than 1.10 to 1.0 (the “Level I Pricing Covenant”). The failure by the Loan Parties to comply with the Level I Pricing Covenant during any Cash Collateral Period shall constitute an immediate Event of Default.
+ii.
+If no Cash Collateral Period is in effect with respect to a fiscal quarter, each of the Loan Parties covenants and agrees to comply as follows (collectively, the “Level II Pricing Covenants”):
+(i)    no Loan Party shall permit the Consolidated Leverage Ratio as of the end of any Measurement Period ending as of the end of any fiscal quarter of the Borrower, to be greater than 2.75 to 1.00; and
+(ii)    no Loan Party shall permit the Consolidated Fixed Charge Coverage Ratio as of the end of any Measurement Period ending as of the end of any fiscal quarter of the Borrower, to be less than 1.25 to 1.0.
+The failure by the Loan Parties to comply with the Level II Pricing Covenants while no Cash Collateral Period is in effect shall constitute an immediate Event of Default.
+iii.
+If the Borrower is in compliance with the Level II Pricing Covenants as of the end of any Measurement Period for any two consecutive fiscal quarters (commencing no earlier than the two consecutive fiscal quarters ending September 30, 2017 and December 31, 2017), Administrative Agent agrees to release all of its Liens in the Level I Cash Collateral Account (except for any bankers’ Liens, rights of set-off or other similar Liens associated with deposit accounts in the ordinary course of business to the extent the Borrower maintains such account at its option) and to terminate the Cash Collateral Period effective as of the last day of such fiscal quarter for which Borrower complied with the Level II Pricing Covenants.
+iv.
+At any time that the Borrower is not in compliance with the Level II Pricing Covenants, (i) the Borrower covenants and agrees it shall establish, pledge and maintain a cash balance in its Level I Cash Collateral Account equal to (at all times) at least 102% of the Outstanding Amount of all Revolving Loans and L/C Obligations, and (ii) the Borrower shall be required to comply with the Level I Pricing Covenant.
+v.
+The foregoing financial covenants, as applicable, shall be reported in each quarterly and annual Compliance Certificate delivered by the Borrower to the Administrative Agent.”
+2.    Conditions. This Amendment shall be effective as of April 1, 2017 (the “Third Amendment Effective Date”) once each of the following have been delivered to Administrative Agent in form and substance satisfactory to Administrative Agent and Lender:
+
+4
+
+(a)    this Amendment executed by the Loan Parties, Administrative Agent, and Lender;
+(b)    Officer’s Certificate of the Borrower and each of the Guarantors, certifying as to incumbency of officers, specimen signatures, organizational documents, and resolutions adopted by the board of directors approving this Amendment, and ratifying their respective obligations under the Credit Agreement;
+(c)    a duly executed and delivered Security Agreement between the Borrower and the Administrative Agent regarding the Level I Cash Collateral Account;
+(d)    evidence that the Borrower has established and funded the Level I Cash Collateral Account;
+(e)    payment by the Borrower to Administrative Agent for the account of the Lender, of an upfront/extension fee of $93,750 which fee shall be fully earned and non-refundable upon execution of this Amendment; and
+(f)    such other documents as Administrative Agent and Lender may reasonably request.
+3.    Representations and Warranties. Each Loan Party represents and warrants to Administrative Agent and Lender that (a) it possesses all requisite power and authority to execute, deliver and comply with the terms of this Amendment, (b) this Amendment has been duly authorized and approved by all requisite corporate action on the part of such Loan Party, (c) no other consent of any Person (other than Administrative Agent and Lender) is required for this Amendment to be effective, (d) the execution and delivery of this Amendment does not violate its organizational documents, (e) the representations and warranties in each Loan Document to which it is a party are true and correct in all material respects on and as of the date of this Amendment as though made on the date of this Amendment (except to the extent that such representations and warranties speak to a specific date), (f) it is in full compliance with all covenants and agreements contained in each Loan Document to which it is a party, and (g) no Default or Event of Default has occurred and is continuing. The representations and warranties made in this Amendment shall survive the execution and delivery of this Amendment. No investigation by Administrative Agent or Lender is required for Administrative Agent and Lender to rely on the representations and warranties in this Amendment.
+4.    Scope of Amendment and Waiver; Reaffirmation; Release. Except as affected by this Amendment, the Loan Documents are unchanged and continue in full force and effect. However, in the event of any inconsistency between the terms of the Credit Agreement (as amended by this Amendment) and any other Loan Document, the terms of the Credit Agreement shall control and such other document shall be deemed to be amended to conform to the terms of the Credit Agreement. Each Loan Party hereby reaffirms its obligations under the Loan Documents to which it is a party and agrees that all Loan Documents to which it is a party remain in full force and effect and continue to be legal, valid, and binding obligations enforceable in accordance with their terms (as the same are affected by this Amendment). Each Loan Party hereby releases Administrative Agent and Lender from any liability for actions or omissions in connection with the Credit Agreement and the other Loan Documents prior to the date of this Amendment.
+5.    Miscellaneous.
+(a)    No Waiver of Defaults. This Amendment does not constitute (i) a waiver of, or a consent to, (A) any provision of the Credit Agreement or any other Loan Document not expressly referred to in this Amendment, or (B) any present or future violation of, or default under, any provision of
+
+5
+
+the Loan Documents, or (ii) a waiver of Administrative Agent’s or Lender’s right to insist upon future compliance with each term, covenant, condition and provision of the Loan Documents.
+(b)    Form. Each agreement, document, instrument or other writing to be furnished to Administrative Agent under any provision of this Amendment must be in form and substance satisfactory to Administrative Agent and its counsel.
+(c)    Headings. The headings and captions used in this Amendment are for convenience only and will not be deemed to limit, amplify or modify the terms of this Amendment, the Credit Agreement, or the other Loan Documents.
+(d)    Costs, Expenses and Attorneys’ Fees. The Loan Parties agree to pay or reimburse Administrative Agent on demand for all its reasonable out-of-pocket costs and expenses incurred in connection with the preparation, negotiation, and execution of this Amendment, including, without limitation, the reasonable fees and disbursements of Administrative Agent’s counsel.
+(e)    Successors and Assigns. This Amendment shall be binding upon and inure to the benefit of each of the undersigned and their respective successors and permitted assigns.
+(f)    Multiple Counterparts. This Amendment may be executed in any number of counterparts with the same effect as if all signatories had signed the same document. All counterparts must be construed together to constitute one and the same instrument. This Amendment may be transmitted and signed by facsimile and portable document format (PDF). The effectiveness of any such documents and signatures shall, subject to applicable law, have the same force and effect as manually-signed originals and shall be binding on each Loan Party, Administrative Agent, and Lender. Administrative Agent may also require that any such documents and signatures be confirmed by a manually-signed original; provided that, the failure to request or deliver the same shall not limit the effectiveness of any facsimile or PDF document or signature.
+(g)    Governing Law. This Amendment and the other Loan Documents must be construed, and their performance enforced, under Texas law.
+(h)    Entirety. THE LOAN DOCUMENTS (AS AMENDED HEREBY) REPRESENT THE FINAL AGREEMENT AMONG EACH LOAN PARTY, ADMINISTRATIVE AGENT, AND LENDER WITH RESPECT TO THE SUBJECT MATTER THEREOF AND MAY NOT BE CONTRADICTED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS, OR SUBSEQUENT ORAL AGREEMENTS BY THE PARTIES. THERE ARE NO UNWRITTEN ORAL AGREEMENTS AMONG THE PARTIES.
+
+[Signatures appear on the following pages]
+
+
+
+
+6
+
+The Amendment is executed on the date first set forth above.
+
+
+BORROWER:
+POWELL INDUSTRIES, INC.
+By:    
+Don R. Madison
+Executive Vice President, Chief Financial and Administrative Officer, Secretary and Treasurer
+GUARANTORS:
+
+
+POWELL INDUSTRIES INTERNATIONAL, INC., a Delaware corporation
+
+
+By:                             
+Don R. Madison
+Vice President, Secretary, and Treasurer
+
+
+POWELL ELECTRICAL SYSTEMS, INC.,
+a Delaware corporation
+
+
+By:                             
+Don R. Madison
+Vice President, Secretary, and Treasurer
+
+
+Signature Page to Third Amendment to Credit Agreement (Powell Industries, Inc.)
+
+
+
+BANK OF AMERICA, N.A., as Administrative Agent
+By:                                
+    Pace Doherty
+    Vice President
+BANK OF AMERICA, N.A., as a Lender, L/C Issuer and Swingline Lender
+By:                                
+    Pace Doherty
+    Vice President
+
+
+Signature Page to Third Amendment to Credit Agreement (Powell Industries, Inc.)

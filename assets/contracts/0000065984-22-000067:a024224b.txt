@@ -1,0 +1,164 @@
+EX-4.B 3 a024224b.htm EX-4.B
+2.5(4)(ii) and 4.2(a)
+Exhibit 4(b)
+SYSTEM ENERGY RESOURCES, INC.
+OFFICER’S CERTIFICATE
+3-B-3
+Establishing the Form and Certain Terms of the
+First Mortgage Bonds, 2022 Credit Agreement Collateral Series due November 6, 2023
+
+The undersigned, Kevin J. Marino, Assistant Treasurer and an Authorized Officer of System Energy Resources, Inc., an Arkansas corporation (the “Company”) (all capitalized terms used herein that are not defined herein but are defined in the Mortgage referred to below shall have the meanings specified in such Mortgage), pursuant to Board Resolutions effective as of April 27, 2022, and Sections 201 and 301 of such Mortgage, does hereby certify to THE BANK OF NEW YORK MELLON, as trustee (the “Trustee”) under the Company’s Mortgage and Deed of Trust, dated as of June 15, 1977 (as amended, restated and supplemented by the Twenty-fourth Supplemental Indenture thereto dated as of September 1, 2012, and as to be further supplemented by this Officer’s Certificate, the “Mortgage”) as of May 6, 2022, that:
+1.The Securities of the Twenty-fifth Series to be issued under the Mortgage (the “Bonds”) shall be issued in a series designated “First Mortgage Bonds, 2022 Credit Agreement Collateral Series due November 6, 2023”; the Bonds shall be in substantially the form set forth in Exhibit A hereto; the Bonds shall initially be issued in the aggregate principal amount of $52,500,000.
+2.The Bonds shall mature and the principal shall be due and payable on November 6, 2023, and the Company shall not have any right to extend the Maturity of the Bonds as contemplated in Section 301(d) of the Mortgage.
+3.The Bonds shall not bear interest.
+4.The principal of the Bonds shall be payable, and registration of transfers and exchanges in respect of the Bonds may be effected, at the office or agency of the Company in The City of New York and as otherwise provided in the form of Bond set forth in Exhibit A hereto; and notices and demands to or upon the Company in respect of the Bonds or in respect of the Mortgage may be served at the office or agency of the Company in The City of New York; the Corporate Trust Office of the Trustee will initially be the agency of the Company for such payment, registration of transfers and exchanges and service of notices and demands, and the Company hereby appoints the Trustee as its agent for all such purposes; and the Trustee will initially be the Security Registrar and the Paying Agent for the Bonds; provided, however, that the Company reserves the right to change, by one or more Officer’s Certificates, any such office or agency and such agent.
+5.The Bonds are subject to redemption as provided in the form thereof set forth in Exhibit A hereto.
+6.No service charge shall be made for the registration of transfer or exchange of the Bonds; provided, however, that the Company may require payment of a sum sufficient to cover any tax or other governmental charge that may be imposed in connection with the exchange or transfer.
+7.For purposes of the provisions contained in paragraphs 8 – 12, the following terms shall be defined as follows:
+“Administrative Agent” shall mean Royal Bank of Canada, as Administrative Agent under the Term Loan Credit Agreement.
+
+“Availability Agreement” shall mean the Availability Agreement, dated as of June 21, 1974, as amended and as may be further amended from time to time, among the Company, Entergy Arkansas, Entergy Louisiana, Entergy Mississippi and Entergy New Orleans.
+“Basic Agreements” shall mean the Availability Agreement and the Fortieth Assignment of Availability Agreement.
+“Entergy Arkansas” shall mean Entergy Arkansas, LLC, a Texas limited liability company and successor in interest to Arkansas Power & Light Company, an Arkansas corporation, and Arkansas-Missouri Power Company, an Arkansas corporation.
+“Entergy Louisiana” shall mean Entergy Louisiana, LLC, a Texas limited liability company and successor in interest to Louisiana Power & Light Company, a Louisiana corporation.
+“Entergy Mississippi” shall mean Entergy Mississippi, LLC, a Texas limited liability company and successor in interest to Mississippi Power & Light Company, a Mississippi corporation.
+“Entergy New Orleans” shall mean Entergy New Orleans, LLC, a Texas limited liability company and successor in interest to New Orleans Public Service Inc., a Louisiana corporation.
+“Fortieth Assignment of Availability Agreement” shall mean the Fortieth Assignment of Availability Agreement, Consent and Agreement, dated May 6, 2022, among the Company, Entergy Arkansas, Entergy Louisiana, Entergy Mississippi, Entergy New Orleans, the Trustee and the Administrative Agent.
+“Grand Gulf Project” shall mean the two-unit steam electric generating station of the Company located in Mississippi along the east bank of the Mississippi River near Port Gibson, Mississippi, consisting of two nominally-rated 1,250,000 kw steam nuclear-fueled electric generating units.
+“Lenders” means the banks and other financial institutions listed on the signature pages of the Term Loan Credit Agreement and each Person that shall become a party thereto pursuant to Section 8.07 of the Term Loan Credit Agreement.
+“System Companies” shall mean Entergy Arkansas, Entergy Louisiana, Entergy Mississippi and Entergy New Orleans.
+“Term Loan Credit Agreement” shall mean Term Loan Credit Agreement, dated as of May 6, 2022 among the Company, the lenders party from time to time thereto and the Administrative Agent.
+8.So long as any Bonds remain Outstanding, the Company will comply with the following covenants in addition to those specified in Article Seven and Section 1201 of the Mortgage:
+    Security Interests in Certain Agreements.
+The Company will not transfer, pledge, assign or grant a security interest in any of its right, title and interest in, to or under (including its right to any moneys due or to become due under) any of the Basic Agreements, except to the extent expressly permitted pursuant to or recognized by the terms of the Fortieth Assignment of Availability Agreement.
+Availability Agreement.
+The Company will (i) duly perform all obligations to be performed by it under the Availability Agreement and the Fortieth Assignment of Availability Agreement, (ii) promptly take any and all action
+2
+
+(including, without limitation, obtaining all orders, consents, permits, licenses and approvals, and making all registrations, declarations and filings) as may be necessary to enforce its rights under the Availability Agreement or the Fortieth Assignment of Availability Agreement and to enforce or secure the performance by the other parties thereto of their respective obligations thereunder, and (iii) use its best efforts to obtain all orders, consents, permits, licenses and approvals, and make all registrations, declarations and filings, necessary to keep the Availability Agreement and the Fortieth Assignment of Availability Agreement in full force and effect. In the event of any material nonperformance by any party under the Availability Agreement or the Fortieth Assignment of Availability Agreement, the Company agrees that it will (i) duly perform all obligations to be performed by it under any other agreement for the sale of capacity and/or energy from the Grand Gulf Project, (ii) promptly take any and all action (including, without limitation, obtaining all orders, consents, permits, licenses and approvals, and making all registrations, declarations and filings) as may be necessary to enforce its rights under any other agreement for the sale of capacity and/or energy from the Grand Gulf Project and to enforce or secure the performance by the other parties thereto of their respective obligations thereunder, and (iii) use its best efforts to obtain all orders, consents, permits, licenses and approvals, and make all registrations, declarations and filings necessary to maintain any other agreement for the sale of capacity and/or energy from the Grand Gulf Project in full force and effect.
+9.The following events shall be additional Events of Default (in addition to those set forth in Section 901 of the Mortgage) so long as any Bonds remain Outstanding:
+(a)    Any System Company shall fail to pay or advance to the Company or the Trustee, as the case may be, any amount that such System Company shall be obligated to pay or advance to the Company pursuant to the Availability Agreement and the Fortieth Assignment of Availability Agreement (or would be obligated to pay or advance under such agreements but for (i) the provisions of Section 7 of the Availability Agreement or the equivalent provision of any agreement substituted therefor, (ii) the bankruptcy or reorganization of any System Company or the pendency of proceedings therefor, (iii) the condemnation or seizure of control of all or substantially all of the properties of any System Company by a governmental authority or (iv) the occurrence of an event described in clause (i) or (ii) of paragraph (c) hereof) within thirty (30) days after the date when such System Company shall be obligated to pay or advance such amount (or would be obligated to pay but for the events described in (i) through (iv) of this subsection) or any of the parties thereto shall default in the performance of its obligations contained in the first sentence of Section 4 of the Availability Agreement (it being understood that if the entire amount of such obligatory payment is deposited with the Trustee before the expiration of such period of thirty (30) days, such Event of Default shall no longer be considered to be continuing under the Mortgage);
+(b)    Default by any System Company or the Company in the observance or performance of any other covenant or agreement contained in the Availability Agreement or the Fortieth Assignment of Availability Agreement, and the continuance of the same unremedied for a period of thirty (30) days after written notice thereof, stating it is a “Notice of Default” under the Mortgage, shall have been given to the Company by the Trustee or the Holders of at least fifteen per centum (15%) in principal amount of the Bonds then Outstanding; or
+(c)    The Availability Agreement or the Fortieth Assignment of Availability Agreement shall, pursuant to a final binding judgment or order as to which no further appeals are available, at any time for any reason (i) cease to be in full force and effect or (ii) shall be declared to be null and void, or the validity or enforceability thereof shall be contested by any System Company or the Company or any System Company or the
+3
+
+Company shall deny that it has any or further liability thereunder; unless (A) within forty-five (45) days after the occurrence of any such event any System Company or the Company, as the case may be, shall have entered into a substitute agreement and furnished the Trustee an Officer’s Certificate, confirmed by an opinion of an investment banking firm appointed by the Board of Directors of the Company, to the effect that in the opinion of the signers, the substitute agreement offers (subject to obtaining necessary regulatory approval, if any) equivalent security to the Bonds, and (B) within one hundred and eighty (180) days after the occurrence of such event any System Company or the Company, as the case may be, shall have obtained all necessary regulatory approvals for the performance of such substitute agreement and shall have provided to the Trustee an Opinion of Counsel to such effect and to the effect that such substitute agreement is valid, binding and enforceable in accordance with its terms, except as limited by bankruptcy, insolvency or other laws affecting enforcement of creditors’ rights.
+10.In addition to the security provided under the Mortgage, the Fortieth Assignment of Availability Agreement and all proceeds therefrom, shall be for the sole and exclusive benefit of the Administrative Agent as the Holder of the Bonds then Outstanding, and any enforcement thereof or remedy related thereto shall be for the benefit of and subject to the direction and control of the Administrative Agent as the Holder of the Bonds in the same manner as any remedy or means of enforcement relating to the Mortgaged and Pledged Property are within the direction and control of the Administrative Agent as the Holder of the Bonds, and any proceeds therefrom shall be applied for the exclusive benefit of the Administrative Agent as the Holder of the Bonds in the same manner as set forth in Section 906 (Second) of the Mortgage.
+11.Upon the termination of the Availability Agreement as contemplated by paragraph 12 hereof, this Officer’s Certificate and the terms of the Bonds shall be automatically amended, without any further action by the Company, the Trustee, the Administrative Agent, the Lenders or the Holders of the Bonds, to delete paragraphs 9 and 10 hereof. The Company shall provide the Trustee and the Administrative Agent with prompt written notice of any such termination, and the Trustee and the Administrative Agent shall, at the request of the Company, and upon receipt of an Officer’s Certificate and Opinion of Counsel pursuant to Sections 104 and 1303 of the Mortgage, execute such instruments as may be reasonably required or desirable to evidence such amendments.
+12.The Company reserves the right to terminate the Availability Agreement and the Fortieth Assignment of Availability Agreement, and each Lender, by its entry into the Term Loan Credit Agreement, and the Administrative Agent, by its acceptance of the Bonds, irrevocably consents to such termination without any other further action by any Lender, upon delivery to the Trustee and the Administrative Agent of an Officer’s Certificate stating the following: The Availability Agreement and the Assignments thereof are similarly terminated as they relate to all other outstanding series of Securities and all other indebtedness of the Company or no longer apply or do not apply to any other such series of Securities or indebtedness.
+13.The Bonds shall have such other terms and provisions as are provided in the form set forth in Exhibit A hereto.
+14.No Event of Default under the Mortgage has occurred or is occurring.
+15.The undersigned has read all of the covenants and conditions contained in the Mortgage, and the definitions in the Mortgage relating thereto, relating to the issuance, authentication and delivery of the Bonds and in respect of compliance with which this certificate is made.
+16.The statements contained in this certificate are based upon the familiarity of the undersigned with the Mortgage, the documents accompanying this certificate, and discussions by the undersigned with officers and employees of the Company familiar with the matters set forth herein.
+4
+
+17.In the opinion of the undersigned, he has made such examination or investigation as is necessary to enable him to express an informed opinion as to whether or not such covenants and conditions have been complied with.
+18.In the opinion of the undersigned, such conditions and covenants, and all conditions precedent provided for in the Mortgage (including any covenants compliance with which constitutes a condition precedent) relating to the authentication and delivery of the Bonds requested in the accompanying Company Order have been complied with.
+[signature page follows]
+5
+        IN WITNESS WHEREOF, I have executed this Officer’s Certificate as of the date set forth above.
+
+By: /s/ Kevin J. Marino            
+    Name:     Kevin J. Marino
+    Title:    Assistant Treasurer
+
+[Signature Page to Officer’s Certificate No. 3-B-3]
+
+
+
+STATE OF LOUISIANA    §
+    §
+PARISH OF ORLEANS     §
+
+On the 3rd day of May, 2022, before me appeared Kevin J. Marino, to me personally known, who, being by me duly sworn, did say that he is an Assistant Treasurer of SYSTEM ENERGY RESOURCES, INC., and that the above instrument was signed on behalf of said corporation by authority of its Board of Directors, and said Kevin J. Marino acknowledged said instrument to be the free act and deed of said corporation.
+
+
+/s/ Dawn A. Balash            
+Dawn A Balash
+State of Louisiana, Parish of Jefferson
+Notary Public Identification No. 140967
+Commission is Issued for Life
+
+
+7
+
+Exhibit A
+[FORM OF REGISTERED BOND]
+This Security is not transferable except to a successor administrative agent under the Term Loan Credit Agreement, dated as of May 6, 2022 (hereinafter called the “Term Loan Credit Agreement”), among the Company, the lenders from time to time party thereto and Royal Bank of Canada, as administrative agent (the “Administrative Agent”).
+
+No. R-___    
+MATURITY DATE: November 6, 2023    PRINCIPAL AMOUNT: $
+SYSTEM ENERGY RESOURCES, INC.
+FIRST MORTGAGE BONDS, 2022 CREDIT AGREEMENT COLLATERAL SERIES
+DUE NOVEMBER 6, 2023
+SYSTEM ENERGY RESOURCES, INC., a corporation duly organized and existing under the laws of the State of Arkansas (herein referred to as the “Company,” which term includes any successor Person under the Mortgage referred to below), for value received, hereby promises to pay to
+or registered assigns, the principal amount specified above on the Maturity Date set forth above without interest.
+Payment of the principal of this Security shall be made upon presentation of this Security at the office or agency of the Company maintained for that purpose in The City of New York, in the State of New York, in such coin or currency of the United States of America as at the time of payment is legal tender for payment of public and private debts.
+All terms used in this Security not otherwise defined herein which are defined in the Mortgage shall have the meanings assigned to them in the Mortgage and in the Officer’s Certificate establishing the terms of the Securities of this series (the “Series Officer’s Certificate”).
+This Security is one of a duly authorized issue of securities of the Company (herein called the “Securities”), issued and to be issued in one or more series under a Mortgage and Deed of Trust dated as of June 15, 1977 (as amended, restated and supplemented by the Twenty-fourth Supplemental Indenture thereto dated as of September 1, 2012, as previously amended and supplemented, and as further supplemented by the Series Officer’s Certificate, herein called the “Mortgage,” which term shall have the meaning assigned to it in such instrument), between the Company and The Bank of New York Mellon, as trustee (herein called the “Trustee,” which term includes any successor trustee under the Mortgage), and reference is hereby made to the Mortgage, for a statement of the property mortgaged, pledged and held in trust, the nature and extent of the security, the conditions upon which the Lien of the Mortgage may be released and to the Mortgage, Board Resolutions and Series Officer’s Certificate, for a statement of the respective rights, limitations of rights, duties and immunities thereunder of the Company, the Trustee and the Holders of the Securities and of the terms upon which the Securities are, and are to be, authenticated and delivered. The acceptance of this Security shall be deemed to constitute the consent and agreement
+    A-1    
+
+
+by the Holder thereof to all of the terms and provisions of the Mortgage. This Security is one of the series designated on the face hereof.
+This Security is not transferable except to a successor administrative agent under the Term Loan Credit Agreement, any such transfer to be made in the manner prescribed in the Mortgage by the registered owner hereof in person, or by his duly authorized attorney, at the office or agency of the Company in the Borough of Manhattan, The City of New York, upon surrender and cancellation of this Security, together with a written instrument of transfer whenever required by the Company duly executed by the registered owner or by its duly authorized attorney, and thereupon a new fully registered Security of the same series will be issued to the transferee in exchange therefor as provided in the Mortgage. The Company and the Trustee may deem and treat the person in whose name this Security is registered as the absolute owner hereof for the purpose of receiving payment and for all other purposes, and neither the Company nor the Trustee shall be affected by any notice to the contrary.
+
+The Securities of this series have been issued in order to evidence the Company’s obligation to make certain payments under the Term Loan Credit Agreement.
+
+The obligation of the Company to make any payment of principal of the Securities of this series, whether at maturity, upon redemption or otherwise, shall be reduced by the amount of any reduction of Commitments (as defined in the Term Loan Credit Agreement) under the Term Loan Credit Agreement due to any repayment of Term Loans (as defined in the Term Loan Credit Agreement) pursuant to Section 2.05 of the Term Loan Credit Agreement and any prepayment of Term Loans pursuant to Section 2.09, so that the aggregate principal amount of the Securities of this series held by the Administrative Agent after such reduction is as close as possible to, but not less than, the sum of the aggregate Commitments after such reductions plus five (5) percent of the aggregate Commitments after such reduction.
+
+The Trustee may conclusively presume that the obligation of the Company to pay the principal of the Securities of this series as the same shall become due and payable shall have been fully satisfied and discharged unless and until the Trustee shall have received a written notice (which may be a facsimile followed by a hard copy) from the Administrative Agent, signed by an authorized officer, stating that the corresponding payment of principal of or interest on the Term Loans has become due and payable and has not been fully paid and specifying the amount of funds required to make such payment.
+
+In the event that any outstanding Term Loans, all interest thereon and all other amounts payable under the Term Loan Credit Agreement shall become immediately due and payable pursuant to Section 6.02 of the Term Loan Credit Agreement, upon the occurrence of an Event of Default under Section 6.01(a) of the Term Loan Credit Agreement, the Securities of this series then outstanding shall be redeemed by the Company, on the date such Term Loan, all interest thereon and other amounts payable under the Term Loan Credit Agreement shall have become immediately due and payable, at a redemption price of 100% of the principal amount thereof. In the event that any Term Loans are repaid pursuant to Section 2.09 of the Term Loan Credit Agreement, Securities of this series, in a principal amount equal, as nearly as practicable, to one hundred and five percent (105%) of the Term Loans being repaid, shall be redeemed immediately at a redemption price of 100% of the principal amount thereof.
+
+The Trustee may conclusively presume that no redemption of the Securities of this series is required pursuant to the preceding paragraph unless and until the Trustee shall have received a written notice (which may be a facsimile followed by a hard copy) from the Administrative Agent, signed by an
+    A-2    
+
+
+authorized officer thereof, stating that, as the case may be, the outstanding Term Loans, all interest thereof and all other amounts payable under the Term Loan Credit Agreement have become immediately due and payable pursuant to Section 6.02 of the Term Loan Credit Agreement, upon the occurrence of an Event of Default under Section 6.01(a) of the Term Loan Credit Agreement, or that the Term Loans (or any portion thereof) are to be repaid pursuant to Section 2.09 of the Term Loan Credit Agreement and specifying the date fixed for such repayment and the principal amount thereof. Said notice shall also contain a waiver of notice of such redemption by the Administrative Agent, as the holder of all the Securities of this series then outstanding. As a condition to any redemption pursuant to the preceding paragraph, the Administrative Agent is required to present the Securities of this series to the Trustee for payment.
+
+The Company hereby waives its right to have any notice of any redemption pursuant to the preceding paragraph state that such notice is subject to the receipt of the redemption moneys by the Trustee before the date fixed for redemption. Any such notice shall not be conditional.
+
+The Mortgage contains provisions for defeasance at any time of the entire indebtedness of this Security upon compliance with certain conditions set forth in the Mortgage and the Series Officer’s Certificate.
+
+If an Event of Default with respect to Securities of this series shall occur and be continuing, the principal of the Securities of this series may be declared due and payable in the manner and with the effect provided in the Mortgage.
+
+The Mortgage permits, with certain exceptions as therein provided, the amendment thereof and the modification of the rights and obligations of the Company and the rights of the Holders of the Securities of this series at any time by the Company and the Trustee with the consent of the Holders of a majority in aggregate principal amount of the Securities of all series at the time Outstanding to be directly affected thereby. The Mortgage also contains provisions permitting the Holders of specified percentages in principal amount of the Securities of each series at the time Outstanding, on behalf of the Holders of all Securities of such series, to waive compliance by the Company with certain provisions of the Mortgage and certain past defaults under the Mortgage and their consequences. Any such consent or waiver by the Holder of this Security shall be conclusive and binding upon such Holder and upon all future Holders of this Security and of any Security issued upon the registration of transfer hereof or in exchange herefor or in lieu hereof, whether or not notation of such consent or waiver is made upon this Security.
+
+As provided in and subject to the provisions of the Mortgage, the Holder of this Security shall not have the right to institute any proceeding with respect to the Mortgage or for the appointment of a receiver or trustee or for any other remedy thereunder, unless (i) such Holder shall have previously given the Trustee written notice of a continuing Event of Default with respect to the Securities of this series, (ii) the Holders of a majority in aggregate principal amount of the Securities of all series at the time Outstanding in respect of which an Event of Default shall have occurred and be continuing (a) shall have made written request to the Trustee to institute proceedings in respect of such Event of Default in its own name as the Trustee and (b) offered the Trustee reasonable indemnity, and (iii) the Trustee shall not have received from the Holders of a majority in aggregate principal amount of Securities of all series at the time Outstanding in respect of which an Event of Default shall have occurred and be continuing a direction inconsistent with such request; and the Trustee shall have failed to institute any such proceeding for 60 days after receipt of such notice, request and offer of indemnity. The foregoing shall not apply to
+    A-3    
+
+
+any suit instituted by the Holder of this Security for the enforcement of any payment of principal hereof or any premium or interest hereon on or after the respective due dates expressed herein.
+
+No reference herein to the Mortgage and no provision of this Security or of the Mortgage shall alter or impair the obligation of the Company, which is absolute and unconditional, to pay the principal of this Security at the times, place and rate, and in the coin or currency, herein prescribed.
+
+The Securities of this series are issuable only in registered form without coupons in denominations of $1,000 and integral multiples of $1,000 in excess thereof.
+
+This Security shall be governed by and construed in accordance with the laws of the State of New York (including without limitation Section 5-1401 of the New York General Obligations Law or any successor to such statute), except to the extent that the Trust Indenture Act shall be applicable.
+
+As provided in the Mortgage, no recourse shall be had for the payment of the principal of or premium, if any, or interest on any Securities, or any part thereof, or for any claim based thereon or otherwise in respect thereof, or of the indebtedness represented thereby, or upon any obligation, covenant or agreement under the Mortgage, against, and no personal liability whatsoever shall attach to, or be incurred by, any incorporator, shareholder, member, limited partner, officer, manager or director, as such, past, present or future of the Company or of any predecessor or successor of the Company (either directly or through the Company or a predecessor or successor of the Company), whether by virtue of any constitutional provision, statute or rule of law, or by the enforcement of any assessment or penalty or otherwise; it being expressly agreed and understood that the Mortgage and all the Securities are solely corporate obligations and that any such personal liability is hereby expressly waived and released as a condition of, and as part of the consideration for, the execution of the Mortgage and the issuance of the Securities.
+
+Unless the certificate of authentication hereon has been executed by the Trustee referred to herein by manual signature, this Security shall not be entitled to any benefit under the Mortgage or be valid or obligatory for any purpose.
+
+    A-4    
+
+
+IN WITNESS WHEREOF, the Company has caused this instrument to be duly executed.
+
+                        
+                        SYSTEM ENERGY RESOURCES, INC.
+By:_______________________________________
+                         Name:
+Title:
+
+[FORM OF CERTIFICATE OF AUTHENTICATION]
+CERTIFICATE OF AUTHENTICATION
+This is one of the Securities of the series designated therein referred to in the within-mentioned Mortgage.
+Dated:
+
+                        THE BANK OF NEW YORK MELLON, as Trustee
+By:_______________________________________
+Authorized Signatory
+
+
+    A-5    

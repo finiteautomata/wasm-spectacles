@@ -1,0 +1,571 @@
+EX-10.1 2 exhibit101waiverandconsent.htm EXHIBIT 10.1
+
+
+EXHIBIT 10.1
+
+
+
+THIRD AMENDMENT TO CREDIT AGREEMENT
+THIS THIRD AMENDMENT TO CREDIT AGREEMENT (this “Amendment”), is entered into as of August 24, 2018 by and among LUBY’S, INC. (the “Borrower”), each other Credit Party party hereto, the Lenders party hereto and Wells Fargo Bank, National Association, as Administrative Agent for the Lenders (in such capacity, the “Administrative Agent”).
+W I T N E S S E T H:
+WHEREAS, the Borrower is party to that certain Credit Agreement, dated as of November 8, 2016 (as amended by the Second Amendment to Credit Agreement dated as of April 20, 2018 and as previously amended, restated, supplemented or otherwise modified, the “Existing Agreement” and as amended by this Amendment and as may further be amended, restated, supplemented or otherwise modified from time to time, the “Credit Agreement”) among, inter alia, the Borrower, the other Credit Parties party thereto, the Administrative Agent and the Lenders from time to time party thereto, pursuant to which the Lenders have made certain loans and financial accommodations available to the Borrower; and
+WHEREAS, the Borrower, the Administrative Agent and the Required Lenders are parties to that certain Consent and Waiver dated as of July 12, 2018 (the “July Consent”) and that certain Consent and Waiver dated as of August 10, 2018 (the “August Consent” and together with the July Consent, the “Consents”) pursuant to which, among other things, the Administrative Agent and Lenders waived the requirement that the Credit Parties comply with (1) the financial covenants set forth in Section 9.15 of the Credit Agreement that are tested for any period or time ending or occurring during the Compliance Waiver Period (as defined in the July Consent and as extended pursuant to the August Consent), and (2) the limits on Maintenance Capital Expenditures set forth in Section 9.3(c) of the Credit Agreement during the Compliance Waiver Period (as defined in the July Consent and as extended pursuant to the August Consent); and
+WHEREAS, the Credit Parties have requested that the Administrative Agent and the Lenders amend certain provisions of the Existing Agreement which the Administrative Agent and the Lenders are willing to do pursuant to the terms and conditions set forth herein.
+NOW, THEREFORE, in consideration of the foregoing and for other good and valid consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto, intending to be legally bound, hereby agree as follows:
+1.Defined Terms. Capitalized terms used but not defined herein shall have the respective meanings ascribed to such terms in the Credit Agreement.
+
+2.Amendments to Existing Agreement.
+
+(a)Amendments to Section 1.1 (Definitions).
+
+(i)Section 1.1 of the Existing Agreement is hereby amended by inserting the following new defined terms in the appropriate alphabetical order:
+
+
+
+
+
+““July Consent” means that certain Consent and Waiver dated as of July 12, 2018 by and among the Borrower, the Administrative Agent and the Required Lenders.”
+““Third Amendment” means that certain Third Amendment to Credit Agreement dated as of August 24, 2018 by and among the Borrower, the Administrative Agent and the Lenders.”
+““Third Amendment Effective Date” means the date the conditions to effectiveness set forth in the Third Amendment are satisfied.”
+(ii)The definition of “Applicable Margin” is hereby amended to read in its entirety:
+““Applicable Margin” means, during each time period set forth below, the corresponding percentages per annum as set forth below opposite such time period:
+Period
+LIBOR Rate Loans
+Base Rate Loans
+From the Third Amendment Effective Date through the date the Term Loan has been paid in full in cash
+6.50%
+5.50%
+From the date following the date the Term Loan has been paid in full in cash and thereafter
+5.50%
+4.50%
+”
+(iii)The definition of “Real Estate Collateral Documents” is hereby amended by inserting the following clause (vii) at the end thereof:
+
+“(vii)    Mortgages. All Mortgages obtained to secure the Obligations including those obtained pursuant to Section 8.22 of the Credit Agreement, Section 2(d) of the July Consent or Section 7 of the Third Amendment.”
+(iv)The definition of “Revolving Credit Commitment” is hereby amended to read in its entirety:
+
+““Revolving Credit Commitment” means (a) as to any Revolving Credit Lender, the obligation of such Revolving Credit Lender to make Revolving Credit Loans to, and to purchase participations in L/C Obligations and Swingline Loans for the account of, the Borrower hereunder in an aggregate principal amount at any time outstanding not to exceed the amount set forth opposite such Revolving Credit Lender’s name on the Register, as such amount may be modified at any time or from time to time pursuant to the terms hereof (including, without limitation, Sections 2.5, 2.6 or 10.2) and (b) as to all Revolving Credit Lenders, the aggregate commitment of all Revolving Credit Lenders to make Revolving Credit Loans, as such amount may be modified at any time or from time to time pursuant to the terms hereof. The aggregate Revolving Credit Commitment of all the Revolving Credit Lenders on the Third Amendment Effective Date is $30,000,000. The Revolving Credit Commitment of each Revolving Credit Lender as of the Third Amendment Effective Date is set forth opposite the name of such Lender on Schedule 1.1(a).”
+
+
+
+
+
+(b)Section 8.1(e) of the Existing Agreement is hereby amended in its entirety to read as follows:
+
+“(e)    Weekly Cash Flow and Cash Balance Reports. The Borrower shall prepare and deliver to the Administrative Agent on or prior to the Second Amendment Effective Date (and on or before Tuesday of each week thereafter until the later of the Revolving Credit Maturity Date or the Term Loan Maturity Date) (x) a trailing thirteen (13) week consolidated cash flow statement for the Borrower and its Subsidiaries setting forth actual cash flows for such period, together with a comparison to projected cash flows for such period, and a comparison to the corresponding figures from the corresponding period in the prior fiscal year, together with an explanation for any material variances between such actual cash flows and the projected cash flows for such period and the cash flows for the corresponding period in the prior fiscal year, (y) a thirteen (13) week cash flow forecast for the thirteen (13) weeks following the week of such report, and (z) beginning after the Third Amendment Effective Date, a cash balance report showing the aggregate cash balance amount held in the accounts of the Credit Parties (including Excluded Accounts) as of close of business on Friday of the immediately prior week.”
+(c)Section 9.3(c) of the Existing Agreement is hereby amended by deleting the proviso at the end thereof and inserting the following proviso:
+
+“provided that beginning in fiscal year 2019, no additional Investments consisting of Maintenance Capital Expenditures shall be permitted pursuant to this Section 9.3(c) other than budgeted Maintenance Capital Expenditures in an aggregate amount not to exceed $8,500,000 in any fiscal year;”
+(d)Amendments to Schedules and Exhibits to Existing Agreement.
+
+(i)Schedule 1.1(a) to the Existing Agreement is hereby amended and restated in its entirety to read as set forth in Exhibit A hereto.
+
+3.Waiver. Subject to the terms and conditions hereof, and in reliance upon the representations, warranties and covenants of the Credit Parties contained in this Amendment, the Administrative Agent and the Required Lenders hereby waive the Events of Default existing under the Credit Agreement as of the Third Amendment Effective Date resulting from (a) any breach of the financial covenants set forth in Section 9.15 of the Credit Agreement or the limitations on Maintenance Capital Expenditures set forth in Section 9.3(c) of the Credit Agreement, in each case that may have occurred during the period from and including May 9, 2018 until the Third Amendment Effective Date, and (b) any related Events of Default under Section 10.1(c) of the Credit Agreement.
+
+4.Compliance with Financial Covenants.
+
+(a)Subject to the terms and conditions hereof, and in reliance upon the representations, warranties and covenants of the Credit Parties contained in this Amendment, the Administrative Agent and the Required Lenders agree to waive the requirement that the Credit Parties comply with the financial covenants set forth in Section 9.15 of the Credit Agreement that would otherwise be tested for any period or time ending on or after the Third Amendment Effective Date but on or prior to December 31, 2018 (such financial covenants, as used in this Amendment, the “Third Amendment Waiver Period Financial Covenants”) (the period from and including the Third Amendment Effective Date and ending on and including December 31, 2018, the “Third Amendment Compliance Waiver Period”). For clarity, nothing herein shall be deemed to be a waiver of the requirements set forth in Section 8.1(b), Section 8.1(d) or Section 8.1(e) of the Credit Agreement with respect to any Measurement Period, Accounting Period or week, as applicable, ending during the Third Amendment Compliance Waiver Period or the requirement set forth in Section 8.2(a) of the Credit Agreement with respect to the delivery of the Officer’s Compliance Certificate in connection with the financial statements required to be delivered pursuant to Section 8.1(b) or Section 8.1(d) of the Credit Agreement during the Third Amendment Compliance Waiver Period; provided, that any such Officer’s Compliance Certificate delivered with respect to any Measurement Period or Accounting Period ending during the Third Amendment
+
+
+
+
+Compliance Waiver Period shall show the calculation of the Third Amendment Waiver Period Financial Covenants but shall include appropriate modification to reflect the fact that the Third Amendment Waiver Period Financial Covenants will not be tested for any Measurement Period or Accounting Period ending during the Third Amendment Compliance Waiver Period.
+
+(b)The Borrower, the Administrative Agent and the Required Lenders further agree to work in good faith to reset the financial covenants that will apply to any Measurement Period or Accounting Period ending after the Third Amendment Waiver Compliance Period; provided that the financial covenants set forth in Section 9.15 of the Existing Agreement shall apply to any Measurement Period or Accounting Period ending after the Third Amendment Waiver Compliance Period until such time as new financial covenants have been established.
+
+5.Asset Sale Proceeds Allocation. The Borrower and its Subsidiaries shall continue to be permitted to make Asset Dispositions pursuant to Section 9.5(m) and Section 9.5(o) of the Credit Agreement; provided that so long as no Default or Event of Default has occurred and is continuing and notwithstanding the existing provisions of Section 4.4(b)(iii) of the Credit Agreement, from and after the Third Amendment Effective Date, the Borrower shall make mandatory principal prepayments of the Loans in amounts equal to:
+
+(a)fifty percent (50%) of the first $12,000,000 of Net Cash Proceeds from Asset Dispositions received by the Borrower or any of its Subsidiaries from and after the Third Amendment Effective Date;
+
+(b)seventy-five percent (75%) of the next $8,000,000 of Net Cash Proceeds from Asset Dispositions received by the Borrower or any of its Subsidiaries from and after the Third Amendment Effective Date; and
+
+(c)one hundred percent (100%) of all Net Cash Proceeds in excess of the first $20,000,000 of Net Cash Proceeds from Asset Dispositions received by the Borrower or any of its Subsidiaries from and after the Third Amendment Effective Date.
+
+The obligation to make mandatory prepayments and allocation set forth in this Section 5 shall not apply to any Asset Disposition permitted pursuant to, and in accordance with, clauses (a) through (k) of Section 9.5 of the Credit Agreement; provided that such obligation to make mandatory prepayments and allocation shall apply to the portion, if any, of Net Cash Proceeds attributable to real estate assets included in any Asset Disposition permitted pursuant to, and in accordance with, clause (f) of Section 9.5 of the Credit Agreement. All prepayments under this Section 5 shall be made within two (2) Business Days after the date of receipt of the Net Cash Proceeds, and in the manner set forth in Section 4.4(b)(v) of the Credit Agreement.
+6.Covenants. The Borrower shall:
+
+(a)continue to diligently pursue efforts to refinance the outstanding Obligations;
+
+
+
+
+
+(b)on or before October 15, 2018, deliver to the Administrative Agent an indication of interest letter and attached term sheet reasonably acceptable to the Administrative Agent from a bona fide third party providing for the repayment of all of the Obligations in full in cash (the “Refinancing Transaction”) scheduled to close on or before May 1, 2019;
+
+(c)provide the Administrative Agent and the Lenders an update every week as to the status of ongoing real estate asset sales, which update may be delivered via email; and
+
+(d)conduct a status update conference calls on the last Business Day of every other calendar week with the Administrative Agent, its advisors and the Lenders to discuss the status of the Borrower’s operations, asset sale efforts and efforts to close a Refinancing Transaction, which conference calls shall cover (without limitation) discussions of any term sheets, any commitment documents, any bids, and any purchase agreements received by the Borrower and the Borrower’s responses to any such term sheets, commitment documents, bids and purchase agreements, in each case, subject to any confidentiality restrictions; provided that, if the Administrative Agent in its sole discretion shall elect to forego any scheduled conference call hereunder, the Borrower’s failure to conduct such call shall not constitute an Event of Default.
+
+Failure to comply with any covenant set forth in this Section 6 shall constitute an Event of Default under the Credit Agreement.
+7.Real Estate Collateral.
+
+(a)Real Estate Mortgages. The Borrower and the other Credit Parties acknowledge and agree that the Administrative Agent has identified the properties set forth on Schedule 1 hereto in a Real Estate Collateral Notice and the Borrower and the Administrative Agent have agreed on a form of deed of trust to be used to grant a Lien on each such property in favor of the Administrative Agent, for the ratable benefit of the Secured Parties. In addition, the Borrower and the other Credit Parties have agreed to grant to the Administrative Agent, for the ratable benefit of the Secured Parties, a deed of trust, using the same agreed on form of deed of trust, on that certain property referred to as Houston #29 located at 2400 South MacGregor Way, Houston, Texas (such deed of trust, together with each deed of trust on the properties identified on Schedule 1 hereto to be included in the term “Mortgages” upon execution thereof). Notwithstanding anything to the contrary set forth in Section 8.22 of the Credit Agreement, the applicable Credit Parties shall, within three (3) Business Days, or such later date as agreed in writing by the Administrative Agent, of presentation to the applicable Credit Party for signature of such agreed upon deed of trust form completed to identify any such property, duly execute, have properly notarized and return to the Administrative Agent such deed of trust and promptly upon request take such other steps as shall permit the Administrative Agent to duly record such deed of trust in the appropriate land recording office or registry of deeds. The Credit Parties agree that such deeds of trust for such properties may be submitted to the Credit Parties for signature collectively or individually as they are completed.
+
+(b)Appraisals and Related Expenses. Notwithstanding anything to the contrary set forth in Section 8.22 of the Credit Agreement and in addition to the obligations set forth in Section 12.3 of the Credit Agreement, each Credit Party agrees (i) to deliver to the Administrative Agent updated appraisals of (A) any real estate property identified in the Real Estate Collateral Notice and (B) that certain property referred to as Houston #29 located at 2400 South MacGregor Way, Houston, Texas, in all cases, upon request of the Administrative Agent or the Required Lenders, or, in the alternative, that the Administrative Agent may, in its sole discretion, obtain appraisals of any such real estate property, and (ii) promptly upon request to pay or reimburse the Administrative Agent and the Lenders for any costs or expenses incurred or associated with such appraisals and with obtaining or preparing any Real Estate Collateral Documents including recording fees.
+
+
+
+
+
+8.Conditions and Effectiveness. This Amendment shall become effective as soon as the following conditions precedent have been satisfied (the date on which such conditions have been satisfied, the “Third Amendment Effective Date”):
+
+(a)The Administrative Agent shall have received counterpart signatures to this Amendment from each party hereto.
+
+(b)The Borrower shall have delivered to the Administrative Agent and the Lenders completed marketing materials prepared by the Borrower and by Cowen and Company, LLC (the “Financial Advisor”), which marketing materials shall be used to promote the Refinancing Transaction.
+
+(c)The Borrower shall have paid to Morgan Lewis & Bockius LLP in its capacity as counsel to the Administrative Agent all fees and expenses of Morgan, Lewis & Bockius LLP for which invoices have been presented prior to the effectiveness hereof.
+
+9.Amendment Fees. No later than the close of business on each of December 31, 2018 and March 31, 2019, the Borrower will pay to the Administrative Agent for the account of each Lender an amendment fee equal to 1.0% of the sum of such Lender’s Revolving Credit Commitment on such date plus the then-outstanding balance of the Term Loan advanced by such Lender outstanding on such date (respectively, the “December Amendment Fee” and the “March Amendment Fee” and collectively, the “Amendment Fees”). In the event that the Revolving Credit Commitments are terminated or the required payment of the principal of the Term Loans is accelerated, in either case following the occurrence of an Event of Default, each Amendment Fee that was not previously calculated shall be calculated as of the date immediately prior to such termination or acceleration based on the amount of the Revolving Credit Commitments in effect and the aggregate principal amount of the Term Loans outstanding on such date and shall be due upon demand. The Amendment Fees shall be fully earned on the Third Amendment Effective Date. Failure to pay any of the fees described in this Section 9 when due shall constitute an immediate Event of Default under the Credit Agreement.
+
+10.Other Expenses. The Borrower shall pay the legal fees, costs and expenses of the counsel to the Administrative Agent no later than three (3) Business Days after receiving an invoice of such counsel’s legal fees, costs and expenses. Failure to pay any of the fees described in this Section 10 when due shall constitute an immediate Event of Default under the Credit Agreement.
+
+11.Representations and Warranties. The Borrower hereby represents and warrants to the Administrative Agent and each Lender as follows:
+
+(a)the execution, delivery and performance by the Borrower of this Amendment has been duly authorized by all necessary corporate action;
+
+(b)after giving effect to the amendments set forth herein, no Default or Event of Default has occurred and is continuing or would result herefrom; and
+
+(c)all representations and warranties contained in the Credit Agreement are true and correct in all material respects (except that such materiality qualifier shall not be applicable to any portion of any representation and warranty that is already qualified or modified by materiality in the text thereof); provided that any such representations and warranties that by their express terms are made as of a specific date are true and correct in all material respects as of such specific date.
+
+
+
+
+
+(d)the Credit Parties party hereto constitute all of the Subsidiaries of the Borrower required to be a Subsidiary Guarantor pursuant to the terms of the Credit Agreement.
+
+12.Agreement in Full Force and Effect; Borrower Ratification of other Loan Documents. Except as specifically amended hereby, the Existing Agreement shall remain in full force and effect and is hereby ratified and confirmed. Except as expressly set forth herein, this Amendment shall not be deemed to be a waiver, amendment or modification of any provisions of the Existing Agreement or any Loan Document or any right, power or remedy of the Administrative Agent or the Lenders, or of any Default or Event of Default under any of the foregoing, in each case, whether arising before or after the date hereof or as a result of performance hereunder or thereunder. Each reference in the Credit Agreement to “this Agreement,” “hereunder,” “hereof,” “herein” or words of similar import shall mean and be a reference to the Credit Agreement as amended hereby, and each reference herein or in any Loan Document to the “Credit Agreement” shall mean and be a reference to the Credit Agreement as amended hereby. For the avoidance of doubt, this Amendment shall constitute a Loan Document for all purposes under the Credit Agreement. All other Loan Documents to which the Borrower is a party remain in full force and effect, and the Borrower hereby ratifies all of its obligations thereunder.
+
+13.Ratification of Guaranty. Each of the undersigned Subsidiary Guarantors hereby acknowledges and consents to this Amendment, and agrees that its Guaranty Agreement in favor of the Administrative Agent for the benefit of the Secured Parties, and all other Loan Documents to which it is a party, remain in full force and effect, and each of the Subsidiary Guarantors hereby ratifies all of its respective obligations thereunder.
+
+14.Release of Claims. In order to induce the Administrative Agent and the Lenders to enter into this Amendment, each Credit Party, on behalf of itself and its respective Related Parties (collectively, the “Releasing Parties”), acknowledges and agrees that: (a) none of the Releasing Parties presently has any claim or cause of action against any of the Administrative Agent, any Lender or any of their respective Related Parties (collectively, the “Released Parties”) relating to or arising out of any Loan Document or any agreement entered into in connection therewith; (b) to the actual (and not constructive or imputed) knowledge of any officer of any Credit Party, none of the Releasing Parties presently has any offset right, counterclaim or defense of any kind against any of their respective Obligations, debt or liabilities to the Administrative Agent or any Lender; and (c) each of the Released Parties has heretofore properly performed and satisfied in a timely manner all of its obligations to the Credit Parties and their Subsidiaries under the Loan Documents to which it is a party. Each of the Credit Parties wishes to eliminate any possibility that any past conditions, acts, omissions, events, circumstances or matters would impair or otherwise adversely affect any of the Administrative Agent or any Lenders’ rights, interests, contracts, or remedies under the Loan Documents, whether known or unknown, as applicable. Therefore, each of the Credit Parties, on behalf of the Releasing Parties, unconditionally releases, waives and forever discharges (x) any and all liabilities, obligations, duties, promises or debt of any kind of the Administrative Agent and each Lender to the Releasing Parties, in each case, occurring, existing or arising on or prior to the date of this Amendment, and (y) all claims, offsets, causes of action, suits or defenses of any kind whatsoever (if any), whether arising at law or in equity, whether known or unknown, which the Releasing Parties might otherwise have against any of the Released Parties for actions taken or not taken on or prior to the date of this Amendment, in each case under clause (x) or clause (y), (A) whether known or unknown, on account of any past or presently existing condition, act, omission, event, contract, liability, obligation, debt, claim, cause of action, defense, circumstance or matter of any kind, (B) other than any such liabilities, obligations, claims, causes of action or suits resulting from the gross negligence or willful misconduct of the Administrative Agent or any Lender, as determined by a court of competent jurisdiction in a final non-appealable judgment and (C) relating to or arising out of the Loan Documents or any agreement entered into in connection therewith. The Released Parties shall not be liable with respect to, and each of the Credit Parties hereby waives, releases and agrees not to sue for, any special, indirect or consequential damages relating to the Loan Documents or arising out of activities in connection herewith or therewith (whether before, on or after the date hereof.
+
+
+
+
+
+15.Counterparts. This Amendment may be executed by one or more of the parties to this Amendment and any number of separate counterparts, each of which when so executed, shall be deemed an original and all said counterparts when taken together shall be deemed to constitute but one and the same instrument.
+
+16.Successors and Assigns. This Amendment shall be binding upon and inure to the benefit of the Borrower and its successors and assigns and the Administrative Agent and Lenders and their respective successors and assigns.
+
+17.GOVERNING LAW. THIS AMENDMENT SHALL BE GOVERNED BY AND SHALL BE CONSTRUED IN ACCORDANCE WITH THE LAWS OF THE STATE OF TEXAS.
+
+18.Severability. Wherever possible, each provision of this Amendment shall be interpreted in such manner as to be effective and valid under applicable law, but if any provision of this Amendment shall be prohibited by or invalid under such law, such provision shall be ineffective to the extent of such prohibition or invalidity without invalidating the remainder of such provision or the remaining provisions of this Amendment.
+
+19.ENTIRE AGREEMENT. THE CREDIT AGREEMENT, AS AMENDED BY THIS AMENDMENT, AND THE OTHER LOAN DOCUMENTS REPRESENT THE FINAL AGREEMENT AMONG THE PARTIES AND MAY NOT BE CONTRADICTED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS, OR SUBSEQUENT ORAL AGREEMENTS OF THE PARTIES. THERE ARE NO UNWRITTEN ORAL AGREEMENTS AMONG THE PARTIES.
+
+
+
+[Remainder of Page Intentionally Left Blank; Signature Pages Follow]
+
+
+
+
+
+
+
+IN WITNESS WHEREOF, each of the undersigned has executed this Amendment as of the date set forth above.
+
+BORROWER:
+
+LUBY’S, INC.
+
+
+
+By:    /s/ Christopher J. Pappas                     
+Christopher J. Pappas
+President and Chief Executive Officer
+
+
+SUBSIDIARY GUARANTORS:
+
+LUBY'S FUDDRUCKERS RESTAURANTS, LLC
+
+
+By:    /s/ Peter Tropoli                                 
+Peter Tropoli
+President and Chief Operating Officer
+
+LUBY’S BEV I, LLC
+LUBY’S BEV II, LLC
+
+
+Each by: /s/ Peter Tropoli                             
+Peter Tropoli
+Manager
+
+
+LUBY’S BEVCO, INC.
+
+
+By:    /s/ Christopher J. Pappas                     
+Christopher J. Pappas
+President and CEO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Luby’s, Inc. - Signature Page to Third Amendment
+
+
+
+
+
+
+FUDDRUCKERS OF ANNAPOLIS, LLC
+FUDDRUCKERS OF HOWARD COUNTY, LLC
+
+FUDDRUCKERS OF BRANDYWINE, LLC
+
+Each by Luby’s Bev II, LLC, as its Managing Member
+
+
+By:    /s/ Peter Tropoli                                 
+Peter Tropoli
+Manager
+
+
+PARADISE CHEESEBURGERS, LLC
+
+By: Luby’s Fuddruckers Restaurants, LLC, as its Manager
+
+By:    /s/ Peter Tropoli                                 
+Peter Tropoli
+President and Chief Operating Officer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Luby’s, Inc. - Signature Page to Third Amendment
+
+
+
+
+
+PARADISE RESTAURANT GROUP, LLC
+CHEESEBURGER OF NEWARK, LLC
+CHEESEBURGER OF FT. MYERS, LLC
+CHEESEBURGER OF SANDESTIN, L.L.C.
+CHEESEBURGER OF DOWNERS GROVE, LLC
+CHEESEBURGER OF ALGONQUIN, LLC
+CHEESEBURGER OF EVANSVILLE, LLC
+CHEESEBURGER OF FISHERS, LLC
+CHEESEBURGER OF SOUTHPORT, LLC
+CHEESEBURGER OF TERRE HAUTE, LLC
+CHEESEBURGER OF KANSAS CITY, LLC
+CHEESEBURGER OF PASADENA, LLC
+CHEESEBURGER OF CALIFORNIA, LLC
+CHEESEBURGER IN PARADISE OF ST. MARY’S COUNTY, LLC
+CHEESEBURGER OF STERLING HEIGHTS, LLC
+HIGH TIDES OF OMAHA, LLC
+CHEESEBURGER OF SECAUCUS, LLC
+CHEESEBURGER OF WALLKILL, LLC
+CHEESEBURGER OF MYRTLE BEACH, LLC
+CHEESEBURGER OF FREDERICKSBURG, LLC
+CHEESEBURGER OF NEWPORT NEWS, LLC
+CHEESEBURGER OF VIRGINIA BEACH, LLC
+CHEESEBURGER OF WOODBRIDGE, LLC
+CHEESEBURGER OF MIDDLETON, LLC
+
+Each by:    /s/ Peter Tropoli                             
+Peter Tropoli
+President
+
+
+CHEESEBURGER IN PARADISE OF ANNE ARUNDEL COUNTY, INC.
+
+By:    /s/ Peter Tropoli                                 
+Peter Tropoli
+Authorized Representative
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Luby’s, Inc. - Signature Page to Third Amendment
+
+
+
+
+
+WELLS FARGO BANK, NATIONAL ASSOCIATION
+as Lender and as Administrative Agent
+
+
+
+By: /s/ Reginald T. Dawson     
+Name: Reginald T. Dawson
+Title: Senior Vice President
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Luby’s, Inc. - Signature Page to Third Amendment
+
+
+
+
+
+
+CADENCE BANK, N.A.
+as Lender
+
+
+
+By: /s/ Josh Taylor
+Name: Josh Taylor
+Title: Senior Vice President
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Luby’s, Inc. - Signature Page to Third Amendment
+
+
+
+
+
+TEXAS CAPITAL BANK, N.A.
+as Lender
+
+
+
+By: /s/ Joel Landis     
+Name: Joel Landis
+Title: Executive Vice President
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Luby’s, Inc. - Signature Page to Third Amendment
+
+
+
+
+
+
+SCHEDULE 1
+
+[Please see attached]
+
+
+
+
+
+
+EXHIBIT A
+SCHEDULE 1.1(A)
+
+SCHEDULE OF REVOLVING CREDIT COMMITMENTS
+AS OF THE THIRD AMENDMENT EFFECTIVE DATE
+
+Lender
+Revolving Credit Commitment
+Percentage
+Wells Fargo Bank, National Association
+$11,538,000
+38.460000%
+Texas Capital Bank, N.A.
+$9,231,000
+30.770000%
+Cadence Bank, N.A.
+$9,231,000
+30.770000%
+Total:
+$30,000,000
+100%
+
+
+
+SCHEDULE OF TERM LOAN COMMITMENTS
+AS OF THE CLOSING DATE
+
+Lender
+Term Loan Commitment
+Percentage
+Wells Fargo Bank, National Association
+$13,462,000
+38.462857%
+Texas Capital Bank, N.A.
+$10,769,000
+30.768571%
+Cadence Bank, N.A.
+$10,769,000
+30.768571%
+Total:
+$35,000,000
+100%

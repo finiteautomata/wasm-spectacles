@@ -1,0 +1,288 @@
+EX-99.1 2 a991griffon-fourthamendmen.htm EXHIBIT 99.1
+EXECUTION VERSION
+
+FOURTH AMENDMENT TO THIRD AMENDED AND RESTATED CREDIT AGREEMENT
+FOURTH AMENDMENT TO THIRD AMENDED AND RESTATED CREDIT AGREEMENT, dated as of May 31, 2018 (this “Agreement”), to that certain Third Amended and Restated Credit Agreement, dated as of March 22, 2016 (as amended, supplemented or otherwise modified from time to time prior to the date hereof, the “Credit Agreement”; the Credit Agreement, as modified by this Agreement, the “Amended Credit Agreement”) among Griffon Corporation, a Delaware corporation (the “Borrower”), the several banks and other financial institutions or entities from time to time parties thereto (the “Lenders”), JPMorgan Chase Bank, N.A., as administrative agent (in such capacity, the “Administrative Agent”), and the other agents party thereto.
+RECITALS:
+
+WHEREAS, pursuant to Section 10.02 of the Credit Agreement, the Credit Agreement may be amended by a written document entered into by the Administrative Agent, with the consent of the Required Lenders;
+
+WHEREAS, in connection with the contemplated acquisition of the shares of CornellCookson, Inc. the Borrower wishes to amend the Credit Agreement to, among other things, modify the maximum Total Leverage Ratio covenant set forth in Section 7.11(a) thereof;
+
+WHEREAS, the Required Lenders are willing to agree to the amendments to the Credit Agreement set forth in Section 2 hereof on the terms set forth herein;
+
+NOW, THEREFORE, in consideration of the premises contained herein, and for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereby agree as follows:
+Section 1. Defined Terms. Unless otherwise specifically defined herein, each term used herein (including in the recitals above) has the meaning assigned to such term in the Credit Agreement.
+Section 2. Amendment to Credit Agreement
+(a)    Amendments to Section 1.01 of the Credit Agreement.
+(i)     Section 1.01 of the Credit Agreement is hereby amended by inserting the following definitions in proper alphabetical order:
+““Fourth Amendment” means the Fourth Amendment to the Third Amended and Restated Credit agreement, dated as of May 31, 2018, among the Borrower, the Lenders party thereto and the Administrative Agent.”
+““Fourth Amendment Effective Date” has the meaning assigned to such term in the Fourth Amendment.”
+(ii)    The defined term “Applicable Rate” in Section 1.01 of the Credit Agreement is hereby amended by:
+(x) deleting the pricing grid set forth therein and substituting in lieu thereof the following pricing grid:
+Consolidated Leverage Ratio:
+ABR
+Spread
+Eurocurrency
+Spread
+Commitment
+Fee Rate
+Category 1
+Greater than or equal to 5.75:1.00
+1.75%
+2.75%
+0.45%
+Category 2
+
+Greater than or equal to 5.00:1.00 but less than 5.75:1.00
+
+
+1.50%
+
+2.50%
+
+0.40%
+Category 3
+
+Greater than or equal to 4.50:1.00 but less than 5.00:1.00
+
+
+1.25%
+
+2.25%
+
+0.35%
+Category 4
+
+Greater than or equal to 3.50:1.00 but less than 4.50:1.00
+
+
+1.00%
+
+2.00%
+
+0.30%
+Category 5
+
+Greater than or equal to 2.50:1.00 but less than 3.50:1.00
+
+
+0.75%
+
+1.75%
+
+0.25%
+Category 6
+
+Greater than or equal to 1.50:1.00 but less than 2.50:1.00
+
+
+0.50%
+
+1.50%
+
+0.20%
+Category 7
+
+Less than 1.50:1.00
+
+
+0.25%
+
+1.25%
+
+0.15%
+and
+(y) amending and restating clause (ii) of the last paragraph thereof in its entirety as follows:
+“(ii) until the delivery of the financial statements for the fiscal quarter ending June 30, 2020 pursuant to Section 6.01(b), the ABR Spread shall be 1.75%, the Eurocurrency Spread shall be 2.75% and the Commitment Fee Rate shall be 0.45%, and”
+(b)    Amendments to Section 7.07 of the Credit Agreement. Section 7.07 of the Credit Agreement is hereby amended by (i) deleting the word “and” at the end of clause (i) thereof, (ii) inserting the word “and” at the end of clause (j) thereof and (iii) inserting the following new clause (k) immediately before the proviso at the end thereof:
+“(k) prior to September 30, 2018, the Borrower may repurchase Capital Stock of the Borrower from the Person separately identified to the Administrative Agent in an aggregate amount not to exceed $70,000,000, so long as (1) no Event of Default shall have occurred and be continuing or would result therefrom and (2) after giving effect to such Restricted Payment, the Borrower has Minimum Liquidity of at least $100,000,000;”
+(c)    Amendments to Section 7.11 of the Credit Agreement. Section 7.11(a) of the Credit Agreement is hereby amended and restated in its entirety as follows:
+“(a)    Consolidated Leverage Ratio. The Borrower will not permit the Consolidated Leverage Ratio as at the last day of any period of four consecutive fiscal quarters of the Borrower (any such period, a “Test Period”) ending during any period set forth to exceed the ratio set forth opposite such period:
+Period
+Consolidated Leverage Ratio
+Fourth Amendment Effective Date through June 30, 2019
+6.50:1.00
+July 1, 2019 through March 31, 2020
+6.00:1.00
+April 1, 2020 through September 30, 2020
+5.75:1.00
+October 1, 2020 and thereafter
+5.50:1.00
+
+; provided that in the event that after the Fourth Amendment Effective Date and prior to September 30, 2018, the Borrower receives net cash proceeds in excess of $40,000,000 from the issuance of Capital Stock of the Borrower, the applicable ratio set forth above shall, in respect of any Test Period ending after receipt of such net cash proceeds, decrease by 0.25.”
+
+Section 3. Conditions. This Agreement shall become effective on the date (the “Fourth Amendment Effective Date”) on which all of the following conditions precedent have been satisfied or waived:
+
+(a)     the Administrative Agent shall have received this Agreement, duly executed and delivered by a duly authorized officer of each of (A) the Borrower, (B) the Administrative Agent and (C) the Required Lenders;
+
+(b)    the Administrative Agent shall have received all fees and other amounts due and payable on or prior to the date hereof, including, to the extent invoiced, reimbursement or payment of all reasonable out-of-pocket expenses (including reasonable fees, charges and disbursements of counsel) required to be reimbursed or paid by any Loan Party hereunder or under any Loan Document;
+
+(c)    the representations and warranties of the Borrower set forth in the Credit Agreement, and of each Loan Party in each of the Loan Documents to which it is a party, shall be true and correct in all material respects on and as of the Fourth Amendment Effective Date; provided that any representation and warranty that expressly relates to a given date shall be true and correct in all material respects as of such given date; and
+
+(d)    no Default shall have occurred and be continuing.
+Section 4. Representations and Warranties. The Borrower hereby represents and warrants that (a) each of the representations and warranties of the Borrower set forth in the Credit Agreement, and of each Loan Party in each of the Loan Documents to which it is a party, are true and correct in all material respects on and as of the Fourth Amendment Effective Date (or to the extent that any representation and warranty expressly relates to a given date, as of such given date) and (b) at the time of and immediately after giving effect to this Agreement, no Default has occurred and is continuing.
+Section 5. Governing Law. This Agreement shall be construed in accordance with and governed by the law of the State of New York.
+Section 6. Effect of This Agreement. Except as expressly set forth herein, this Agreement shall not by implication or otherwise limit, impair, constitute a waiver of or otherwise affect the rights and remedies of any Lender or the Administrative Agent under the Credit Agreement or any other Loan Document, and shall not alter, modify, amend or in any way affect any of the terms, conditions, obligations, covenants or agreements contained in the Credit Agreement or any other Loan Document, all of which are ratified and affirmed in all respects and shall continue in full force and effect. Nothing herein shall be deemed to entitle any party to a consent to, or a waiver, amendment, modification or other change of, any of the terms, conditions, obligations, covenants or agreements contained in the Credit Agreement or any other Loan Document in similar or different circumstances.
+Section 7. Counterparts. This Agreement may be signed in any number of counterparts, each of which shall be an original, with the same effect as if the signatures thereto and hereto were upon the same instrument.
+Section 8. Miscellaneous. This Agreement shall constitute a Loan Document for all purposes of the Credit Agreement. The Borrower shall pay all reasonable fees, costs and expenses of the Administrative Agent incurred in connection with the negotiation, preparation and execution of this Agreement and the transactions contemplated hereby.
+
+[remainder of page intentionally left blank]
+
+
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be duly executed as of the date first above written.
+
+GRIFFON CORPORATION
+By:
+/s/ Thomas D. Gibbons
+  Name:
+Thomas D. Gibbons
+  Title:
+Vice President and Treasurer
+
+
+
+
+
+
+JPMORGAN CHASE BANK, N.A., as Administrative Agent and a Lender
+By:
+/s/ Joon Hur
+Name: Joon Hur
+Title: Executive Director
+
+
+
+
+[Griffon Corporation – Fourth Amendment to Third Amended and Restated Credit Agreement]
+
+
+
+DEUTSCHE BANK AG NEW YORK BRANCH, as a Lender
+By:
+/s/ Marguerite Sutton
+Name: Marguerite Sutton
+Title: Vice President
+
+
+By:
+/s/ Alicia Schug
+Name: Alicia Schug
+Title: Vice President
+
+
+
+
+
+
+
+[Griffon Corporation – Fourth Amendment to Third Amended and Restated Credit Agreement]
+
+
+
+Wells Fargo Bank, NA as a Lender
+By:
+/s/ Stephanie Allegra
+Name: Stephanie Allegra
+Title: Senior Vice President
+
+
+
+
+
+
+
+
+
+[Griffon Corporation – Fourth Amendment to Third Amended and Restated Credit Agreement]
+
+
+
+Citizens Bank, N.A., as a Lender
+By:
+/s/ Angela Reilly
+Name: Angela Reilly
+Title: Senior Vice President
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Griffon Corporation – Fourth Amendment to Third Amended and Restated Credit Agreement]
+
+
+
+Manufacturer & Traders Trust Company, as a Lender
+By:
+/s/ William Terraglio
+Name: William Terraglio
+Title: Vice President
+
+
+
+
+
+
+
+
+
+[Griffon Corporation – Fourth Amendment to Third Amended and Restated Credit Agreement]
+
+
+
+BMO Harris Bank N.A., as a Lender
+By:
+/s/ Andrew Berryman
+Name: Andrew Berryman
+Title: Vice President
+
+
+
+
+
+
+
+
+
+[Griffon Corporation – Fourth Amendment to Third Amended and Restated Credit Agreement]
+
+
+
+KeyBank, as a Lender
+By:
+/s/ David W. Lewing
+Name: David W. Lewing
+Title: Senior Vice President
+
+
+
+
+
+
+[Griffon Corporation – Fourth Amendment to Third Amended and Restated Credit Agreement]
+
+
+Capital One, N.A., as a Lender
+By:
+/s/ David Darrigo
+Name: Paul Darrigo
+Title: Senior Vice President
+
+
+
+
+
+
+
+
+[Griffon Corporation – Fourth Amendment to Third Amended and Restated Credit Agreement]

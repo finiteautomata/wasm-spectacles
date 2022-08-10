@@ -1,0 +1,277 @@
+EX-10.1 2 a101consentandthirteentham.htm EXHIBIT 10.1
+10.1
+
+CONSENT AND THIRTEENTH AMENDMENT TO CREDIT AGREEMENT
+
+This CONSENT AND THIRTEENTH AMENDMENT TO CREDIT AGREEMENT (this “Agreement”), dated as of October 22, 2019, is entered into by and among THE DIXIE GROUP, INC., a Tennessee corporation (“Dixie”), CANDLEWICK YARNS, LLC, an Alabama limited liability company (“Candlewick”), TDG OPERATIONS, LLC, a Georgia limited liability company, formerly known as Masland Carpets, LLC and successor by merger to Fabrica International, Inc. (“TDG”; together with Dixie and Candlewick, are referred to hereinafter each individually as a “Borrower,” and individually and collectively, jointly and severally, as the “Borrowers”), the persons identified as the Lenders on the signature pages hereto (the “Lenders”), and WELLS FARGO CAPITAL FINANCE, LLC, a Delaware limited liability company, as administrative agent for the Lenders (in such capacity, together with its successors and assigns in such capacity, “Agent”).
+
+W I T N E S S E T H:
+
+WHEREAS, pursuant to the Credit Agreement dated as of September 13, 2011, as amended by the First Amendment to Credit Agreement dated as of November 2, 2012, the Second Amendment to Credit Agreement dated as of April 1, 2013, the Third Amendment to Credit Agreement dated as of May 22, 2013, the Fourth Amendment to Credit Agreement dated as of July 1, 2013, the Fifth Amendment to Credit Agreement dated as of July 30, 2013, the Sixth Amendment to Credit Agreement dated as of August 30, 2013, the Seventh Amendment to Credit Agreement dated as of January 20, 2014, the Eighth Amendment to Credit Agreement dated as of March 14, 2014, the Ninth Amendment to Credit Agreement dated as of March 26, 2014, the Tenth Amendment to Credit Agreement, First Amendment to Security Agreement, and First Amendment to Guaranty dated as of September 23, 2016, the Consent and Eleventh Amendment to Credit Agreement dated as of January 14, 2019, and the Twelfth Amendment to Credit Agreement, dated as of October 3, 2019 (as the same may be further amended, restated, supplemented, or otherwise modified from time to time, the “Credit Agreement”), among Agent, the Lenders and the Borrowers, the Lenders have made loans and advances and provided other financial accommodations to the Borrowers;
+
+WHEREAS, (a) TDG owns certain real property located at 3201 South Susan Street, Santa Ana, California 92704 (the “Susan Street Property”), as described in the Sale Leaseback Agreement (as defined below), along with improvements, equipment and related personal property located thereon, (b) TDG proposes to enter into the Purchase and Sale Agreement attached hereto as Exhibit A (the “Sale Leaseback Agreement”) with CenterPoint Properties Trust (the “Purchaser”) pursuant to which TDG will transfer all of its rights, title and interest in and to the Susan Street Property to the Purchaser, and will lease back the Susan Street Property from the Purchaser (such sale leaseback transaction, the “Sale Leaseback”), and (c) under the Credit Agreement, the consummation of the Sale Leaseback is prohibited as being a disposition of assets that does not constitute a Permitted Disposition;
+
+WHEREAS, the Borrowers have requested that Agent and Lenders enter into this Agreement to (a) approve the Sale Leaseback as a Permitted Fixed Asset Disposition, and (b) make certain amendments to the Credit Agreement, and Agent and the Lenders are willing to do so, subject to the terms and conditions set forth herein.
+
+NOW, THEREFORE, in consideration of the agreements herein contained and other good and valuable consideration, the parties hereby agree as follows:
+
+
+
+
+
+
+I.    DEFINITIONS AND INTERPRETATION.
+
+1.1.    Definitions and Interpretation. Unless otherwise defined herein or the context otherwise requires, terms used in this Agreement, including its preamble and recitals, have the meanings provided in the Credit Agreement.
+
+II.        LIMITED CONSENTS.
+2.1.     Consent to Sale Leaseback. Subject to the satisfaction of the conditions precedent set forth in Section IV of this Agreement, the Agent and the Lenders party hereto hereby approve of and consent to the Sale Leaseback as a Permitted Fixed Asset Disposition, so long as (a) such Sale Leaseback is consummated substantially on the terms set forth in the Sale Leaseback Agreement, (b) such Sale Leaseback shall be consummated on or before October 25, 2019, (or such later date as agreed upon by Agent and Lenders in writing in their sole discretion), (c) no Default or Event of Default shall exist at the time such Sale Leaseback is consummated, (d) the Net Cash Proceeds received by any Borrower from such Sale Leaseback shall be applied in accordance with Sections 2.4(e) and (f) of the Credit Agreement, (e) the Purchaser executes and delivers a Collateral Access Agreement with respect to the Susan Street Property in favor of Agent, and (f) TDG executes and delivers a collateral assignment of its rights under the Sale Leaseback Agreement in favor of Agent.
+2.2.    Limited Consents. The consents described in this Agreement are limited to the matters expressly covered herein and shall be effective only under the specific circumstances described herein. The consents shall not entitle the Loan Parties to any other or further consent in any similar or other circumstances. The Credit Agreement remains in full force and effect in accordance with its terms.
+III.        AMENDMENTS TO CREDIT AGREEMENT.
+Subject to the satisfaction of each of the conditions precedent set forth in Section IV of this Agreement, the Credit Agreement is hereby amended as follows:
+3.1.    Additional Definitions. Schedule 1.1 of the Credit Agreement is hereby amended by inserting the following new defined terms therein in appropriate alphabetical order:
+“Availability Block” means (a) from and including the Thirteenth Amendment Effective Date until the Availability Block First Reduction Date, $5,000,000, (b) from and including the Availability Block First Reduction Date until the Availability Block Second Reduction Date, $2,500,000, and (c) from and including the Availability Block Second Reduction Date, $0.
+“Availability Block FCCR” means, with respect to Borrowers and their Subsidiaries for any period of measurement, the ratio of (a) EBITDA for such period, minus Capital Expenditures (but excluding Capital Expenditures financed with the proceeds of Indebtedness for borrowed money other than Advances) made (to the extent not already incurred in a prior period) or incurred during such period, minus cash income taxes paid during such period (excluding cash tax payments (including taxes, penalties and fees) paid relative to tax years 2009 or prior, not to exceed $2,500,000), minus cash Restricted Junior Payments made during such period, to (b) Fixed Charges for such period, in each case as determined on a consolidated basis in accordance with GAAP.
+
+
+2
+
+“Availability Block FCCR Measurement Period” means, (a) from and including the Thirteenth Amendment Effective Date until the one year anniversary of the Thirteenth Amendment Effective Date, the period of time from and including the Thirteenth Amendment Effective Date through and including the applicable date of determination, and (b) from and including the one year anniversary of the Thirteenth Amendment Effective date, and at all times thereafter, the trailing twelve month period ending on the applicable date of determination.
+“Availability Block First Reduction Date” means the date on which the Availability Block FCCR has been greater than 1.10 to 1.0 for three consecutive months (or such lesser period as consented to by Agent and all Lenders in writing in their sole discretion, which writing may be in the form of electronic mail), measured as of last day of the fiscal month occurring during the applicable Availability Block FCCR Measurement Period for which interim financial statements are then required to have been delivered to Agent in accordance with Section 5.1.
+“Availability Block Second Reduction Date” means that date on which the Availability Block FCCR has been greater than 1.10 to 1.0 for six consecutive months (or such lesser period as consented to by Agent and all Lenders in writing in their sole discretion, which writing may be in the form of electronic mail), measured, in each case, as of last day of the fiscal month occurring during the applicable Availability Block FCCR Measurement Period for which interim financial statements are then required to have been delivered to Agent in accordance with Section 5.1.
+“Payment Conditions Excess Availability” means, at any time of determination, the sum of Excess Availability plus the Availability Block.
+“Tax Distribution” means that if the Stock of a Loan Party are owned by a Person that is not a Loan Party and such Loan Party has been converted to a pass-through entity for tax purposes, distributions by such Loan Party solely for the payment of income taxes by any Person as a result of its direct or indirect ownership of the Stock of such Loan Party in an amount not to exceed the Federal and State income tax paid or to be paid by the owner of Stock in a Loan Party on taxable income earned by such Loan Party and attributable to such owner as a result of such Loan Party’s “pass-through” tax status, assuming the highest marginal income tax rate for Federal and State (for the State or States in which any equity owner is liable for income taxes with respect to such income) income tax purposes, after taking into account any deduction for state income taxes in calculating the federal income tax liability and all other deductions, credits, deferrals and other reductions available to such owners from or through such Loan Parties.
+“Thirteenth Amendment” means that certain Consent and Thirteenth Amendment to Credit Agreement dated as of October 22, 2019, by and among Borrowers, Lenders and Agent, as acknowledged and agreed to by the Guarantors.
+“Thirteenth Amendment Effective Date” means October 22, 2019.
+3.2.    Susan Street Real Property Availability Amount Definition. Schedule 1.1 of the Credit Agreement is hereby amended by deleting the following definitions “Susan Street Term Loan”, “Susan Street Term Loan Documents”, “Susan Street Term Loan Guaranties”, and “Susan Street Term Loan Liens”.
+
+
+3
+
+3.3.    Borrowing Base Definition. The definition of “Borrowing Base” set forth in Schedule 1.1 of the Credit Agreement is hereby amended by restating clauses (b), (c) and (d) thereof in their entirety as set forth below, and adding new clause (e) thereto as set forth below:
+
+(b)    the lesser of: (i) $95,000,000; and (ii) the sum of (A) the lesser of (1) 70% of the value (calculated on a blended basis across Inventory categories at the lower of cost or market on a basis consistent with Borrowers’ historical accounting practices) of Eligible Landed Inventory, and (2) 85% times the most recently determined Net Liquidation Percentage times the value (calculated at the lower of cost or market on a basis consistent with Borrowers’ historical accounting practices) of Borrowers’ Eligible Landed Inventory, plus (B) the lesser of (1) $2,500,000 and (2) the lesser of (y) 70% of the aggregate undrawn amount of outstanding Qualified Import Letters of Credit, and (z) 85% times the most recently determined Net Liquidation Percentage times the value (calculated at the lower of cost or market on a basis consistent with Borrowers’ historical accounting practices) of the Eligible Inventory subject to such Qualified Import Letters of Credit, plus
+
+(c)     the sum of the Fixed Asset Availability Amount, minus
+
+(d)    the aggregate amount of reserves established by Agent under Section 2.1(c) of the Agreement, minus
+
+(e)    the Availability Block;
+
+3.4.    Eligible Real Property Definition. Schedule 1.1 of the Credit Agreement is hereby amended by restating clause (d) of the definition of “Eligible Real Property” in its entirety as follows:
+
+(d)    any parcel of Real Property with respect to which Agent has not received an appraisal consistent with the requirements set forth in the definition of Fixed Asset Availability Amount.
+
+3.5.    Fixed Asset Availability Amount Definition. Schedule 1.1 of the Credit Agreement is hereby amended by restating the definition of “Fixed Asset Availability Amount” in its entirety as follows:
+
+“Fixed Asset Availability Amount” means the lesser of (a) $11,446,296.75, and (b) the sum of (i) 85% of the net orderly liquidation value of Eligible M&E set forth in an appraisal of such Eligible M&E conducted by an appraisal company selected by Agent, plus (ii) 75% of the fair market value (as determined on the basis of a 12-month sale period) of Borrowers’ Eligible Real Property set forth in an appraisal of such Eligible Real Property conducted by an appraisal company selected by Agent, as such lesser amount is reduced on a monthly basis (on the first day of each calendar month) by $217,124.00, from and after the Thirteenth Amendment Effective Date. In no event shall any increase in the appraised value of any Eligible M&E or Eligible Real Property, as set forth in any appraisal obtained after the Tenth Amendment Effective Date, be taken into account in the calculation of the Fixed Asset Availability Amount.
+
+3.6.    Maximum Revolver Amount Definition. Schedule 1.1 of the Credit Agreement is hereby amended by restating the definition of “Maximum Revolver Amount” in its entirety as follows:
+
+
+
+4
+
+“Maximum Revolver Amount” means $120,000,000, as such amount may be increased by the amount of Additional Commitment Amounts in accordance with Section 2.2 of the Agreement or decreased by the amount of reductions in the Commitments made in accordance with Section 2.4(c) of the Agreement.
+ 3.7.    Obligations Definition. Schedule 1.1 of the Credit Agreement is hereby amended by deleting the following sentence set forth in the definition of "Obligations" in its entirety: “For clarification purposes, it is acknowledged that the Obligations shall not include the Susan Street Term Loan.”
+3.8.    Payment Conditions Definition. Schedule 1.1 of the Credit Agreement is hereby amended by restating the definition of “Payment Conditions” in its entirety as follows:
+
+“Payment Conditions” means, in the case of any applicable Restricted Payment or Investment (each, a “Payment”), the conditions precedent that:
+(a)    Payment Conditions Excess Availability equals or exceeds $35,000,000 both (i) on a pro forma basis after giving effect to such Payment and any Advance made hereunder in connection therewith as to each of the 30 days immediately preceding the date of such Payment, and (ii) immediately after giving effect to such Payment and any Advance made hereunder in connection therewith, and
+(b)    Borrowers shall have provided Agent a certificate of Administrative Borrower’s chief financial officer, in form and detail reasonably satisfactory to Agent, confirming the satisfaction of each condition precedent to the making of such Payment.
+
+3.9.    Permitted Indebtedness Definition. Schedule 1.1 of the Credit Agreement is hereby amended by restating clause (k) of the definition of “Permitted Indebtedness” in its entirety as follows:
+
+(k)    [Reserved],
+
+3.10.    Permitted Investments Definition. Schedule 1.1 of the Credit Agreement is hereby amended by restating clauses (j), (m), (n), and (o) of the definition of “Permitted Investments” in thier entirety as follows:
+
+(j)    non-cash loans to employees, officers, and directors of any Borrower or any of its Subsidiaries for the purpose of purchasing Stock in Administrative Borrower so long as (i) the proceeds of such loans are used in their entirety to purchase such stock in Administrative Borrower, and (ii) Agent has given its prior written consent to such loans, which consent may be given or withheld in Agent’s sole discretion,
+
+(m)    (i) so long as no Event of Default has occurred and is continuing or would result therefrom, the ColorMaster Purchase, (ii) so long as no Event of Default has occurred and is continuing or would result therefrom, the Robertex Acquisition, (iii) so long as no Event of Default has occurred and is continuing or would result therefrom, the Atlas Acquisition, and (iv) so long as (A) no Event of Default has occurred and is continuing or would result therefrom, (B) the Payment Conditions have been satisfied, and (C) Agent has given its prior written consent with respect thereto, which consent may be given or withheld in Agent’s sole
+
+
+5
+
+discretion, any other Investments (including Acquisitions) other than Investments in Desso Masland Hospitality and Dixie Shanghai,
+
+(n)    [Reserved]
+
+(o)    Investments of the Borrowers in Desso Masland Hospitality so long as (i) such Investments do not exceed $500,000 in the aggregate, (ii) such Investments are made within 12 months following the Ninth Amendment Effective Date, (iii) Borrowers provide at least 10 Business Days’ prior written notice to Agent of each such Investment, and (iv) Agent has given its prior written consent to such Investments, which consent may be given or withheld in Agent’s sole discretion.
+
+3.11.    Permitted Liens Definition. Schedule 1.1 of the Credit Agreement is hereby amended by inserting “and” immediately after clause (r), replacing the “and” after clause (s) with a “.”, and deleting clause (t) in its entirety.
+
+3.12.    Susan Street Real Property Availability Amount Definition. Schedule 1.1 of the Credit Agreement is hereby amended by restating the definition of “Susan Street Real Property Availability Amount” in its entirety as follows:
+“Susan Street Real Property Availability Amount” means (a) as to any period ended on or before October 31, 2019, the lesser of (i) $20,250,000, and (ii) 75% of the fair market value (as determined on the basis of a 12-month sale period) of Borrowers’ Susan Street Real Property set forth in an appraisal of such Eligible Real Property conducted by an appraisal company selected by Agent, as such lesser amount is reduced on a monthly basis by $112,500.00 on the first day of each calendar month from and after October 1, 2016, and (b) as to any period ended after October 31, 2019, $0. In no event shall any increase in the appraised value of Borrowers’ Susan Street Real Property, as set forth in any appraisal obtained after the Tenth Amendment Effective Date, be taken into account in the calculation of the Fixed Asset Availability Amount.
+
+3.13.    Susan Street Term Loan Lender Definition. Schedule 1.1 of the Credit Agreement is hereby amended by restating the definition of “Susan Street Term Loan Lender” in its entirety as follows:
+
+“Susan Street Term Loan Lender” means Wells Fargo and its successor and assigns.
+
+3.14.    Trigger Level Definition. Schedule 1.1 of the Credit Agreement is hereby amended by restating the definition of “Trigger Level” in its entirety as follows:
+“Trigger Level” means $15,000,000.
+3.15.    Amendment to Schedule C-1. Schedule C-1 of the Credit Agreement is hereby amended and restated in its entirety in the form of Schedule C-1 attached hereto.
+
+3.16.    Amendment to Section 2.1. Section 2.1(c) of the Credit Agreement is hereby amended by restating clause (iii) thereof in its entirety as follows:
+
+
+
+6
+
+(iii)    without duplication of any reduction in the Fixed Asset Availability Amount, reserves with respect to downward adjustments (as reflected in an updated appraisal received by Agent in accordance with the terms hereof) in the appraised value of Eligible Real Property or Eligible M&E,
+
+3.17.    Amendment to Section 2.11. Section 2.11(a) of the Credit Agreement is hereby amended by restating clause (ii) thereof in its entirety as follows:
+(ii)    the Letter of Credit Usage would exceed $8,500,000, or
+3.18.    Amendment to Section 6.9. Section 6.9 of the Credit Agreement is hereby amended and restated in its entirety as follows:
+
+6.9    Restricted Junior Payments. Make any Restricted Junior Payment; provided, however, that, so long as it is permitted by law, Borrowers may make the following Restricted Junior Payments:
+
+(a)    Administrative Borrower may make Restricted Junior Payments (other than Tax Restricted Junior Payments (as define below)) not to exceed $6,000,000 in the aggregate after the Thirteenth Amendment Effective Date so long as
+
+(i)    all such Restricted Junior Payments have been made on or before March 31, 2020;
+
+(ii)    no Default or Event of Default shall have occurred and be continuing or would result from any such Restricted Junior Payment; and
+
+(iii)    the Payment Conditions shall have been satisfied with respect to each such Restricted Junior Payment.
+
+(b)    So long as no Default or Event of Default shall have occurred and be continuing or would result therefrom, Borrowers may make Restricted Junior Payments consisting of Tax Distributions to Borrowers’ employees.
+
+3.19.    Amendment to Section 17. Section 17 of the Credit Agreement is hereby amended by including the following new Section 17.15 in appropriate numerical order:
+17.15    Acknowledgement Regarding Any Supported QFCs. To the extent that the Loan Documents provide support, through a guarantee or otherwise, for any Hedge Agreement or any other agreement or instrument that is a QFC (such support, “QFC Credit Support”, and each such QFC, a “Supported QFC”), the parties acknowledge and agree as follows with respect to the resolution power of the Federal Deposit Insurance Corporation under the Federal Deposit Insurance Act and Title II of the Dodd-Frank Wall Street Reform and Consumer Protection Act (together with the regulations promulgated thereunder, the “U.S. Special Resolution Regimes”) in respect of such Supported QFC and QFC Credit Support (with the provisions below applicable notwithstanding that the Loan Documents and any Supported QFC may in fact be stated to be
+
+
+7
+
+governed by the laws of the State of New York and/or of the United States or any other state of the United States):
+
+(a)    In the event a Covered Entity that is party to a Supported QFC (each, a “Covered Party”) becomes subject to a proceeding under a U.S. Special Resolution Regime, the transfer of such Supported QFC and the benefit of such QFC Credit Support (and any interest and obligation in or under such Supported QFC and such QFC Credit Support, and any rights in property securing such Supported QFC or such QFC Credit Support) from such Covered Party will be effective to the same extent as the transfer would be effective under the U.S. Special Resolution Regime if the Supported QFC and such QFC Credit Support (and any such interest, obligation and rights in property) were governed by the laws of the United States or a state of the United States. In the event a Covered Party or a BHC Act Affiliate of a Covered Party becomes subject to a proceeding under a U.S. Special Resolution Regime, Default Rights under the Loan Documents that might otherwise apply to such Supported QFC or any QFC Credit Support that may be exercised against such Covered Party are permitted to be exercised to no greater extent than such Default Rights could be exercised under the U.S. Special Resolution Regime if the Supported QFC and the Loan Documents were governed by the laws of the United States or a state of the United States. Without limitation of the foregoing, it is understood and agreed that rights and remedies of the parties with respect to a Defaulting Lender shall in no event affect the rights of any Covered Party with respect to a Supported QFC or any QFC Credit Support.
+
+(b)    As used in this Section 17.15, the following terms have the following meanings:
+“BHC Act Affiliate” of a party means an “affiliate” (as such term is defined under, and interpreted in accordance with, 12 U.S.C. 1841(k)) of such party.
+“Covered Entity” means any of the following: (i) a “covered entity” as that term is defined in, and interpreted in accordance with, 12 C.F.R. § 252.82(b); (ii) a “covered bank” as that term is defined in, and interpreted in accordance with, 12 C.F.R. § 47.3(b); or (iii) a “covered FSI” as that term is defined in, and interpreted in accordance with, 12 C.F.R. § 382.2(b).
+“Default Right” has the meaning assigned to that term in, and shall be interpreted in accordance with, 12 C.F.R. §§ 252.81, 47.2 or 382.1, as applicable.
+“QFC” has the meaning assigned to the term “qualified financial contract” in, and shall be interpreted in accordance with, 12 U.S.C. 5390(c)(8)(D).
+
+IV.        AGREEMENT REGARDING CASH DOMINION.
+
+
+8
+
+Borrowers hereby acknowledge and agree that notwithstanding anything to the contrary set forth in the Security Agreement or any of the other Loan Documents, (a) Agent is entitled to provide an Activation Instruction (as defined in the Security Agreement) as to each Controlled Account, (b) any Activation Instruction provided by Agent before the date hereof was valid and is hereby approved by each Borrower, (c) Agent shall not be required to provide any Rescission (as defined in the Security Agreement) with respect to any Activation Instruction provided notwithstanding any satisfaction of the conditions set forth in the Security Agreement regarding the Agent’s agreement to so provide any Rescission, and (d) Borrowers shall take any and all other actions reasonably requested by Agent to ensure that Agent has and/or retains dominion with respect to each of Borrowers’ bank accounts.
+
+V.        CONDITIONS PRECEDENT.
+
+This Agreement shall become effective as of the date hereof, subject to the following conditions precedent having been satisfied or waived by Agent:
+
+5.1.    Execution of Agreement. Agent shall have received fully executed counterparts of this Agreement, duly authorized, executed and delivered by each Borrower, Agent, and each Lender, and acknowledged by each Guarantor.
+
+5.2.    Consummation of the Sale Leaseback. The Sale Leaseback transaction shall have been fully consummated and 100% of the Net Cash Proceeds of the Sale Leaseback shall have been paid to Agent for application to the Obligations in accordance with Section 2.4(f) of the Credit Agreement.
+5.3.    Accuracy of Representations and Warranties. Each of the representations and warranties of the Borrowers set forth in Section 4 of the Credit Agreement shall be true and correct in all material respects (except that such materiality qualifier shall not be applicable to any representations and warranties that already are qualified or modified by materiality in the text thereof).
+
+5.4.    Other Documents. Agent shall have received such other agreements, documents, instruments, officer’s certificates, and information executed and/or delivered by the Loan Parties as Agent may reasonably request.
+
+5.5.    No Default or Event of Default. No Default or Event of Default shall have occurred and be continuing.
+
+VI.        MISCELLANEOUS.
+
+6.1.    No Additional Obligations. The Borrowers acknowledge and agree that the execution, delivery and performance of this Agreement shall not create (nor shall the Borrowers rely upon the existence of or claim or assert that there exists) any obligation of any of Agent or Lenders to consider or agree to any other amendment of or waiver or consent with respect to the Credit Agreement or any other instrument or agreement to which Agent or any Lender is a party (collectively, an “Additional Amendment” or “Consent”), and in the event that Agent and the Lenders subsequently agree to consider any requested Additional Amendment or Consent, neither the existence of this Agreement nor any other conduct of Agent or the Lenders related hereto, shall be of any force or effect on the Lenders’ consideration or decision with respect to any such requested Additional Amendment or Consent, and the Lenders shall not have any obligation whatsoever to consider or agree to any such Additional Amendment or Consent.
+
+
+
+9
+
+6.2.    Acknowledgments and Stipulations. In order to induce Agent and Lenders to enter into this Agreement, each Borrower acknowledges, stipulates and agrees that (a) the Loan Documents executed by each Borrower are legal, valid and binding obligations of such Borrower enforceable against such Borrower in accordance with their respective terms, except as enforcement may be limited by equitable principles or by bankruptcy, insolvency, reorganization, moratorium, or similar laws relating to or limiting creditors’ rights generally; (b) the Liens granted by each Borrower to Agent in the Collateral are valid and duly perfected, first priority Liens, subject only to Permitted Liens; (c) each of the recitals contained at the beginning of this Agreement is true and correct; and (d) prior to executing this Agreement, each Borrower consulted with and had the benefit of advice of legal counsel of its own selection and has relied upon the advice of such counsel, and in no part upon the representation of Agent, any Lender or any counsel to Agent or any Lender concerning the legal effects of this Agreement or any provision hereof.
+
+6.3.    Additional Representations and Warranties of the Borrowers. Each Borrower hereby represents and warrants that on the date hereof and after giving effect to the amendments and waivers contained herein: (a) the representations and warranties contained in Section 4 of the Credit Agreement shall be correct in all material respects on and as of such date as though made on and as of such date, and (b) no Default or Event of Default exists under the Credit Agreement on and as of such date. Without limitation of the preceding sentence, each Borrower hereby expressly re-affirms the validity, effectiveness and enforceability of each Loan Document to which it is a party (in each case, as the same may be modified by the terms of this Agreement).
+
+6.4.    Effect of this Agreement. Except as expressly amended pursuant hereto, no other changes or modifications to the Credit Agreement or any of the other Loan Documents are intended or implied, and in all other respects, the Credit Agreement and each of the other Loan Documents is hereby specifically ratified, restated and confirmed by all parties hereto as of the date hereof. To the extent that any provision of the Credit Agreement or any of the other Loan Documents is inconsistent with the provisions of this Agreement, the provisions of this Agreement shall control. All references in the Credit Agreement (including without limitation the Schedules thereto) to the “Agreement” and all references in the other Loan Documents to the “Credit Agreement” shall be deemed to refer to the Credit Agreement, as amended hereby.
+
+6.5.    Further Assurances. The Loan Parties shall execute and deliver such additional documents and take such additional action as may be reasonably requested by Agent to effectuate the provisions and purposes hereof.
+
+6.6.    Governing Law. THE VALIDITY OF THIS AGREEMENT, THE CONSTRUCTION, INTERPRETATION, AND ENFORCEMENT HEREOF, THE RIGHTS OF THE PARTIES HERETO WITH RESPECT TO ALL MATTERS ARISING HEREUNDER OR RELATED HERETO, AND ANY CLAIMS, CONTROVERSIES OR DISPUTES ARISING HEREUNDER OR RELATED HERETO SHALL BE DETERMINED UNDER, GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH THE LAWS OF THE STATE OF GEORGIA.
+
+6.7.    Binding Effect. This Agreement shall bind and inure to the benefit of the respective successors and permitted assigns of each of the parties hereto.
+
+6.8.    Counterparts; Electronic Execution. This Agreement may be executed in any number of counterparts and by different parties on separate counterparts, each of which, when executed and delivered, shall be deemed to be an original, and all of which, when taken together, shall constitute but one and the same agreement. Delivery of an executed counterpart of this Agreement by telefacsimile or other electronic
+
+
+10
+
+method of transmission shall be equally as effective as delivery of an original executed counterpart of this Agreement. Any party delivering an executed counterpart of this Agreement by telefacsimile or other electronic method of transmission also shall deliver an original executed counterpart of this Agreement but the failure to deliver an original executed counterpart shall not affect the validity, enforceability, and binding effect of this Agreement.
+
+[Continued on following page.]
+
+
+
+11
+
+
+Each of the parties hereto has caused a counterpart of this Agreement to be duly executed and delivered as of the date first above written.
+
+BORROWERS:
+THE DIXIE GROUP, INC.
+
+By:
+Name: Jon A. Faulkner 
+Title: VP/CFO
+
+  CANDLEWICK YARNS, LLC
+
+By:
+Name: Jon A. Faulkner 
+Title: President
+
+  TDG OPERATIONS, LLC
+
+By:
+Name: Jon A. Faulkner 
+Title: President
+
+
+
+[DIXIE—CONSENT AND THIRTEENTH AMENDMENT TO CREDIT AGREEMENT]
+
+
+
+AGENT AND LENDERS:
+WELLS FARGO CAPITAL FINANCE, LLC,
+as Agent and as a Lender
+
+By:
+Name: Zachary S. Buchanan
+Title: Authorized Signatory
+
+
+[DIXIE—CONSENT AND THIRTEENTH AMENDMENT TO CREDIT AGREEMENT]
+
+
+
+  BANK OF AMERICA, N.A.,
+as a Lender
+
+By:
+Name: Todd Tarrance
+Title: Vice President
+
+   
+     
+   
+
+[DIXIE—CONSENT AND THIRTEENTH AMENDMENT TO CREDIT AGREEMENT]
+
+
+EXHIBIT A
+SALE LEASEBACK AGREEMENT
+[SEE ATTACHED.]
+
+
+
+
+SCHEDULE C-1
+COMMITMENTS
+Lender
+Amount
+Wells Fargo Capital Finance, LLC
+$60,000,000
+Bank of America, N.A.
+$60,000,000

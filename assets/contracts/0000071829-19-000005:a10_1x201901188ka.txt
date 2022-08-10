@@ -1,0 +1,131 @@
+EX-10.1 2 a10_1x201901188ka.htm EXHIBIT 10.1
+EXHIBIT 10.1
+Execution Version
+
+LIMITED WAIVER
+This Limited Waiver (this “Limited Waiver”) is entered into effective as of January 18, 2019 (the “Effective Date”), by and among NEWPARK RESOURCES, INC., a Delaware corporation (“Newpark”), NEWPARK DRILLING FLUIDS LLC, a Texas limited liability company (“Newpark Drilling”), NEWPARK MATS & INTEGRATED SERVICES LLC, a Texas limited liability company (“Newpark Mats”), EXCALIBAR MINERALS LLC, a Texas limited liability company (“Excalibar”), and DURA-BASE NEVADA, INC., a Nevada corporation (“Dura-Base” and collectively with Newpark Drilling, Newpark Mats, Excalibar, and Newpark, the “Borrowers” and each a “Borrower”), Bank of America, N.A., as Administrative Agent (in such capacity, “Administrative Agent”), Swing Line Lender and an L/C Issuer, and the financial institutions parties hereto as Lenders (“Lenders”). Unless otherwise defined herein, all terms used herein with their initial letter capitalized shall have the meaning given such terms in the Credit Agreement (as defined below).
+W I T N E S S E T H
+WHEREAS, Borrowers, Administrative Agent and Lenders are parties to that certain Amended and Restated Credit Agreement dated as of October 17, 2017 (as amended, restated, amended and restated, extended, supplemented or otherwise modified prior to the date hereof, the “Credit Agreement”);
+WHEREAS, Newpark and Wells Fargo Bank, National Association, a national association, as trustee (the “Trustee”), are parties to that certain Indenture for the 2021 Convertible Notes dated as of December 5, 2016 (as amended or otherwise modified prior to the date hereof, the “2021 Indenture”);
+WHEREAS, Borrowers have advised Administrative Agent and Lenders that (a) Newpark failed to comply with Section 4.06(e) of the 2021 Indenture, as a result of which Newpark should have paid Additional Interest (as defined in the 2021 Indenture) at a rate equal to 0.50% per annum of the principal amount of 2021 Convertible Notes outstanding (such interest, “Incremental Accrued Interest”); (b) Newpark failed to make the payments of Incremental Accrued Interest that were due and payable on June 1, 2018 and December 1, 2018 (such payments, the “Missed Interest Payments”); (c) the Missed Interest Payments resulted in Events of Default (as defined in the 2021 Indenture) pursuant to Section 6.01(a) of the 2021 Indenture (the “Indenture Defaults”); and (d) the Indenture Defaults resulted in certain Defaults and Events of Default pursuant to, among other provisions of the Credit Agreement, Section 8.01(e) of the Credit Agreement (collectively, the “Credit Agreement Cross Defaults”);
+WHEREAS, Borrowers have requested that Administrative Agent and Lenders constituting at least the Required Lenders waive the Credit Agreement Cross Defaults and any and all Defaults, Events of Default and any other violations or departures of or from any provision of the Credit Agreement or other Loan Documents or any certificate or other document delivered in connection therewith due to the Indenture Defaults or the Missed Interest Payments, in either case, on or before the Effective Date (including as a result of the existence or non-existence of any Default or Event of Default attributable to the Indenture Defaults or the Credit Agreement Cross Defaults or the inaccuracy of any representation or warranty (including any reaffirmation thereof) regarding, or affected by, the Indenture Defaults or the Credit Agreement Cross Defaults) (collectively, the “Specified Defaults”);
+WHEREAS, subject to and upon the terms and conditions set forth herein, Lenders party hereto have agreed to enter into this Limited Waiver.
+
+US 6050457v.7 BAN177/52004
+
+NOW THEREFORE, for and in consideration of the mutual covenants and agreements herein contained and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, Borrowers, Administrative Agent, and Lenders hereto hereby agree as follows:
+Section 1.    Limited Waiver. In reliance on the representations, warranties, covenants and agreements contained in this Limited Waiver, subject to the conditions precedent set forth in Section 2 hereof, Administrative Agent and the Required Lenders hereby permanently waive the Specified Defaults for all purposes under the Loan Documents. The waiver provided in this Section 1 shall apply solely with regard to the Specified Defaults, and nothing contained in this Limited Waiver shall be deemed a consent to, or waiver of, any other action or inaction of the Borrowers or any other Loan Party that constitutes (or would constitute) a violation of or a departure from any provision of the Credit Agreement or any other Loan Document, or which constitutes (or would constitute) a Default or Event of Default. The waiver described in this Section 1 is a one-time waiver limited to the Specified Defaults. Neither Lenders nor Administrative Agent shall be obligated to grant any future waivers, consents or amendments with respect to Section 8.01(e) of the Credit Agreement or any other provision of the Credit Agreement or of any other Loan Document. Other than the waiver provided for in this Section 1, the Borrowers hereby agree and acknowledge that no course of dealing and no delay in exercising any right, power or remedy conferred on Administrative Agent or any Lender in the Credit Agreement or in any other Loan Document or now or hereafter existing at law, in equity, by statute or otherwise shall operate as a waiver of or otherwise prejudice any such right, power or remedy.
+Section 2    Conditions Precedent. The limited waiver contained in Section 1 hereof shall be subject to the satisfaction of each of the following conditions precedent:
+2.1    Counterparts. Administrative Agent shall have received counterparts of this Limited Waiver duly executed by each Borrower and Lenders constituting at least the Required Lenders.
+2.2    Interest. Administrative Agent shall have received evidence satisfactory to it that Newpark has deposited with the Trustee funds sufficient to repay the Missed Interest Payments and has thereby completed all steps within its control to make all payments required to cure the Indenture Defaults.
+2.3    No Default.     After giving effect to the waiver set forth in Section 1 hereof, no Default or Event of Default shall have occurred and is continuing.
+Section 3.    Representations and Warranties of Borrowers. To induce Lenders and Administrative Agent to enter into this Limited Waiver, Borrowers hereby represent and warrant to Lenders and Administrative Agent as of the Effective Date as follows:
+3.1    Reaffirmation of Existing Representations and Warranties. After giving effect to the waiver set forth in Section 1 hereof, each representation and warranty of each Borrower contained in the Credit Agreement and the other Loan Documents is true and correct in all material respects (except to the extent that such representations and warranties are qualified by materiality, in which case such representations and warranties are true and correct in all respects) on the date hereof, except to the extent that such representations and warranties specifically refer to an earlier date, in which case they were true and correct in all material respects as of such earlier date.
+3.2    Effect on Loan Documents. The Credit Agreement and all other Loan Documents remain in full force and effect as originally executed. Except as provided in Section 1 hereof, nothing herein shall act as a waiver of any of Administrative Agent’s or any Lender’s rights under the Loan Documents, including the waiver of any other Default or Event of Default. The Loan Parties acknowledge
+
+2
+
+and agree that this Limited Waiver shall in no manner impair or affect the validity or enforceability of the Credit Agreement.
+3.3    No Default or Event of Default. After giving effect to the waiver set forth in Section 1 hereof, no Default or Event of Default has occurred which is continuing.
+3.4    Acknowledgment of No Defenses. As of the Effective Date, no Borrower has any defense to (a) such Borrower’s obligation to pay the Obligations when due, or (b) the validity, enforceability or binding effect against each Borrower or any Loan Party of the Credit Agreement or any of the other Loan Documents (to the extent a party thereto) or any Liens intended to be created thereby.
+Section 4.    Miscellaneous.
+4.1    Reaffirmation of Loan Documents. Any and all of the terms and provisions of the Credit Agreement and the Loan Documents shall, except as modified hereby, remain in full force and effect. The waiver contemplated hereby shall not limit or impair any Lien securing the Obligations, each of which is hereby ratified and affirmed. The execution, delivery and effectiveness of this Limited Waiver shall not, except as provided herein, operate as a waiver of any right, power or remedy of any Lender or Administrative Agent under any of the Loan Documents, nor, except as provided in Section 1 hereof, constitute a waiver or amendment of any provision of any of the Loan Documents.
+4.2    Parties in Interest. All of the terms and provisions of this Limited Waiver shall bind, and inure to the benefit of, the parties hereto and their respective successors and permitted assigns.
+4.3    Counterparts. This Limited Waiver may be executed in counterparts, including, without limitation, by electronic signature, and all parties need not execute the same counterpart. Facsimiles or other electronic transmissions (e.g. .pdfs) of such executed counterparts shall be effective as originals.
+4.4    ENTIRE AGREEMENT. THIS LIMITED WAIVER AND THE OTHER LOAN DOCUMENTS REPRESENT THE FINAL AGREEMENT AMONG THE PARTIES AS TO THE SUBJECT MATTER HEREOF AND THEREOF AND MAY NOT BE CONTRADICTED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS, OR SUBSEQUENT ORAL AGREEMENTS OF THE PARTIES. THERE ARE NO UNWRITTEN ORAL AGREEMENTS AMONG THE PARTIES.
+4.5    Headings. The headings, captions and arrangements used in this Limited Waiver are for convenience only and shall not be deemed to limit, amplify or modify the terms of this Limited Waiver, nor affect the meaning thereof.
+4.6    Effectiveness. This Limited Waiver shall be effective automatically and without necessity of any further action by Borrowers, Administrative Agent or Lenders when counterparts hereof have been executed by each Borrower and the Required Lenders, and all conditions to the effectiveness hereof set forth herein have been satisfied.
+4.7    GOVERNING LAW. THIS LIMITED WAIVER SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF NEW YORK.
+4.8    Modification. On and after the Effective Date, each reference in the Credit Agreement and in any one or more of the Loan Documents to such agreements and the words “hereunder,” “hereof” or words of like import referring to the Credit Agreement or any one or more of the Loan Documents, as the case may be, shall mean and be a reference to the Credit Agreement or such other Loan Document,
+
+3
+
+as applicable, as modified by this Limited Waiver. This Limited Waiver constitutes a Loan Document for all purposes.
+4.9    RELEASE OF CLAIMS AND WAIVER OF DEFENSES. IN FURTHER CONSIDERATION OF ADMINISTRATIVE AGENT’S AND THE REQUIRED LENDERS’ EXECUTION OF THIS LIMITED WAIVER, EACH BORROWER, ON BEHALF OF ITSELF AND ITS SUCCESSORS, ASSIGNS, AFFILIATES, OFFICERS, DIRECTORS, EMPLOYEES AND AGENTS HEREBY FOREVER, FULLY, UNCONDITIONALLY AND IRREVOCABLY WAIVES AND RELEASES ADMINISTRATIVE AGENT, LENDERS AND THEIR RESPECTIVE SUCCESSORS, ASSIGNS, PARENTS, SUBSIDIARIES, AFFILIATES, OFFICERS, DIRECTORS, EMPLOYEES AND AGENTS (COLLECTIVELY, THE “RELEASEES”) FROM ANY AND ALL CLAIMS, LIABILITIES, OBLIGATIONS, DEBTS, CAUSES OF ACTION (WHETHER AT LAW OR IN EQUITY OR OTHERWISE), DEFENSES, COUNTERCLAIMS, SETOFFS, OF ANY KIND, WHETHER KNOWN OR UNKNOWN, WHETHER LIQUIDATED OR UNLIQUIDATED, MATURED OR UNMATURED, FIXED OR CONTINGENT, DIRECTLY OR INDIRECTLY ARISING OUT OF, CONNECTED WITH, RESULTING FROM OR RELATED TO ANY ACT OR OMISSION BY ADMINISTRATIVE AGENT, ANY LENDER OR ANY OTHER RELEASEE WITH RESPECT TO THE LOAN DOCUMENTS AND ANY COLLATERAL, IN EACH OF THE FOREGOING CASES OCCURRING ON OR BEFORE THE DATE OF THIS LIMITED WAIVER.
+4.10    Miscellaneous. The miscellaneous provisions set forth in Article X of the Credit Agreement apply to this Limited Waiver. This Limited Waiver may be signed in any number of counterparts, each of which shall be an original, and may be executed and delivered by telecopier or other electronic imaging means.
+[Signature Pages to Follow]
+
+
+4
+
+IN WITNESS WHEREOF, the parties hereto have caused this Limited Waiver to be duly executed by their respective authorized officers on the date and year first above written.
+NEWPARK RESOURCES, INC.
+  By: /s/ Gregg S. Piontek
+Name: Gregg S. Piontek
+Title: Chief Financial Officer and Senior Vice President
+    NEWPARK DRILLING FLUIDS LLC 
+NEWPARK MATS & INTEGRATED  
+SERVICES LLC 
+EXCALIBAR MINERALS LLC
+DURA-BASE NEVADA, INC.
+
+  By: /s/ Gregg S. Piontek
+Name: Gregg S. Piontek
+Title: Vice President
+
+
+[SIGNATURE PAGE TO LIMITED WAIVER TO CREDIT AGREEMENT – NEWPARK RESOURCES, INC.]
+
+
+BANK OF AMERICA, N.A.,
+as an L/C Issuer, a Swing Line Lender and a Lender
+  By: /s/ Ajay Jagsi
+Name: Ajay Jagsi
+Title: Vice President
+    BANK OF AMERICA, N.A.,
+as Administrative Agent
+  By: /s/ Ajay Jagsi
+Name: Ajay Jagsi
+Title: Vice President
+ 
+
+
+
+[SIGNATURE PAGE TO LIMITED WAIVER TO CREDIT AGREEMENT – NEWPARK RESOURCES, INC.]
+
+JPMORGAN CHASE BANK, N.A.,
+as a Lender
+  By: /s/ Bruce R. Cohenour, Jr.
+Name: Bruce R. Cohenour, Jr.
+Title: Authorized Officer
+
+
+
+[SIGNATURE PAGE TO LIMITED WAIVER TO CREDIT AGREEMENT – NEWPARK RESOURCES, INC.]
+
+CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH,
+as a Lender
+  By: /s/ Nupur Kumar
+Name: Nupur Kumar
+Title: Authorized Signatory
+    By: /s/ Christopher Zybrick
+Name: Christopher Zybrick
+Title: Authorized Signatory
+
+
+
+
+[SIGNATURE PAGE TO LIMITED WAIVER TO CREDIT AGREEMENT – NEWPARK RESOURCES, INC.]
+
+FIRST TENNESSEE BANK NATIONAL ASSOCIATION,
+as a Lender
+  By: /s/ Jim Norvell
+Name: Jim Norvell
+Title: Senior Vice President
+
+
+
+
+[SIGNATURE PAGE TO LIMITED WAIVER TO CREDIT AGREEMENT – NEWPARK RESOURCES, INC.]
+
+
+TEXAS CAPITAL BANK, NATIONAL ASSOCIATION,
+as a Lender
+  By: /s/ C. Graham Sones
+Name: C. Graham Sones
+Title: Senior Vice President
+
+
+
+
+[SIGNATURE PAGE TO LIMITED WAIVER TO CREDIT AGREEMENT – NEWPARK RESOURCES, INC.]

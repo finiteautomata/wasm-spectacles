@@ -1,0 +1,139 @@
+EX-10.1 2 finalactive5dixiefifte.htm EX-10.1
+10.1
+EXECUTION VERSION
+FIFTEENTH AMENDMENT TO CREDIT AGREEMENT
+
+This FIFTEENTH AMENDMENT TO CREDIT AGREEMENT (this “Agreement”), dated as of September 30, 2020, is entered into by and among THE DIXIE GROUP, INC., a Tennessee corporation (“Dixie”), TDG OPERATIONS, LLC, a Georgia limited liability company, formerly known as Masland Carpets, LLC and successor by merger to Fabrica International, Inc. (“TDG”; together with Dixie, are referred to hereinafter each individually as a “Borrower,” and individually and collectively, jointly and severally, as the “Borrowers”), the persons identified as the Lenders on the signature pages hereto (the “Lenders”), and WELLS FARGO CAPITAL FINANCE, LLC, a Delaware limited liability company, as administrative agent for the Lenders (in such capacity, together with its successors and assigns in such capacity, “Agent”).
+
+W I T N E S S E T H:
+
+WHEREAS, pursuant to the Credit Agreement dated as of September 13, 2011, as amended by the First Amendment to Credit Agreement dated as of November 2, 2012, the Second Amendment to Credit Agreement dated as of April 1, 2013, the Third Amendment to Credit Agreement dated as of May 22, 2013, the Fourth Amendment to Credit Agreement dated as of July 1, 2013, the Fifth Amendment to Credit Agreement dated as of July 30, 2013, the Sixth Amendment to Credit Agreement dated as of August 30, 2013, the Seventh Amendment to Credit Agreement dated as of January 20, 2014, the Eighth Amendment to Credit Agreement dated as of March 14, 2014, the Ninth Amendment to Credit Agreement dated as of March 26, 2014, the Tenth Amendment to Credit Agreement, First Amendment to Security Agreement, and First Amendment to Guaranty dated as of September 23, 2016, the Consent and Eleventh Amendment to Credit Agreement dated as of January 14, 2019, the Twelfth Amendment to Credit Agreement, dated as of October 3, 2019, the Consent and Thirteenth Amendment to Credit Agreement, dated as of October 22, 2019, and the Fourteenth Amendment to Credit Agreement and Second Amendment to Security Agreement, dated as of May 14, 2020 (as the same may be further amended, restated, supplemented, or otherwise modified from time to time, the “Credit Agreement”), among Agent, the Lenders, Candlewick Yarns, LLC, an Alabama limited liability company, and the Borrowers, the Lenders have made loans and advances and provided other financial accommodations to the Borrowers;
+
+WHEREAS, the Borrowers have requested that Agent and Lenders enter into this Agreement to make certain amendments to the Credit Agreement, and Agent and the Lenders are willing to do so, subject to the terms and conditions set forth herein.
+
+NOW, THEREFORE, in consideration of the agreements herein contained and other good and valuable consideration, the parties hereby agree as follows:
+
+I.    DEFINITIONS AND INTERPRETATION.
+
+1.1.     Definitions and Interpretation. Unless otherwise defined herein or the context otherwise requires, terms used in this Agreement, including its preamble and recitals, have the meanings provided in the Credit Agreement.
+
+
+
+
+
+10.1
+
+II.    AMENDMENTS TO CREDIT AGREEMENT.
+Subject to the satisfaction of each of the conditions precedent set forth in Section IV of this Agreement, the Credit Agreement is hereby amended as follows:
+2.1.     Additional Definitions. Schedule 1.1 of the Credit Agreement is hereby amended by inserting the following new defined terms therein in appropriate alphabetical order:
+“Greater Nevada Loan Date” means the date on a Permitted Fixed Asset Loan from Greater Nevada Credit Union to one or more of the Borrowers is consummated in accordance with the terms of the Fifteenth Amendment and the Net Cash Proceeds thereof have been paid to Agent for application to the Obligations in accordance with the terms of this Agreement.
+“Fifteenth Amendment” means that certain Fifteenth Amendment to Credit Agreement, dated as of the Fifteenth Amendment Effective Date, by and among, Agent, the Lenders, and the Loan Parties.
+“Fifteenth Amendment Effective Date” means September 30, 2020.
+“Flood Laws” means the National Flood Insurance Act of 1968, Flood Disaster Protection Act of 1973, and related laws, rules and regulations, including any amendments or successor provisions.
+2.2.    Ameristate Loan Date. The definition of “Ameristate Loan Date” as set forth in Schedule 1.1 of the Credit Agreement is hereby amended so that it reads, in its entirety, as follows:
+“Ameristate Loan Date” means the date on a Permitted Fixed Asset Loan from Ameristate Bank to one or more of the Borrowers is consummated in accordance with the terms of the Fifteenth Amendment and the Net Cash Proceeds thereof have been paid to Agent for application to the Obligations in accordance with the terms of this Agreement.
+2.3.    Availability Block. The definition of “Availability Block” as set forth in Schedule 1.1 of the Credit Agreement is hereby amended so that it reads, in its entirety, as follows:
+“Availability Block” means (a) from the Fifteenth Amendment Effective Date until the earlier of (i) Ameristate Loan Date and (ii) the Greater Nevada Loan Date, $5,000,000 and (b) from and after the earlier of (i) Ameristate Loan Date and (ii) the Greater Nevada Loan Date, $7,000,000.
+2.4.    Maturity Date. The first sentence of Section 3.3 of the Credit Agreement is hereby amended so that it reads, in its entirety, as follows:
+This Agreement shall continue in full force and effect for a term ending on December 22, 2021 (the “Maturity Date”).
+2.5.    Flood Insurance. Section 5.6 of the Credit Agreement is hereby amended so that it reads, in its entirety, as follows:
+
+    2
+10.1
+5.6 Insurance. At Borrowers’ expense, maintain insurance respecting each of the Loan Parties’ and their Subsidiaries’ assets wherever located, covering loss or damage by fire, theft, explosion, and all other hazards and risks as may be reasonably required by Agent. Borrowers also shall maintain (with respect to each of the Loan Parties and their Subsidiaries) business interruption, general liability, product liability insurance, director’s and officer’s liability insurance, and fiduciary liability insurance, as well as insurance against larceny, embezzlement, and criminal misappropriation. Borrowers also shall maintain flood insurance on all Real Property constituting Collateral, from such providers, in amounts and on terms in accordance with the Flood Laws or as otherwise satisfactory to Agent and all Lenders. All such policies of insurance shall be with responsible and reputable insurance companies reasonably acceptable to Agent and in such amounts as is carried generally in accordance with sound business practice by companies in similar businesses similarly situated and located and in any event in amount, adequacy and scope reasonably satisfactory to Agent. All property insurance policies covering the Collateral are to be made payable to Agent for the benefit of Agent and the Lenders, as their interests may appear, in case of loss, pursuant to a standard loss payable endorsement with a standard non contributory “lender” or “secured party” clause and are to contain such other provisions as Agent may reasonably require to fully protect the Lenders’ interest in the Collateral and to any payments to be made under such policies. All certificates of property and general liability insurance are to be delivered to Agent, with the loss payable (but only in respect of Collateral) and additional insured endorsements in favor of Agent and shall provide for not less than 30 days (10 days in the case of non-payment) prior written notice to Agent of the exercise of any right of cancellation. If any Borrower fails to maintain such insurance, Agent may arrange for such insurance, but at such Borrower’s expense and without any responsibility on Agent’s part for obtaining the insurance, the solvency of the insurance companies, the adequacy of the coverage, or the collection of claims. Borrowers shall give Agent prompt notice of any loss exceeding $1,000,000 covered by its casualty or business interruption insurance. Upon the occurrence and during the continuance of an Event of Default, Agent shall have the sole right to file claims under any property and general liability insurance policies in respect of the Collateral, to receive, receipt and give acquittance for any payments that may be payable thereunder, and to execute any and all endorsements, receipts, releases, assignments, reassignments or other documents that may be necessary to effect the collection, compromise or settlement of any claims under any such insurance policies.
+2.6.     Additional Real Property Collateral. Section 14.1 of the Credit Agreement is hereby amended by adding the following new clause (g) thereto in appropriate alphabetical order:
+(g)    No Real Property shall be taken as Collateral unless Lenders receive 45 days advance notice and each Lender confirms to Agent that such Lender has completed all flood due diligence, received copies of all flood insurance documentation and confirmed flood insurance compliance as required by the Flood Laws or as otherwise satisfactory to the Lender. At any time that any Real Property constitutes Collateral, no modification of a Loan Document shall add, increase, renew or extend any loan, commitment or credit line hereunder until the completion of flood due diligence, documentation and coverage as required by the Flood Laws or as otherwise satisfactory to all Lenders.
+
+    3
+10.1
+III.    CONDITIONS PRECEDENT.
+
+This Agreement shall become effective as of the date hereof, subject to the following conditions precedent having been satisfied or waived by Agent:
+
+3.1.     Execution of Agreement. Agent shall have received fully executed counterparts of this Agreement, duly authorized, executed and delivered by each Borrower, Agent, and each Lender, and acknowledged by each Guarantor.
+
+3.2.    Amendment Fee. Borrowers shall have paid to Agent an amendment fee, for the ratable benefit of the Lenders, in the amount of $50,000, which fee shall be fully earned as of the date hereof and non-refundable under any and all circumstances (it being understood that the Agent is hereby authorized to charge such fee to the Loan Account).
+3.3.     Accuracy of Representations and Warranties. Each of the representations and warranties of the Borrowers set forth in Section 4 of the Credit Agreement shall be true and correct in all material respects (except that such materiality qualifier shall not be applicable to any representations and warranties that already are qualified or modified by materiality in the text thereof).
+
+3.4.    Other Documents. Agent shall have received such other agreements, documents, instruments, officer’s certificates, and information executed and/or delivered by the Loan Parties as Agent may reasonably request.
+
+3.5.    No Default or Event of Default. No Default or Event of Default shall have occurred and be continuing.
+
+IV.     POST-EFFECTIVE DATE COVENANTS
+4.1.    Post-Effective Date Covenants. In addition to all other covenants and agreements of Borrowers set forth in this Agreement, Borrowers hereby covenant and agree that they shall timely comply each of the following (collectively, the “Post-Effective Date Covenants”) and any failure to so timely comply shall constitute an Event of Default:
+(a)     With respect to any consultant retained by any Borrower to perform such duties, and for such period of time, as Agent shall deem necessary in its reasonable discretion (any such consultant, a “Consultant”), (i) Borrowers shall be solely responsible for any and all of such Consultant’s fees, costs, and expenses, (ii) Borrowers shall cause Agent and Lenders to have direct and unfettered communication with such Consultant, including, without limitation, communication outside the presence of any Borrowers’ representatives, and (iii) Borrowers shall deliver (or cause such Consultant to deliver) to Agent all work product produced by such Consultant promptly after such work product is delivered by such Consultant to Borrowers.
+(b)     Borrowers shall deliver to Agent weekly (no later than the second Business Day of each calendar week) statements of cash flow (“Weekly Cash Flow Reporting”) until such time as Agent, in its sole discretion, provides written notice to Borrowers that the Weekly Cash Flow Reporting shall terminate; provided, that Agent shall not be required to terminate Weekly Cash Flow Reporting and any termination thereof shall not prohibit Agent from reinstating Weekly Cash Flow Reporting by written notice to Borrowers at such time Agent deems necessary and/or appropriate.
+
+    4
+10.1
+(c)    On or before December 31, 2020 (or such later date as agreed upon in writing by Agent in Agent’s sole discretion), Borrowers shall (i) consummate a Permitted Fixed Asset Loan from Ameristate Bank (“Ameristate”) secured by a Permitted Fixed Asset Lien on certain Real Property as approved by Agent in its Permitted Discretion (such Real Property, the “Specified Real Property”), (ii) shall deliver appraisals with respect to the Specified Real Property, each performed by an appraiser reasonably acceptable to Agent, to Agent, (iii) shall have paid all Net Cash Proceeds of such Permitted Fixed Asset Loan, in the minimum amount equal to $9,000,000, to Agent for application to the Obligations in accordance with the terms of the Credit Agreement, (iv) to cause Ameristate to execute and deliver a mortgagee’s waiver in form and substance acceptable to Agent, and (v) shall have satisfied all Partial Release Conditions with respect to such Real Property.
+(d)     On or before December 31, 2020 (or such later date as agreed upon in writing by Agent in Agent’s sole discretion), Borrowers shall (i) consummate a Permitted Fixed Asset Loan from Greater Nevada Credit Union secured by a Permitted Fixed Asset Lien on certain Equipment as approved by Agent in its Permitted Discretion (such Equipment, the “Specified Equipment”), (ii) shall deliver appraisals with respect to the Specified Equipment, each performed by an appraiser reasonably acceptable to Agent, to Agent, (iii) shall have paid all Net Cash Proceeds of such Permitted Fixed Asset Loan, in the minimum amount equal to $13,500,000, to Agent for application to the Obligations in accordance with the terms of the Credit Agreement, and (iv) shall have satisfied all Partial Release Conditions with respect to such Specified Equipment.
+The foregoing post-closing covenants in this Section 4.1 amend and restate the post-closing covenants set forth in Section 5.1 of the Fourteenth Amendment.
+4.2.    Strict Compliance. Borrower shall strictly comply with all of the obligations, covenants, terms, and provisions of this Agreement and the Loan Documents, including, without limitation, the Post-Effective Date Covenants, in a prompt, timely, and faithful manner.
+V.    MISCELLANEOUS.
+
+5.1.    No Additional Obligations. The Borrowers acknowledge and agree that the execution, delivery and performance of this Agreement shall not create (nor shall the Borrowers rely upon the existence of or claim or assert that there exists) any obligation of any of Agent or Lenders to consider or agree to any other amendment of or waiver or consent with respect to the Credit Agreement or any other instrument or agreement to which Agent or any Lender is a party (collectively, an “Additional Amendment” or “Consent”), and in the event that Agent and the Lenders subsequently agree to consider any requested Additional Amendment or Consent, neither the existence of this Agreement nor any other conduct of Agent or the Lenders related hereto, shall be of any force or effect on the Lenders’ consideration or decision with respect to any such requested Additional Amendment or Consent, and the Lenders shall not have any obligation whatsoever to consider or agree to any such Additional Amendment or Consent.
+
+5.2.    Acknowledgments and Stipulations. In order to induce Agent and Lenders to enter into this Agreement, each Borrower acknowledges, stipulates and agrees that (a) the Loan Documents executed by each Borrower are legal, valid and binding obligations of such Borrower enforceable against such Borrower in accordance with their respective terms, except as enforcement may be limited by equitable principles or by bankruptcy, insolvency, reorganization, moratorium, or similar laws relating to or limiting creditors’ rights generally; (b) the Liens granted by each Borrower to Agent in the Collateral are valid and duly perfected, first priority Liens, subject only to Permitted Liens; (c) each of the recitals contained at the beginning of this Agreement is true and correct; and (d) prior to executing this Agreement, each Borrower consulted with and had
+
+    5
+10.1
+the benefit of advice of legal counsel of its own selection and has relied upon the advice of such counsel, and in no part upon the representation of Agent, any Lender or any counsel to Agent or any Lender concerning the legal effects of this Agreement or any provision hereof.
+
+5.3.    Additional Representations and Warranties of the Borrowers. Each Borrower hereby represents and warrants that on the date hereof and after giving effect to the amendments and waivers contained herein: (a) the representations and warranties contained in Section 4 of the Credit Agreement shall be correct in all material respects on and as of such date as though made on and as of such date, and (b) no Default or Event of Default exists under the Credit Agreement on and as of such date. Without limitation of the preceding sentence, each Borrower hereby expressly re-affirms the validity, effectiveness and enforceability of each Loan Document to which it is a party (in each case, as the same may be modified by the terms of this Agreement).
+
+5.4.    Effect of this Agreement. Except as expressly amended pursuant hereto, no other changes or modifications to the Credit Agreement or any of the other Loan Documents are intended or implied, and in all other respects, the Credit Agreement and each of the other Loan Documents is hereby specifically ratified, restated and confirmed by all parties hereto as of the date hereof. To the extent that any provision of the Credit Agreement or any of the other Loan Documents is inconsistent with the provisions of this Agreement, the provisions of this Agreement shall control. All references in the Credit Agreement (including without limitation the Schedules thereto) to the “Agreement” and all references in the other Loan Documents to the “Credit Agreement” shall be deemed to refer to the Credit Agreement, as amended hereby.
+
+5.5.    Further Assurances. The Loan Parties shall execute and deliver such additional documents and take such additional action as may be reasonably requested by Agent to effectuate the provisions and purposes hereof.
+
+5.6.    Governing Law. THE VALIDITY OF THIS AGREEMENT, THE CONSTRUCTION, INTERPRETATION, AND ENFORCEMENT HEREOF, THE RIGHTS OF THE PARTIES HERETO WITH RESPECT TO ALL MATTERS ARISING HEREUNDER OR RELATED HERETO, AND ANY CLAIMS, CONTROVERSIES OR DISPUTES ARISING HEREUNDER OR RELATED HERETO SHALL BE DETERMINED UNDER, GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH THE LAWS OF THE STATE OF GEORGIA.
+
+5.7.    Binding Effect. This Agreement shall bind and inure to the benefit of the respective successors and permitted assigns of each of the parties hereto.
+
+5.8.    Counterparts; Electronic Execution. This Agreement may be executed by means of (a) an electronic signature that complies with the federal Electronic Signatures in Global and National Commerce Act, state enactments of the Uniform Electronic Transactions Act, or any other relevant and applicable electronic signatures law; (b) an original manual signature; or (c) a faxed, scanned, or photocopied manual signature. Each electronic signature or faxed, scanned, or photocopied manual signature shall for all purposes have the same validity, legal effect, and admissibility in evidence as an original manual signature. The Agent reserves the right, in its sole discretion, to accept, deny, or condition acceptance of any electronic signature on this Agreement. This Agreement may be executed in any number of counterparts, each of which shall be deemed to be an original, but such counterparts shall, together, constitute only one instrument. Delivery of an executed counterpart of a signature page of this Agreement as set forth herein will be as effective as delivery of a manually executed counterpart of the Agreement. Each of the parties hereto represents and warrants to the other parties that it has the corporate capacity and authority to execute the Agreement through electronic means and there are no restrictions for doing so in that party’s constitutive documents.
+
+    6
+10.1
+5.9.    Release of Claims. In consideration of the agreements contained hereunder, each Borrower hereby irrevocably releases and forever discharges Agent, each Lender and their respective affiliates, subsidiaries, successors, assigns, directors, officers, employees, agents, consultants and attorneys (each, a “Released Person”) of and from any and all claims, suits, actions, investigations, proceedings or demands, whether based in contract, tort, implied or express warranty, strict liability, criminal or civil statute or common law of any kind or character, known or unknown, which such Borrower ever had or now has against Agent, any Lender or any other Released Person which relates, directly or indirectly, to any acts or omissions of Agent, any Lender or any other Released Person relating to the Credit Agreement or any other Loan Document on or prior to the date hereof.
+
+[Continued on following page.]
+
+
+    7
+
+Each of the parties hereto has caused a counterpart of this Agreement to be duly executed and delivered as of the date first above written.
+
+BORROWERS:
+THE DIXIE GROUP, INC.
+
+By:/s/ Jon A. Faulkner
+Name: Jon A. Faulkner
+Title: Vice President
+
+TDG OPERATIONS, LLC
+
+By:/s/ Jon A. Faulkner
+Name: Jon A. Faulkner
+Title: Vice President and Manager
+
+
+
+
+
+AGENT AND LENDERS:
+WELLS FARGO CAPITAL FINANCE, LLC,
+as Agent and as a Lender
+
+By:/s/ Zachary S. Buchanan
+Name: Zachary S. Buchanan
+Title: Authorized Signatory
+
+
+
+
+BANK OF AMERICA, N.A.,
+as a Lender
+
+By:/s/ Todd Tarrance
+Name: Todd Tarrance
+Title: Senior Vice President

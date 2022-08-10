@@ -1,0 +1,915 @@
+EX-99.4 5 exhibit994.htm EXHIBIT 99.4
+EXHIBIT 99.4
+
+
+OMNIBUS AMENDMENT NO. 3 to
+AMENDED AND RESTATED CREDIT AGREEMENT (THREE-YEAR FACILITY),
+AMENDMENT NO. 2 TO LOCAL CURRENCY ADDENDUM
+and
+AMENDMENT NO. 3 to JAPAN LOCAL CURRENCY ADDENDUM
+
+This OMNIBUS AMENDMENT NO. 3 TO AMENDED AND RESTATED CREDIT AGREEMENT (THREE-YEAR FACILITY), AMENDMENT NO. 2 TO LOCAL CURRENCY ADDENDUM and AMENDMENT NO. 3 TO JAPAN LOCAL CURRENCY ADDENDUM (this “Amendment”), dated as of September 10, 2018, is entered into by and among:
+(i)    Caterpillar Inc. (“Caterpillar”);
+(ii)    Caterpillar Financial Services Corporation (“CFSC”);
+(iii)    Caterpillar Finance Kabushiki Kaisha (“CFKK”);
+(iv)    Caterpillar International Finance Designated Activity Company (“CIF” and together with Caterpillar, CFSC and CFKK, the “Borrowers”);
+(v)    the Banks, Local Currency Banks and Japan Local Currency Banks party to the Existing Credit Agreement referenced below (collectively, the “Existing Banks”);
+(vi)    MUFG Bank, Ltd. (formerly known as The Bank of Tokyo-Mitsubishi UFJ, Ltd.), as Japan Local Currency Agent (the “Japan Local Currency Agent”) and as Japan Local Currency Bank (the “Japan Local Currency Bank”) under the Existing Credit Agreement;
+(vii)    Citibank Europe plc, UK Branch, as Local Currency Agent (the “Local Currency Agent”) under the Existing Credit Agreement;
+(viii)    Citibank, N.A., as Agent (the “Administrative Agent” and together with the Japan Local Currency Agent and the Local Currency Agent, the “Agents”) under the Existing Credit Agreement; and
+(ix)    each party hereto as a “New Bank” (as defined below).
+PRELIMINARY STATEMENTS
+The Borrowers, the Existing Banks and the Agents are parties to the Amended and Restated Credit Agreement (Three-Year Facility) dated as of September 10, 2015 (as amended, restated, supplemented or otherwise modified from time to time prior to the date hereof, the “Existing Credit Agreement”).
+CFSC, CIF, the Local Currency Banks, the Administrative Agent and the Local Currency Agent are parties to the Local Currency Addendum dated as of September 10, 2015 (as
+
+
+
+
+amended, restated, supplemented or otherwise modified from time to time prior to the date hereof, the “Existing Local Currency Addendum”).
+CFSC, CFKK, the Japan Local Currency Banks, the Administrative Agent and the Japan Local Currency Agent are parties to the Japan Local Currency Addendum dated as of September 10, 2015 (as amended, restated, supplemented or otherwise modified from time to time prior to the date hereof, the “Existing Japan Local Currency Addendum”).
+The Borrowers have requested that the Existing Credit Agreement, the Existing Local Currency Addendum and the Existing Japan Local Currency Addendum be amended as hereinafter set forth.
+The Existing Credit Agreement, as amended by this Amendment, is referred to herein as the “Amended Credit Agreement”. The Existing Local Currency Addendum, as amended by this Amendment, is referred to herein as the “Amended Local Currency Addendum”. The Existing Japan Local Currency Addendum, as amended by this Amendment, is referred to herein as the “Amended Japan Local Currency Addendum”.
+The Departing Banks (as defined below), if any, wish to terminate their respective Commitments and Revolving Credit Commitments under the Existing Credit Agreement and cease to be “Banks” party to the Existing Credit Agreement on the date hereof.
+The New Banks, if any, wish to become parties to the Amended Credit Agreement as “Banks” on the date hereof.
+Accordingly, in consideration of the premises set forth above, the terms and conditions contained herein, and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto hereby agree as follows.
+SECTION 1.Defined Terms. Each capitalized term used herein and not defined herein shall have the meaning ascribed thereto in the Existing Credit Agreement.
+SECTION 2.    Departing Banks and New Banks.
+2.1.    The Existing Banks, including, without limitation, the Departing Banks (as defined below), hereby agree that the Administrative Agent shall have full power and authority to allocate the Commitments and Revolving Credit Commitments of the Existing Banks as in effect immediately prior to the date hereof such that, immediately after giving effect to such allocations on the date hereof, each Existing Bank (other than the Departing Banks) and each New Bank (as defined below) shall hold the “Commitment” and the “Revolving Credit Commitment” set forth next to its name on Schedule I hereto. The Existing Banks, including, without limitation, the Departing Banks, further agree to make all assignments and/or transfers, and hereby consent to any such assignments and transfers, which may be necessary (including, without limitation, assignments of funded obligations) to effect the allocations described in the preceding sentence.
+
+2
+
+
+2.2.    Without limiting the foregoing, upon the effectiveness of this Amendment, each Departing Bank’s Commitments and Revolving Credit Commitments under the Existing Credit Agreement immediately prior to giving effect to this Amendment shall be terminated. No Departing Bank shall be a “Bank” party to the Amended Credit Agreement and the Departing Banks shall no longer have any rights or obligations under the Amended Credit Agreement (other than rights and obligations under those provisions of the Amended Credit Agreement that expressly survive termination thereof, which shall survive).
+2.3.    Each New Bank hereby acknowledges and agrees that, by its execution of this Amendment, (i) such New Bank will be deemed to be a party to the Amended Credit Agreement as a “Bank”, (ii) such New Bank shall have all of the obligations of a “Bank” under the Amended Credit Agreement as if it had executed the same and (iii) such New Bank shall hold the “Commitment” and the “Revolving Credit Commitment” set forth next to its name on Schedule I hereto. Each New Bank hereby agrees to be bound by all of the terms, provisions and conditions applicable to “Banks” contained in the Amended Credit Agreement.
+2.4.    For purposes of this Amendment:
+(a)
+“Departing Bank” means each Existing Bank that executes and delivers to the Administrative Agent a signature page to this Amendment on which it is indicated that such Existing Bank is a “Departing Bank”; and
+(b)
+“New Bank” means each financial institution that executes and delivers to the Administrative Agent a signature page to this Amendment on which it is indicated that such financial institution is a “New Bank”.
+SECTION 3.    Amendments to the Existing Credit Agreement. Effective as of the date hereof, subject to the satisfaction of the conditions precedent set forth in Section 7 below, the Existing Credit Agreement is hereby amended as follows:
+3.1.    Each reference to “BTMU” appearing in the Existing Credit Agreement is hereby replaced with “MUFG”.
+3.2.    Each reference to “The Bank of Tokyo-Mitsubishi UFJ, Ltd.” appearing in the Existing Credit Agreement is hereby replaced with “MUFG Bank, Ltd. (formerly known as The Bank of Tokyo-Mitsubishi UFJ, Ltd.)”.
+3.3.    Clause (d) of the definition of “Base Rate” set forth in Section 1.01 of the Existing Credit Agreement is hereby amended and restated in its entirety to read as follows:
+(d)    as long as none of the conditions described in Section 2.10(c) or (d) or Section 2.15(c) shall exist, the Eurocurrency Rate for a Borrowing in Dollars on such date for a one-month Interest Period (or if such date is not a Business Day, on the preceding Business Day) plus 1%; provided that, for the avoidance of doubt, the Eurocurrency Rate for any day shall be based on the Reuters Screen LIBOR01 Page (or on any successor or substitute page) at approximately 11:00 a.m. (London time) on such day.
+
+3
+
+
+3.4.    The definition of “BTMU” set forth in Section 1.01 of the Existing Credit Agreement is hereby deleted in its entirety.
+3.5.    Section 1.01 of the Existing Credit Agreement is hereby amended to insert or amend and restate, as applicable, the following definitions in the appropriate alphabetical order:
+“Amendment No. 3 Effective Date” means September 10, 2018.
+“Beneficial Ownership Certification” means a certification regarding beneficial ownership as required by the Beneficial Ownership Regulation.
+“Beneficial Ownership Regulation” means 31 C.F.R. § 1010.230.
+“LIBOR Successor Rate” has the meaning specified in Section 2.15(c).
+“LIBOR Successor Rate Conforming Changes” means, with respect to any proposed LIBOR Successor Rate, any conforming changes to the definitions of Base Rate, Eurocurrency Base Rate, Eurocurrency Rate and Interest Period and any defined terms used therein, timing and frequency of determining rates and making payments of interest and other administrative matters as may be appropriate, in the discretion of the Agent, to reflect the adoption of such LIBOR Successor Rate and to permit the administration thereof by the Agent in a manner substantially consistent with market practice (or, if the Agent determines that adoption of any portion of such market practice is not administratively feasible or that no market practice for the administration of such LIBOR Successor Rate exists, in such other manner of administration as the Agent determines in consultation with the Borrowers).
+“MUFG” means MUFG Bank, Ltd. (formerly known as The Bank of Tokyo-Mitsubishi UFJ, Ltd.).
+“Other Credit Agreements” means (a) that certain Credit Agreement (2018 364-Day Facility), dated as of September 6, 2018, among the Borrowers, as borrowers thereunder, certain financial institutions party thereto, MUFG, as Japan Local Currency Agent, Citibank Europe plc, UK Branch, as Local Currency Agent, and Citibank, as agent for such banks, and (b) that certain Amended and Restated Credit Agreement (Five-Year Facility), dated as of September 10, 2015 (the “Five Year Agreement”), among the Borrowers, as borrowers thereunder, certain financial institutions party thereto, MUFG, as Japan Local Currency Agent, Citibank Europe plc, UK Branch, as Local Currency Agent, and Citibank, as agent for such banks, in each case, as the same may be amended, restated, supplemented or otherwise modified from time to time.
+“Plan Asset Regulations” means 29 CFR § 2510.3-101 et seq., as modified by Section 3(42) of ERISA, as amended from time to time.
+“Scheduled Unavailability Date” has the meaning specified in Section 2.15(c)(ii).
+
+4
+
+
+“Termination Date” means, with respect to any Bank at any time, September 8, 2021.
+3.6.    Section 2.15 of the Existing Credit Agreement is hereby amended to insert the following clause (c) immediately after clause (b) appearing therein:
+(c)    Notwithstanding anything to the contrary in this Agreement, the Local Currency Addendum, or the Japan Local Currency Addendum, if the Agent determines (which determination shall be conclusive absent manifest error), or the Majority Banks notify the Agent (with a copy to the Borrowers) that the Majority Banks have determined, that:
+(i)    adequate and reasonable means do not exist for ascertaining the Eurocurrency Rate for any requested Interest Period, including, without limitation, because the Eurocurrency Base Rate is not available or published on a current basis and such circumstances are unlikely to be temporary; or
+(ii)    the supervisor for the administrator of the Eurocurrency Base Rate or a Governmental Authority having jurisdiction over the Agent has made a public statement identifying a specific date after which the Eurocurrency Base Rate shall no longer be made available, or used for determining the interest rate of loans (such specific date, the “Scheduled Unavailability Date”),
+then, after such determination by the Agent or receipt by the Agent of such notice, as applicable, the Agent and the Borrowers may amend this Agreement to replace the Eurocurrency Base Rate with an alternate benchmark rate (including any mathematical or other adjustments to the benchmark (if any) incorporated therein) that has been broadly accepted by the syndicated loan market in the United States in lieu of the Eurocurrency Base Rate provided, that, if such alternate benchmark rate as so determined is below zero, it will be deemed to be zero for purposes of this Agreement (any such proposed rate, a “LIBOR Successor Rate”), together with any proposed LIBOR Successor Rate Conforming Changes and, notwithstanding anything to the contrary in Section 8.01, any such amendment shall become effective at 5:00 p.m. (New York time) on the fifth Business Day after the Agent shall have posted such proposed amendment to all Banks and the Borrowers unless, prior to such time, Banks comprising the Majority Banks have delivered to the Agent notice that such Majority Banks do not accept such amendment.
+If no LIBOR Successor Rate has been determined and the circumstances under clause (i) above exist, the obligation of the Banks to make or maintain Eurocurrency Rate Advances shall be suspended (to the extent of the affected Eurocurrency Rate Advances or Interest Periods).  Upon receipt of such notice, the Borrowers may revoke any pending request for a Eurocurrency Borrowing of, conversion to or continuation of Eurocurrency Rate Advances (to the extent of the affected Eurocurrency Rate Advances or Interest Periods) or, failing that, will be deemed to have converted such request into a request for a Borrowing of Base Rate Advances in Dollars in the Equivalent Amount specified therein.
+
+5
+
+
+3.7.    Section 4.01(e) of the Existing Credit Agreement is hereby amended to insert the following sentence immediately after the last sentence appearing therein:
+As of the Amendment No. 3 Effective Date, the information included in the Beneficial Ownership Certification is true and correct in all respects.
+3.8.    Section 4.01(h) of the Existing Credit Agreement is hereby amended to insert the following sentence immediately after the last sentence appearing therein:
+None of the Borrowers nor any of their respective Subsidiaries is an entity deemed to hold “plan assets” (within the meaning of the Plan Asset Regulations), and neither the execution, delivery or performance of the transactions contemplated under this Agreement, including the making of any Advance hereunder, will give rise to a non-exempt prohibited transaction under Section 406 of ERISA or Section 4975 of the Code.
+3.9.    Section 5.01(f) of the Existing Credit Agreement is hereby amended (a) to delete the word “and” appearing at the end of clause (ix) therein; (b) to insert “; and” in place of the period appearing at the end of clause (x) therein; and (c) to insert the following new clause (xi) immediately after clause (x) appearing therein:
+(xi)    together with each delivery of any financial statements pursuant to clause (ii) above, any change in the information provided in the Beneficial Ownership Certification that would result in a change to the list of beneficial owners identified in parts (c) or (d) of such certification.
+3.10.    Article VII of the Existing Credit Agreement is hereby amended to insert the following new Section 7.10 immediately after Section 7.09 appearing therein:
+SECTION 7.10    Bank ERISA Matters (a) Each Bank (x) represents and warrants, as of the date such Person became a Bank party hereto, to, and (y) covenants, from the date such Person became a Bank party hereto to the date such Person ceases being a Bank party hereto, for the benefit of, the Agent, and each Arranger and their respective Affiliates, and not, for the avoidance of doubt, to or for the benefit of the Borrowers, that at least one of the following is and will be true:
+(i)    such Bank is not using “plan assets” (within the meaning of the Plan Asset Regulations or otherwise) of one or more Benefit Plans with respect to such Bank’s entrance into, participation in, administration of and performance of the Advances, the Commitments or this Agreement,
+(ii)    the transaction exemption set forth in one or more PTEs, such as PTE 84-14 (a class exemption for certain transactions determined by independent qualified professional asset managers), PTE 95-60 (a class exemption for certain transactions involving insurance company general accounts), PTE 90-1 (a class exemption for certain transactions involving insurance company pooled separate accounts), PTE 91-38 (a class exemption for certain transactions involving bank
+
+6
+
+
+collective investment funds) or PTE 96-23 (a class exemption for certain transactions determined by in-house asset managers), is applicable with respect to such Bank’s entrance into, participation in, administration of and performance of the Advances, the Commitments and this Agreement, and the conditions for exemptive relief thereunder are and will continue to be satisfied in connection therewith,
+(iii)    (A) such Bank is an investment fund managed by a “Qualified Professional Asset Manager” (within the meaning of Part VI of PTE 84-14), (B) such Qualified Professional Asset Manager made the investment decision on behalf of such Bank to enter into, participate in, administer and perform the Advances, the Commitments and this Agreement, (C) the entrance into, participation in, administration of and performance of the Advances, the Commitments and this Agreement satisfies the requirements of sub-sections (b) through (g) of Part I of PTE 84-14 and (D) to the best knowledge of such Bank, the requirements of subsection (a) of Part I of PTE 84-14 are satisfied with respect to such Bank’s entrance into, participation in, administration of and performance of the Advances, the Commitments and this Agreement, or
+(iv)    such other representation, warranty and covenant as may be agreed in writing between the Agent, in its sole discretion, and such Bank.
+(b)    In addition, unless either (1) sub-clause (i) in the immediately preceding clause (a) is true with respect to a Bank or (2) a Bank has provided another representation, warranty and covenant in accordance with sub-clause (iv) in the immediately preceding clause (a), such Bank further (x) represents and warrants, as of the date such Person became a Bank party hereto, to, and (y) covenants, from the date such Person became a Bank party hereto to the date such Person ceases being a Bank party hereto, for the benefit of, the Agent, and each Arranger and their respective Affiliates, and not, for the avoidance of doubt, to or for the benefit of the Borrowers, that none of the Agent, or any Arranger or any of their respective Affiliates is a fiduciary with respect to the assets of such Bank involved in such Bank’s entrance into, participation in, administration of and performance of the Advances, the Commitments and this Agreement (including in connection with the reservation or exercise of any rights by the Agent under this Agreement, the Local Currency Addendum, the Japan Local Currency Addendum or any documents related to hereto or thereto).
+As used in this Section, the following terms shall have the following meanings:
+“Benefit Plan” means any of (a) an “employee benefit plan” (as defined in Section 3(3) of ERISA) that is subject to Title I of ERISA, (b) a “plan” as defined in and subject to Section 4975 of the Code or (c) any Person whose assets include (for purposes of the Plan Asset Regulations or otherwise for purposes of Title I of ERISA or Section 4975 of the Code) the assets of any such “employee benefit plan” or “plan”.
+“PTE” means a prohibited transaction class exemption issued by the U.S. Department of Labor, as any such exemption may be amended from time to time.
+
+7
+
+
+3.11.    Schedule I to the Existing Credit Agreement is hereby amended and restated in its entirety as Schedule I hereto.
+3.12.    Exhibit B-3 to the Existing Credit Agreement is hereby amended to amend and restate the notice information for The Bank of Tokyo-Mitsubishi UFJ, Ltd. appearing in the header thereto to read in its entirety as follows:
+“MUFG Bank, Ltd. (formerly known as
+The Bank of Tokyo-Mitsubishi UFJ, Ltd.),
+as Japan Local Currency Agent
+Osaka Corporate Banking Group
+Osaka Corporate Banking Division No. 3, Corporate Banking Department No. 3
+3-5-6, Fushimimachi, Chuo-ku, Osaka-shi, Osaka 541-8530, Japan
+Attention: Mr. Kazuki Takehara”
+SECTION 4.    Amendments to the Existing Local Currency Addendum. Effective as of the date hereof, subject to the satisfaction of the conditions precedent set forth in Section 7 below, the Existing Local Currency Addendum is hereby amended as follows:
+4.1.    The reference to “The Bank of Tokyo-Mitsubishi UFJ, Ltd.” appearing in the Existing Local Currency Addendum is hereby replaced with “MUFG Bank, Ltd. (formerly known as The Bank of Tokyo-Mitsubishi UFJ, Ltd.)”.
+4.2.    Section 4.02 of the Existing Local Currency Addendum is hereby amended and restated in its entirety as follows:
+SECTION 4.02 Assignments. (a) Section 8.07 of the Credit Agreement shall apply to assignments by Local Currency Banks of obligations, Local Currency Commitments and Advances hereunder; provided, however, that a Local Currency Bank may not assign any obligations, Local Currency Commitments or rights hereunder to any Person which is not (or does not simultaneously become) a Bank under the Credit Agreement.
+(b)     Any reference in this Addendum to “Bank of America Merrill Lynch International Limited” is a reference to its successor in title Bank of America Merrill Lynch International Designated Activity Company (including, without limitation, its branches) pursuant to and with effect from the merger between Bank of America Merrill Lynch International Limited and Bank of America Merrill Lynch International Designated Activity Company that takes effect in accordance with Chapter II, Title II of Directive (EU) 2017/1132 (which repeals and codifies the Cross-Border Mergers Directive (2005/56/EC)), as implemented in the United Kingdom and Ireland.  Notwithstanding anything to the contrary in this Addendum, a transfer of rights and obligations from Bank of America Merrill Lynch International Limited to Bank of America Merrill Lynch International Designated Activity Company pursuant to such merger shall be permitted.
+
+8
+
+
+SECTION 5.    Amendments to the Existing Japan Local Currency Addendum. Effective as of the date hereof, subject to the satisfaction of the conditions precedent set forth in Section 7 below, the Existing Japan Local Currency Addendum is hereby amended as follows:
+5.1.    Each reference to “The Bank of Tokyo-Mitsubishi UFJ, Ltd.” appearing in the Existing Japan Local Currency Addendum is hereby replaced with “MUFG Bank, Ltd. (formerly known as The Bank of Tokyo-Mitsubishi UFJ, Ltd.)”.
+5.2.    Section 4.03(c) of the Existing Japan Local Currency Addendum is hereby amended and restated in its entirety to read as follows:
+“(c)    if to the Japan Local Currency Agent, at MUFG Bank, Ltd. (formerly known as The Bank of Tokyo-Mitsubishi UFJ, Ltd.), Osaka Corporate Banking Group, Osaka Corporate Banking Division No. 3, Corporate Banking Department No. 3, 3-5-6, Fushimimachi, Chuo-ku, Osaka-shi, Osaka 541-8530, Japan, Attention: Mr. Kazuki Takehara (Telecopy No.: 06-6206-9039 / 81-06-6206-9039) (Telephone No.: 06-6206-9036 / 81-06-6206-9036) with a copy to the Agent at its address and facsimile number or electronic mail address referenced in Section 8.02 of the Credit Agreement;”
+5.3.    Schedule I to the Existing Japan Local Currency Addendum is hereby amended to amend and restate the Applicable Japan Local Currency Lending Office information appearing therein in its entirety to read as follows:
+“MUFG Bank, Ltd. (formerly known as
+The Bank of Tokyo-Mitsubishi UFJ, Ltd.),
+Osaka Corporate Banking Group
+Osaka Corporate Banking Division No. 3
+Corporate Banking Department No. 3
+3-5-6, Fushimimachi, Chuo-ku, Osaka-shi, Osaka 541-
+8530, Japan
+Attention: Mr. Kazuki Takehara
+(Telephone No.: 06-6206-9036 / 81-06-6206-9036)
+(Facsimile No.: 06-6206-9039 / 81-06-6206-9039)”
+SECTION 6.    Reaffirmation of CFSC Guaranty. CFSC hereby reaffirms all of its obligations under Article IX of the Amended Credit Agreement and acknowledges and agrees that such obligations remain in full force and effect and are hereby ratified, reaffirmed and confirmed.
+SECTION 7.    Conditions Precedent. This Amendment shall become effective and be deemed effective as of the date hereof (the “Amendment Effective Date”) upon the Administrative Agent’s receipt of the following:
+7.1.    duly executed counterparts of this Amendment from each Borrower, the Agents, each Existing Bank and each New Bank;
+
+9
+
+
+7.2.    evidence reasonably satisfactory to the Administrative Agent that all principal, accrued interest, fees, expenses, costs and other amounts outstanding under the terms of the Credit Agreement (2017 364-Day Facility) dated as of September 7, 2017 among the Borrowers and the other parties thereto, accrued to the date hereof, shall have been paid, and the commitments of the lenders thereunder to extend credit shall have terminated;
+7.3.    the Administrative Agent shall have received, for the account of each applicable Bank, any upfront fees to be paid by any Borrower to such Banks in connection with this Amendment;
+7.4.    certified copies of the resolutions of the Board of Directors of each Borrower evidencing corporate authority to execute and deliver this Amendment;
+7.5.    an opinion letter of counsel for each of Caterpillar and CFSC, given upon their express instructions, substantially in the form of Exhibit A hereto;
+7.6.    an opinion letter of Mayer Brown LLP, counsel for the Borrowers, given upon their express instructions, in form and substance reasonably acceptable to the Administrative Agent; and
+7.7.    a Beneficial Ownership Certification in relation to each Borrower that qualifies as a “legal entity customer” under the Beneficial Ownership Regulation, to the extent such documentation is requested at least five (5) Business Days prior to the Amendment Effective Date.
+SECTION 8.    Covenants, Representations and Warranties of the Borrowers.
+8.1.    Upon the effectiveness of this Amendment, each Borrower hereby reaffirms all covenants, representations and warranties made by it in the Amended Credit Agreement, the Amended Local Currency Addendum and the Amended Japan Local Currency Addendum and agrees that all such covenants, representations and warranties shall be deemed to have been re-made as of the date hereof.
+8.2.    Each Borrower hereby represents and warrants that (a) this Amendment constitutes a legal, valid and binding obligation of such Borrower, enforceable against such Borrower in accordance with its terms, except as enforceability thereof may be limited by applicable bankruptcy, insolvency, reorganization, moratorium or similar laws relating to or affecting creditor’s rights generally and by the effect of general principles of equity and (b) on the date hereof, no Event of Default exists with respect to such Borrower and no event exists which, with the giving of notice, the lapse of time or both, would constitute an Event of Default with respect to such Borrower.
+SECTION 9.    Reference to and Effect on the Existing Credit Agreement, the Existing Local Currency Addendum and the Existing Japan Local Currency Addendum.
+9.1.    Upon the effectiveness of this Amendment, each reference in the Amended Credit Agreement to “this Agreement”, “hereunder”, “hereof”, “herein” or words of like import shall mean and be a reference to the Existing Credit Agreement as amended hereby, and each
+
+10
+
+
+reference to any such agreement in any other document, instrument or agreement executed and/or delivered in connection with such agreement shall mean and be a reference to such agreement as amended hereby.
+9.2.    Upon the effectiveness of this Amendment, each reference in the Amended Local Currency Addendum to “this Agreement”, “hereunder”, “hereof”, “herein” or words of like import shall mean and be a reference to the Existing Local Currency Addendum as amended hereby, and each reference to any such agreement in any other document, instrument or agreement executed and/or delivered in connection with such agreement shall mean and be a reference to such agreement as amended hereby.
+9.3.    Upon the effectiveness of this Amendment, each reference in the Amended Japan Local Currency Addendum to “this Agreement”, “hereunder”, “hereof”, “herein” or words of like import shall mean and be a reference to the Existing Japan Local Currency Addendum as amended hereby, and each reference to any such agreement in any other document, instrument or agreement executed and/or delivered in connection with such agreement shall mean and be a reference to such agreement as amended hereby.
+9.4.    Except as specifically amended above, the Existing Credit Agreement, the Existing Local Currency Addendum, the Existing Japan Local Currency Addendum, the Notes and all other documents, instruments and agreements executed and/or delivered in connection therewith shall remain in full force and effect and are hereby ratified and confirmed.
+9.5.    The execution, delivery and effectiveness of this Amendment shall not operate as a waiver of any right, power or remedy of any party under the Existing Credit Agreement, the Existing Local Currency Addendum, the Existing Japan Local Currency Addendum, the Notes or any other document, instrument or agreement executed in connection therewith, nor constitute a waiver of any provision contained therein, except as specifically set forth herein.
+SECTION 10.    Execution in Counterparts. This Amendment may be executed in any number of counterparts and by different parties hereto in separate counterparts, each of which when so executed and delivered shall be deemed to be an original and all of which taken together shall constitute one and the same instrument. A facsimile or PDF copy of any signature hereto shall have the same effect as the original of such signature.
+SECTION 11.    Governing Law. This Amendment shall be governed by and construed in accordance with the law of the State of New York without regard for conflict of law principles that would result in the application of any law other than the internal law of the State of New York.
+SECTION 12.    Headings. Section headings in this Amendment are included herein for convenience of reference only and shall not constitute a part of this Amendment for any other purpose.
+The remainder of this page is intentionally blank.
+
+11
+
+
+IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be executed by their respective officers or representatives thereunto duly authorized as of the date first above written.
+CATERPILLAR INC.
+By: /s/ Richard D. Moore
+Name: Richard D. Moore
+Title: Treasurer
+CATERPILLAR FINANCIAL
+SERVICES CORPORATION
+By: /s/ Jill L. Harlan
+Name: Jill L. Harlan
+Title: Treasurer
+CATERPILLAR INTERNATIONAL FINANCE DESIGNATED ACTIVITY COMPANY
+
+By: /s/ Jill L. Harlan
+Name: Jill L. Harlan
+Title: Director
+CATERPILLAR FINANCE KABUSHIKI KAISHA
+
+By: /s/ Jill L. Harlan
+Name: Jill L. Harlan
+Title: Director
+
+
+Signature Page to
+Omnibus Amendment No. 3 to Caterpillar Credit Agreement (Three-Year Facility),
+Amendment No. 2 to Local Currency Addendum
+and Amendment No. 3 to Japan Local Currency Addendum
+
+
+CITIBANK, N.A., as Administrative Agent
+By: /s/ Susan M. Olsen
+Name: Susan M. Olsen
+Title: Vice President
+
+Signature Page to
+Omnibus Amendment No. 3 to Caterpillar Credit Agreement (Three-Year Facility),
+Amendment No. 2 to Local Currency Addendum
+and Amendment No. 3 to Japan Local Currency Addendum
+
+
+CITIBANK EUROPE PLC, UK BRANCH, as Local Currency Agent
+By: /s/ Raya Brody
+Name: Raya Brody
+Title: Vice President
+
+Signature Page to
+Omnibus Amendment No. 3 to Caterpillar Credit Agreement (Three-Year Facility),
+Amendment No. 2 to Local Currency Addendum
+and Amendment No. 3 to Japan Local Currency Addendum
+
+
+MUFG BANK, LTD. (FORMERLY KNOWN AS THE BANK OF TOKYO-MITSUBISHI UFJ, LTD.), as Japan Local Currency Agent
+
+By: /s/ Yoshikazu Shimauchi
+Name: Yoshikazu Shimauchi
+Title: Managing Director, Head of Osaka
+Corporate Banking Division No.3
+
+                            
+
+Signature Page to
+Omnibus Amendment No. 3 to Caterpillar Credit Agreement (Three-Year Facility),
+Amendment No. 2 to Local Currency Addendum
+and Amendment No. 3 to Japan Local Currency Addendum
+
+
+CITIBANK, N.A., as a Bank and a Local Currency Bank
+
+
+By: /s/ Susan M. Olsen
+Name: Susan M. Olsen
+Title: Vice President
+
+
+
+
+
+Signature Page to
+Omnibus Amendment No. 3 to Caterpillar Credit Agreement (Three-Year Facility),
+Amendment No. 2 to Local Currency Addendum
+and Amendment No. 3 to Japan Local Currency Addendum
+
+
+BANK OF AMERICA, N.A., as a Bank
+
+
+By: /s/ Brian Lukehart
+Name: Brian Lukehart
+Title: Director
+
+
+Signature Page to
+Omnibus Amendment No. 3 to Caterpillar Credit Agreement (Three-Year Facility),
+Amendment No. 2 to Local Currency Addendum
+and Amendment No. 3 to Japan Local Currency Addendum
+
+
+BANK OF AMERICA MERRILL LYNCH INTERNATIONAL LIMITED, as a Local Currency Bank
+
+
+By: /s/ Gary Saint
+Name: Gary Saint
+Title: Director
+
+
+Signature Page to
+Omnibus Amendment No. 3 to Caterpillar Credit Agreement (Three-Year Facility),
+Amendment No. 2 to Local Currency Addendum
+and Amendment No. 3 to Japan Local Currency Addendum
+
+
+JPMORGAN CHASE BANK, N.A., as a Bank and a Local Currency Bank
+
+
+By: /s/ Gene Riego de Dios
+Name: Gene Riego de Dios
+Title: Executive Director
+
+
+
+
+
+
+Signature Page to
+Omnibus Amendment No. 3 to Caterpillar Credit Agreement (Three-Year Facility),
+Amendment No. 2 to Local Currency Addendum
+and Amendment No. 3 to Japan Local Currency Addendum
+
+
+BARCLAYS BANK PLC, as a Bank and a Local Currency Bank
+
+
+
+By: /s/ Craig Malloy
+Name: Craig Malloy
+Title: Director
+
+
+
+
+Signature Page to
+Omnibus Amendment No. 3 to Caterpillar Credit Agreement (Three-Year Facility),
+Amendment No. 2 to Local Currency Addendum
+and Amendment No. 3 to Japan Local Currency Addendum
+
+
+SOCIÉTÉ GÉNÉRALE, as a Bank and a Local Currency Bank
+
+
+
+By: /s/ Kimberly Metzger
+Name: Kimberly Metzger
+Title: Director
+
+
+
+
+
+Signature Page to
+Omnibus Amendment No. 3 to Caterpillar Credit Agreement (Three-Year Facility),
+Amendment No. 2 to Local Currency Addendum
+and Amendment No. 3 to Japan Local Currency Addendum
+
+
+MUFG BANK, LTD. (FORMERLY KNOWN AS THE BANK OF TOKYO-MITSUBISHI UFJ, LTD.), as a Bank
+
+By: /s/ Mark Campbell
+Name: Mark Campbell
+Title: Authorized Signature
+ MUFG BANK, LTD. (FORMERLY KNOWN AS THE BANK OF TOKYO-MITSUBISHI UFJ, LTD.), as a Japan Local Currency Bank
+
+By: /s/ Youshikazu Shimauchi
+Name: Youshikazu Shimauchi
+Title : Managing Director, Head of Osaka
+Corporate Banking Division No.3
+
+
+Signature Page to
+Omnibus Amendment No. 3 to Caterpillar Credit Agreement (Three-Year Facility),
+Amendment No. 2 to Local Currency Addendum
+and Amendment No. 3 to Japan Local Currency Addendum
+
+
+AUSTRALIA AND NEW ZEALAND
+BANKING GROUP LIMITED, as a Bank
+
+
+By: /s/ Robert Grillo
+Name: Robert Grillo
+Title: Director
+
+Signature Page to
+Omnibus Amendment No. 3 to Caterpillar Credit Agreement (Three-Year Facility),
+Amendment No. 2 to Local Currency Addendum
+and Amendment No. 3 to Japan Local Currency Addendum
+
+
+BNP PARIBAS, as a Bank and a Local Currency Bank
+
+
+By: /s/ Todd Grossnickle
+Name: Todd Grossnickle
+Title: Director
+
+
+By: /s/ Emma Petersen
+Name: Emma Petersen
+Title: Director
+
+
+
+
+Signature Page to
+Omnibus Amendment No. 3 to Caterpillar Credit Agreement (Three-Year Facility),
+Amendment No. 2 to Local Currency Addendum
+and Amendment No. 3 to Japan Local Currency Addendum
+
+
+HSBC BANK USA, NATIONAL
+ASSOCIATION, as a Bank
+
+
+By: /s/ Matthew McLaurin
+Name: Matthew McLaurin
+Title: Director
+
+
+Signature Page to
+Omnibus Amendment No. 3 to Caterpillar Credit Agreement (Three-Year Facility),
+Amendment No. 2 to Local Currency Addendum
+and Amendment No. 3 to Japan Local Currency Addendum
+
+
+ROYAL BANK OF CANADA, as a Bank
+
+
+By: /s/ Philippe Pepin
+Name: Philippe Pepin
+Title: Authorized Signature
+
+ROYAL BANK OF CANADA, acting through its London Branch, as a Local Currency Bank
+
+
+By: /s/ Philippe Pepin
+Name: Philippe Pepin
+Title: Authorized Signature
+
+
+
+
+Signature Page to
+Omnibus Amendment No. 3 to Caterpillar Credit Agreement (Three-Year Facility),
+Amendment No. 2 to Local Currency Addendum
+and Amendment No. 3 to Japan Local Currency Addendum
+
+
+TORONTO DOMINION (TEXAS) LLC, as a Bank
+
+
+
+By: /s/ Annie Dorval
+Name: Annie Dorval
+Title: Authorized Signatory
+
+
+
+Signature Page to
+Omnibus Amendment No. 3 to Caterpillar Credit Agreement (Three-Year Facility),
+Amendment No. 2 to Local Currency Addendum
+and Amendment No. 3 to Japan Local Currency Addendum
+
+
+U.S. BANK NATIONAL ASSOCIATION, as a Bank
+
+
+By: /s/ Mary Ann Hawley
+Name: Mary Ann Hawley
+Title: Vice President
+
+
+Signature Page to
+Omnibus Amendment No. 3 to Caterpillar Credit Agreement (Three-Year Facility),
+Amendment No. 2 to Local Currency Addendum
+and Amendment No. 3 to Japan Local Currency Addendum
+
+
+COMMERZBANK AG, NEW YORK BRANCH, as a Bank and a Local Currency Bank
+
+
+By: /s/ Anne Culver
+Name: Anne Culver
+Title: Vice President
+
+
+By: /s/ Tak Cheng
+Name: Tak Cheng
+Title: Assistant Vice President
+
+
+
+
+Signature Page to
+Omnibus Amendment No. 3 to Caterpillar Credit Agreement (Three-Year Facility),
+Amendment No. 2 to Local Currency Addendum
+and Amendment No. 3 to Japan Local Currency Addendum
+
+
+DEUTSCHE BANK AG NEW YORK BRANCH, as a Bank
+
+By: /s/ Ming K. Chu
+Name: MIng K. Chu
+Title: Director
+
+By: /s/ Douglas Darman
+Name: Douglas Darman
+Title: Director
+
+
+                        
+Signature Page to
+Omnibus Amendment No. 3 to Caterpillar Credit Agreement (Three-Year Facility),
+Amendment No. 2 to Local Currency Addendum
+and Amendment No. 3 to Japan Local Currency Addendum
+
+
+ING BANK N.V., DUBLIN BRANCH, as a Bank
+
+
+By: /s/ Shaun Hawley
+Name: Shaun Hawley
+Title: Director
+
+
+By: /s/ Sean Hassett
+Name: Sean Hassett
+Title: Director
+
+
+Signature Page to
+Omnibus Amendment No. 3 to Caterpillar Credit Agreement (Three-Year Facility),
+Amendment No. 2 to Local Currency Addendum
+and Amendment No. 3 to Japan Local Currency Addendum
+
+
+LLOYDS BANK CORPORATE MARKET plc,
+as a New Bank, a Bank and a Local Currency Bank
+
+
+By: /s/ Kamala Basdeo
+Name: Kamala Basdeo
+Title: Assistant Manager
+
+
+By: /s/ Erin Walsh
+Name: Erin Walsh
+Title: Assistant Vice President
+
+Signature Page to
+Omnibus Amendment No. 3 to Caterpillar Credit Agreement (Three-Year Facility),
+Amendment No. 2 to Local Currency Addendum
+and Amendment No. 3 to Japan Local Currency Addendum
+
+
+BANCO BILBAO VIZCAYA ARGENTARIA
+S.A., NEW YORK BRANCH, as a Bank
+
+
+By: /s/ Brian Crowley
+Name: Brian Crowley
+Title: Managing Director
+                        
+
+By: /s/ Miriam Trautmann
+Name: Mariam Trautmann
+Title: Senior Vice President
+
+
+
+Signature Page to
+Omnibus Amendment No. 3 to Caterpillar Credit Agreement (Three-Year Facility),
+Amendment No. 2 to Local Currency Addendum
+and Amendment No. 3 to Japan Local Currency Addendum
+
+
+MIZUHO BANK, LTD., as a Bank
+
+
+By: /s/ Donna DeMagistris
+Name: Donna DeMagistris
+Title: Authorized Signatory
+
+Signature Page to
+Omnibus Amendment No. 3 to Caterpillar Credit Agreement (Three-Year Facility),
+Amendment No. 2 to Local Currency Addendum
+and Amendment No. 3 to Japan Local Currency Addendum
+
+
+THE NORTHERN TRUST COMPANY, as a Bank
+
+
+By: /s/ Keith L. Burson
+Name: Keith L. Burson
+Title: Senior Vice President
+
+Signature Page to
+Omnibus Amendment No. 3 to Caterpillar Credit Agreement (Three-Year Facility),
+Amendment No. 2 to Local Currency Addendum
+and Amendment No. 3 to Japan Local Currency Addendum
+
+
+KBC BANK NV, NEW YORK BRANCH, as a Bank and a Local Currency Bank
+
+
+By: /s/ William Cavanaugh
+Name: William Cavanaugh
+Title: Director
+
+
+By: /s/ Francis Payne
+Name: Francis Payne
+Title: Managing Director
+
+
+Signature Page to
+Omnibus Amendment No. 3 to Caterpillar Credit Agreement (Three-Year Facility),
+Amendment No. 2 to Local Currency Addendum
+and Amendment No. 3 to Japan Local Currency Addendum
+
+
+STANDARD CHARTERED BANK, as a Bank
+
+By: /s/ Daniel Mattern
+Name: Daniel Mattern
+Title: Associate Director,    
+Standard Chartered Bank
+
+ 
+
+
+
+
+                        
+Signature Page to
+Omnibus Amendment No. 3 to Caterpillar Credit Agreement (Three-Year Facility),
+Amendment No. 2 to Local Currency Addendum
+and Amendment No. 3 to Japan Local Currency Addendum
+
+
+CHINA CONSTRUCTION BANK CORPORATION, BEIJING BRANCH, as a Bank
+
+
+By: /s/ Powei Wu
+Name: Powei Wu
+Title: Vice-President
+
+Signature Page to
+Omnibus Amendment No. 3 to Caterpillar Credit Agreement (Three-Year Facility),
+Amendment No. 2 to Local Currency Addendum
+and Amendment No. 3 to Japan Local Currency Addendum
+
+
+INDUSTRIAL AND COMMERCIAL BANK OF CHINA LIMITED, NEW YORK BRANCH, as a Bank
+
+
+By: /s/ Kan Chen
+Name: Kan Chen
+Title: Vice President
+
+
+By: /s/ Gang Duan
+Name: Gang Duan
+Title: Executive Director
+
+Signature Page to
+Omnibus Amendment No. 3 to Caterpillar Credit Agreement (Three-Year Facility),
+Amendment No. 2 to Local Currency Addendum
+and Amendment No. 3 to Japan Local Currency Addendum
+
+
+THE BANK OF NEW YORK MELLON, as a Bank
+
+
+By: /s/ Daniel Koller
+Name: Daniel Koller
+Title: Vice President
+
+
+
+
+Signature Page to
+Omnibus Amendment No. 3 to Caterpillar Credit Agreement (Three-Year Facility),
+Amendment No. 2 to Local Currency Addendum
+and Amendment No. 3 to Japan Local Currency Addendum
+
+
+WESTPAC BANKING CORPORATION, as a Bank
+
+
+By: /s/ Su-Lin Watson
+Name: Su-Lin Watson
+Title: Director
+
+Signature Page to
+Omnibus Amendment No. 3 to Caterpillar Credit Agreement (Three-Year Facility),
+Amendment No. 2 to Local Currency Addendum
+and Amendment No. 3 to Japan Local Currency Addendum
+
+
+ITAU UNIBANCO S.A., NEW YORK BRANCH, as a Bank
+
+
+By: /s/ Ciro Mello
+Name: Ciro Mello
+Title: General Manager
+
+
+By: /s/ Jorge Vera
+Name: Jorge Vera
+Title: Vice President
+
+Signature Page to
+Omnibus Amendment No. 3 to Caterpillar Credit Agreement (Three-Year Facility),
+Amendment No. 2 to Local Currency Addendum
+and Amendment No. 3 to Japan Local Currency Addendum
+
+
+THE BANK OF NOVA SCOTIA, as a Bank
+
+
+By: /s/ Laura Gimena
+Name: Laura Gimena
+Title: Director, Corporate Banking
+
+
+Signature Page to
+Omnibus Amendment No. 3 to Caterpillar Credit Agreement (Three-Year Facility),
+Amendment No. 2 to Local Currency Addendum
+and Amendment No. 3 to Japan Local Currency Addendum
+
+
+WELLS FARGO BANK, NATIONAL ASSOCIATION, as a Bank
+
+
+By: /s/ Emma Clifford
+Name: Emma Clifford
+Title: Director
+
+ 
+Signature Page to
+Omnibus Amendment No. 3 to Caterpillar Credit Agreement (Three-Year Facility),
+Amendment No. 2 to Local Currency Addendum
+and Amendment No. 3 to Japan Local Currency Addendum
+
+
+LLOYDS BANK PLC (formerly LLOYDS TSB BANK plc), as a Departing Bank
+
+
+By: /s/ Kamala Basdeo
+Name: Kamala Basdeo
+Title: Assistant Manager
+
+
+By: /s/ Erin Walsh
+Name: Erin Walsh
+Title: Assistant Vice President
+
+
+Schedule I
+
+COMMITMENTS
+BANK
+COMMITMENT
+REVOLVING CREDIT COMMITMENT
+Citibank, N.A.
+$221,000,000.00
+$195,500,000.00
+Bank of America, N.A.
+$221,000,000.00
+$201,500,000.00
+JPMorgan Chase Bank, N.A.
+$221,000,000.00
+$195,500,000.00
+Barclays Bank PLC
+$195,000,000.00
+$172,500,000.00
+MUFG Bank, Ltd.
+$195,000,000.00
+$120,000,000.00
+Société Générale
+$195,000,000.00
+$175,500,000.00
+BNP Paribas
+$110,500,000.00
+$106,750,000.00
+Deutsche Bank AG New York Branch
+$110,500,000.00
+$110,500,000.00
+HSBC Bank USA, National Association
+$110,500,000.00
+$110,500,000.00
+ING Bank N.V. Dublin Branch
+$110,500,000.00
+$110,500,000.00
+Lloyds Bank Corp Market plc
+$110,500,000.00
+$100,000,000.00
+Royal Bank of Canada
+$110,500,000.00
+$100,000,000.00
+Toronto Dominion (Texas) LLC
+$110,500,000.00
+$110,500,000.00
+U.S. Bank National Association
+$110,500,000.00
+$110,500,000.00
+Commerzbank AG, New York Branch
+$84,500,000.00
+$76,250,000.00
+The Northern Trust Company
+$65,000,000.00
+$65,000,000.00
+Mizuho Bank, Ltd.
+$58,500,000.00
+$58,500,000.00
+Wells Fargo Bank, National Association
+$58,500,000.00
+$58,500,000.00
+Australia and New Zealand Banking Group Limited
+$39,000,000.00
+$39,000,000.00
+The Bank of Nova Scotia
+$39,000,000.00
+$39,000,000.00
+KBC Bank NV, New York Branch
+$39,000,000.00
+$34,500,000.00
+Standard Chartered Bank
+$39,000,000.00
+$39,000,000.00
+China Construction Bank Corporation Beijing Branch
+$32,500,000.00
+$32,500,000.00
+Industrial and Commercial Bank of China Limited, New York Branch
+$32,500,000.00
+$32,500,000.00
+Westpac Banking Corporation
+$32,500,000.00
+$32,500,000.00
+Banco Bilbao Vizcaya Argentaria, S.A. New York Branch
+$26,000,000.00
+$26,000,000.00
+The Bank of New York Mellon
+$26,000,000.00
+$26,000,000.00
+Itau Unibanco S.A., New York Branch
+$26,000,000.00
+$26,000,000.00
+Total
+$2,730,000,000.00
+$2,505,000,000.00
+
+EXHIBIT A
+FORM OF OPINION OF COUNSEL
+FOR EACH OF CATERPILLAR AND CFSC
+September 10, 2018
+
+
+To the Banks listed on Schedule I hereto
+and to Citibank, N.A., as Agent[, Citibank
+Europe plc, UK Branch, as Local Currency Agent, and
+MUFG Bank, Ltd. (formerly known as
+The Bank of Tokyo-Mitsubishi UFJ, Ltd.),
+as Japan Local Currency Agent]
+
+Re: [Name of Applicable Borrower]
+
+Ladies and Gentlemen:
+I am in-house counsel for [Name of Applicable Borrower], a Delaware corporation (the “Borrower”), and give this opinion pursuant to Section 7.5 of the Omnibus Amendment No. 3 to Amended and Restated Credit Agreement (Three-Year Facility), Amendment No. 2 to Local Currency Addendum and Amendment No. 3 to Japan Local Currency Addendum, dated as of September 10, 2018 (the “Amendment”), among the Borrower, [Caterpillar Inc./Caterpillar Financial Services Corporation], Caterpillar International Finance Designated Activity Company, Caterpillar Finance Kabushiki Kaisha, the Existing Banks parties thereto, the New Banks parties thereto, Citibank Europe plc, UK Branch, as Local Currency Agent, MUFG Bank, Ltd. (formerly known as The Bank of Tokyo-Mitsubishi UFJ, Ltd.), as Japan Local Currency Agent, and Citibank, N.A., as Agent for said Banks. Terms defined in the Amended Credit Agreement (as defined below) are used herein as therein defined.
+I have examined the Amendment, the Amended and Restated Credit Agreement (Three-Year Facility) dated as of September 10, 2015 (as amended, restated, supplemented or otherwise modified prior to the date hereof, the “Original Credit Agreement”); [the Local Currency Addendum, dated as of September 10, 2015 (as amended, restated, supplemented or otherwise modified prior to the date hereof, the “Original Local Currency Addendum”); the Japan Local Currency Addendum, dated as of September 10, 2015 (as amended, restated, supplemented or otherwise modified prior to the date hereof, the “Original Japan Local Currency Addendum”);] the documents furnished by the Borrower pursuant to Section 7 of the Amendment; the [[Restated] Certificate of Incorporation] of the Borrower and any amendments thereto, as currently in effect (the “Charter”); and the [bylaws] of the Borrower and any amendments thereto, as currently in effect (the “Bylaws”). In addition, I have examined the originals, or copies certified to my satisfaction, of such other corporate records of the Borrower, certificates of public officials, and agreements, instruments and other documents, and have conducted such other investigations of fact and law, as I have deemed necessary or advisable for purposes of this opinion letter.
+The Original Credit Agreement, as amended by the Amendment, is referred to herein as the “Amended Credit Agreement”. The Original Local Currency Addendum, as amended by the Amendment, is referred to herein as the “Amended Local Currency Addendum”. The Original Japan Local Currency Addendum, as amended by the Amendment, is referred to herein as the “Amended Japan Local Currency Addendum”.
+In rendering my opinion, I have assumed the due authorization, execution and delivery of each document referred to herein by all parties to such document other than the Borrower.
+Based upon the foregoing, and subject to the comments and qualifications set forth below, it is my opinion that:
+1.    The Borrower is a corporation duly organized, validly existing and in good standing under the laws of the State of Delaware and is duly qualified to transact business and is in good standing as a foreign corporation in each of the jurisdictions listed in Schedule II to this opinion letter.
+2.    The execution and delivery by the Borrower of the Amendment and performance by the Borrower of the Amendment [,][and] the Amended Credit Agreement [, the Amended Local Currency Addendum and the Amended Japan Local Currency Addendum] are within the Borrower’s corporate powers, have been duly authorized by all necessary corporate action, and do not contravene, or constitute a default under (i) the Charter or the Bylaws or (ii) in any material respect, the General Corporation Law of the State of Delaware or any United States Federal or [New York State][Tennessee] law, rule or regulation applicable to the Borrower (I express no opinion relating to the United States federal securities laws or any state securities or Blue Sky laws), (iii) any agreement filed as an exhibit to the Borrower’s annual report on Form 10-K, filed with the U.S. Securities and Exchange Commission (the “Commission”) on February 15, 2018, or any agreement filed or incorporated by reference as an exhibit to a filing of the Borrower under Section 13 or Section 15(d) of the Securities Exchange Act of 1934, as amended, with the Commission from February 15, 2018 up to and including the date hereof, or (iv) any material judgment, injunction order or decree binding upon the Borrower.
+3.    No authorization, approval or other action by, and no notice to or filing with, any governmental authority or regulatory body of the United States[,][or] the State of Delaware [or the State of New York] that in my experience would normally be applicable to general business entities is required for the execution and delivery by the Borrower of the Amendment and performance by the Borrower of the Amendment [,][and] the Amended Credit Agreement [, the Amended Local Currency Addendum and the Amended Japan Local Currency Addendum] (but I express no opinion relating to any state securities or Blue Sky laws).
+4.    The Amendment has been duly executed and delivered by a duly authorized officer of the Borrower. Assuming that the Agent, the Local Currency Agent, the Japan Local Currency Agent, and each Bank party to the Amendment have duly executed and delivered the Amendment and that each such Bank has notified the Agent that such Bank has executed the Amendment, each of the Amendment [,][and] the Amended Credit Agreement [, the Amended Local Currency Addendum and the Amended Japan Local Currency Addendum], is the valid and binding obligation of the Borrower enforceable against the Borrower in accordance with its terms.
+5.    There is no pending or, to my actual knowledge, threatened action or proceeding affecting the Borrower or any of its Subsidiaries before any court, governmental agency or arbitrator, which purports to affect the legality, validity or enforceability of the Amendment [,][or] the Amended Credit Agreement [, the Amended Local Currency Addendum or the Amended Japan Local Currency Addendum,] or which is reasonably likely to materially adversely affect (i) the financial condition or operations of the Borrower and its consolidated Subsidiaries taken as a whole or (ii) the ability of the Borrower to perform its obligations under the Amendment [,][or] the Amended Credit Agreement [, the Amended Local Currency Addendum and the Amended Japan Local Currency Addendum].
+Insofar as the foregoing opinions relate to the valid existence and good standing of the Borrower, they are based solely on the certificates from public officials attached hereto as Exhibit A. Insofar as the foregoing opinions relate to the validity, binding effect or enforceability of any agreement or obligation of the Borrower, such opinions are subject to (i) applicable bankruptcy, insolvency and similar laws affecting creditors’ rights generally and to general principles of equity and (ii) limitations under applicable law or public policy on waivers of rights or defenses.
+I express no opinion as to (i) Sections 2.13 and 8.05 of the Amended Credit Agreement[, or any comparable provisions of the Amended Japan Local Currency Addendum or the Amended Local Currency Addendum], insofar as they provide that any Bank purchasing a participation from another Bank pursuant thereto may exercise set-off or similar rights with respect to such participation or that any Affiliate of a Bank may exercise set-off or similar rights with respect to such Bank’s claims under the Amended Credit Agreement[, the Amended Japan Local Currency Addendum or the Amended Local Currency Addendum]; (ii) Section 2.12(c), 7.09 or 8.04(c) of the Amended Credit Agreement[, or any comparable provisions of the Amended Japan Local Currency Addendum or the Amended Local Currency Addendum], to the extent that any such section may be construed as requiring indemnification with respect to a claim, damage, liability or expense incurred as a result of any violation of law by a Bank[,][or] the Agent [the Local Currency Agent or the Japan Local Currency Agent]; (iii) Section 8.08(c) of the Amended Credit Agreement [or any comparable provisions of the Amended Japan Local Currency Addendum or the Amended Local Currency Addendum], insofar as [any] such provision relates to the subject matter jurisdiction of the United States District Court to adjudicate any controversy related to the Amended Credit Agreement; (iv) Sections 8.10 or 8.12, [or ]the last sentence of Section 8.08(b) of the Amended Credit Agreement [or any comparable provisions of the Amended Japan Local Currency Addendum or the Amended Local Currency Addendum] or (v) clauses (B) and (C) of Section 8.08(c) of the Amended Credit Agreement, insofar as either such clause relates to the submission to jurisdiction in any Illinois State or United States federal court sitting in Chicago, Illinois (and any appellate court hearing appeals from any such court) or any United States federal court sitting in Nashville, Tennessee (and any appellate court hearing appeals from any such court), as applicable.
+For the purposes of my opinion above as it pertains to the enforceability of the provisions contained in Section 8.08 of the Amended Credit Agreement (and any similar provisions contained in the Amended Local Currency Addendum or the Amended Japan Local Currency Addendum) pursuant to which the parties thereto agree that the laws of the State of New York shall govern such documents, I have assumed that the parties did not enter into any of the agreements described herein with knowledge or deliberate ignorance of the illegality of such document in its place of performance.
+[For Cat Financial:][I am qualified to practice law in the State of Tennessee and do not purport to be an expert on, or to express any opinion concerning, any laws other than the law of the State of Tennessee, the General Corporation Law of the State of Delaware and the federal law of the United States. Insofar as the opinions expressed in paragraphs 2, 3 and 4 above relate to matters which are governed by the laws of the State of New York, I have assumed for purposes of rendering such opinions that the applicable laws of the State of New York are substantially identical to the laws of the State of Tennessee.]
+[For Caterpillar Inc.:] [In rendering the opinion in numbered paragraph 2, I have assumed that to the extent any document referred to in clause (iii) of numbered paragraph 2 is governed by the law of a jurisdiction other than those referred to in the following paragraph, such document would be interpreted in accordance with its plain meaning.]
+[The foregoing opinions are limited to the federal law of the United States of America, the law of the State of [New York][Tennessee] and the General Corporation Law of the State of Delaware.]
+This opinion letter is limited to the matters expressly set forth herein, and no opinion is implied or may be inferred beyond the matters expressly set forth herein. The opinions expressed herein are being delivered to you as of the date hereof in connection with the transactions described hereinabove and are solely for your benefit in connection with the transactions described hereinabove and may not be relied on, used, circulated, quoted or otherwise referred to in any manner or for any purpose by any other Person, nor any copies published, communicated or otherwise made available in whole or in part to any other Person without my specific prior written consent, except that (A) you may furnish copies hereof, (i) to your independent auditors and attorneys, (ii) upon the request of any state or federal authority or official having regulatory jurisdiction over you, (iii) pursuant to order or legal process of any court or governmental agency and (iv) to any of your permitted or prospective assigns and/or participants in respect of the Amended Credit Agreement, the Amended Japan Local Currency Addendum and the Amended Local Currency Addendum and (B) assignees that become Banks party to the Amended Credit Agreement pursuant to Section 8.07 thereof may rely on this opinion as if addressed to them on the date hereof, on the condition and understanding that (i) this opinion letter speaks only as of the date hereof as described below and (ii) any such reliance by a future assignee must be actual and reasonable under the circumstances existing at the time such person becomes an assignee, including any changes in law, facts or any other developments known to or reasonably knowable by such person at such time. I assume no obligation to advise you or any other person, or to make any investigations, as to any legal developments or factual matters arising subsequent to the date hereof that might affect the opinions expressed herein.
+Very truly yours,
+
+
+Schedule I
+
+Schedule II
+
+
+
+[Caterpillar Inc.
+Alabama
+Arizona
+California
+Georgia
+Illinois
+Indiana
+Kentucky
+Minnesota
+Mississippi
+Nebraska
+North Carolina
+South Carolina
+Tennessee
+Texas
+Virginia
+Wisconsin]
+
+
+
+
+
+[Cat Financial
+Tennessee]
+
+
+
+
+
+Exhibit A
+Good Standing Certificates
+See attached.
+
+Signature Page to
+Omnibus Amendment No. 3 to Caterpillar Credit Agreement (Three-Year Facility),
+Amendment No. 2 to Local Currency Addendum
+and Amendment No. 3 to Japan Local Currency Addendum

@@ -1,0 +1,338 @@
+EX-10.1 2 a201903218kexhibit101.htm EXHIBIT 10.1
+
+
+FIRST AMENDMENT
+TO
+AMENDED AND RESTATED CREDIT AGREEMENT
+and
+Amended and Restated Security Agreement
+This First Amendment to Amended and Restated Credit Agreement and Amended and Restated Security Agreement (this “Amendment”), is entered into as of March 20, 2019 (the “First Amendment Effective Date”), by Newpark Resources, Inc., a Delaware corporation (“Newpark”), Newpark Drilling Fluids LLC, a Texas limited liability company (“Newpark Drilling”), Newpark Mats & Integrated Services LLC, a Texas limited liability company (“Newpark Mats”), Excalibar Minerals LLC, a Texas limited liability company (“Excalibar”), and Dura-Base Nevada, Inc., a Nevada corporation (“Dura-Base” and collectively with Newpark Drilling, Newpark Mats, Excalibar, and Newpark, the “Borrowers” and each a “Borrower”), the undersigned lenders party to the A&R Credit Agreement described below, and Bank of America, N.A., as Administrative Agent (in such capacity, the “Administrative Agent”), Swing Line Lender and an L/C Issuer.
+INTRODUCTION
+A.    The Borrowers, the Administrative Agent and the undersigned lenders (collectively, the “Lenders” and each individually, a “Lender”), are parties to that certain Amended and Restated Credit Agreement dated as of October 17, 2017 (as amended, amended and restated, supplemented or otherwise modified from time to time prior to the date hereof, the “A&R Credit Agreement”).
+B.    The Borrowers desire to amend the A&R Credit Agreement as set forth herein, in order to, among other things, increase the aggregate commitments to $200,000,000, and to amend the Security Agreement (as such term is defined in the A&R Credit Agreement) as set forth herein.
+C.    The Administrative Agent and the Lenders are willing to amend the A&R Credit Agreement and the Security Agreement on the terms and conditions set forth in this Amendment.
+THEREFORE, in connection with the foregoing and for other good and valuable consideration, the Borrowers, the Lenders, and the Administrative Agent hereby agree as follows:
+Section 1.Definitions; References. Unless otherwise defined in this Amendment, each term used in this Amendment that is defined in the A&R Credit Agreement has the meaning assigned to such term in the A&R Credit Agreement.
+
+Section 2.Amendments to A&R Credit Agreement.
+(a)Section 1.01 of the A&R Credit Agreement is hereby amended to delete the definitions of “Consolidated Funded Indebtedness” and “Consolidated Leverage Ratio”.
+
+
+
+
+(b)Section 1.01 of the A&R Credit Agreement is hereby amended by adding the following definitions in appropriate alphabetical order:
+“CFC Holdco” means a Domestic Subsidiary, substantially all of the assets of which consist, directly or indirectly, of Equity Interests in one or more Foreign Subsidiaries.
+“First Amendment” means that certain First Amendment to Amended and Restated Credit Agreement, dated as of March 20, 2019, among the Borrowers, the Administrative Agent, and the Lenders party thereto.
+“First Amendment Effective Date” means March 20, 2019.
+“Incremental Commitment” has the meaning specified in Section 2.14(a).
+“L/C Issuer Sublimit” means (i) $7,500,000 in the case of Bank of America, and (ii) $7,500,000 in the case of JPMorgan Chase Bank, N.A., as such amounts may be adjusted from time to time by agreement of the L/C Issuers so long as the total of the L/C Issuer Sublimits for the L/C Issuers shall not be less than the then applicable Letter of Credit Sublimit.
+(c)Section 1.01 of the A&R Credit Agreement is hereby amended by amending and restating the following definitions in their entirety as follows:
+“Aggregate Commitments” means the Commitments of all the Lenders. As of the First Amendment Effective Date, the Aggregate Commitments are $200,000,000.
+“Applicable Fee Rate” means, (i) at any time that Total Outstandings (excluding any Swing Line Loans) are greater than or equal to 50% of the Aggregate Commitments, 0.250% per annum and (ii) at any time that Total Outstandings (excluding any Swing Line Loans) are less than 50% of the Aggregate Commitments, 0.375% per annum.
+“Applicable Rate” means (i) from the First Amendment Effective Date to the first Business Day immediately following the date on which the Administrative Agent receives a Compliance Certificate pursuant to Section 6.02(b) for the fiscal quarter ending March 31, 2019, the applicable percentage per annum set forth below shall be determined as if Pricing Level 1 were applicable and (ii)  thereafter, the applicable percentage per annum set forth below determined by reference to the Fixed Charge Coverage Ratio as set forth in the most recent Compliance Certificate received by Administrative Agent pursuant to Section 6.02(b) and corresponding to the grid provided below:
+
+-2
+
+
+Pricing Level
+Fixed Charge Coverage Ratio
+Eurodollar Rate /Letter of Credit Fee
+Base Rate
+1
+≥ 1.50:1.00
+1.50%
+0.50%
+2
+≥ 1.00:1.00 but < 1.50:1.00
+1.75%
+0.75%
+3
+< 1.00:1.00
+2.00%
+1.00%
+
+Any increase or decrease in the Applicable Rate resulting from a change in the Fixed Charge Coverage Ratio shall become effective as of the first Business Day immediately following the date on which the Compliance Certificate is delivered pursuant to Section 6.02(b); provided, however, that if a Compliance Certificate is not delivered when due in accordance with such Section, then Pricing Level 3 shall apply as of the first Business Day immediately following the date on which such Compliance Certificate was required to have been delivered and in each case shall remain in effect until the date on which such Compliance Certificate is delivered.
+Notwithstanding anything to the contrary contained in this definition, the determination of the Applicable Rate for any period shall be subject to the provisions of Section 2.10(b).
+“Cash Dominion Trigger Period” means (a) the period (i) commencing on the day that an Event of Default occurs, and (ii) continuing until, during each of the preceding 30 consecutive days, no Event of Default has existed, and (b) the period (i) commencing on the day that Availability is less than the greater of (1) 12.5% of the lesser of the (x) Borrowing Base and (y) Aggregate Commitments and (2) $22,500,000, and (b) continuing until, during each of the preceding 30 consecutive days, Availability is not less than the greater of (1) 12.5% of the lesser of the (x) Borrowing Base and (y) Aggregate Commitments and (2) $22,500,000.
+“Financial Covenant Trigger Period” means the period (a) commencing on the day that Availability is less than the greater of (i) 12.5% of the lesser of (x) the Borrowing Base and (y) the Aggregate Commitments and (ii) $22,500,000 and (b) continuing until, during each of the preceding 30 consecutive days, Availability has exceeded the greater of (i) 12.5% of the lesser of (x) the Borrowing Base and (y) the Aggregate Commitments and (ii) $22,500,000.
+“Immaterial Domestic Subsidiary” means any Domestic Subsidiary that (a) does not own any assets of the type that would otherwise be Collateral other than (i) intercompany contracts to provide personnel services and (ii) other assets whose value does not exceed $500,000 in the aggregate at any time, (b) does not guaranty any obligations with respect to the 2021 Convertible Notes, (c) generates
+
+-3
+
+
+less than 5.0% of Consolidated EBITDA for the Measurement Period most recently ended for which financial statements of Newpark are available, and (d) owns net assets that have an aggregate fair market value of less than 5.0% of Consolidated Tangible Assets of Newpark as of the end of the fiscal quarter most recently ended; provided that if any two or more Domestic Subsidiaries generate more than 10% of Consolidated EBITDA in the aggregate for any such Measurement Period, then one or more of such Domestic Subsidiaries will be deemed not to qualify as an Immaterial Domestic Subsidiary during such Measurement Period in order to prevent the foregoing 10% limitation from being exceeded.
+“Investment” means, as to any Person, an direct or indirect acquisition or investment by such Person, whether by means of (a) the purchase or other acquisition of Equity Interests of another Person, (b) a loan, advance or capital contribution to, Guarantee or assumption of debt of, or purchase or other acquisition of any other debt or interest in, another Person or (c) an Acquisition. For purposes of covenant compliance, the amount of any Investment shall be the amount actually invested, without adjustment for subsequent increases or decreases in the value of such Investment; provided, however, that Investments in the form of loans, advances, and capital contributions shall be determined after giving effect to, and net of, repayments and returns of capital, as applicable.
+“Letter of Credit Sublimit” means an amount equal to $15,000,000. The Letter of Credit Sublimit is part of, and not in addition to, the Aggregate Commitments.
+“Loan Documents” means, collectively, (a) this Agreement, (b) the Notes, (c) any Guaranty, (d) the Collateral Documents, (e) the Fee Letters, (f) each Issuer Document, (g) any arrangements entered into by any L/C Issuer and any Borrower pursuant to Section 2.03(a)(iii)(E), (h) any agreement creating or perfecting rights in Cash Collateral pursuant to the provisions of Section 2.15 of this Agreement, (i) all “Loan Documents” (as defined in the Existing Credit Agreement) executed and delivered pursuant to the Existing Credit Agreement (except to the extent any of the same are amended and restated pursuant hereto or in connection herewith), whether or not expressly so stated in any other definition of the agreements, instruments and other documents described in the foregoing clauses (a) through (h) set forth herein or in any other Loan Document, and (j) the First Amendment.
+“Maturity Date” means the earliest to occur of:
+(a)     March 20, 2024; and
+(b)     September 1, 2021, if either (i) the 2021 Convertible Notes Repayment Date has not occurred by September 1, 2021 or (ii) subject to the conditions set forth in the last sentence of Section 7.14, Borrowers fail to deposit cash and Cash Equivalents (including the proceeds of a Borrowing), such cash
+
+-4
+
+
+and Cash Equivalents to be unrestricted or subject solely to a Lien in favor of Administrative Agent, in an escrow account with the Administrative Agent in an amount which, together with the 2021 Convertible Notes Temporary Reserve, is sufficient to satisfy the 2021 Convertible Notes in full at their maturity.
+“Permitted Acquisition” means any Acquisition as long as (a) no Default or Event of Default exists or is caused thereby; (b) the Acquisition is consensual; (c) no Indebtedness is assumed or incurred except as permitted by Section 7.02, and no Liens are assumed or incurred except as permitted by Section 7.01; (d) upon giving pro forma effect thereto, either (i) average Availability for the 30 days preceding and as of the date of the Acquisition is not less than the greater of $30,000,000 and 20% of the lesser of the (x) Borrowing Base and (y) Aggregate Commitments, or (ii) (1) average Availability for the 30 days preceding and as of the date of the Acquisition is not less than the greater of $20,000,000 and 15% of the lesser of the (x) Borrowing Base and (y) Aggregate Commitments and (2) the Consolidated Fixed Charge Coverage Ratio on a pro forma basis is at least 1.00 to 1.00 for the most recent Measurement Period; (e) Borrowers deliver to the Administrative Agent, at least five Business Days prior to the Acquisition, copies of all material agreements relating thereto (or if final executed copies are not then available, the then most recent drafts thereof) and a certificate, in form and substance satisfactory to the Administrative Agent, stating that the Acquisition is a “Permitted Acquisition” and demonstrating compliance with the foregoing requirements and (f) prior to inclusion of any Accounts and Inventory acquired in any such Acquisition in the determination of the Borrowing Base (which, for the avoidance of doubt, must be owned by a Borrower), the Administrative Agent shall have obtained an appraisal with respect to such Inventory and conducted a field examination, in each case, on a basis reasonably satisfactory to the Administrative Agent; provided, that such acquired Accounts and Inventory that will otherwise satisfy the eligibility criteria (as determined in good faith by Newpark based on a review of such eligibility criteria and the due diligence for such Acquisition) may be included in the Borrowing Base for a period not to exceed 90 days pending completion of such field examination and appraisal.
+“Swing Line Sublimit” means, with respect to each Swing Line Lender, an amount equal to the lesser of (a) $20,000,000 and (b) the Aggregate Commitments. The Swing Line Sublimits are part of, and not in addition to, the Aggregate Commitments.
+“Total Swing Line Sublimit” means an amount equal to the lesser of (a) $20,000,000 and (b) the Aggregate Commitments. The Total Swing Line Sublimit is a part of, and not in addition to, the Aggregate Commitments.
+“Weekly BBC Trigger Period” means the period (a) commencing on the day that an Event of Default occurs, or Availability is less than the greater of (i) 12.5% of the lesser of the (x) Borrowing Base and (y) Aggregate Commitments and (ii) $22,500,000, and (b) continuing until, during each of the preceding 30 consecutive days, no Event of Default has existed and Availability has at all times
+
+-5
+
+
+exceeded the greater of (i) 12.5% of the lesser of the (x) Borrowing Base and (y) Aggregate Commitments and (ii) $22,500,000.
+(d)Section 1.01 of the A&R Credit Agreement is hereby amended by amending and restating the final paragraph of the definition of “Indebtedness” in its entirety as follows:
+For all purposes hereof, the Indebtedness of any Person shall include the Indebtedness of any partnership or joint venture (other than a joint venture that is itself a corporation or limited liability company) in which such Person is a general partner or a joint venturer, unless such Indebtedness is expressly made non-recourse to such Person. The amount of any net obligation under any Swap Contract on any date shall be deemed to be the Swap Termination Value thereof as of such date. The maximum amount of any direct or contingent obligations under any letter of credit (including standby and commercial) shall be determined by deducting therefrom the amount of any cash collateral securing such letter of credit.
+(e)Section 2.03(a)(iii) of the A&R Credit Agreement is hereby amended by deleting the “or” at the end of Section 2.03(a)(iii)(E), replacing the period at the end of Section 2.03(a)(iii)(F) with “; or” and inserting a new Section 2.03(a)(iii)(G) to read as follows:
+(G)    immediately after giving effect to such issuance, the outstanding L/C Obligations in respect of all Letters of Credit issued by such L/C Issuer would exceed such L/C Issuer’s L/C Issuer Sublimit.
+(f)Section 2.10(b) of the A&R Credit Agreement is hereby amended and restated in its entirety as follows:
+(b)    If, as a result of any restatement of or other adjustment to the financial statements of Newpark or for any other reason, Newpark or the Lenders determine that (i) the Consolidated Fixed Charge Coverage Ratio as calculated by Newpark as of any applicable date was inaccurate and (ii) a proper calculation of the Consolidated Fixed Charge Coverage Ratio would have resulted in higher pricing for such period, the Borrowers shall immediately and retroactively be obligated to pay to the Administrative Agent for the account of the applicable Lenders or the applicable L/C Issuer, as the case may be, promptly on demand by the Administrative Agent (or, after the occurrence of an actual or deemed entry of an order for relief with respect to the Borrowers under the Bankruptcy Code of the United States, automatically pay without further action by the Administrative Agent, any Lender or any L/C Issuer), an amount equal to the excess of the amount of interest and fees that should have been paid for such period over the amount of interest and fees actually paid for such period. This paragraph shall not limit the rights of the Administrative Agent, any Lender or any L/C Issuer, as the case may be, under Section 2.03(c)(iii), 2.03(h) or 2.08(b) or under Article VIII. The Borrowers’ obligations under this paragraph shall survive the termination of the Aggregate Commitments and the repayment of all other Obligations hereunder.
+
+-6
+
+
+(g)Sections 2.14(a)-(c) and (e) of the A&R Credit Agreement are hereby amended and restated in their entirety as follows:
+(a)    Request for Increase. Provided there exists no Default, upon notice to the Administrative Agent (which shall promptly notify the Lenders), Newpark may from time to time, request an increase in the Aggregate Commitments (an “Incremental Commitment”) in an amount up to but not exceeding (giving effect to all such increases) $275,000,000; provided that (i) any such request for an Incremental Commitment shall be in a minimum amount of $10,000,000, (ii) Newpark may make a maximum of five (5) such requests, (iii) such Incremental Commitment shall be on the same terms and conditions, including pricing, as the then existing Commitments, except with respect to any arrangement, upfront, or similar fees that may be agreed to among the Borrowers and any Lenders providing such Incremental Commitment, (iv) neither the funding of such Incremental Commitment (assuming that such Incremental Commitment were fully drawn) nor the existence of the Liens securing the same would violate the terms of any indenture or other agreement governing Indebtedness for borrowed money in excess of $25,000,000 (including the 2021 Convertible Notes Documents) of Newpark or any of its Subsidiaries and, after giving effect to such Incremental Commitment, the Aggregate Commitments shall not exceed 90% of any relevant cap under any such agreement, and (v) any such Incremental Commitment shall benefit from the same guarantees as, and be secured on a pari passu basis by the same Collateral securing, the existing Commitments. At the time of sending such notice, Newpark (in consultation with the Administrative Agent) shall specify the time period within which each Lender is requested to respond (which shall in no event be less than ten Business Days from the date of delivery of such notice to the Lenders).
+(b)    Lender Elections to Provide an Incremental Commitment. Each Lender shall notify the Administrative Agent within such time period whether or not it agrees to provide an Incremental Commitment and, if so, whether by an amount equal to, greater than, or less than its Applicable Percentage of such requested Incremental Commitment. Any Lender not responding within such time period shall be deemed to have declined to provide an Incremental Commitment. For the avoidance of doubt, no Lender is obligated to provide an Incremental Commitment.
+(c)    Notification by Administrative Agent; Additional Lenders. The Administrative Agent shall notify Newpark and each Lender of the Lenders’ responses to each request for an Incremental Commitment. Subject to the approval of the Administrative Agent, the L/C Issuers and the Swing Line Lenders (which approvals shall not be unreasonably withheld or delayed), Newpark may also invite additional Eligible Assignees to become Lenders pursuant to a joinder agreement in form and substance reasonably satisfactory to the Administrative Agent and its counsel, which invitation may be made concurrently with the notice required by Section 2.14(a).
+
+-7
+
+
+(e)    Conditions to Effectiveness of Incremental Commitment. As a condition precedent to such Incremental Commitment, (i) Newpark shall deliver to the Administrative Agent a certificate of each Loan Party dated as of the Revolving Credit Increase Effective Date (in sufficient copies for each Lender) signed by a Responsible Officer of such Loan Party (x) certifying and attaching the resolutions adopted by such Loan Party approving or consenting to such Incremental Commitment, and (y) in the case of the Borrowers, certifying that, before and after giving effect to such Incremental Commitment, (a) the representations and warranties contained in Article V and the other Loan Documents are true and correct on and as of the Revolving Credit Increase Effective Date, except to the extent that such representations and warranties specifically refer to an earlier date, in which case they are true and correct as of such earlier date, and except that for purposes of this Section 2.14 the representations and warranties contained in subsections (a) and (b) of Section 5.05 shall be deemed to refer to the most recent statements furnished pursuant to clauses (a) or (b), as applicable, of Section 6.01, (b) at the time of and after giving effect on a pro forma basis to such Incremental Commitment and any borrowings made on the Revolving Credit Increase Effective Date, the Borrowers are in compliance with Section 7.11 as of the end of the most recent Measurement Period for which financial statements of Newpark and its Subsidiaries are available and (c) no Default exists. The Borrowers shall prepay any Revolving Credit Loans outstanding on the Revolving Credit Increase Effective Date (and pay any additional amounts required pursuant to Section 3.05) to the extent necessary to keep the outstanding Revolving Credit Loans ratable with any revised Applicable Percentages arising from any nonratable Incremental Commitment under this Section and Borrowers may use advances from Lenders having new or Incremental Commitments for such prepayment.
+(h)Section 6.03(b) of the A&R Credit Agreement is hereby amended and restated in its entirety as follows:
+(b)    (i) the breach or non-performance of, or any default under, a Contractual Obligation of Newpark or any Subsidiary that could reasonably be expected to have a Material Adverse Effect; (ii) any dispute, litigation, investigation, proceeding or suspension between Newpark or any Subsidiary and any Governmental Authority that could reasonably be expected to have a Material Adverse Effect; (iii) the commencement of, or any material development in, any litigation or proceeding affecting Newpark or any Subsidiary, including pursuant to any applicable Environmental Laws, that could reasonably be expected to have a Material Adverse Effect, or (iv) any development or event that has had, or could reasonably be expected to have, a Material Adverse Effect;
+(i)Sections 6.10(b) and (c) of the A&R Credit Agreement are hereby amended and restated in their entirety as follows:
+(b)    Subject to the reimbursement limitations contained in the next sentence, at any time upon the Administrative Agent’s request, the Borrowers will allow the
+
+-8
+
+
+Administrative Agent (or its designee) to conduct field examinations to ensure the adequacy of Collateral included in any Borrowing Base and related reporting and control systems, and the report of any such field examination shall be prepared on a basis reasonably satisfactory to the Administrative Agent and shall include, without limitation, information required by applicable law and regulations. The Borrowers shall reimburse the Administrative Agent for all reasonable and documented charges, costs and expenses (including a reasonable per diem field examination charge and out of pocket expenses) related thereto with respect to no more than one such field examination during each calendar year; provided that if Availability is less than 17.5% of the lesser of the (x) Borrowing Base and (y) Aggregate Commitments at any time during any calendar year, the Borrowers shall reimburse the Administrative Agent for all reasonable charges, costs and expenses (including a per diem field examination charge and out of pocket expenses) related to a second such field examination initiated by the Administrative Agent during such calendar year; and provided, further, that when an Event of Default exists, there shall be no limitation on the number or frequency of field examinations that shall be at the sole expense of the Borrowers.
+(c)    Subject to the reimbursement limitations contained in the next sentence, at any time upon the Administrative Agent’s request, the Borrowers will allow the Administrative Agent (or its designee) to conduct appraisals of the Borrowers’ Inventory, and the report of any such appraisal shall be prepared on a basis reasonably satisfactory to the Administrative Agent. The Borrowers shall reimburse the Administrative Agent for all reasonable and documented charges, costs and expenses related thereto with respect to no more than one such appraisal during each calendar year; provided that if Availability is less than 17.5% of the lesser of the (x) Borrowing Base and (y) Aggregate Commitments at any time during any calendar year, the Borrowers shall reimburse the Administrative Agent for all reasonable charges, costs and expenses related to a second such appraisal initiated by the Administrative Agent during such calendar year; and provided, further, that when an Event of Default exists, there shall be no limitation on the number or frequency of appraisals that shall be at the sole expense of the Borrowers.
+(j)Section 6.12(a) of the A&R Credit Agreement is hereby amended and restated in its entirety as follows:
+(a) With respect to (x) any Person that becomes a direct or indirect Subsidiary after the Closing Date (other than a CFC Holdco, a CFC, a Subsidiary that is held directly or indirectly by a CFC or any Immaterial Domestic Subsidiary created or acquired after the Closing Date), (y) any CFC Holdco that ceases to be a CFC Holdco, and (z) any Immaterial Domestic Subsidiary that ceases to be an Immaterial Domestic Subsidiary, then the Borrowers shall, at the Borrowers’ expense:
+(i)    within 30 days after such formation or acquisition or ceasing to be a CFC Holdco or an Immaterial Domestic Subsidiary (or such longer
+
+-9
+
+
+period as may be agreed by the Administrative Agent in its sole discretion), cause such Subsidiary, and cause each direct and indirect parent of such Subsidiary (if it has not already done so), to duly execute and deliver to the Administrative Agent either a joinder to become a Borrower party to this Agreement or a Guaranty, each in form and substance satisfactory to the Administrative Agent,
+(ii)    within 30 days after such formation or acquisition or ceasing to be a CFC Holdco or an Immaterial Domestic Subsidiary (or such longer period as may be agreed by the Administrative Agent in its sole discretion), cause such Subsidiary and each direct and indirect parent of such Subsidiary (if it has not already done so) to duly execute and deliver to the Administrative Agent a Security Agreement Supplement, IP Security Agreement Supplements and other security and pledge agreements, as specified by and in form and substance satisfactory to the Administrative Agent (including delivery of all Equity Interests, other than any Excluded Stock, in and of such Subsidiary, and other instruments of the type specified in Section 4.01(a)(iv)), securing payment of all the Obligations of such Subsidiary or such parent, as the case may be, under the Loan Documents and constituting Liens on all such property (other than Excluded Property) purported to be subject to such Collateral Document,
+(iii)    within 30 days after such formation or acquisition or ceasing to be a CFC Holdco or an Immaterial Domestic Subsidiary (or such longer period as may be agreed by the Administrative Agent in its sole discretion), cause such Subsidiary and each direct and indirect parent of such Subsidiary (if it has not already done so) to take whatever action (including the filing of Uniform Commercial Code financing statements, the giving of notices and the endorsement of notices on title documents) may be necessary or advisable in the opinion of the Administrative Agent to vest in the Administrative Agent (or in any representative of the Administrative Agent designated by it) valid and subsisting Liens on the properties purported to be subject to the Security Agreement Supplement, IP Security Agreement Supplements and security and pledge agreements delivered pursuant to this Section 6.12, enforceable against all third parties in accordance with their terms, and
+(iv)    within 60 days after such formation or acquisition or ceasing to be a CFC Holdco or an Immaterial Domestic Subsidiary (or such longer period as may be agreed by the Administrative Agent in its sole discretion), deliver to the Administrative Agent, upon the request of the Administrative Agent in its sole discretion, a signed copy of a favorable opinion, addressed to the Administrative Agent and the other Secured Parties, of counsel for the Loan Parties reasonably acceptable to the Administrative Agent as to the matters contained in clauses (i), (ii) and
+
+-10
+
+
+(iii) above, and as to such other matters as the Administrative Agent may reasonably request.
+(k)Section 7.02(e) of the A&R Credit Agreement is hereby amended and restated in its entirety as follows:
+(e)    (i) Guarantees incurred by Newpark or any of its Subsidiaries of obligations of Newpark or any Subsidiary in respect of the performance of bids, tenders, trade contracts (other than for borrowed money), performance bonds and other obligations of a like nature incurred in the ordinary course of business, and (ii) other Guarantees incurred by Newpark or any of its Subsidiaries of obligations of Newpark or any Subsidiary to the extent such obligations are permitted to be incurred hereunder;
+(l)Section 7.03(h) of the A&R Credit Agreement is hereby amended to add the word “and” following the “;” at the end of such section.
+(m)Section 7.03(i) of the A&R Credit Agreement is hereby amended and restated in its entirety as follows:
+(i)    other Investments (i) not exceeding $5,000,000 in the aggregate in any fiscal year of Newpark and (ii) not limited in amount, provided that upon giving pro forma effect thereto, either (1) average Availability for the 30 days preceding and as of the date of such Investment is not less than the greater of $30,000,000 and 20% of the lesser of the (x) Borrowing Base and (y) Aggregate Commitments, or (2) (A) average Availability for the 30 days preceding and as of the date of such Investment is not less than the greater of $20,000,000 and 15% of the lesser of the (x) Borrowing Base and (y) Aggregate Commitments and (B) the Consolidated Fixed Charge Coverage Ratio on a pro forma basis is at least 1.00 to 1.00 for the most recent Measurement Period.
+(n)Section 7.03(j) of the A&R Credit Agreement is hereby deleted.
+(o)Section 7.06 of the A&R Credit Agreement is hereby amended and restated in its entirety as follows:
+Section 7.06    Restricted Payments. Declare or pay any Restricted Payment except that (a) Newpark may declare, pay, make or otherwise effect or undertake any one or more Restricted Payments provided that at the time of and after giving effect to such Restricted Payment, (i) no Default or Event of Default has occurred and is continuing or would result from such Restricted Payment, and (ii) upon giving pro forma effect thereto, either (A) Availability for the 30 days immediately preceding and as of the date of such Restricted Payment is not less than the greater of $40,000,000 and 25% of the lesser of the (x) Borrowing Base and (y) Aggregate Commitments, or (B)(1) Availability for the 30 days immediately preceding and as of the date of such Restricted Payment is not less than the greater of $35,000,000 and 20% of the lesser of the (x) Borrowing Base and (y) Aggregate Commitments and (2) the Consolidated Fixed Charge
+
+-11
+
+
+Coverage Ratio on a pro forma basis is not less than 1.00 to 1.00 for the most recent Measurement Period, (b) each Subsidiary may make Restricted Payments to a Borrower and any Subsidiary that is not a Loan Party may make Restricted Payments to Newpark or any Subsidiary; (c) the Borrowers and each Subsidiary may declare and make dividend payments or other distributions payable solely in the common stock or other common Equity Interests of such Person; (d) the Borrowers and each Subsidiary may purchase, redeem or otherwise acquire its common Equity Interests with the proceeds received from the substantially concurrent issue of new common Equity Interests; (e) the redemption, repurchase or other acquisition or retirement for value of Equity Interests of any Borrower held by officers, directors or employees or former officers, directors or employees (or their transferees, estates or beneficiaries under their estates) shall be permitted either (i) upon any such individual’s death, disability, retirement, severance or termination of employment or service or (ii) pursuant to any equity subscription agreement, stock option agreement, stockholders’ agreement or similar agreement; provided, in any case, that the aggregate cash consideration paid for all such redemptions, repurchases or other acquisitions or retirements shall not exceed $5,000,000 during any calendar year (with unused amounts in any calendar year being carried forward to the next succeeding calendar year); and (f) Newpark may pay cash in lieu of fractional Equity Interests.
+(p)The first sentence of Section 7.14 of the A&R Credit Agreement is hereby amended and restated in its entirety as follows:
+Prepay, redeem, purchase, defease or otherwise satisfy prior to the scheduled due date of any payment due with respect to any Indebtedness or final maturity of any Indebtedness, as may be applicable, in any manner, or make any payment in violation of any subordination terms of any Indebtedness, except (a) the prepayment of the Credit Extensions in accordance with the terms of this Agreement, prepayment of any Indebtedness by any Loan Party or Subsidiary to a Loan Party, and prepayments by any Subsidiary that is not a Loan Party to any other Subsidiary that is not a Loan Party, (b) refinancings, refundings, extensions or renewals of Indebtedness to the extent such refinancing, refunding, extension or renewal is permitted by Sections 7.02(d) or 7.02(g), (c) the conversion to or exchange for Equity Interests of convertible or exchangeable debt securities permitted under Sections 7.02(d) or 7.02(g), and customary payments in cash in lieu of fractional shares in connection therewith, (d) the mandatory prepayment of Indebtedness permitted pursuant to Section 7.02(d) in connection with the disposition of any asset securing such Indebtedness that is permitted by Section 7.05, (e) an Acceptable Convertible Notes Repurchase, and (f) the cancellation or other satisfaction of any 2021 Convertible Notes purchased by Newpark or any other Borrower in compliance with this Section 7.14.
+(q)Section 8.01(h) of the A&R Credit Agreement is hereby amended and restated in its entirety as follows:
+
+-12
+
+
+(h)    Judgments. There is entered against Newpark or any Subsidiary (i) one or more final judgments or orders for the payment of money in an aggregate amount (as to all such judgments and orders) exceeding $10,000,000 (to the extent not covered by independent third-party insurance as to which the insurer is rated at least “A” by A.M. Best Company, has been notified of the potential claim and does not dispute coverage), or (ii) any one or more non-monetary final judgments that have, or could reasonably be expected to have, individually or in the aggregate, a Material Adverse Effect and, in either case, (A) enforcement proceedings are commenced by any creditor upon such judgment or order, or (B) there is a period of 20 consecutive days during which a stay of enforcement of such judgment, by reason of a pending appeal or otherwise, is not in effect; provided, however, that any judgment or order approving or otherwise validating a settlement agreement or settlement agreements entered into by Newpark Drilling and the plaintiffs or class of plaintiffs with respect to the Pending Wage and Hour Litigation shall not constitute or give rise to an Event of Default so long as the settlement amount does not exceed $4,500,000, and no enforcement proceedings are commenced to enforce any judgment or order relating to the Pending Wage and Hour Litigation; or
+(r)Schedule 1.01(a) of the A&R Credit Agreement is hereby amended and restated in its entirety as set forth on Exhibit 1 attached hereto.
+(s)Exhibit D of the A&R Credit Agreement is hereby amended and restated in its entirety as set forth on Exhibit 2 attached hereto.
+(t)Schedules 5.13, 6.19, 7.01, 7.02, 7.03, and 10.02 of the A&R Credit Agreement are hereby amended and restated in their entirety as set forth on Exhibit 3 attached hereto.
+
+Section 3.Amendments to Security Agreement.
+(a)Section 1.3 of the Security Agreement is hereby amended by amended and restating the following definition in its entirety:
+“Excluded Stock” means 34% of the Equity Interests issued by each CFC Holdco and each direct Foreign Subsidiary of any Debtor which is a CFC.
+(b)Section 3.9 of the Security Agreement is hereby amended by amended and restating the following definition in its entirety:
+3.9    Location of Collateral. All tangible items of Collateral (other than Equipment or Mats Rental Inventory which is (a) located at customer job sites, or in route to customer job sites, (b) located at a temporary storage facility pending transportation to a customer job site or to a location set forth in Schedule 3.9), (c) being used by employees or contractors in the ordinary course of business, or (d) being refurbished, repaired, cleaned or otherwise made ready) shall at all times be kept by the Debtors at the business locations set forth in Schedule 3.9, except that Debtors may (i) make Dispositions of Collateral in accordance with Section 4.9(b) hereof and Section 7.05 of the Credit Agreement and (ii) move Collateral to
+
+-13
+
+
+another location in the United States not listed in Section 3.9 provided that notice thereof is provided to the Administrative Agent within 10 Business Days thereafter.
+(c)Schedules 3.4, 3.5(c), 3.7, 3.8, and 3.9 of the Security Agreement are hereby amended and restated in their entirety as set forth on Exhibit 4 attached hereto.
+
+Section 4.Representations and Warranties. The Loan Parties each represent and warrant that (a) the execution, delivery, and performance of this Amendment by each Loan Party are within the corporate or equivalent power and authority of such Loan Party and have been duly authorized by all necessary corporate or other organizational action, (b) this Amendment, and the A&R Credit Agreement as amended hereby, constitute legal, valid, and binding obligations of each Loan Party, enforceable against each Loan Party in accordance with their terms, except as such enforceability may be limited by applicable bankruptcy, insolvency, reorganization, moratorium, or similar laws affecting the enforcement of creditors’ rights generally and the application of general principles of equity or the enforcement of equitable remedies (regardless of whether such enforceability is considered in a proceeding in equity or law); (c) after giving effect to this Amendment, the representations and warranties of Newpark and each other Loan Party contained in each Loan Document are true and correct in all material respects as of the First Amendment Effective Date, except to the extent that such representations and warranties specifically refer to an earlier date, in which case they shall be true and correct in all material respects as of such earlier date; (d) after giving effect to this Amendment, no Default or Event of Default exists under the Loan Documents; (e) the Liens under the Collateral Documents are valid and subsisting and secure the Secured Obligations (as defined in the Security Agreement); and (f) no Loan Party has any defense to payment, counterclaim, or right of setoff with respect to any of the Obligations existing as of the First Amendment Effective Date.
+
+Section 5.Effect on Loan Documents. Except as amended hereby or in accordance herewith, the A&R Credit Agreement, the Security Agreement, and all other Loan Documents remain in full force and effect as originally executed. Nothing herein shall act as a waiver of any of the Administrative Agent’s or any Lender’s rights under the Loan Documents as amended, including the waiver of any Default or Event of Default. The Loan Parties acknowledge and agree that this Amendment shall in no manner impair or affect the validity or enforceability of the A&R Credit Agreement or the Security Agreement. This Amendment is a Loan Document for the purposes of the provisions of the other Loan Documents. Without limiting the foregoing, any breach of representations, warranties, and covenants under this Amendment may be a Default or Event of Default under the other Loan Documents.
+
+Section 6.Conditions to Effectiveness. This Amendment shall be effective on the date on which each of the following conditions has been satisfied:
+
+(a)Counterparts. The Administrative Agent’s receipt of the following (which may be by electronic transmission), and in the case of documents delivered by a Borrower, each properly executed by a Responsible Officer of such Borrower, each dated the First Amendment Effective Date and each in form and substance satisfactory to the Administrative Agent and each of the Lenders party hereto:
+counterparts of this Amendment executed by the Borrowers, the Administrative Agent and the Lenders;
+
+
+-14
+
+
+(i)such certificates of resolutions or other action, incumbency certificates and/or other certificates of Responsible Officers of each Borrower as the Administrative Agent may require evidencing the identity, authority and capacity of each Responsible Officer thereof authorized to act as a Responsible Officer in connection with this Amendment and the other Loan Documents to which such Borrower is a party;
+(ii)such documents and certifications as the Administrative Agent may reasonably require to evidence that each Borrower is in good standing in the jurisdiction of its incorporation or formation;
+(iii)all filings, recordations and searches necessary or desirable in connection with the liens and security interests on the Collateral shall have been duly made; all filing and recording fees and taxes shall have been duly paid and any landlord waivers and access letters requested by the Administrative Agent with respect to material inventory locations of the Borrowers shall have been obtained (with respect to landlord waivers and access letters, to the extent capable of being obtained after the use of commercially reasonable efforts);
+(iv)the Administrative Agent shall be satisfied with the amount, types and terms and conditions of all insurance maintained by the Loan Parties (which insurance shall be satisfactory if it is of the amount, type, terms and conditions customarily maintained by companies of established repute in the same or similar business operating in the same or similar locations) and shall have received endorsements naming the Administrative Agent, on behalf of the Lenders, as a loss payee under all insurance policies to be maintained with respect to the properties of the Loan Parties forming part of the Collateral;
+(v)the Administrative Agent shall have received (A) reasonably satisfactory opinions of counsel to the Loan Parties (which shall cover, among other things, authority, legality, validity, binding effect and enforceability of the Amendment and any documents executed in connection therewith) and (B) satisfactory evidence that the Administrative Agent (on behalf of the Lenders) shall have a valid and perfected first priority (subject to the exceptions set forth in the A&R Credit Agreement) lien and security interest in the Collateral;
+(vi)there shall not have occurred since December 31, 2018 any event or condition that has had or could be reasonably expected, either individually or in the aggregate, to have a Material Adverse Effect;
+(vii)no action, suit, investigation or proceeding shall be pending or, to the knowledge of the Borrowers, threatened in any court or before any arbitrator or governmental authority that could reasonably be expected to have a Material Adverse Effect;
+(viii)the Administrative Agent shall have received a certification as to the solvency of the Loan Parties, taken as a whole, after giving effect to the repayment of any existing indebtedness of the Borrowers and the incurrence of indebtedness under the A&R Credit Agreement (as proposed to be modified by this Amendment); and
+
+
+-15
+
+
+(ix)the Administrative Agent and the Lenders shall have received all fees due under the Fee Letters.
+(b)Expenses. Unless waived by the Administrative Agent, the Borrowers shall have paid all accrued fees and expenses of the Arrangers, the Administrative Agent and the Lenders (including the reasonable and documented out-of-pocket fees and expenses of counsel (which shall be limited to the reasonable and documented fees and expenses of Vinson & Elkins L.L.P., Norton Rose Fulbright, LLP and, if necessary, any local counsel) for the Administrative Agent), to the extent invoiced prior to the First Amendment Effective Date.
+(c)Other Documents. The Administrative Agent shall have been provided with such documents, instruments and agreements, and the Loan Parties shall have taken such actions, in each case as the Administrative Agent may reasonably require in connection with this Amendment and the transactions contemplated hereby.
+
+Section 7.Governing Law. THIS AMENDMENT SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, the LAW OF THE STATE OF NEW YORK.
+
+Section 8.Miscellaneous. The miscellaneous provisions set forth in Article X of the A&R Credit Agreement apply to this Amendment. This Amendment may be signed in any number of counterparts, each of which shall be an original, and may be executed and delivered by telecopier, email transmission (e.g., “pdf” or “tif”) or other electronic imaging means.
+
+Section 9.ENTIRE AGREEMENT. THIS AMENDMENT AND THE OTHER LOAN DOCUMENTS REPRESENT THE FINAL AGREEMENT AMONG THE PARTIES AND MAY NOT BE CONTRADICTED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS, OR SUBSEQUENT ORAL AGREEMENTS OF THE PARTIES. THERE ARE NO UNWRITTEN ORAL AGREEMENTS AMONG THE PARTIES.
+
+Section 10.Adjustments to Loans. Upon satisfaction on the First Amendment Effective Date of all of the conditions specified in Section 6 hereof, each Lender who holds Loans in an aggregate amount less than its Applicable Percentage (after giving effect to this Amendment) of all Loans shall advance new Loans which shall be disbursed to the Administrative Agent and used to repay Loans outstanding to each Lender who holds Loans in an aggregate amount greater than its Applicable Percentage of all Loans.
+
+Section 11.Reaffirmation. By its signature hereto, each Borrower hereby acknowledges, ratifies, reaffirms and agrees that the A&R Credit Agreement, the Security Agreement and each of the other Loan Documents to which it is a party and the Liens and security interests created thereby in favor of the Administrative Agent, for the benefit of the holders of the Secured Obligations, in the Collateral, are and will remain in full force and effect and binding on such Borrower, and are enforceable in accordance with their respective terms and applicable Law.
+[Signature pages follow.]
+
+
+-16
+
+
+EXECUTED as of the first date above written.
+BORROWERS:
+
+NEWPARK RESOURCES, INC.
+
+
+By:     /s/ Gregg Piontek     
+Name: Gregg Piontek     
+Title:    Senior Vice President and
+Chief Financial Officer
+
+NEWPARK DRILLING FLUIDS LLC
+
+
+By:     /s/ Gregg Piontek     
+Name: Gregg Piontek     
+Title:    Vice President
+
+NEWPARK MATS & INTEGRATED SERVICES LLC
+
+
+By:     /s/ Gregg Piontek     
+Name: Gregg Piontek     
+Title:    Vice President
+
+EXCALIBAR MINERALS LLC
+
+
+By:     /s/ Gregg Piontek     
+Name: Gregg Piontek     
+Title:    Vice President
+
+DURA-BASE NEVADA, INC.
+
+
+By:     /s/ Gregg Piontek     
+Name: Gregg Piontek     
+Title:    Vice President
+
+
+[SIGNATURE PAGE TO FIRST AMENDMENT TO A&R CREDIT AGREEMENT AND SECURITY AGREEMENT]
+
+
+
+BANK OF AMERICA, N.A., as Administrative Agent
+
+By:     /s/ Ajay Jagsi     
+Name: Ajay Jagsi     
+Title:    Vice President
+
+
+BANK OF AMERICA, N.A.,
+as a Lender, L/C Issuer and Swing Line Lender
+By:     /s/ Ajay Jagsi     
+Name: Ajay Jagsi     
+Title:    Vice President
+
+
+
+[SIGNATURE PAGE TO FIRST AMENDMENT TO A&R CREDIT AGREEMENT AND SECURITY AGREEMENT]
+
+
+
+JPMORGAN CHASE BANK, N.A., as a Lender and an L/C Issuer
+By:     /s/ Robert Mendoza     
+Name: Robert Mendoza     
+Title:    Authorized Officer
+    
+
+[SIGNATURE PAGE TO FIRST AMENDMENT TO A&R CREDIT AGREEMENT AND SECURITY AGREEMENT]
+
+
+
+CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH, as a Lender
+By:     /s/ Doreen Barr     
+Name: Doreen Barr     
+Title:    Authorized Signatory
+
+By:     /s/ Christopher Zybrick     
+Name: Christopher Zybrick     
+Title:    Authorized Signatory
+    [SIGNATURE PAGE TO FIRST AMENDMENT TO A&R CREDIT AGREEMENT AND SECURITY AGREEMENT]
+
+
+
+FIRST TENNESSEE BANK NATIONAL ASSOCIATION, as a Lender
+By:     /s/ Michael Shipman     
+Name: Michael Shipman     
+Title:    Vice President
+    
+
+[SIGNATURE PAGE TO FIRST AMENDMENT TO A&R CREDIT AGREEMENT AND SECURITY AGREEMENT]
+
+
+
+TEXAS CAPITAL BANK, NATIONAL ASSOCIATION, as a Lender
+
+
+By:     /s/ Jerra Hayden     
+Name: Jerra Hayden     
+Title:    SVP
+    [SIGNATURE PAGE TO FIRST AMENDMENT TO A&R CREDIT AGREEMENT AND SECURITY AGREEMENT]
+
+
+
+Exhibit 1
+Schedule 1.01(a)
+Lender
+Revolving Credit Commitment
+Revolving Credit Applicable Percentage
+Bank of America, N.A.
+$82,500,000.00
+41.250000000%
+JPMorgan Chase Bank, N.A.
+$50,000,000.00
+25.000000000%
+First Tennessee Bank National Association
+$27,500,000.00
+13.750000000%
+Credit Suisse AG, Cayman Islands Branch
+$20,000,000.00
+10.000000000
+Texas Capital Bank, National Association
+$20,000,000.00
+10.000000000
+Total
+$200,000,000.00
+100.000000000%

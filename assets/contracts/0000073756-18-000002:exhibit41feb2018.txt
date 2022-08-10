@@ -1,0 +1,168 @@
+EX-4.1 2 exhibit41feb2018.htm EX 4.1 AGREEMENT AND AMENDMENT NO. 4 TO CREDIT AGREEMENT, DATED AS OF FEB 16
+
+Exhibit 4.1
+AGREEMENT AND AMENDMENT NO. 4 TO CREDIT AGREEMENT
+
+This Agreement and Amendment No. 4 to Credit Agreement (this “Agreement”) dated as of February 16, 2018 (the “Amendment Effective Date”) is among Oceaneering International, Inc., a Delaware corporation (the “Borrower”), the Lenders (as defined below) party hereto and Wells Fargo Bank, National Association, as administrative agent (in such capacity, the “Administrative Agent”) for the Lenders and as Swing Line Lender (as defined in the Credit Agreement described below).
+INTRODUCTION
+A.    The Borrower, the Administrative Agent, the Swing Line Lender and the lenders party thereto from time to time (the “Lenders”) are parties to that certain Credit Agreement dated as of October 27, 2014 (as heretofore amended or modified, the “Credit Agreement”).
+B.    The Borrower has requested that Lenders (i) extend their respective Revolving Maturity Date to January 25, 2023 and (ii) otherwise amend the Credit Agreement as provided herein and subject to the terms and conditions set forth herein.
+THEREFORE, in consideration of the premises and the mutual covenants, representations and warranties contained herein, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto hereby agree as follows:
+Section 1.Defined Terms; Other Definitional Provisions. As used in this Agreement, each of the terms defined in the opening paragraph and the recitals above shall have the meanings assigned to such terms therein. Each term defined in the Credit Agreement and used herein without definition shall have the meaning assigned to such term in the Credit Agreement, unless expressly provided to the contrary. Article, Section, Schedule, and Exhibit references are to Articles and Sections of and Schedules and Exhibits to this Agreement, unless otherwise specified. The words “hereof”, “herein”, and “hereunder” and words of similar import when used in this Agreement shall refer to this Agreement as a whole and not to any particular provision of this Agreement. The term “including” means “including, without limitation,”. Paragraph headings have been inserted in this Agreement as a matter of convenience for reference only and it is agreed that such paragraph headings are not a part of this Agreement and shall not be used in the interpretation of any provision of this Agreement.
+Section 2.    Amendments to Credit Agreement.
+(a)    Section 1.1 (Certain Defined Terms) of the Credit Agreement is hereby amended by replacing the definition for “Revolving Maturity Date” in its entirety with the following definition:
+“Revolving Maturity Date” means (a) as to each 2017 Extending Lender, the earlier of (i) January 25, 2023, as such date may be extended pursuant to Section 2.17, and (ii) the termination in whole of the Revolving Commitments and acceleration of the Revolving Advances pursuant to Article 7, and (b) as to each Lender that is not a 2017 Extending Lender, the earlier of (i) October 25, 2021, as such date may be extended pursuant to Section 2.17, and (ii) the termination in whole of the Revolving Commitments and acceleration of the Revolving Advances pursuant to Article 7.
+
+
+
+(b)    Section 1.1 (Certain Defined Terms) of the Credit Agreement is hereby further amended by adding the following new defined terms to appear in alphabetical order therein:
+“2017 Extending Lender” means (a) each Lender that is a party to Amendment No. 4, (b) each Lender that separately agrees in a written agreement among such Lender, the Borrower and the Administrative Agent to extend its Revolving Maturity Date to January 25, 2023 (it being agreed that such written agreement may be effected without the consent of any other Lender), and (c) each Lender that is an assignee of any Lender described in subclause (a) or (b) of this definition.
+“Amendment No. 4” means that certain Agreement and Amendment No. 4 to Credit Agreement dated as of February 16, 2018 among the Borrower, the Majority Lenders, the Administrative Agent and the Swing Line Lender, which amends this Agreement.
+“Revolving Declining Lender” means (a) each Revolving Lender that declines or fails to respond to the Borrower’s request for an extension made pursuant to Section 2.17(a), and (b) each Lender that is not a party to Amendment No. 4 unless such Lender subsequently becomes a 2017 Extending Lender as provided in such definition.
+(c)    Section 2.17 (Extension of Maturity Dates) of the Credit Agreement is hereby replaced in its entirety with the following:
+2.17    Extension of Maturity Dates.
+(a)    Request for Extension. Upon at least 30-days prior notice to the Administrative Agent (which shall promptly notify the Lenders), the Borrower may request that each Revolving Lender extend its Revolving Maturity Date then in effect (the “Existing Revolving Maturity Date”) for an additional one-year period (or in the case of a Lender that is not a 2017 Extending Lender, an additional one-year and three month period or an additional two-year and three month period); provided that (x) no more than one (1) of such extension request for the Revolving Maturity Date shall be permitted hereunder, and (y) for the avoidance of doubt, no Revolving Maturity Date can be extended to a day beyond January 25, 2024. At the time of sending such notice, the Borrower (in consultation with the Administrative Agent) shall specify the time period within which each Lender is requested to respond (which shall in no event be less than ten (10) Business Days from the date of delivery of such notice to the Lenders) (the “Response Period”).
+(b)    Lender Elections to Extend; Payments to Revolving Declining Lenders Each Lender that, in its sole and absolute discretion, agrees to extend its Revolving Maturity Date (each, a “Revolving Extending Lender”) shall notify the Administrative Agent within the Response Period of its agreement to extend its Revolving Maturity Date. The Administrative Agent shall notify the Borrower and each Lender of the Lenders’ responses to each request made under this Section 2.17. The Revolving Commitment of each Revolving Declining Lender shall be terminated on the Existing Revolving Maturity Date then in effect for such Revolving Lender (without regard to any extension by other Lenders) and the aggregate Revolving Commitments of all Revolving Lenders shall be reduced by the total Revolving Commitments of all Revolving Declining Lenders expiring on the Existing Revolving Maturity Date unless and until one or more Eligible Assignees (including other Lenders) shall have agreed to provide a, or in the case of any existing Revolving Lender increase its, Revolving Commitment hereunder in accordance with clause (c) below. The Borrower shall pay in full the unpaid
+
+
+
+principal amount of all Revolving Advances owing to each Revolving Declining Lender, together with all accrued and unpaid interest thereon and all fees accrued and unpaid under this Agreement and all other amounts due to such Revolving Declining Lender under this Agreement on its Existing Revolving Maturity Date or the earlier replacement of such Revolving Declining Lender pursuant to clause (c) below.
+(c)    Replacement of Revolving Declining Lenders. The Borrower may require any Revolving Declining Lender to (and, upon request of the Borrower, any such Revolving Declining Lender shall) assign in full its rights and obligations under this Agreement to one or more Eligible Assignees (a “Replacement Lender”); provided that (i) such assignment otherwise complies with Section 9.7 (including any consents required under Section 9.7(b)(iii)), and (ii) such Revolving Declining Lender receives payment in full of the unpaid principal amount of all Revolving Advances owing to such Revolving Declining Lender, together with all accrued and unpaid interest thereon and all fees accrued and unpaid under this Agreement to the date of such payment of principal and all other amounts due to such Revolving Declining Lender under this Agreement as a Revolving Lender. Solely for purposes of effecting any assignment involving a Revolving Declining Lender under this Section 2.17 and to the extent permitted under applicable Legal Requirements, each Lender hereby designates and appoints the Administrative Agent as true and lawful agent and attorney-in-fact, with full power and authority, for and on behalf of and in the name of such Lender to execute, acknowledge and deliver the Assignment and Acceptance required hereunder if such Lender is a Revolving Declining Lender and such Lender shall be bound thereby as fully and effectively as if such Lender had personally executed, acknowledged and delivered the same; provided that, the Administrative Agent shall not exercise such right unless the Assignment and Acceptance required hereunder has been provided to such Revolving Declining Lender and such Revolving Declining Lender has not executed and delivered such Assignment and Acceptance to the Administrative Agent within five (5) Business Days of receiving such agreement.
+(d)    Effective Date and Allocations. If the Existing Revolving Maturity Date is extended in accordance with this Section 2.17, the Administrative Agent and the Borrower shall determine (i) the effective date (the “Extension Effective Date”) of the extension and the final allocation of the Revolving Extending Lenders’ and the Replacement Lenders’ Revolving Commitments. The Administrative Agent shall promptly notify the Borrower and the Lenders of the Extension Effective Date and of such final allocation of the Revolving Commitments.
+(e)    Extension; Conditions to Effectiveness. If (and only if) the total of the Revolving Commitments of the Revolving Extending Lenders and Replacement Lenders in effect immediately after such extension on the applicable Extension Effective Date would be more than 50% of the aggregate amount of the Revolving Commitments in effect immediately prior to the extension on the applicable Extension Effective Date, then, effective as of such Extension Effective Date, the Existing Revolving Maturity Date of each Revolving Extending Lender and of each such Replacement Lender shall be extended to the date falling one year (or if applicable, one year and three months or two years and three months) after the Existing Revolving Maturity Date (except that, if such date is not a Business Day, such Existing Revolving Maturity Date as so extended shall be the next preceding Business Day). In addition, as a condition precedent to such extension, the Borrower shall deliver to the Administrative Agent (i) an agreement in form and substance reasonably satisfactory to the Administrative Agent signed by the Borrower, each Revolving Extending Lender and each Replacement
+
+
+
+Lender, (ii) such evidence of appropriate authorization on the part of the Borrower with respect to such extension as the Administrative Agent may reasonably request and (iii) a certificate signed by a Responsible Officer of the Borrower, certifying that, immediately before and immediately after giving effect to such extension, (1) all representations and warranties made by the Borrower in this Agreement are true and correct in all material respects (except that such materiality qualifier shall not be applicable to any representations and warranties that already are qualified or modified by materiality in the text thereof), unless such representation or warranty relates to an earlier date which remains true and correct in all material respects as of such earlier date (except that such materiality qualifier shall not be applicable to any representations and warranties that already are qualified or modified by materiality in the text thereof) except that for purposes of this Section, the representations and warranties contained in clauses (a) and (b) of Section 4.4 shall be deemed to refer to the most recent financial statements furnished pursuant to Section 5.2(a), and (2) no Default then exists or would be caused by such extension.
+(f)    Update of Representations and Warranties. Upon and after any extension of the Revolving Maturity Date(s) pursuant to this Section 2.17, the representation and warranties contained in Sections 4.4(a) and (b) shall be deemed to refer to the financial statements furnished most recently prior to the Extension Effective Date, pursuant to Section 5.2(a).
+(g)    Conflicting Provisions. This Section shall supersede any provisions in Sections 9.3 to the contrary.
+(d)    Section 6.2 (Secured Debt) of the Credit Agreement is hereby amended by replacing clause (d) therein in its entirety with the following:
+(d)    all other secured Debt of the Borrower or any of its Subsidiaries not otherwise permitted under this Section 6.2 and secured by Liens permitted under Section 6.3(m), if at the time of issuance, creation, assumption or incurrence thereof and after giving effect thereto and to the application of the proceeds thereof:
+(i)    no Default or Event of Default exists or would exist;
+(ii)    the aggregate outstanding principal amount of all such secured Debt of the Borrower or any of its Subsidiaries permitted under this clause (d) (including the Debt then to be issued, created, assumed or incurred, but excluding MARAD Debt) would not exceed 5% of Consolidated Adjusted Net Worth; and
+(iii)    the aggregate outstanding principal amount of all such secured Debt of the Borrower or any of its Subsidiaries permitted under this clause (d) (including the Debt then to be issued, created, assumed or incurred and including any MARAD Debt) would not exceed 15% of Consolidated Adjusted Net Worth.
+Section 3.    Extension of Revolving Maturity Date. Each Lender party hereto agrees to the extension of its respective scheduled Revolving Maturity Date to January 25, 2023. The Borrower has requested such extension and hereby agrees to such extension. Each Lender that is not party hereto shall be deemed to be a Revolving Declining Lender and such Revolving Declining Lender’s Commitments shall be terminated as and when provided in Section 2.17(b) of the Credit Agreement, as amended hereby, unless otherwise provided pursuant to the terms of the Credit Agreement.
+
+
+
+Section 4.    Representations and Warranties. The Borrower represents and warrants that: (a) after giving effect to this Agreement, the representations and warranties contained in the Credit Agreement, as amended hereby, and the representations and warranties contained in the other Credit Documents are true and correct in all material respects (except that such materiality qualifier shall not be applicable to any representations and warranties that already are qualified or modified by materiality in the text thereof) on and as of the Amendment Effective Date as if made on as and as of such date except to the extent that any such representation or warranty expressly relates solely to an earlier date, in which case such representation or warranty is true and correct in all material respects (except that such materiality qualifier shall not be applicable to any representations and warranties that already are qualified or modified by materiality in the text thereof) as of such earlier date; (b) after giving effect hereto, no Default has occurred and is continuing; (c) the execution, delivery and performance of this Agreement are within the corporate, partnership, or limited liability company power, as applicable, and authority of the Borrower and have been duly authorized by appropriate governing action and proceedings; (d) this Agreement constitutes the legal, valid, and binding obligation of the Borrower enforceable in accordance with its terms, except as limited by applicable bankruptcy, insolvency, reorganization, moratorium, or similar laws affecting the rights of creditors generally and general principles of equity; and (e) there are no governmental or other third party consents, licenses and approvals required in connection with the execution, delivery, performance, validity and enforceability of this Agreement.
+Section 5.    Conditions to Effectiveness. This Agreement shall become effective on the Amendment Effective Date and enforceable against the parties hereto upon the occurrence of the following conditions which may occur prior to or concurrently with the closing of this Agreement:
+(a)    The Borrower shall have prepaid all outstanding Term Advances in full, together with accrued interest to the date of such prepayment on the principal amount prepaid and amounts, if any, required to be paid pursuant to Section 2.10 (Breakage Costs) of the Credit Agreement;
+(b)    The Administrative Agent shall have received this Agreement executed by the Borrower, the Administrative Agent, the Swing Line Lender, and at least the Majority Lenders;
+(c)    The Administrative Agent shall have received a certificate of good standing for the Borrower in the state in which it is organized, which certificate shall be (i) dated a date not earlier than 30 days prior to Amendment Effective Date or (ii) otherwise effective on the Amendment Effective Date;
+(d)    The Administrative Agent shall have received a secretary’s certificate for the Borrower executed by the appropriate officer and certifying (i) the incumbency of the officers of the Borrower who will be executing this Agreement, (ii) authorizing resolutions with respect to this Agreement or resolutions adopted in connection with the original closing of the Credit Agreement that authorized any extensions of the Maturity Dates and other amendments to the Credit Agreement, which resolutions have not been revoked, and (iii) the organizational documents of the Borrower or that such organizational documents certified in connection with the original closing of the Credit Agreement have not been amended, supplemented or otherwise modified and that such organizational documents remain in full force and effect as of the Amendment Effective Date;
+(e)    The Administrative Agent shall have received an executed certificate signed by a Responsible Officer of the Borrower, certifying that, immediately before and immediately after giving effect to the extension provided in Section 3, (i) all representations and warranties made by the Borrower in the Credit Agreement are true and correct in all material respects (except that such materiality qualifier shall not be applicable to any representations and warranties that already are qualified or modified by materiality in the text thereof), unless such representation or warranty relates to an earlier date which remains true and correct
+
+
+
+in all material respects as of such earlier date (except that such materiality qualifier shall not be applicable to any representations and warranties that already are qualified or modified by materiality in the text thereof) except that the representations or warranties set forth in Section 4.4(a) and Section 4.4(b) of the Credit Agreement shall be deemed to refer to the most recent financial statements furnished pursuant to Section 5.2(a) of the Credit Agreement, and (ii) no Default exists or would be caused by such extensions; and
+(f)    The Borrower shall have (i) paid all reasonable fees and expenses of the Administrative Agent's outside legal counsel pursuant to all invoices presented for payment on or prior to the Amendment Effective Date, and (ii) executed and delivered such fee letter requested by Wells Fargo Securities, LLC and paid the fees agreed to therein.
+Section 6.    Acknowledgments and Agreements.
+(a)    The Borrower acknowledges that on the date hereof all outstanding Obligations are payable in accordance with their terms and the Borrower waives any defense, offset, counterclaim or recoupment with respect thereto. The Borrower, Administrative Agent, Swing Line Lender and each Lender does hereby adopt, ratify, and confirm the Credit Agreement, as amended hereby, and acknowledges and agrees that the Credit Agreement, as amended hereby, is and remains in full force and effect, and the Borrower acknowledges and agrees that its liabilities and obligations under the Credit Agreement, as amended hereby, are not impaired in any respect by this Agreement.
+(b)    Nothing herein shall constitute a waiver or relinquishment of (i) any Default or Event of Default under any of the Credit Documents, (ii) any of the agreements, terms or conditions contained in any of the Credit Documents (except as expressly set forth in Sections 2 and 3 of this Agreement), (iii) any rights or remedies of the Administrative Agent or any Lender with respect to the Credit Documents, or (iv) the rights of the Administrative Agent, the Swing Line Lender or any Lender to collect the full amounts owing to them under the Credit Documents.
+(c)    From and after the Amendment Effective Date, all references to the Credit Agreement and the Credit Documents shall mean the Credit Agreement and such Credit Documents, as amended by this Agreement. This Agreement is a Credit Document for the purposes of the provisions of the other Credit Documents. Without limiting the foregoing, any breach of representations, warranties, and covenants under this Agreement shall be a Default or Event of Default, as applicable, under the Credit Agreement.
+(d)    Each Lender hereby waives the advance written notice required under Section 2.5(b) of the Credit Agreement solely as it relates to the prepayment of Term Advances required as condition under Section 5(a) above; provided however, the Borrower shall give at least a same Business Day’s notice of such prepayment which may be revocable.
+Section 7.    Counterparts; Successors and Assigns; Severability. This Agreement may be signed in any number of counterparts, each of which shall be an original and all of which, taken together, constitute a single instrument. This Agreement may be executed by facsimile or by e-mail (PDF) signature and all such signatures shall be effective as originals. This Agreement shall be binding upon and inure to the benefit of the parties hereto and their respective successors and assigns permitted pursuant to the Credit Agreement. In the event that any one or more of the provisions contained in this Agreement shall for any reason be held invalid, illegal or unenforceable in any respect, such invalidity, illegality or unenforceability shall not affect any other provision of this Agreement.
+Section 8.    Governing Law. This Agreement shall be deemed a contract under, and shall be governed by, and construed and enforced in accordance with, the laws of the State of New York without
+
+
+
+regard to conflicts of laws principles (other than Sections 5-1401 and 5-1402 of the General Obligations Law of the State of New York).
+Section 9.    Integration. THIS WRITTEN AGREEMENT AND THE OTHER CREDIT DOCUMENTS REPRESENT THE FINAL AGREEMENT AMONG THE PARTIES AND SUPERSEDE ALL PRIOR UNDERSTANDINGS AND AGREEMENTS, WHETHER WRITTEN OR ORAL, RELATING TO THE TRANSACTIONS PROVIDED FOR HEREIN AND THEREIN. ADDITIONALLY, THIS AGREEMENT AND THE CREDIT DOCUMENTS MAY NOT BE CONTRADICTED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS, OR SUBSEQUENT ORAL AGREEMENTS OF THE PARTIES.
+IN EXECUTING THIS AGREEMENT, THE BORROWER HEREBY WARRANTS AND REPRESENTS IT IS NOT RELYING ON ANY STATEMENT OR REPRESENTATION OTHER THAN THOSE IN THIS AGREEMENT AND IS RELYING UPON ITS OWN JUDGMENT AND ADVICE OF ITS ATTORNEYS.
+[The remainder of this page has been left blank intentionally.]
+
+
+
+EXECUTED to be effective as of the date first above written.
+BORROWER:
+OCEANEERING INTERNATIONAL, INC.
+By:    /S/ WITLAND LEBLANC        
+Witland LeBlanc
+Vice President, Tax and Treasurer
+
+
+
+
+ADMINISTRATIVE AGENT/LENDERS:
+WELLS FARGO BANK,
+NATIONAL ASSOCIATION
+as Administrative Agent, Swing Line Lender,
+Revolving Lender and Term Lender
+By:    /S/ CORBIN WOMAC        
+Corbin Womac
+Director
+
+
+
+
+DNB CAPITAL LLC
+as Revolving Lender and Term Lender
+By:    /S/ JILL ILSKI         
+Name:    Jill Ilski
+Title:    First Vice President
+By:    /S/ JAMES GRUBB         
+Name:    James Grubb
+Title:    First Vice President
+
+
+
+HSBC BANK USA, NATIONAL ASSOCIATION
+as Revolving Lender and Term Lender
+By:    /S/ BALAJI RAJGOPAL     
+Name:    Balaji Rajgopal
+Title:    Vice President
+
+
+
+JPMORGAN CHASE BANK, N.A.
+as Revolving Lender and Term Lender
+By:    /S/ ARINA MAVILIAN         
+Name:    Arina Mavilian
+Title:    Authorized Officer
+
+
+
+
+STANDARD CHARTERED BANK
+as Revolving Lender and Term Lender
+By:    /S/ DANIEL MATTERN
+Name:    Daniel Mattern
+Title:    Associate Director
+
+
+
+ABN AMRO CAPITAL USA LLC
+as Revolving Lender and Term Lender
+By:    /S/ PAUL SNOW                
+Name:    Paul Snow                    
+Title:    Vice President                    
+By:    /S/ REMCO JONGKIND            
+Name:    Remco Jongkind                
+Title:    Managing Director                
+
+
+
+
+CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH
+as Revolving Lender and Term Lender
+
+By:    /S/ NUPUR KUMAR                
+Name:    Nupur Kumar                    
+Title:    Authorized Signatory                
+By:    /S/ CHRISTOPHER ZYBRICK     
+Name:    Christopher Zybrick                
+Title:    Authorized Signatory            
+
+
+
+
+SKANDINAVISKA ENSKILDA BANKEN AB
+(PUBL)
+as Revolving Lender and Term Lender
+By:    /S/ PENNY NEVILLE-PARLE        
+Name:    Penny Neville-Parle
+Title:    Authorized Signatory
+By:    /S/ SIMON HICKMAN         
+Name:    Simon Hickman
+Title:    Authorized Signatory

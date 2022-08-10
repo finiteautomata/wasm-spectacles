@@ -1,0 +1,357 @@
+EX-99.1 2 amendmentno4tocreditagreem.htm EXHIBIT 99.1
+
+Exhibit 99.1
+Execution Version
+
+AMENDMENT NO. 4 TO CREDIT AGREEMENT
+
+THIS AMENDMENT NO. 4 TO CREDIT AGREEMENT (this "Amendment No. 4") is made this 9th day of July, 2018 by and among CSS INDUSTRIES, INC., a Delaware corporation (together with its successors and/or assigns, "Borrower"), the banks and other financial institutions signatory hereto (together with their successors and/or assigns, collectively, the "Lenders"; and each individually, a "Lender"), and WELLS FARGO BANK, NATIONAL ASSOCIATION, a national banking association, as administrative agent for the Lenders hereunder (in such capacity, together with its successors and/or assigns in such capacity, the "Administrative Agent").
+
+BACKGROUND
+
+The Borrower, Guarantors, Administrative Agent and Lenders are parties to that certain Credit Agreement dated March 17, 2011, as amended by that certain Amendment No. 1 to Credit Agreement ("Amendment No. 1") dated as of December 17, 2013, by that certain Amendment No. 2 to Credit Agreement ("Amendment No. 2") dated as of March 24, 2015, and by that certain Amendment No. 3 to Credit Agreement ("Amendment No. 3") dated as of October 17, 2017 (as amended hereby and as may be further amended or otherwise modified from time to time, the "Credit Agreement").
+
+The Borrower has requested, and the Administrative Agent and Lenders have agreed, subject to the terms and conditions hereof, to amend the Credit Agreement in certain respects as set forth herein.
+
+In consideration of the foregoing premises and the agreements hereinafter set forth, and intending to be legally bound hereby, the parties hereto agree as follows:
+
+A.Definitions. Except as expressly set forth herein, all capitalized terms used and not otherwise defined herein have the respective meanings ascribed thereto in the Credit Agreement (including defined terms added or modified hereby).
+
+B.
+Amendments to Credit Agreement .
+
+1.    New Defined Terms. The following terms are hereby added to the Credit Agreement in alphabetical order in Section 1.1 (and used with such meanings in this Amendment No. 3):
+
+"Amendment No. 4" means that certain Amendment No. 4 to Credit Agreement among Borrower, Lenders and Administrative Agent dated as of July 9, 2018.
+
+"Amendment No. 4 Effective Date" shall have the meaning set forth in Amendment No. 4.
+
+
+
+“McCall’s Integration Costs” shall mean one-time costs and expenses, including fees and expenses of consultants, for severance, systems integrations and other quantifiable costs incurred in connection with the integration and consolidation of operations of The McCall Pattern Company and certain of its affiliated companies with Borrower.
+
+“Simplicity Acquisition and Integration Costs” shall mean nonrecurring cash expenses for investment banking, legal, accounting and similar expenses incurred in connection with the Borrower’s acquisition of substantially all of the assets and business of Simplicity Creative Group from Wilton Brands LLC on November 3, 2017 and one-time costs and expenses, including fees and expenses of consultants, for severance, systems integrations and other quantifiable costs incurred in connection with the integration and consolidation of operations of Simplicity Creative Group with Borrower.
+
+2.    Amended and Restated Defined Term. The following definition set forth in Section 1.1 of the Credit Agreement is hereby amended and restated in its entirety to read as follows:
+
+"Consolidated EBIT" means, for any period, the amount of (all as determined in accordance with GAAP):
+
+(a)    Consolidated Net Income for such period, plus
+
+(b)    an amount that, in the determination of Consolidated Net Income for such period, has been deducted for (without duplication) (and in the case of clauses (iii), (iv), (vi), (vii) and (viii), only to the extent such non-cash charges or losses are not reserved for future cash charges or losses and are otherwise not reasonably expected to become cash charges or losses in a later period):
+
+(i)Consolidated Interest Expense;
+(ii)total federal, state and local income, business privilege and similar tax expense;
+(iii)any non-cash impairment charges relating to intangible assets;
+(iv)any non-cash impairment charges relating to tangible fixed assets;
+(v)
+Consolidated Stock Compensation Expense;
+(vi)
+any non-cash restructuring charges;
+(vii)the non-cash component of the cost of goods sold resulting from any inventory fair value adjustment made in
+
+2
+
+connection with the consummation of any Permitted Acquisition;
+(viii)
+any other non-cash loss; and
+(ix)for any four-quarter period ending on or after June 30, 2018 and on or before December 31, 2018, Simplicity Acquisition and Integration Costs and McCall’s Integration Costs; minus
+
+(c)    an amount that, in the determination of Consolidated Net Income for such period, has been included for (without duplication ):
+
+(i)
+federal, state and local income and similar tax benefits;
+(ii)any aggregate net gain arising from the sale, exchange or other disposition of capital assets (including any fixed assets, whether tangible or intangible, all inventory sold in conjunction with the disposition of fixed assets and all securities) by the Borrower and its Subsidiaries; and
+(iii)
+any other non-cash gain.
+
+3.    Amended Defined Terms. The following definition set forth in Section 1.1 of the Credit Agreement is amended as follows:
+
+(a)    Clause (a) of the defined term "Permitted Acquisition" is amended to read as follows:
+
+(a) (i) consideration for all such acquisitions from the Amendment No. 4 Effective Date until December 31, 2018 shall not exceed $20,000,000, (ii) consideration for any one such acquisition on or after January 1, 2019 shall not exceed $40,000,000, (iii) consideration for all such acquisitions on or after January 1, 2019 shall not exceed $50,000,000 during any fiscal year and (iv) consideration for all such acquisitions during the term of this Agreement shall not exceed $250,000,000 in the aggregate.
+
+C.Representations and Warranties. The Borrower hereby represents and warrants to the Lenders, as to themselves and their Subsidiaries, as follows:
+
+1.    Representations. As of the Amendment No. 4 Effective Date (defined below) and after giving effect thereto, the Borrower represents and warrants as follows: (i) the representations and warranties set forth in Article III of the Credit Agreement are true and correct in all material respects, except for any representation or warranty made as of an earlier date, which representation and warranty shall remain true and correct as of such earlier date; (ii) there is no Event of Default or Default under the Credit Agreement, as amended hereby, which has not been cured or waived; and (iii) no Material Adverse Effect has occurred or is continuing.
+
+
+3
+
+2.    Power and Authority. The Borrower has the power and authority under the laws of its jurisdiction of formation and under its formation documents to enter into and perform this Amendment No. 4 and the other documents and agreements required hereunder (collectively, the "Amendment Documents"); all necessary actions (corporate or otherwise) for the execution and performance by the Borrower of the Amendment Documents have been taken; and each of the Amendment Documents and the Credit Agreement, as amended, constitute the valid and binding obligations of the Borrower, enforceable in accordance with its respective terms.
+
+3.    No Violations of Law or Agreements. The execution and performance of the Amendment Documents by the Borrower and the Guarantors party thereto will not: (i) violate any provisions of any law or regulation, federal, state, local, or foreign, or any formation document of the Borrower or (ii) result in any breach or violation of, or constitute a default or require the obtaining of any consent under , any material agreement or instrument by which the Borrower or its property may be bound.
+
+D.Conditions to the Effectiveness of Amendment No. 4. This Amendment No. 4 shall be effective upon the date of the Administrative Agent's receipt of the following in form and substance reasonably satisfactory to the Administrative Agent (the “Amendment No. 4 Effective Date"):
+
+1.    Amendment No. 4. This Amendment No. 4 duly executed and delivered by each of the Borrower, the Lenders, and the Administrative Agent.
+2.    Acknowledgement of Guarantors. The Consent and Reaffirmation, duly executed and delivered by each of the Guarantors, in the form attached hereto as Exhibit A
+3.    Payment of fee. Payment by Borrower to administrative Agent for the benefit of Lenders of an Amendment fee in the amount of Thirty Thousand Dollars ($30,000).
+4.    Payment of the Administrative Agent's Legal and Other Fees. Payment by Borrower of all reasonable fees and expenses (including without limitation reasonable fees and expenses of counsel) incurred by the Administrative Agent in connection with the preparation, execution and delivery of this Amendment No. 4.
+5.    Other Documents. Such additional documents as the Administrative Agent may reasonably request.
+
+E.Miscellaneous.
+
+1.    The Borrower hereby (i) affirms all the provisions of the Credit Agreement, as amended by this Amendment No. 4; and (ii) agrees that the terms and conditions of the Credit Agreement shall continue in full force and effect, as amended hereby.
+2.    The Borrower agrees to pay the Administrative Agent for all reasonable fees and expenses (including without limitation reasonable fees and expenses of counsel) incurred by the Administrative Agent and its counsel in connection with the due diligence review, the preparation, execution and delivery of this Amendment No. 4, and the future administration by the Administrative Agent of this Amendment No. 4 and the transactions contemplated hereby.
+
+4
+
+3.    This Amendment No. 4 shall be governed by and construed in accordance with the laws of the Commonwealth of Pennsylvania, without regard to conflicts of law or choice of law principles.
+4.    This Amendment No. 4 may be executed in any number of counterparts and by different parties hereto in separate counterparts, each of which when so executed shall be deemed to be an original and shall be binding upon all parties, their successors and assigns, and all of which taken together shall constitute one and the same agreement.
+5.    This Amendment No. 4, together with the Amendment No. 1, Amendment No. 2, Amendment No. 3, the Credit Agreement, and the other Loan Documents, represents the entire agreement of the parties hereto and thereto, and supersedes all prior agreements and understandings, oral and written, if any, including any commitment letters or correspondence relating to the Amendment No. 4, the other Loan Documents or the transactions contemplated herein or therein.
+6.    The execution, delivery and performance of this Amendment No. 4 shall not operate as a waiver of any right, power or remedy of the Administrative Agent, any Issuing Lender, or Lenders under the Credit Agreement and the agreements and documents executed in connection therewith or constitute a waiver of any provision thereof.
+
+
+(Signature Pages to Follow)
+
+
+5
+
+
+IN WITNESS WHEREOF, the undersigned have executed this Amendment No. 4 the day and year first written above.
+
+
+BORROWER:
+
+CSS INDUSTRIES, INC.,
+a Delaware corporation
+
+
+By: /s/ John M. Roselli    
+Name: John M. Roselli
+Title: Executive Vice President- Finance and Chief Financial Officer
+
+
+
+
+
+
+
+
+
+LENDERS:
+
+WELLS FARGO BANK, NATIONAL ASSOCIATION,
+as Lender
+
+By: /s/ Stephen T. Dorosh     
+Name: Stephen T. Dorosh
+Title: Senior Vice President
+
+CITIZENS BANK OF PENNSYLVANIA,
+as Lender
+
+By: /s/ Pamela L. Hansen    
+Name: Pamela L. Hansen
+Title: Senior Vice President
+
+
+
+
+
+
+
+
+
+
+ADMINISTRATIVE AGENT:
+
+WELLS FARGO BANK, NATIONAL ASSOCIATION,
+as Administrative Agent
+
+
+By: /s/ Stephen T. Dorosh    
+Name: Stephen T. Dorosh
+Title: Senior Vice President
+
+
+
+
+
+
+EXHIBIT A
+
+CONSENT AND REAFFIRMATION
+
+Each of the undersigned hereby (i) acknowledges receipt of a copy of the foregoing Amendment No. 4 to Credit Agreement (the "Amendment"); (ii) consents to the Borrower's execution and delivery of the Amendment; (iii) agrees to be bound by the Amendment ; (iv) affirms that nothing contained in the Amendment shall modify in any respect whatsoever any Loan Document to which it is a party except as expressly set forth in the Amendment; and (v) reaffirms that such Loan Documents shall continue to remain in full force and effect. Although each of the undersigned has been informed of the matters set forth herein and has acknowledged and agreed to same, each of the undersigned understands that Administrative Agent and the Lenders have no obligation to inform such undersigned of such matters in the future or to seek the undersigned's acknowledgement or agreement to future amendments, waivers or consents, and nothing herein shall create such a duty. Capitalized terms have the meanings assigned to them in the Amendment.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IN WITNESS WHEREOF, each of the undersigned has duly executed this Consent and Reaffirmation on and as of the date of the Amendment.
+
+GUARANTORS:
+
+PAPER MAGIC GROUP, INC.
+a Pennsylvania corporation
+
+By: /s/ John M. Roselli        
+Name: John M. Roselli
+Title: Executive Vice President- Finance
+
+
+BERWICK OFFRAY LLC,
+a Pennsylvania limited liability company
+
+
+By: /s/ John M. Roselli        
+Name: John M. Roselli
+Title: Executive Vice President- Finance
+
+
+CLEO INC,
+a Tennessee corporation
+
+
+By: /s/ John M. Roselli        
+Name: John M. Roselli
+Title: Executive Vice President- Finance
+
+
+PHILADELPHIA INDUSTRIES, INC.,
+a Delaware corporation
+
+By: /s/ Steven W. Eck        
+Name: Steven W. Eck
+Title: Vice President - Finance
+
+
+LION RIBBON COMPANY, LLC
+a Delaware limited liability company
+
+
+By: /s/ John M. Roselli        
+Name: John M. Roselli
+Title: Executive Vice President- Finance
+
+Signature Page to Consent and Reaffirmation
+
+
+C.R. GIBSON, LLC,
+a Delaware limited liability company
+
+
+By: /s/ John M. Roselli        
+Name: John M. Roselli
+Title: Executive Vice President- Finance
+
+W.J.S. FURNITURE, INC.,
+a Delaware corporation
+
+
+By: /s/ John M. Roselli        
+Name: John M. Roselli
+Title: Executive Vice President- Finance
+
+PAPER MAGIC DISTRIBUTION, Inc.
+a Delaware corporation
+
+
+By: /s/ John M. Roselli        
+Name: John M. Roselli
+Title: Executive Vice President- Finance
+
+
+CRG DISTRIBUTION, INC.,
+a Delaware corporation
+
+
+By: /s/ John M. Roselli        
+Name: John M. Roselli
+Title: Executive Vice President- Finance
+
+
+LR TEXAS CORP.,
+a Texas corporation
+
+
+By: /s/ John M. Roselli        
+Name: John M. Roselli
+Title: Executive Vice President- Finance
+
+
+
+
+Signature Page to Consent and Reaffirmation
+
+
+
+
+BOC DISTRIBUTION, INC.,
+a Delaware corporation
+
+
+By: /s/ John M. Roselli        
+Name: John M. Roselli
+Title: Executive Vice President- Finance
+
+BERWICK MANAGEMENT LLC,
+a Pennsylvania limited liability company
+By: Berwick Offray LLC
+
+By: /s/ John M. Roselli        
+Name: John M. Roselli
+Title: Executive Vice President- Finance
+
+THE MCCALL PATTERN COMPANY, INC.,
+a Delaware corporation
+
+
+By: /s/ John M. Roselli        
+Name: John M. Roselli
+Title: Executive Vice President- Finance
+
+
+MCCALL DISTRIBUTION, INC.,
+a Delaware corporation
+
+
+By: /s/ John M. Roselli        
+Name: John M. Roselli
+Title: Executive Vice President- Finance
+
+
+
+SIMPLICITY CREATIVE CORP (f/k/a STITCH ACQUISITION CORP.),
+a Delaware corporation
+
+
+By: /s/ John M. Roselli        
+Name: John M. Roselli
+Title: Executive Vice President- Finance
+
+
+Signature Page to Consent and Reaffirmation

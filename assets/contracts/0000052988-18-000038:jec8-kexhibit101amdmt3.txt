@@ -1,0 +1,668 @@
+EX-10.1 2 jec8-kexhibit101amdmt3.htm EXHIBIT 10.1
+
+THIRD AMENDMENT TO AMENDED AND RESTATED CREDIT AGREEMENT
+
+This THIRD AMENDMENT TO AMENDED AND RESTATED CREDIT AGREEMENT (this “Amendment”) is entered into as of November 30, 2018, among Jacobs Engineering Group Inc., a Delaware corporation (the “Company”), certain Subsidiaries of the Company party hereto (each a “Designated Borrower” and, together with the Company, the “Borrowers” and each, a “Borrower”), each lender party hereto (collectively, the “Lenders” and individually, a “Lender”), each issuer of letters of credit party hereto (collectively, the “L/C Issuers” and individually, a “L/C Issuer”), and Bank of America, N.A., as Administrative Agent and Swing Line Lender.
+
+The Company, the Designated Borrowers, the Lenders, the L/C Issuers, the Administrative Agent and the Swing Line Lender have entered into an Amended and Restated Credit Agreement dated as of February 7, 2014 (as amended by that certain Amendment Agreement dated as of March 4, 2015, and that certain Second Amendment to Amended and Restated Credit Agreement dated as of September 28, 2017, the “Existing Credit Agreement”, and the Existing Credit Agreement as amended by this Amendment, the “Credit Agreement”).
+
+The Company has requested that the Swing Line Lender, the L/C Issuers and the Lenders agree to certain amendments to the Credit Agreement, and the Swing Line Lender, the L/C Issuers and the Lenders each a party hereto have agreed to such request, subject to the terms and conditions of this Amendment.
+
+In consideration of the mutual covenants and agreements herein contained, the parties hereto covenant and agree as follows:
+
+1.
+Definitions; References; Interpretation.
+
+(a)    Unless otherwise specifically defined herein, each term used herein (including in the Recitals hereof) which is defined in the Existing Credit Agreement shall have the meaning assigned to such term in the Existing Credit Agreement.
+
+(b)    As used herein, “Amendment Documents” means this Amendment and the Credit Agreement.
+
+(c)    Each reference to “this Agreement”, “hereof”, “hereunder”, “herein” and “hereby” and each other similar reference contained in the Credit Agreement, and each reference to “the Credit Agreement” and each other similar reference in the other Loan Documents, shall from and after the Effective Date (as defined in Section 2) refer to the Credit Agreement as amended hereby.
+
+(d)    The rules of interpretation set forth in Section 1.02 of the Credit Agreement shall be applicable to this Amendment.
+
+2.Amendments to Credit Agreement. Subject to the terms and conditions hereof, including satisfaction of the conditions set forth in Section 4(a), the Existing Credit Agreement is amended as follows, effective as of the date designated by the Administrative Agent pursuant to Section 4(d) (the “Effective Date”):
+
+(a)    Section 2.14(e) of the Existing Credit Agreement is hereby amended by inserting the following clause to the end of the first sentence thereof:
+
+
+
+“provided further that, effective upon closing of the ECR Disposition (as defined in Section 7.07(g)), and to the extent that such entities are transferred, dissolved, or merged or consolidated with or into another Person as part of the ECR Disposition, each of Jacobs Nederland BV, Jacobs Engineering Singapore Pte Ltd, Jacobs Canada Inc., Jacobs Engineering UK Limited, and Jacobs E&C Australia Pty. Ltd. shall, absent contrary prior written notice from the Company, automatically be terminated as Designated Borrowers hereunder upon the repayment of the Borrowings made directly by each such Designated Borrower and without further notice or other action by such Designated Borrowers or any other Person (except that Company shall notify the Administrative Agent in writing when the ECR Disposition has occurred).”
+
+(b)    Section 7.07 of the Existing Credit Agreement is amended by (i) deleting the word “and” at the end of clause (f), (ii) moving current clause (g) to a new clause (h), and (iii) replacing current clause (g), such that clauses (g) and (h) in their entirety shall read as follows:
+
+“(g)    the Disposition of all or any portion of the energy, chemicals and resources business of the Company, its Subsidiaries and certain joint ventures, including in a transaction with WorleyParsons Ltd. which is consistent in all material respects with the Disposition of such business as announced on October 21, 2018 (the “ECR Disposition”); and
+
+(h)    Dispositions by the Company and its Subsidiaries not otherwise permitted under this Section 7.07; provided that (i) at the time of such Disposition, no Default shall exist or would result from such Disposition and (ii) the aggregate book value of all property Disposed of in reliance on this clause (h) during the term of this Agreement shall not exceed 10% of the Company’s Consolidated Tangible Assets as of the end of the most recently ended fiscal year.”
+
+3.Representations and Warranties. Each Borrower hereby represents and warrants to the Administrative Agent, the L/C Issuers, the Swing Line Lender and the Lenders as follows:
+
+(a)    No Default has occurred and is continuing (or would result from the amendment of the Existing Credit Agreement contemplated hereby).
+
+(b)    The execution, delivery and performance by each Borrower of this Amendment, and of the performance of the Credit Agreement, have been duly authorized by all necessary corporate and other action and do not and will not require any registration with, consent or approval of, or notice to or action by, any Person (including any Governmental Authority) in order to be effective and enforceable.
+
+(c)    The Amendment Documents constitute the legal, valid and binding obligations of each Borrower, enforceable against it in accordance with their respective terms, subject to the effect of applicable bankruptcy, insolvency, arrangement, moratorium and other similar laws affecting creditors’ rights generally and the application of general principles of equity.
+
+(d)    All representations and warranties of each Borrower contained in Article V of the Existing Credit Agreement and the Credit Agreement are true and correct in all material respects on and as of the Effective Date immediately before (in the case of the Existing Credit Agreement) and immediately after (in the case of the Credit Agreement) giving effect to this Amendment, except (i) to the extent that such representations and warranties are qualified by materiality, they shall be true and correct on and as of the Effective Date, and (ii) to the extent that such representations and warranties specifically refer to an earlier
+
+
+date, they shall be true and correct in all material respects as of such earlier date except to the extent qualified by materiality, then they shall be true and correct as of such earlier date, and except that for purposes of this Section 3(d) and Section 4(a)(2), the representations and warranties contained in subsections (a) and (b) of Section 5.05 of the Credit Agreement shall be deemed to refer to the most recent statements furnished pursuant to clauses (a) and (b), respectively, of Section 6.01 of the Credit Agreement.
+
+4.
+Conditions of Effectiveness.
+
+(a)    The effectiveness of Section 2 of this Amendment shall be subject to the satisfaction of each of the following conditions precedent:
+
+(1)    The Administrative Agent shall have received from each Borrower, each L/C Issuer, the Required Lenders, the Swing Line Lender and the Administrative Agent, a duly executed original (or, if elected by the Administrative Agent, an executed facsimile or “pdf” copy with originals to follow) of this Amendment.
+
+(2)    The representations and warranties in Section 3 of this Amendment shall be true and correct in all material respects on and as of the Effective Date immediately before (in the case of the Existing Credit Agreement) and immediately after (in the case of the Credit Agreement) giving effect to this Amendment, with the same effect as if made on and as of the Effective Date, except (i) to the extent that such representations and warranties are qualified by materiality, they shall be true and correct on and as of the Effective Date, and (ii) to the extent that such representations and warranties specifically refer to an earlier date, they shall be true and correct in all material respects as of such earlier date except to the extent qualified by materiality, then they shall be true and correct as of such earlier date.
+
+(3)    No Default has occurred and is continuing (or would result from the amendment of the Existing Credit Agreement contemplated hereby).
+
+(b)    For purposes of determining compliance with the conditions specified in Section 4(a), each Lender that has signed this Amendment shall be deemed to have consented to, approved or accepted or to be satisfied with, each document or other matter required thereunder to be consented to or approved by or acceptable or satisfactory to a Lender unless the Administrative Agent shall have received notice from such Lender prior to the Effective Date specifying its objection thereto.
+
+(c)    From and after the Effective Date, the Credit Agreement is amended as set forth herein. Except as expressly amended pursuant hereto, the Credit Agreement shall remain unchanged and in full force and effect and is hereby ratified and confirmed in all respects.
+
+(d)    The Administrative Agent will notify the Company and the Lenders of the occurrence of the Effective Date.
+
+5.Fees, Interest and Other Payments. On or prior to the Effective Date, the Administrative Agent shall have received evidence of payment by the Company of all interest, costs and expenses due and payable as of the Effective Date under or in connection with this Amendment and the Credit Agreement.
+
+6.
+Miscellaneous.
+
+(a)    The Company acknowledges and agrees that the execution and delivery by the Administrative Agent, the L/C Issuers, the Swing Line Lender and the Lenders of this Amendment shall not
+
+
+be deemed to create a course of dealing or an obligation to execute similar waivers or amendments under the same or similar circumstances in the future.
+
+(b)    The Company, as the guarantor party to the Company Guaranty, confirms its consent to the Amendment and to the documents and agreements referred to herein, in its capacity as such guarantor. Nothing herein shall in any way limit any of the terms or provisions of the Company Guaranty executed by the Company in the Administrative Agent’s, the L/C Issuers’, the Swing Line Lender’s and the Lenders’ favor, or any other Loan Document executed by the Company (as the same may be amended from time to time), all of which are hereby ratified and affirmed by the Company, in such capacity, in all respects.
+
+(c)    This Amendment shall be binding upon and inure to the benefit of the parties hereto and their respective successors and assigns permitted by the Credit Agreement.
+
+(d)    THIS AMENDMENT SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF NEW YORK.
+
+(e)    This Amendment may be executed in counterparts (and by different parties hereto in different counterparts), each of which shall constitute an original, but all of which when taken together shall constitute a single contract. This Amendment and the other Amendment Documents constitute the entire contract among the parties relating to the subject matter hereof and supersede any and all previous agreements and understandings, oral or written, relating to the subject matter hereof. Except as provided in Section 4, this Amendment shall become effective when it shall have been executed by the Administrative Agent and when the Administrative Agent shall have received counterparts hereof that, when taken together, bear the signatures of each of the other parties hereto. Delivery of an executed counterpart of a signature page of this Amendment by telecopy shall be effective as delivery of a manually executed counterpart of this Amendment.
+
+(f)    This Amendment and the other Amendment Documents contain the entire and exclusive agreement of the parties hereto with reference to the matters discussed herein. This Amendment supersedes all prior drafts and communications with respect hereto. This Amendment may not be amended except in accordance with the provisions of Section 10.01 of the Credit Agreement.
+
+(g)    If any provision of this Amendment or the other Amendment Documents is held to be illegal, invalid or unenforceable, (i) the legality, validity and enforceability of the remaining provisions of this Amendment and the other Amendment Documents and Loan Documents shall not be affected or impaired thereby and (ii) the parties shall endeavor in good faith negotiations to replace the illegal, invalid or unenforceable provisions with valid provisions the economic effect of which comes as close as possible to that of the illegal, invalid or unenforceable provisions. The invalidity of a provision in a particular jurisdiction shall not invalidate or render unenforceable such provision in any other jurisdiction.
+
+(h)    The Borrowers agree to pay or reimburse all reasonable out-of-pocket expenses incurred by the Administrative Agent and MLPFS (including the reasonable fees, charges and disbursements of counsel for the Administrative Agent and MLPFS), in connection with the preparation, negotiation, execution, delivery and administration of this Amendment and the other Amendment Documents or any amendments, modifications or waivers of the provisions hereof or thereof (whether or not the transactions contemplated hereby or thereby shall be consummated).
+
+(i)
+This Amendment shall constitute a Loan Document.
+
+[signature pages follow]
+
+
+IN WITNESS WHEREOF, the parties hereto have caused this Third Amendment to Amended and Restated Credit Agreement to be duly executed as of the date first above written.
+
+JACOBS ENGINEERING GROUP INC.
+
+By:
+/s/ Kevin C. Berryman                
+
+Name:
+Kevin Berryman                
+
+Title:
+Chief Financial Officer                
+
+
+JACOBS UK HOLDINGS LIMITED
+
+By:
+/s/ Kevin C. Berryman                
+
+Name:
+Kevin C. Berryman                
+
+Title:
+Director                    
+
+
+JACOBS U.K. LIMITED
+
+By:
+/s/ Kevin C. Berryman                
+
+Name:
+Kevin C. Berryman                
+
+Title:
+Director                    
+
+
+JACOBS ENGINEERING UK LIMITED
+
+By:
+/s/ Tejender Chaudhary                
+
+Name:
+Tejender Chaudhary                
+
+Title:
+Director                    
+
+
+
+Jacobs Engineering
+Third Amendment to Amendment and Restated Credit Agreement
+Signature Pages
+
+
+
+JEG ACQUISITION COMPANY LIMITED
+
+By:
+/s/ Kevin C. Berryman                
+
+Name:
+Kevin C. Berryman                
+
+Title:
+Director                    
+
+JACOBS NEDERLAND B.V.
+
+By:
+/s/ Erwin Geene                    
+
+Name:
+Erwin Geene                    
+
+Title:
+Vice President                    
+
+
+JACOBS ENGINEERING SINGAPORE PTE
+LTD
+
+By:
+/s/ Juan-Pablo Villamizar            
+
+Name:
+Juan-Pablo Villamizar                
+
+Title:
+Director                    
+
+
+JACOBS CANADA INC.
+
+By:
+/s/ Michael Carlin                
+
+Name:
+Michael Carlin                    
+
+Title:     Treasurer                    
+
+
+JACOBS ENGINEERING ESPAÑA, S.L.
+
+
+By:
+/s/ Kevin C. Berryman                
+
+Name:
+Kevin C. Berryman                
+
+Title:
+Director                    
+
+
+
+
+
+Jacobs Engineering
+Third Amendment to Amendment and Restated Credit Agreement
+Signature Pages
+
+
+
+
+
+Each person who executes this Agreement on behalf of a party under a power of attorney declares that he or she is not aware of any fact or circumstance that might affect his or her authority to do so under that power of attorney.
+
+SIGNED for JACOBS AUSTRALIA PTY LIMITED
+under power of attorney in the
+presence of:
+
+                    Signature of attorney
+
+
+
+/s/ Renee J. Cardona                        /s/ Terence D. Hagen        
+Signature of witness                        Name Terence D. Hagen, Director
+
+
+
+Renee J. Cardona                                        
+Name                                Date of power of attorney
+
+
+
+Jacobs Engineering
+Third Amendment to Amendment and Restated Credit Agreement
+Signature Pages
+
+
+
+Each person who executes this Agreement on behalf of a party under a power of attorney declares that he or she is not aware of any fact or circumstance that might affect his or her authority to do so under that power of attorney.
+
+SIGNED for JACOBS E&C AUSTRALIA PTY. LTD.
+under power of attorney in the
+presence of:
+
+                    Signature of attorney
+
+
+
+/s/ Chan Sook Cheng                        /s/ Tim Rice            
+Signature of witness                        Name Tim Rice, Director
+
+
+Chan Sook Cheng                                            
+Name                                Date of power of attorney
+
+
+
+Jacobs Engineering
+Third Amendment to Amendment and Restated Credit Agreement
+Signature Pages
+
+
+
+Each person who executes this Agreement on behalf of a party under a power of attorney declares that he or she is not aware of any fact or circumstance that might affect his or her authority to do so under that power of attorney.
+
+SIGNED for JACOBS AUSTRALIA HOLDINGS COMPANY PTY. LTD.
+under power of attorney in the
+presence of:
+
+                    Signature of attorney
+
+
+
+/s/ Chan Sook Cheng                        /s/ Tim Rice        
+Signature of witness                        Name Tim Rice, Director
+
+
+
+Chan Sook Cheng                                        
+Name                                Date of power of attorney
+
+
+
+Jacobs Engineering
+Third Amendment to Amendment and Restated Credit Agreement
+Signature Pages
+
+
+
+Each person who executes this Agreement on behalf of a party under a power of attorney declares that he or she is not aware of any fact or circumstance that might affect his or her authority to do so under that power of attorney.
+
+SIGNED for JACOBS GROUP (AUSTRALIA) PTY LTD.
+under power of attorney in the
+presence of:
+
+                    Signature of attorney
+
+
+
+/s/ Heather A. Millson                        /s/     Patrick Hill        
+Signature of witness                        Name Patrick Hill, Director
+
+
+
+Heather A. Millson                                        
+Name                                Date of power of attorney
+
+
+
+Jacobs Engineering
+Third Amendment to Amendment and Restated Credit Agreement
+Signature Pages
+
+
+
+BANK OF AMERICA, N.A., as
+Administrative Agent
+
+
+By:
+/s/ Liliana Claar                
+
+Name:
+Liliana Claar                    
+
+Title:
+Vice President                    
+
+Jacobs Engineering
+Third Amendment to Amendment and Restated Credit Agreement
+Signature Pages
+
+
+
+BANK OF AMERICA, N.A., as a Tranche 1
+Lender, as an L/C Issuer and as Swing Line Lender
+
+
+By:
+/s/ Daniel Blakely                
+
+Name:
+Daniel Blakely                    
+
+Title:
+Associate                    
+
+
+Jacobs Engineering
+Third Amendment to Amendment and Restated Credit Agreement
+Signature Pages
+
+
+
+BNP PARIBAS, as a Tranche 1 Lender
+and as an L/C Issuer
+
+
+By:
+/s/ Brendan Heneghan            
+
+Name:
+Brendan Heneghan                
+
+Title:
+Director                    
+
+
+By:
+/s/ Christopher Sked                
+
+Name:
+Christopher Sked                
+
+Title:
+Managing Director                
+
+Jacobs Engineering
+Third Amendment to Amendment and Restated Credit Agreement
+Signature Pages
+
+
+
+BANK OF THE WEST, as a Tranche 1 Lender
+
+
+By:
+/s/ Bryan Bains                    
+
+Name:
+Bryan Bains                    
+
+Title:
+VP                        
+
+
+
+
+Jacobs Engineering
+Third Amendment to Amendment and Restated Credit Agreement
+Signature Pages
+
+
+
+WELLS FARGO BANK, N.A., as a Tranche 2
+Lender and as an L/C Issuer
+
+
+By:
+/s/ Mark B. Felker                
+
+Name:
+Mark B. Felker                    
+
+Title:
+Managing Director                
+
+
+
+Jacobs Engineering
+Third Amendment to Amendment and Restated Credit Agreement
+Signature Pages
+
+
+
+MUFG BANK, LTD., as a Tranche 1 Lender and as an L/C Issuer
+
+
+By:
+/s/ Katie Cunningham                
+
+Name:
+Katie Cunningham                
+
+Title:
+Director                        
+
+
+
+Jacobs Engineering
+Third Amendment to Amendment and Restated Credit Agreement
+Signature Pages
+
+
+
+TD BANK, N.A., as a Tranche 1 Lender
+
+
+By:
+/s/ Emily Chott                    
+
+Name:
+Emily Chott                    
+
+Title:
+Senior Vice President                
+
+
+
+Jacobs Engineering
+Third Amendment to Amendment and Restated Credit Agreement
+Signature Pages
+
+
+
+THE BANK OF NOVA SCOTIA, as a Tranche 1
+Lender
+
+
+By:
+/s/ Michael Grad                
+
+Name:
+Michael Grad                    
+
+Title:
+Director                    
+
+
+
+Jacobs Engineering
+Third Amendment to Amendment and Restated Credit Agreement
+Signature Pages
+
+
+
+BARCLAYS BANK PLC, as a Tranche 1 Lender
+
+
+By:
+/s/ Patricia Oreta                
+
+Name:
+Patricia Oreta                    
+
+Title:
+Director                    
+
+Executed in New York
+
+Jacobs Engineering
+Third Amendment to Amendment and Restated Credit Agreement
+Signature Pages
+
+
+
+COMPASS BANK, as a Tranche 1 Lender
+
+
+By:
+/s/ Aaron Lloyd                    
+
+Name:
+Aaron Lloyd                    
+
+Title:
+Director                    
+
+
+
+Jacobs Engineering
+Third Amendment to Amendment and Restated Credit Agreement
+Signature Pages
+
+
+
+CITIZENS BANK, N.A., as successor to RBS
+Citizens, N.A. as a Tranche 1 Lender
+
+
+By:
+/s/ Jonathan Gleit                
+
+Name:
+Jonathan Gleit                    
+
+Title:
+Senior Vice pres                
+
+
+Jacobs Engineering
+Third Amendment to Amendment and Restated Credit Agreement
+Signature Pages
+
+
+
+THE NORTHERN TRUST COMPANY, as a
+Tranche 1 Lender
+
+
+By:
+/s/ Wicks Barkhausen                
+
+Name:
+Wicks Barkhausen                
+
+Title:
+Vice President                    
+
+
+
+Jacobs Engineering
+Third Amendment to Amendment and Restated Credit Agreement
+Signature Pages
+
+
+
+HSBC BANK USA, N.A., as a Tranche 2 Lender
+
+
+By:
+/s/ Rumesha Ahmed                
+
+Name:
+Rumesha Ahmed                
+
+Title:
+Vice President                    
+
+
+
+
+
+
+
+Jacobs Engineering
+Third Amendment to Amendment and Restated Credit Agreement
+Signature Pages
+
+
+
+U.S. BANK, NATIONAL ASSOCIATION, as a
+Tranche 2 Lender
+
+
+By:
+/s/ Jonathan F. Lindvall                
+
+Name:
+Jonathan F. Lindvall                
+
+Title:
+Vice President                    
+
+
+
+Jacobs Engineering
+Third Amendment to Amendment and Restated Credit Agreement
+Signature Pages
+
+
+
+U.S. BANK, NATIONAL ASSOCIATION,
+CANADA BRANCH, as a Tranche 2 Lender
+
+
+By:
+/s/ Jonathan F. Lindvall                
+
+Name:
+Jonathan F. Lindvall                
+
+Title:
+Vice President                    
+
+
+
+
+Jacobs Engineering
+Third Amendment to Amendment and Restated Credit Agreement
+Signature Pages
+
+
+
+AUSTRALIA AND NEW ZEALAND
+BANKING GROUP LIMITED, as a Tranche 2
+Lender
+
+
+By:
+/s/ Robert Grillo                
+
+Name:
+Robert Grillo___                
+
+Title:
+Director                    
+
+
+
+
+
+Jacobs Engineering
+Third Amendment to Amendment and Restated Credit Agreement
+Signature Pages

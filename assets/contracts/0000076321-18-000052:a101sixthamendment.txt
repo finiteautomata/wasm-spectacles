@@ -1,0 +1,277 @@
+EX-10.1 5 a101sixthamendment.htm EXHIBIT 10.1
+Execution Version
+
+SIXTH AMENDMENT TO
+SECOND AMENDED AND RESTATED CREDIT AGREEMENT
+
+THIS SIXTH AMENDMENT TO SECOND AMENDED AND RESTATED CREDIT AGREEMENT (this “Amendment”) dated as of July 12, 2018 is by and among PARKER DRILLING COMPANY, a Delaware corporation (the “Parent Borrower”), each of the other Loan Parties, the Lenders (as such term is hereinafter defined) party hereto and BANK OF AMERICA, N.A., as the administrative agent for the Lenders party to the Credit Agreement referenced below (in such capacity, together with the successors in such capacity, the “Administrative Agent”) and L/C Issuer.
+R E C I T A L S
+A.    The Borrowers, the lenders from time to time party thereto (collectively, the “Lenders” and, individually, a “Lender”), the Administrative Agent and the other agents referred to therein are parties to that certain Second Amended and Restated Credit Agreement dated as of January 26, 2015, as amended by the First Amendment dated as of June 1, 2015, the Second Amendment dated as of September 29, 2015, the Third Amendment dated as of May 27, 2016, the Fourth Amendment dated as of February 21, 2017 and the Fifth Amendment dated as of February 14, 2018 (as amended, restated, supplemented or otherwise modified prior to the date hereof, the “Credit Agreement”), pursuant to which the Lenders have made certain extensions of credit (subject to the terms and conditions thereof) to the Borrowers.
+B.    The Parent Borrower has previously informed the Administrative Agent that it desires to amend a provision of the Credit Agreement as set forth herein; and
+C.    In order to amend such provision of the Credit Agreement, the Lenders signatory hereto and the Administrative Agent are willing to amend the Credit Agreement on the terms and conditions more fully described herein.
+NOW, THEREFORE, in consideration of the premises and the mutual covenants herein contained, for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:
+Section 1.Defined Terms. Each capitalized term used herein but not otherwise defined herein has the meaning given such term in the Credit Agreement. Unless otherwise indicated, all article, schedule, exhibit and section references in this Amendment refer to articles, schedules, exhibits and sections of the Credit Agreement.
+Section 2.    Amendment to Credit Agreement.
+2.1    Amendment to Section 7.06 of the Credit Agreement. Section 7.06(b) of the Credit Agreement is hereby amended and restated to read in its entirety as follows:
+
+1
+
+
+
+“(b)    (i) PKD may make Restricted Payments in the form of Equity Interests (other than Disqualified Stock) of PKD and (ii) PKD may make cash payments in lieu of the issuance of fractional shares; provided that, with respect to a transaction under this Section 7.06(b)(ii), (A) no Default or Event of Default shall have occurred and be continuing prior to or immediately after giving effect to any such cash payments, (B) immediately upon the consummation of any cash payments for fractional shares, such fractional shares must be retired and (C) the Administrative Agent may, in its Permitted Discretion, establish a reserve (the “Fractional Shares Reserve”) in respect of such planned or potential transactions, for purposes of calculating the Borrowing Base;”
+Section 3.    Conditions Precedent. This Amendment shall not become effective until the date (the “Effective Date”) on which each of the following conditions is satisfied (or waived in accordance with Section 10.01 of the Credit Agreement):
+3.1    Counterparts. The Administrative Agent shall have received from the Required Lenders and the Loan Parties executed counterparts (in such number as may be requested by the Administrative Agent) of this Amendment, which in the case of each Loan Party shall be properly executed by a Responsible Officer of such Loan Party, and the Administrative Agent shall have acknowledged this Amendment.
+3.2    No Default or Event of Default. As of the date hereof and as of Effective Date, immediately before and after giving effect to this Amendment, no Default or Event of Default shall have occurred and be continuing.
+3.3    Representations and Warranties. Each of the Loan Parties shall represent and warrant to the Administrative Agent and the Lenders that as of the date hereof and as of the Effective Date, after giving effect to the terms of this Amendment, all of the representations and warranties contained in each Loan Document to which it is a party are true and correct in all material respects (except for such representations and warranties that have a materiality or Material Adverse Effect qualification, which shall be true and correct in all respects, subject to such qualification as expressed therein), except to the extent any such representations and warranties are expressly limited to an earlier date, in which case, such representations and warranties shall continue to be true and correct in all material respects (except for such representations and warranties that have a materiality or Material Adverse Effect qualification, which shall be true and correct in all respects, subject to such qualification as expressed therein) as of such specified earlier date.
+3.4    Fees and Expenses. The Administrative Agent and the Lenders shall have received all fees and other amounts due and payable on or prior to the Effective Date, including, without limitation, all filing and recording fees and Taxes, and to the extent invoiced prior to the Effective Date, reimbursement or payment of all out-of-pocket expenses required to be reimbursed or paid by the Borrowers under the Credit Agreement (including, but not limited to, the fees, disbursements and other charges of counsel to the Administrative Agent). Without limiting the foregoing, (a) each Lender party hereto shall receive a fee from the Parent Borrower equal to ten (10) bps payable on the amount of each such Lender’s Commitment under the Credit Agreement as in effect immediately
+
+2
+
+
+
+after the Effective Date, and (b) any Arranger shall have received all fees and other amounts required to be paid pursuant to any letter agreements in respect of the transactions contemplated hereby.
+3.5    Other Documents. The Administrative Agent shall have received such other documents as the Administrative Agent (or its counsel) may reasonably request relating to the transactions contemplated by this Amendment.
+The Administrative Agent shall notify the Parent Borrower and the Lenders of the Effective Date, and such notice shall be conclusive and binding.
+Section 4.    Miscellaneous.
+4.1    Confirmation. The provisions of the Loan Documents, as amended by this Amendment, shall remain in full force and effect in accordance with their terms following the effectiveness of this Amendment.
+4.2    Ratification and Affirmation; Representations and Warranties. As of the date hereof and as of the Effective Date prior to and after giving effect to the amendment contained herein effective as of the Effective Date, the Parent Borrower and each of the other Loan Parties does hereby (a) adopt, ratify, and confirm, as applicable, the Credit Agreement and the other Loan Documents, and, in each case, its obligations thereunder, (b) acknowledges, renews and extends its continued liability under, each Loan Document to which it is a party, (c) agrees that each Loan Document to which it is a party remains in full force and effect, notwithstanding the amendment thereto effective as of the Effective Date, and (d) represents and warrants to the Administrative Agent and the Lenders that: (i) all of the representations and warranties contained in each Loan Document to which it is a party are true and correct in all material respects (except for such representations and warranties that have a materiality or Material Adverse Effect qualification, which shall be true and correct in all respects, subject to such qualification as expressed therein), except to the extent any such representations and warranties are expressly limited to an earlier date, in which case, such representations and warranties shall continue to be true and correct in all material respects (except for such representations and warranties that have a materiality or Material Adverse Effect qualification, which shall be true and correct in all respects, subject to such qualification as expressed therein) as of such specified earlier date, (ii) immediately before giving effect to this Amendment, no Default or Event of Default had occurred and was continuing and (iii) immediately after giving effect to this Amendment, no Default or Event of Default will have occurred and be continuing.
+4.3    General Release. EACH OF THE PARENT BORROWER AND THE OTHER LOAN PARTIES (ON BEHALF OF THEMSELVES AND THEIR RELATED PARTIES) HEREBY FOREVER WAIVES, RELEASES, ACQUITS AND DISCHARGES, TO THE FULLEST EXTENT PERMITTED BY LAW, ANY AND ALL CLAIMS (INCLUDING, WITHOUT LIMITATION, CROSSCLAIMS, COUNTERCLAIMS, RIGHTS OF SET-OFF AND RECOUPMENT), SUITS, DEMANDS, DEBTS, ACCOUNTS, CONTRACTS, LIABILITIES, OBLIGATIONS, JUDGMENTS, DAMAGES, ACTIONS AND CAUSES OF ACTIONS, WHETHER IN LAW OR IN EQUITY, OF WHATSOEVER NATURE AND KIND, WHETHER KNOWN OR UNKNOWN, WHETHER NOW OR HEREAFTER EXISTING, THAT THE PARENT BORROWER OR ANY OTHER LOAN PARTY (AND EACH OF THEIR RELATED PARTIES) AT ANY TIME HAD OR
+
+3
+
+
+
+HAS, OR THAT ITS SUCCESSORS, ASSIGNS, AFFILIATES, SHAREHOLDERS AND “CONTROLLING PERSONS” (WITHIN THE MEANING OF FEDERAL SECURITIES LAWS) HEREAFTER CAN OR MAY HAVE AGAINST THE ADMINISTRATIVE AGENT, THE L/C ISSUER, ANY ARRANGER, ANY LENDER OR ANY OF THEIR RELATED PARTIES THROUGH THE DATE HEREOF AND THROUGH THE EFFECTIVE DATE, IN EACH CASE IN CONNECTION WITH THE CREDIT AGREEMENT, THE OTHER LOAN DOCUMENTS, ALL OTHER DOCUMENTS EXECUTED IN CONNECTION THEREWITH, AND THE TRANSACTIONS CONTEMPLATED THEREBY.
+4.4    Loan Document. This Amendment and each agreement, instrument, certificate or document executed by the Parent Borrower and/or the other Loan Parties, as applicable, or any of their respective officers in connection therewith are “Loan Documents” as defined and described in the Credit Agreement and all of the terms and provisions of the Loan Documents relating to other Loan Documents shall apply hereto and thereto.
+4.5    Counterparts. This Amendment may be executed in counterparts (and by different parties hereto in different counterparts), each of which shall constitute an original, but all of which when taken together shall constitute a single contract. Delivery of an executed counterpart of a signature page of this Amendment by telecopy or other electronic imaging means (e.g., “pdf” or “tiff”) shall be effective as delivery of a manually executed counterpart of this Amendment.
+4.6    NO ORAL AGREEMENT. THIS AMENDMENT, THE CREDIT AGREEMENT AND THE OTHER LOAN DOCUMENTS EXECUTED IN CONNECTION HEREWITH AND THEREWITH REPRESENT THE FINAL AGREEMENT AMONG THE PARTIES AND MAY NOT BE CONTRADICTED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS, OR SUBSEQUENT ORAL AGREEMENTS OF THE PARTIES. THERE ARE NO UNWRITTEN ORAL AGREEMENTS AMONG THE PARTIES.
+4.7    GOVERNING LAW. THIS AMENDMENT (INCLUDING, BUT NOT LIMITED TO, THE VALIDITY AND ENFORCEABILITY HEREOF) SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAW OF THE STATE OF NEW YORK.
+4.8    Miscellaneous. Section 10.14(b), (c) and (d) and Section 10.15 of the Credit Agreement shall apply to this Amendment, mutatis mutandis.
+[signature pages follow]
+
+
+
+4
+
+
+
+IN WITNESS WHEREOF, the parties hereto have caused this Sixth Amendment to Second Amended and Restated Credit Agreement to be duly executed as of the date first written above.
+PARENT BORROWER
+PARKER DRILLING COMPANY,
+as the Parent Borrower
+
+
+By:                             
+Name:     
+Title:     
+
+[Signature Page to Sixth Amendment to Second Amended and Restated Credit Agreement]
+
+
+
+DESIGNATED BORROWERS
+
+PARKER DRILLING ARCTIC OPERATING, LLC, a Delaware limited liability company
+
+
+By:     ________________________________    
+Name:
+Title:
+
+PARKER DRILLING OFFSHORE USA, L.L.C., an Oklahoma limited liability company
+
+
+By:     ________________________________    
+Name:
+Title:
+
+QUAIL TOOLS, L.P., an Oklahoma limited partnership
+
+By:
+Quail USA, LLC, its General Partner
+
+
+By:                         Name:
+Title:
+
+
+[Signature Page to Sixth Amendment to Second Amended and Restated Credit Agreement]
+
+
+
+SUBSIDIARY GUARANTORS
+
+ANACHORETA, INC., a Nevada corporation
+PARDRIL, INC., an Oklahoma corporation
+PARKER AVIATION INC., an Oklahoma corporation
+PARKER DRILLING COMPANY NORTH AMERICA, INC., a Nevada corporation
+PARKER DRILLING COMPANY OF NIGER, an Oklahoma corporation
+PARKER DRILLING COMPANY OF OKLAHOMA, INCORPORATED, an Oklahoma corporation
+PARKER DRILLING COMPANY OF SOUTH AMERICA, INC., an Oklahoma corporation
+PARKER DRILLING MANAGEMENT
+SERVICES, LTD., a Nevada limited liability
+company
+PARKER DRILLING OFFSHORE COMPANY, LLC, a Nevada limited liability company
+PARKER NORTH AMERICA OPERATIONS, LLC, a Nevada limited liability company
+PARKER TECHNOLOGY, INC., an Oklahoma corporation
+PARKER TECHNOLOGY, L.L.C., a Louisiana limited liability company
+PARKER TOOLS, LLC, an Oklahoma limited liability company
+QUAIL USA, LLC, an Oklahoma limited liability company
+2M-TEK, INC., a Louisiana corporation
+
+
+
+By:     ________________________________    
+Name:
+Title:
+
+
+
+    
+
+[Signature Page to Sixth Amendment to Second Amended and Restated Credit Agreement]
+
+
+
+BANK OF AMERICA, N.A.,
+as Administrative Agent
+By:
+Name:    
+Title:    
+
+
+
+
+[Signature Page to Sixth Amendment to Second Amended and Restated Credit Agreement]
+
+
+
+BANK OF AMERICA, N.A.,
+as a Lender and L/C Issuer
+
+
+
+
+By:_______________________________________
+Name:
+Title:
+
+
+
+
+
+[Signature Page to Sixth Amendment to Second Amended and Restated Credit Agreement]
+
+
+
+
+BARCLAYS BANK PLC, as a Lender
+
+
+By:                             
+Name:
+Title:     
+
+
+
+
+
+
+[Signature Page to Sixth Amendment to Second Amended and Restated Credit Agreement]
+
+
+
+WELLS FARGO BANK N.A., as a Lender
+
+
+By:                             
+Name:
+Title:     
+
+
+
+[Signature Page to Sixth Amendment to Second Amended and Restated Credit Agreement]
+
+
+
+DEUTSCHE BANK AG, NEW YORK BRANCH, as a Lender
+
+
+By:                             
+Name:
+Title:     
+
+
+
+By:                             
+Name:
+Title:     
+
+
+
+[Signature Page to Sixth Amendment to Second Amended and Restated Credit Agreement]
+
+
+
+GOLDMAN SACHS BANK USA, as a Lender
+
+
+By:                             
+Name:
+Title:     
+
+
+
+[Signature Page to Sixth Amendment to Second Amended and Restated Credit Agreement]
+
+
+
+THE ROYAL BANK OF SCOTLAND plc, as a Lender
+
+
+By:                             
+Name:
+Title:
+
+
+
+[Signature Page to Sixth Amendment to Second Amended and Restated Credit Agreement]
+
+
+
+WHITNEY BANK, as a Lender
+
+
+By:                             
+Name:
+Title:
+
+
+
+
+[Signature Page to Sixth Amendment to Second Amended and Restated Credit Agreement]
+
+
+
+HSBC BANK USA, N.A., as a Lender
+
+
+By:                             
+Name:
+Title:     
+    
+
+
+[Signature Page to Sixth Amendment to Second Amended and Restated Credit Agreement]
+
+
+
+NORTHRIM BANK, as a Lender
+
+
+By:                             
+Name:
+Title:
+
+
+[Signature Page to Sixth Amendment to Second Amended and Restated Credit Agreement]

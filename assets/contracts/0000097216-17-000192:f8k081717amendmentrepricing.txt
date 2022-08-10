@@ -1,0 +1,154 @@
+EX-10.1 2 f8k081717amendmentrepricing.htm EXHIBIT 10.1 INCREMENTAL ASSUMPTION AGREEMENT AND AMENDMENT NO. 1 DATED 8/17/17
+
+INCREMENTAL ASSUMPTION AGREEMENT AND AMENDMENT NO. 1 dated as of August 17, 2017 (this “Agreement”), relating to the CREDIT AGREEMENT dated as of January 31, 2017 (as amended, supplemented or otherwise modified prior to the date hereof, the “Credit Agreement”), among TEREX CORPORATION, a Delaware corporation (“Terex”), NEW TEREX HOLDINGS UK LIMITED, with company number 02962659, a limited company organized under the laws of England, TEREX INTERNATIONAL FINANCIAL SERVICES COMPANY UNLIMITED COMPANY, with company number 327184, a company organized under the laws of Ireland, and TEREX AUSTRALIA PTY LTD (ACN 010 671 048), a company organized under the laws of Australia and registered in Queensland, Australia, the Lenders (as defined in Article I of the Credit Agreement), the Issuing Banks (as defined in Article I of the Credit Agreement) and CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH, as administrative agent (in such capacity, the “Administrative Agent”) and as collateral agent (in such capacity, the “Collateral Agent”) for the Lenders.
+A.Pursuant to Section 2.27 of the Credit Agreement, Terex has requested that the persons set forth on Schedule I hereto (the “Incremental U.S. Term Lenders”) provide Incremental Term Loans denominated in dollars (the “Incremental U.S. Term Loans”; the commitments to make such loans, the “Incremental U.S. Term Loan Commitments”) to Terex in an aggregate principal amount equal to $399,000,000.
+B.    The Borrowers have requested that the Credit Agreement be amended in accordance with Section 2.27(b) of the Credit Agreement to reflect the existence and terms of this Agreement, the Incremental U.S. Term Loan Commitments and the Incremental U.S. Term Loans (the Credit Agreement, as amended hereby, being referred to as the “Amended Credit Agreement”).
+C.    The Incremental U.S. Term Lenders are willing to provide Terex with the Incremental U.S. Term Loans on the terms and subject to the conditions set forth herein and in the Amended Credit Agreement.
+D.    Accordingly, in consideration of the mutual agreements herein contained and other good and valuable consideration, the sufficiency and receipt of which are hereby acknowledged, the parties hereto agree as follows:
+SECTION 1.     Defined Terms. Capitalized terms used and not defined herein shall have the meanings assigned to such terms in the Credit Agreement. The rules of interpretation set forth in Section 1.02 of the Credit Agreement are hereby incorporated by reference herein, mutatis mutandis. This Agreement shall be an “Incremental Assumption Agreement” for all purposes of the Amended Credit Agreement and the other Loan Documents.
+SECTION 2.     Incremental U.S. Term Loan Commitments. (a) On the terms and subject to the conditions set forth herein and in the Amended Credit Agreement, each Incremental U.S. Term Lender hereby agrees, severally and not jointly, to make an Incremental U.S. Term Loan to Terex on the Incremental Effective Date (as defined below) in an aggregate principal amount not to exceed the amount of the Incremental U.S. Term Loan Commitment set forth opposite its name on Schedule I hereto. The Incremental U.S. Term Loan Commitments shall automatically terminate upon the making of the Incremental U.S. Term Loans on the Incremental Effective Date. Terex hereby unconditionally promises to repay the Incremental U.S. Term Loans in accordance with Section 2.11 of the Amended Credit Agreement. Amounts borrowed as Incremental U.S. Term Loans and subsequently repaid may not be reborrowed.
+
+2
+
+(b)     With effect from the Incremental Effective Date, unless the context shall otherwise require, (i) the Incremental U.S. Term Loans shall constitute “U.S. Term Loans” and “Loans” and (ii) each person that holds Incremental U.S. Term Loans from time to time shall be a “U.S. Term Lender” and a “Lender”, in each case, for all purposes under the Amended Credit Agreement and the other Loan Documents.
+(c)     The proceeds of the Incremental U.S. Term Loans shall be used solely to finance the repayment in full of the U.S. Term Loans outstanding immediately prior to the Incremental Effective Date.
+SECTION 3.     Amendments. Effective as of the Incremental Effective Date, the Credit Agreement is hereby amended as follows:
+(a)     Section 1.01 of the Credit Agreement is hereby amended by adding the following definitions in proper alphabetical order:
+“Applicable Credit Rating” means, at any time, the public corporate rating from S&P and the public corporate family rating from Moody’s, in each case of Terex at such time. Terex shall promptly inform the Administrative Agent of any change in the Applicable Credit Rating that would result in a change in the Applicable Percentage.
+“First Incremental Effective Date” shall mean the date on which the conditions precedent set forth in Section 5 of the Incremental Assumption Agreement and Amendment No. 1 shall have been satisfied, which date is August 17, 2017.
+“Incremental Assumption Agreement and Amendment No. 1” shall mean that certain Incremental Assumption Agreement and Amendment No. 1 dated as of August 17, 2017, among Terex, the other Loan Parties party thereto, the Lenders party thereto, the Administrative Agent and the Collateral Agent.
+(b)     Clause (a) of the definition of the term “Applicable Percentage” set forth in Section 1.01 of the Credit Agreement is hereby amended and restated in its entirety to read as follows:
+(a)     with respect to any U.S. Term Loan, (i) 2.25% per annum, in the case of a Eurocurrency Term Loan, or (ii) 1.25% per annum, in the case of an ABR Term Loan; provided that, during any period that the Applicable Credit Rating shall be BB- or better from S&P and Ba3 or better from Moody’s, in each case with no negative outlook, and no Event of Default shall have occurred and be continuing, each of the Applicable Percentages referred to above in this clause (a) shall be reduced by 0.25%, and
+(c)     The final sentence of the definition of the term “Interest Period” set forth in Section 1.01 of the Credit Agreement is hereby amended and restated in its entirety to read as follows:
+Notwithstanding the foregoing, the Interest Period with respect to the borrowing of the U.S. Term Loans on the First Incremental Effective Date shall be a period commencing on the First Incremental Effective Date and ending on September 29, 2017.
+(d)     The definition of the term “U.S. Term Loan Commitment” set forth in Section 1.01 of the Credit Agreement is hereby amended and restated in its entirety to read as follows:
+“U.S. Term Loan Commitment” shall have the meaning assigned to the term “Incremental U.S. Term Loan Commitment” in the Incremental Assumption Agreement and Amendment No. 1.
+
+3
+
+(e)     The definition of the term “U.S. Term Loans” set forth in Section 1.01 of the Credit Agreement is hereby amended and restated in its entirety to read as follows:
+“U.S. Term Loans” shall have the meaning assigned to the term “Incremental U.S. Term Loans” in the Incremental Assumption Agreement and Amendment No. 1.
+(f)     Section 2.11(a) of the Credit Agreement is hereby amended and restated in its entirety to read as follows:
+Terex shall pay to the Administrative Agent, for the account of the U.S. Term Lenders, on the last Business Day of each March, June, September and December of each year (each such date being called a “U.S. Term Loan Repayment Date”), commencing on the last Business Day of September 2017, a principal amount of the U.S. Term Loans (as adjusted from time to time pursuant to Sections 2.12(b), 2.13(e), 2.27(d) and 9.04(l)) equal to $1,000,000, with the balance payable on the Term Loan Maturity Date, together in each case with accrued and unpaid interest on the principal amount to be paid to but excluding the date of such payment.
+(g)     The first clause of the first sentence of Section 2.12(d) of the Credit Agreement is hereby amended in its entirety to read as follows:
+Notwithstanding the foregoing, in the event that, prior to the six-month anniversary of the First Incremental Effective Date,
+SECTION 4.     Representations and Warranties. To induce the other parties hereto to enter into this Agreement, each Loan Party party hereto hereby represents and warrants to the Administrative Agent and each of the Incremental U.S. Term Lenders that:
+(a)     This Agreement has been duly authorized, executed and delivered by it and constitutes its legal, valid and binding obligation, enforceable against each of the Loan Parties party hereto in accordance with its terms except as such enforceability may be limited by bankruptcy, insolvency, reorganization, moratorium or other similar laws affecting creditors’ rights generally and by general principles of equity (regardless of whether such enforceability is considered in a proceeding at law or in equity).
+(b)     At the time of and immediately after giving effect to this Agreement, the representations and warranties set forth in Article III of the Amended Credit Agreement are true and correct in all material respects (or, in the case of any representations and warranties qualified by materiality, Material Adverse Effect or words of similar import, in all respects) on and as of the date hereof with the same effect as though made on and as of the date hereof, except to the extent such representations and warranties expressly relate to an earlier date, in which case they shall have been true and correct in all material respects (or, in the case of any representations and warranties qualified by materiality, Material Adverse Effect or words of similar import, in all respects) as of such earlier date.
+(c)     Each Borrower and each other Loan Party is in compliance in all material respects with all the terms and provisions set forth in each Loan Document on its part to be observed or performed, and at the time of and immediately after giving effect to this Agreement, no Event of Default or Default has occurred and is continuing.
+
+4
+
+SECTION 5.     Conditions to Effectiveness. The effectiveness of this Agreement and the obligations of the Incremental U.S. Term Lenders to provide the Incremental U.S. Term Loans are subject to the satisfaction or waiver of the following conditions precedent (the date on which all such conditions are satisfied or waived, the “Incremental Effective Date”):
+(a)     the Administrative Agent shall have received counterparts of this Agreement that, when taken together, bear the signatures of Terex, each Subsidiary Guarantor and each Incremental U.S. Term Lender;
+(b)     the representations and warranties set forth in Section 4 shall be true and correct, and the Administrative Agent shall have received a certificate to that effect, dated the Incremental Effective Date and signed by a President, a Vice President or a Financial Officer of Terex;
+(c)     Terex shall have paid to the Administrative Agent and the Incremental U.S. Term Lenders all fees and other amounts due and payable by it on or prior to the Incremental Effective Date and, to the extent invoiced, reimbursement or payment of all reasonable and documented out-of-pocket expenses required to be reimbursed or paid by any Loan Party under any Loan Document;
+(d)     the Administrative Agent shall have received (i) a certificate as to the good standing of Terex and each Subsidiary Guarantor as of a recent date, from the Secretary of State of the State (or comparable entity) of the state (or comparable jurisdiction) of its organization (or, if such jurisdiction does not issue such certificates, a comparable document or the results of searches of official registries demonstrating good standing or lack of insolvency proceedings against such person, as available); (ii) a certificate of the Secretary or Assistant Secretary of Terex and each Subsidiary Guarantor dated the Incremental Effective Date and certifying (A) that attached thereto is a true and complete copy of (1) the by-laws (or comparable organizational documents) and (2) the certificate or articles of incorporation (or comparable organizational documents), including all amendments thereto, certified as of a recent date by such Secretary of State (or comparable entity), in each case of such person as in effect on the Incremental Effective Date and at all times since a date prior to the date of the resolutions described in clause (B) below (or, if such by-laws (or comparable documents) or certificate or articles of incorporation (or comparable documents) have not been amended or modified since any delivery thereof to the Administrative Agent on or following the Closing Date, certifying that no such amendment or modification has occurred), (B) that attached thereto is a true and complete copy of resolutions duly adopted by the Board of Directors (or comparable governing body) of Terex and each Subsidiary Guarantor authorizing the execution, delivery and performance of this Agreement and, in the case of Terex, the borrowing hereunder, and that such resolutions have not been modified, rescinded or amended and are in full force and effect, and (C) as to the incumbency and specimen signature of each officer executing any Loan Document or any other document delivered in connection herewith on behalf of such person; and (iii) a certificate of another officer as to the incumbency and specimen signature of the Secretary or Assistant Secretary executing the certificate pursuant to clause (ii) above;
+(e)     on the Incremental Effective Date, immediately after giving effect to the making of the Incremental U.S. Term Loans, the Senior Secured Leverage Ratio shall be less than or equal to 2.75 to 1.00, and the Administrative Agent shall have received a certificate to that effect (containing reasonably detailed calculations thereof) dated as of the Incremental Effective Date and executed by a Financial Officer of Terex;
+
+5
+
+(f)     the Administrative Agent shall have received, on behalf of itself and the Lenders, executed legal opinions of (i) the General Counsel of Terex and (ii) Bryan Cave LLP, counsel to the Borrower and the Subsidiary Guarantors, in each case, (A) dated the Incremental Effective Date, (B) addressed to the Administrative Agent and the Incremental U.S. Term Lenders and (C) covering such matters as the Administrative Agent shall reasonably request, and Terex hereby requests such counsel to deliver such opinions; and
+(g)     the Administrative Agent shall have received all documentation and other information reasonably requested by it that is required by regulatory authorities under applicable “know your customer” and anti-money laundering rules and regulations, including the USA PATRIOT Act.
+The Administrative Agent shall notify Terex and the Incremental U.S. Term Lenders of the Incremental Effective Date, and such notice shall be conclusive and binding.
+SECTION 6.     Real Estate Collateral. Terex shall, and shall cause Terex USA, LLC to, deliver to the Collateral Agent as soon as practicable and in any event within 60 calendar days after the Incremental Effective Date (or such later date as shall be acceptable to the Collateral Agent in its sole discretion), (i) an amendment to the Mortgage encumbering the Mortgaged Property which shall provide that such Mortgage remains in full force and effect and continues to secure the Obligations and (ii) if available in the applicable jurisdiction, a date down endorsement to the mortgagee’s title policy issued to the Administrative Agent in connection with the Mortgage in respect of the Mortgaged Property, in each case in form and substance satisfactory to the Administrative Agent.
+SECTION 7.     Consent and Reaffirmation. Terex and each Subsidiary Guarantor hereby (a) consents to this Agreement and the transactions contemplated hereby, (b) agrees that, notwithstanding the effectiveness of this Agreement, the Guarantee and Collateral Agreement and each of the other Security Documents to which it is a party continue to be in full force and effect, (c) affirms and confirms its guarantee (in the case of a Guarantor) of the Obligations and the pledge and/or grant (in the case of a Grantor (as defined in the Guarantee and Collateral Agreement)) of a security interest in its assets as Collateral pursuant to the Security Documents to secure the Obligations, all as provided in the Loan Documents, and (d) acknowledges and agrees that such guarantee, pledge and/or grant continues in full force and effect in respect of, and to secure, the Obligations, including the Incremental U.S. Term Loans. Without limiting the foregoing, nothing herein contained shall be construed as a novation of any of the Loan Documents or a substitution or novation of the Obligations or instruments guaranteeing or securing the same, which Loan Documents, Obligations and instruments shall remain and continue in full force and effect.
+SECTION 8.     Applicable Law. THIS AGREEMENT SHALL BE CONSTRUED IN ACCORDANCE WITH AND GOVERNED BY THE LAWS OF THE STATE OF NEW YORK.
+SECTION 9.     Counterparts. This Agreement may be executed in counterparts (and by different parties hereto on different counterparts), each of which shall constitute an original but all of which when taken together shall constitute a single contract. Delivery of an executed signature page to this Agreement by facsimile or other electronic transmission shall be effective as delivery of a manually signed counterpart of this Agreement.
+
+6
+
+SECTION 10.     Notices. All notices hereunder or in connection herewith shall be given in accordance with the provisions of Section 9.01 of the Credit Agreement.
+SECTION 11.     Headings. Section headings used herein are for convenience of reference only, are not part of this Agreement and are not to affect the construction of, or to be taken into consideration in interpreting, this Agreement.
+[Remainder of this page intentionally left blank]
+
+
+
+
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be duly executed by their respective authorized officers as of the day and year first above written.
+
+TEREX CORPORATION,
+By /s/ Eric I Cohen
+      Name: Eric I Cohen
+  Title: Senior Vice President
+
+GENIE HOLDINGS, INC.
+GENIE INDUSTRIES, INC. 
+TEREX SOUTH DAKOTA, INC.
+TEREX WASHINGTON, INC.
+TEREX ADVANCE MIXER, INC.
+TEREX FINANCIAL SERVICES, INC.,
+
+By /s/ Eric I Cohen
+      Name: Eric I Cohen
+  Title: Senior Vice President
+
+
+TEREX USA, LLC.
+By /s/ Eric I Cohen
+      Name: Eric I Cohen
+  Title: Senior Vice President
+
+
+TEREX UTILITIES, INC.
+By /s/ Eric I Cohen
+      Name: Eric I Cohen
+  Title: Senior Vice President
+
+
+
+
+
+CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH, individually and as Administrative Agent and Collateral Agent,
+  by
+      Name:
+  Title:
+  by
+      Name:
+  Title:
+     
+
+
+
+
+SCHEDULE I
+Incremental U.S. Term Loan Commitments
+
+
+Incremental U.S. Term Lender
+Incremental U.S. Term Loan Commitment
+Credit Suisse AG, Cayman Islands Branch
+
+$399,000,000
+
+TOTAL
+
+$399,000,000
+
+
+
+
+
+
+SCHEDULE II
+SUBSIDIARY GUARANTORS
+
+
+Subsidiary
+State of Formation
+Genie Holdings, Inc.
+Washington
+Genie Industries, Inc.
+Washington
+Terex South Dakota, Inc.
+Delaware
+Terex USA, LLC
+Delaware
+Terex Utilities, Inc.
+Oregon
+Terex Washington, Inc.
+Washington
+Terex Advance Mixer, Inc.
+Delaware
+Terex Financial Services, Inc.
+Delaware

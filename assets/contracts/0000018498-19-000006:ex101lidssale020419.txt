@@ -1,0 +1,263 @@
+EX-10.1 2 ex101lidssale020419.htm EXHIBIT 10.1
+Exhibit 10.1
+
+
+
+Execution Version
+
+FIRST AMENDMENT TO FOURTH AMENDED AND RESTATED CREDIT AGREEMENT
+
+FIRST AMENDMENT TO FOURTH AMENDED AND RESTATED CREDIT AGREEMENT (this “Amendment”) dated as of February 1, 2019 between
+GENESCO INC., a Tennessee corporation (the “Lead Borrower”),
+GCO CANADA INC., a Canadian corporation, as the Canadian Borrower (the “Canadian Borrower”),
+GENESCO (UK) LIMITED, a company incorporated in England and Wales with company number 07667223, as the UK Borrower (the “UK Borrower”)
+the Other Domestic Borrowers party hereto (together with the Lead Borrower, the Canadian Borrower and the UK Borrower, the “Borrowers”),
+the Lenders party hereto, and
+BANK OF AMERICA, N.A., as Agent;
+in consideration of the mutual covenants herein contained and benefits to be derived herefrom.
+
+
+W I T N E S S E T H:
+
+WHEREAS, the Borrowers, the Lenders and the Agent have entered into a certain Fourth Amended and Restated Credit Agreement dated as of January 31, 2018 (the “Credit Agreement”); and
+
+WHEREAS, certain of the Borrowers have entered into that certain Purchase Agreement dated as of December 14, 2018 (the “Lids Disposition Agreement”) by, among others, FanzzLids Holdings, LLC, as Buyer, Hat World, Inc., and each of the Canadian Borrower, Flagg Bros. of Puerto Rico, Inc. and Hat World Corporation, as Sellers, pursuant to which the Borrowers intend to dispose (the “Lids Disposition”) of the Equity Interests of Hat World, Inc. and its subsidiaries, together with substantially all of the assets of the Sellers relating to the Business (as defined in the Lids Disposition Agreement); and
+
+WHEREAS, the Borrowers have requested that the Lenders consent to the Lids Disposition, release the Collateral to be sold in connection with the Lids Disposition, and release Hat World, Inc. from its obligations as a Borrower and as a Guarantor under the Credit Agreement and the other Loan Documents; and
+
+WHEREAS, in connection with the Lids Disposition, the Borrowers have requested certain modifications to the Credit Agreement, including, without limitation, a pro rata reduction to the Domestic Total Commitments of the Domestic Lenders and the Total Commitments of the Lenders; and
+
+WHEREAS, the Borrowers, the Lenders and the Agent have agreed to amend the Credit Agreement on the terms and conditions set forth herein.
+
+
+
+Exhibit 10.1
+
+NOW THEREFORE, in consideration of the mutual promises and agreements herein contained, the parties hereto hereby agree as follows:
+
+1.
+Incorporation of Terms and Conditions of Credit Agreement. All of the terms and conditions of the Credit Agreement (including, without limitation, all definitions set forth therein) are specifically incorporated herein by reference (except as amended hereby). All capitalized terms not otherwise defined herein shall have the same meaning as in the Credit Agreement.
+
+2.
+Representations and Warranties. Each Credit Party hereby represents and warrants that after giving effect to this Amendment, (i) no Default or Event of Default exists under the Credit Agreement or under any other Loan Document, and (ii) all representations and warranties contained in Section 3 of the Credit Agreement and in the other Loan Documents are true and correct in all material respects (except in the case of any representation and warranty qualified by materiality, which is true and correct in all respects) as of the date hereof, except (a) to the extent that such representations and warranties specifically refer to an earlier date, in which case they are true and correct in all material respects (except in the case of any representation and warranty qualified by materiality, which is true and correct in all respects) as of such earlier date and (b) representations and warranties that have become untrue or incorrect solely because of changes reflected by the terms of this Amendment.
+
+3.
+Ratification of Loan Documents. The Credit Agreement, as hereby amended, and all other Loan Documents, are hereby ratified and re-affirmed in all respects and shall continue in full force and effect.
+
+4.
+Amendments to Credit Agreement. The provisions of the Credit Agreement are hereby amended as follows:
+
+a.
+Section 1. Section 1.1 of the Credit Agreement is hereby amended as follows:
+
+i.
+By deleting “30,000,000” where it appears in the definition of “Cash Dominion Event”, and by substituting $20,000,000” in its stead.
+
+ii.
+By deleting “25,000,000” where it appears in the definition of “Covenant Compliance Event”, and by substituting $17,500,000” in its stead.
+
+iii.
+By deleting the last sentence of the definition of “Domestic Total Commitments” and by substituting the following in its stead:
+
+“On the First Amendment Effective Date, the Domestic Total Commitments are $275,000,000.”
+iv.
+By deleting the definition of “Eligible Hat World Inventory” in its entirety.
+
+v.
+By deleting “(a) Eligible Hat World Inventory” in the introductory paragraph of the definition of “Eligible Inventory” and relettering existing clauses (b) through (e) thereof, respectively, as clauses (a) through (d).
+
+
+
+Exhibit 10.1
+
+vi.
+By deleting “(or, with respect to Macy’s Retail Holdings, Inc. and its         affiliates, 30%)” in clause (g) of the definition of “Eligible Wholesale         Receivables”.
+
+vii.
+By deleting “other than with respect to Accounts under the Macy’s     License Agreement,” where it appears in clauses (k) and (n) of the definition of “Eligible Wholesale Receivables”.
+
+viii.
+By deleting “, and for the avoidance of doubt, Accounts under the Macy’s License Agreement net of offsets and allowances as set forth therein shall not be deemed violative of this clause” in clause (m) of the definition of “Eligible Wholesale Receivables”.
+
+ix.
+By deleting the definition of “Macy’s License Agreement” in its entirety.
+
+x.
+By deleting “Hat World, Inc., a Minnesota corporation;” in the definition of “Other Domestic Borrowers”.
+
+xi.
+By deleting the last sentence of the definition of “Total Commitments” and by substituting the following in its stead:
+
+“As of the First Amendment Effective Date, the Total Commitments aggregate $275,000,000.”
+By adding the following new definitions thereto in appropriate alphabetical order:
+“First Amendment Effective Date” means February 1, 2019.
+“Lids Disposition” means the sale of the Company Shares and the Acquired Assets each as defined in, and pursuant to the terms of, the Lids Disposition Agreement.
+“Lids Disposition Agreement” means that certain Purchase Agreement dated as of December 14, 2018, by, among others, FanzzLids Holdings, LLC, as Buyer, Hat World, Inc., and each of the Canadian Borrower, Flagg Bros. of Puerto Rico, Inc. and Hat World Corporation, as Sellers, as such agreement is in effect as of the First Amendment Effective Date or as may be modified, amended, supplemented or restated with the consent of the Agent, such consent not to be unreasonably withheld.
+b.
+Section 5.
+
+i.
+Section 5.1(m) of the Credit Agreement is hereby deleted in its entirety, and “[reserved]; and” is substituted in its stead.
+
+c.
+Section 6.
+
+i.
+Section 6.5 of the Credit Agreement is hereby amended by deleting “and” at the end of clause (g), renumbering clause (h) as clause (i), and adding the following new clause (h) thereto:
+
+“(h) the Lids Disposition; and”
+
+
+Exhibit 10.1
+
+
+d.
+Section 9.3. Section 9.3(b) of the Credit Agreement is hereby amended by deleting clause (vi) in its entirety and by substituting the following in its stead:
+
+“(vi) except in connection with any transaction permitted hereunder or under any other Loan Document, release, or limit the liability of, any Borrower or any Guarantor without the written consent of each Lender;”
+e.
+Exhibit D. Exhibit D (Form of Borrowing Base Certificate) is hereby deleted in its entirety and the Exhibit D attached hereto is substituted in its stead.
+
+f.
+Schedule 1.1. Schedule 1.1 (Lenders and Commitments) is hereby deleted in its entirety and the Schedule 1.1 attached hereto is substituted in its stead.
+
+5.
+Consent and Waiver of Notice. Each Lender hereby consents to the Lids Disposition, and the Agent hereby waives any notices required or that will be required as a result of the Lids Disposition, including, without limitation, notices pursuant to Section 5.3 of the Credit Agreement.
+
+6.
+Security Agreements. Notwithstanding Section 3 of each of the Security Agreement and the Canadian Security Agreement, statements identified as “warranties” that become untrue or incorrect solely as a result of the Lids Disposition shall not result in an Event of Default.
+
+7.
+Conditions to Effectiveness.
+
+a.
+This Amendment (other than the amendments set forth in subclauses i. through xi. of Section 4a., and Sections 4b., 4e. and 4f. above) shall be effective upon the fulfillment of each of the following conditions precedent to the satisfaction of the Agent:
+
+i.
+This Amendment shall have been duly executed and delivered by the Credit Parties and each Lender. The Agent shall have received a fully executed original hereof.
+
+ii.
+All action on the part of the Credit Parties necessary for the valid execution, delivery and performance by the Credit Parties of this Amendment shall have been duly and effectively taken.
+
+iii.
+After giving effect to this Amendment, no Default or Event of Default shall have occurred and be continuing.
+
+iv.
+The Agent shall have received an updated Borrowing Base Certificate relating to the Fiscal Month ended December, prepared after giving effect to the Lids Disposition.
+
+b.
+The amendments set forth in subclauses i. through v. of Section 4a., and Sections 4b., 4e. and 4f. above shall each become effective only upon (x) satisfaction of the conditions set forth in 7a. above and (y) and the occurrence of the Lids Disposition in accordance with the provisions hereof.
+
+
+
+Exhibit 10.1
+
+8.
+Agreement of the Agent. Immediately upon the consummation of the Lids Disposition, the Agent’s Liens on the assets which have been sold pursuant to the Lids Disposition shall be automatically and unconditionally released and discharged without any further action of the Agent or the Lenders, and Hat World, Inc. shall be released from its obligations as a Borrower and as a Guarantor under the Credit Agreement and the other Loan Documents. The Agent hereby agrees to execute and to deliver to the Lead Borrower promptly upon the Lead Borrower’s reasonable request, such agreements, documents and instruments as may be reasonably requested by the Lead Borrower, and prepared at the Borrowers’ sole expense, including, without limitation, UCC statements of amendment and PPSA financing change statements, to evidence the release of the Agent’s Liens as set forth above, and Lead Borrower or such other person as the Lead Borrower may designate shall be authorized to file such UCC statements, PPSA financing change statements, agreements, documents and instruments, delivered to the Lead Borrower by the Agent. Notwithstanding the foregoing, under no circumstances shall the Agent or any Lender be obligated to perform or discharge, nor do the Agent and the Lenders agree to perform, discharge or assume, any obligation, duty or liability of the Borrowers pursuant to the Lids Disposition.
+
+9.
+Binding Effect. The terms and provisions hereof shall be binding upon and inure to the benefit of the parties hereto and their heirs, representatives, successors and assigns.
+
+10.
+Expenses. The Credit Parties shall reimburse the Agent for all expenses incurred in connection herewith, including, without limitation, reasonable attorneys’ fees to the extent provided in the Credit Agreement.
+
+11.
+Multiple Counterparts. This Amendment may be executed in multiple counterparts, each of which shall constitute an original and together which shall constitute but one and the same instrument.
+
+12.
+Governing Law. THIS AMENDMENT SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAW OF THE STATE OF NEW YORK.
+
+
+Exhibit 10.1
+
+
+IN WITNESS WHEREOF, this Amendment has been duly executed and delivered by each of the parties hereto as a sealed instrument as of the date first above written.
+
+
+DOMESTIC BORROWERS:
+
+GENESCO INC.
+as Lead Borrower
+
+
+By_________________________
+Name:
+Title:
+
+GENESCO BRANDS, LLC
+as a Domestic Borrower
+
+
+By_________________________
+Name:
+Title:
+
+HAT WORLD CORPORATION
+as a Domestic Borrower
+
+
+By_________________________
+Name:
+Title:
+
+
+HAT WORLD, INC.
+as a Domestic Borrower
+
+
+By_________________________
+Name:
+Title:
+
+
+FLAGG BROS. OF PUERTO RICO, INC.
+as a Domestic Borrower
+
+
+By_________________________
+Name:
+Title:
+
+
+
+
+Exhibit 10.1
+
+CANADIAN BORROWER:
+
+GCO CANADA INC.
+as Canadian Borrower
+
+
+By_________________________
+Name:
+Title:
+
+
+UK BORROWER:
+
+GENESCO (UK) LIMITED, as UK Borrower
+
+
+By_________________________
+Name:
+Title:
+
+ 
+
+
+Exhibit 10.1
+
+BANK OF AMERICA, N.A., as Agent and as a Lender
+
+By:                     _____
+Name:                         
+Title:                         
+
+
+Exhibit 10.1
+
+[SIGNATURE BLOCKS OF OTHER LENDERS]
+
+
+                            

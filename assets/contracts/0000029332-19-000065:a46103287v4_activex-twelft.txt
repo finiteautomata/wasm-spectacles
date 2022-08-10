@@ -1,0 +1,144 @@
+EX-10.1 2 a46103287v4_activex-twelft.htm EXHIBIT 10.1
+10.1
+
+TWELFTH AMENDMENT TO CREDIT AGREEMENT
+
+This TWELFTH AMENDMENT TO CREDIT AGREEMENT (this “Agreement”), dated as of October 3, 2019, is entered into by and among THE DIXIE GROUP, INC., a Tennessee corporation (“Dixie”), CANDLEWICK YARNS, LLC, an Alabama limited liability company (“Candlewick”), TDG OPERATIONS, LLC, a Georgia limited liability company, formerly known as Masland Carpets, LLC and successor by merger to Fabrica International, Inc. (“TDG”; together with Dixie and Candlewick, are referred to hereinafter each individually as a “Borrower,” and individually and collectively, jointly and severally, as the “Borrowers”), the persons identified as the Lenders on the signature pages hereto (the “Lenders”), and WELLS FARGO CAPITAL FINANCE, LLC, a Delaware limited liability company, as administrative agent for the Lenders (in such capacity, together with its successors and assigns in such capacity, “Agent”).
+
+W I T N E S S E T H:
+
+WHEREAS, pursuant to the Credit Agreement dated as of September 13, 2011, as amended by the First Amendment to Credit Agreement dated as of November 2, 2012, the Second Amendment to Credit Agreement dated as of April 1, 2013, the Third Amendment to Credit Agreement dated as of May 22, 2013, the Fourth Amendment to Credit Agreement dated as of July 1, 2013, the Fifth Amendment to Credit Agreement dated as of July 30, 2013, the Sixth Amendment to Credit Agreement dated as of August 30, 2013, the Seventh Amendment to Credit Agreement dated as of January 20, 2014, the Eighth Amendment to Credit Agreement dated as of March 14, 2014, the Ninth Amendment to Credit Agreement dated as of March 26, 2014, the Tenth Amendment to Credit Agreement, First Amendment to Security Agreement, and First Amendment to Guaranty dated as of September 23, 2016, and the Consent and Eleventh Amendment to Credit Agreement dated as of January 14, 2019 (as further amended, restated, supplemented, or otherwise modified from time to time, the “Credit Agreement”), among Agent, the Lenders and the Borrowers, the Lenders have made loans and advances and provided other financial accommodations to the Borrowers;
+
+WHEREAS, the Borrowers have requested that Agent and Lenders enter into this Agreement to make certain amendments to the Credit Agreement, and Agent and the Lenders are willing to do so, subject to the terms and conditions set forth herein.
+
+NOW, THEREFORE, in consideration of the agreements herein contained and other good and valuable consideration, the parties hereby agree as follows:
+
+I.    DEFINITIONS AND INTERPRETATION.
+
+1.1.    Definitions and Interpretation. Unless otherwise defined herein or the context otherwise requires, terms used in this Agreement, including its preamble and recitals, have the meanings provided in the Credit Agreement.
+
+II.        AMENDMENTS TO CREDIT AGREEMENT.
+Subject to the satisfaction of each of the conditions precedent set forth in Section III of this Agreement, the Credit Agreement is hereby amended as follows:
+2.1.    Maximum Revolver Amount Definition. Schedule 1.1 of the Credit Agreement is hereby amended by restating the definition of “Maximum Revolver Amount” in its entirety as follows:
+
+
+
+10.1
+
+“Maximum Revolver Amount” means $125,000,000, as such amount may be increased by the amount of Additional Commitment Amounts in accordance with Section 2.2 of the Agreement or decreased by the amount of reductions in the Commitments made in accordance with Section 2.4(c) of the Agreement.
+ 2.2.    Trigger Level Definition. Schedule 1.1 of the Credit Agreement is hereby amended by restating the definition of “Trigger Level” in its entirety as follows:
+
+“Trigger Level” means (a) through and including the earlier of (i) November 15, 2019, and (ii) the date on which a sale of the Susan Street Real Property is consummated, $13,750,000, and (b) at all times after the earlier of the foregoing dates, $15,000,000.
+
+2.3.    Amendment to Schedule C-1. Schedule C-1 of the Credit Agreement is hereby amended and restated in its entirety in the form of Schedule C-1 attached hereto.
+
+III.        CONDITIONS PRECEDENT.
+
+This Agreement shall become effective as of the date hereof, subject to the following conditions precedent having been satisfied or waived by Agent:
+
+3.1.    Execution of Agreement. Agent shall have received fully executed counterparts of this Agreement, duly authorized, executed and delivered by each Borrower, Agent, and each Lender, and acknowledged by each Guarantor.
+3.2.    Amendment Fee. Agent shall have received an amendment fee in the amount of $25,000 (with each Lender to receive its Pro Rata Share thereof), and Borrowers hereby authorize Agent to charge the Loan Account for such amendment fee..
+3.3.    Accuracy of Representations and Warranties. Each of the representations and warranties of the Borrowers set forth in Section 4 of the Credit Agreement shall be true and correct in all material respects (except that such materiality qualifier shall not be applicable to any representations and warranties that already are qualified or modified by materiality in the text thereof).
+
+3.4.    Other Documents. Agent shall have received such other agreements, documents, instruments, officer’s certificates, and information executed and/or delivered by the Loan Parties as Agent may reasonably request.
+
+3.5.    No Default or Event of Default. No Default or Event of Default shall have occurred and be continuing.
+
+IV.        MISCELLANEOUS.
+
+4.1.    No Additional Obligations. The Borrowers acknowledge and agree that the execution, delivery and performance of this Agreement shall not create (nor shall the Borrowers rely upon the existence of or claim or assert that there exists) any obligation of any of Agent or Lenders to consider or agree to any other amendment of or waiver or consent with respect to the Credit Agreement or any other instrument or agreement to which Agent or any Lender is a party (collectively, an “Additional Amendment” or “Consent”), and in the event that Agent and the Lenders subsequently agree to consider any requested Additional
+
+
+2
+10.1
+
+Amendment or Consent, neither the existence of this Agreement nor any other conduct of Agent or the Lenders related hereto, shall be of any force or effect on the Lenders’ consideration or decision with respect to any such requested Additional Amendment or Consent, and the Lenders shall not have any obligation whatsoever to consider or agree to any such Additional Amendment or Consent.
+
+4.2.    Acknowledgments and Stipulations. In order to induce Agent and Lenders to enter into this Agreement, each Borrower acknowledges, stipulates and agrees that (a) the Loan Documents executed by each Borrower are legal, valid and binding obligations of such Borrower enforceable against such Borrower in accordance with their respective terms, except as enforcement may be limited by equitable principles or by bankruptcy, insolvency, reorganization, moratorium, or similar laws relating to or limiting creditors’ rights generally; (b) the Liens granted by each Borrower to Agent in the Collateral are valid and duly perfected, first priority Liens, subject only to Permitted Liens; (c) each of the recitals contained at the beginning of this Agreement is true and correct; and (d) prior to executing this Agreement, each Borrower consulted with and had the benefit of advice of legal counsel of its own selection and has relied upon the advice of such counsel, and in no part upon the representation of Agent, any Lender or any counsel to Agent or any Lender concerning the legal effects of this Agreement or any provision hereof.
+
+4.3.    Additional Representations and Warranties of the Borrowers. Each Borrower hereby represents and warrants that on the date hereof and after giving effect to the amendments and waivers contained herein: (a) the representations and warranties contained in Section 4 of the Credit Agreement shall be correct in all material respects on and as of such date as though made on and as of such date, and (b) no Default or Event of Default exists under the Credit Agreement on and as of such date. Without limitation of the preceding sentence, each Borrower hereby expressly re-affirms the validity, effectiveness and enforceability of each Loan Document to which it is a party (in each case, as the same may be modified by the terms of this Agreement).
+
+4.4.    Effect of this Agreement. Except as expressly amended pursuant hereto, no other changes or modifications to the Credit Agreement or any of the other Loan Documents are intended or implied, and in all other respects, the Credit Agreement and each of the other Loan Documents is hereby specifically ratified, restated and confirmed by all parties hereto as of the date hereof. To the extent that any provision of the Credit Agreement or any of the other Loan Documents is inconsistent with the provisions of this Agreement, the provisions of this Agreement shall control. All references in the Credit Agreement (including without limitation the Schedules thereto) to the “Agreement” and all references in the other Loan Documents to the “Credit Agreement” shall be deemed to refer to the Credit Agreement, as amended hereby.
+
+4.5.    Further Assurances. The Loan Parties shall execute and deliver such additional documents and take such additional action as may be reasonably requested by Agent to effectuate the provisions and purposes hereof.
+
+4.6.    Governing Law. THE VALIDITY OF THIS AGREEMENT, THE CONSTRUCTION, INTERPRETATION, AND ENFORCEMENT HEREOF, THE RIGHTS OF THE PARTIES HERETO WITH RESPECT TO ALL MATTERS ARISING HEREUNDER OR RELATED HERETO, AND ANY CLAIMS, CONTROVERSIES OR DISPUTES ARISING HEREUNDER OR RELATED HERETO SHALL BE DETERMINED UNDER, GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH THE LAWS OF THE STATE OF GEORGIA.
+
+4.7.    Binding Effect. This Agreement shall bind and inure to the benefit of the respective successors and permitted assigns of each of the parties hereto.
+
+
+3
+10.1
+
+
+4.8.    Counterparts; Electronic Execution. This Agreement may be executed in any number of counterparts and by different parties on separate counterparts, each of which, when executed and delivered, shall be deemed to be an original, and all of which, when taken together, shall constitute but one and the same agreement. Delivery of an executed counterpart of this Agreement by telefacsimile or other electronic method of transmission shall be equally as effective as delivery of an original executed counterpart of this Agreement. Any party delivering an executed counterpart of this Agreement by telefacsimile or other electronic method of transmission also shall deliver an original executed counterpart of this Agreement but the failure to deliver an original executed counterpart shall not affect the validity, enforceability, and binding effect of this Agreement.
+
+[Continued on following page.]
+
+
+
+4
+10.1
+
+Each of the parties hereto has caused a counterpart of this Agreement to be duly executed and delivered as of the date first above written.
+
+BORROWERS:
+THE DIXIE GROUP, INC.
+
+By:________________________
+Name: Jon A. Faulkner 
+Title: VP/CFO
+
+  CANDLEWICK YARNS, LLC
+
+By:________________________
+Name: Jon A. Faulkner 
+Title: President
+
+  TDG OPERATIONS, LLC
+
+By:_________________________
+Name: Jon A. Faulkner 
+Title: President
+
+
+
+[DIXIE—TWELFTH AMENDMENT TO CREDIT AGREEMENT]
+10.1
+
+
+AGENT AND LENDERS:
+WELLS FARGO CAPITAL FINANCE, LLC,
+as Agent and as a Lender
+
+By:_______________________
+Name: Zachary S. Buchanan
+Title: Authorized Signatory
+
+
+[DIXIE—TWELFTH AMENDMENT TO CREDIT AGREEMENT]
+10.1
+
+
+  BANK OF AMERICA, N.A.,
+as a Lender
+
+By:________________________
+Name: Todd Tarrance
+Title: Vice President
+
+   
+
+SCHEDULE C-1
+COMMITMENTS
+Lender
+Amount
+Wells Fargo Capital Finance, LLC
+$62,500,000
+Bank of America, N.A.
+$62,500,000
+
+
+
+
+[DIXIE—TWELFTH AMENDMENT TO CREDIT AGREEMENT]

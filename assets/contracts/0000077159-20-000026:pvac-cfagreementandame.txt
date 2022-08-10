@@ -1,0 +1,541 @@
+EX-10.1 2 pvac-cfagreementandame.htm EX-10.1
+Exhibit 10.1
+BORROWING BASE REDETERMINATION AGREEMENT AND AMENDMENT NO. 7 TO CREDIT AGREEMENT
+
+This BORROWING BASE REDETERMINATION AGREEMENT AND AMENDMENT NO. 7 TO CREDIT AGREEMENT (“Agreement”) dated as of April 30, 2020 (the “Effective Date”), is among Penn Virginia Holding Corp., a Delaware corporation (the “Borrower”), Penn Virginia Corporation, a Virginia corporation (the “Parent”), the subsidiaries of the Borrower party hereto (together with the Parent, each a “Guarantor” and collectively, the “Guarantors”), the Lenders (as defined below) party hereto, and Wells Fargo Bank, National Association, as administrative agent (in such capacity, the “Administrative Agent”) for the Lenders and as issuing lender (in such capacity, the “Issuing Lender”).
+RECITALS
+
+A. The Parent, the Borrower, the Administrative Agent, the Issuing Lender, and the financial institutions party thereto from time to time, as lenders (the “Lenders”) are parties to that certain Credit Agreement dated as of September 12, 2016, as amended by that certain Amendment No. 1 to Credit Agreement dated as of March 13, 2017, that certain Master Assignment, Agreement and Amendment No. 2 to Credit Agreement dated as of June 27, 2017, that certain Master Assignment, Agreement and Amendment No. 3 to Credit Agreement dated as of September 29, 2017, that certain Master Assignment, Agreement and Amendment No. 4 to Credit Agreement dated as of March 1, 2018, that certain Borrowing Base Increase Agreement and Amendment No. 5 to Credit Agreement dated as of October 26, 2018, and that certain Master Assignment, Borrowing Base Increase Agreement, and Amendment No. 6 to Credit Agreement dated as of May 7, 2019 (as so amended, the “Credit Agreement”).
+B. The parties hereto wish to, subject to the terms and conditions set forth herein, (i) amend the Credit Agreement as provided herein and (ii) decrease the Borrowing Base.
+Now Therefore, in consideration of the premises and the mutual covenants, representations and warranties contained herein, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto hereby agree as follows:
+Section 1.Defined Terms. As used in this Agreement, each of the terms defined in the opening paragraph and the Recitals above shall have the meanings assigned to such terms therein. Each term defined in the Credit Agreement and used herein without definition shall have the meaning assigned to such term in the Credit Agreement, unless expressly provided to the contrary.
+Section 2.Other Definitional Provisions. The definitions of terms herein shall apply equally to the singular and plural forms of the terms defined. Whenever the context may require, any pronoun shall include the corresponding masculine, feminine and neuter forms. The words “include,” “includes” and “including” shall be deemed to be followed by the phrase “without limitation.” The word “will” shall be construed to have the same meaning and effect as the word “shall.” Unless the context requires otherwise (a) any definition of or reference to any agreement, instrument or other document herein shall be construed as referring to such agreement, instrument or other document as from time to time amended, supplemented or otherwise modified (subject to any restrictions on such amendments, supplements or modifications set forth herein), (b) any reference herein to any Person shall be construed to include such Person’s successors and assigns, (c) the words “herein,” “hereof” and “hereunder,” and words of similar import, shall be construed to refer to this Agreement in its entirety and not to any particular provision hereof, (d) all references herein to Articles, Sections, Exhibits and Schedules shall be construed to refer to Articles and Sections of, and Exhibits and Schedules to, this Agreement, (e) any
+
+
+reference to any law or regulation herein shall, unless otherwise specified, refer to such law or regulation as amended, modified or supplemented from time to time, and (f) the words “asset” and “property” shall be construed to have the same meaning and effect and to refer to any and all tangible and intangible assets and properties, including cash, securities, accounts and contract rights. Titles and captions of Articles, Sections and subsections in this Agreement are for convenience only, and neither limit nor amplify the provisions of this Agreement.
+Section 3.Amendments to Credit Agreement.
+(a)Section 1.01 (Certain Defined Terms) of the Credit Agreement is hereby amended by adding the following new definitions in alphabetical order therein:
+“Affected Financial Institution” means (a) any EEA Financial Institution or (b) any UK Financial Institution.
+         “Amendment No. 7 Effective Date” means April 30, 2020.
+“Benchmark Replacement Adjustment” means, with respect to any replacement of the Eurodollar Base Rate with an Unadjusted Benchmark Replacement for each applicable Interest Period, the spread adjustment, or method for calculating or determining such spread adjustment, (which may be a positive or negative value or zero) that has been selected by the Administrative Agent and the Borrower giving due consideration to (a) any selection or recommendation of a spread adjustment, or method for calculating or determining such spread adjustment, for the replacement of the Eurodollar Base Rate with the applicable Unadjusted Benchmark Replacement by the Relevant Governmental Body or (b) any evolving or then-prevailing market convention for determining a spread adjustment, or method for calculating or determining such spread adjustment, for the replacement of the Eurodollar Base Rate with the applicable Unadjusted Benchmark Replacement for U.S. dollar-denominated syndicated credit facilities at such time.
+“Benchmark Replacement Conforming Changes” means, with respect to any Replacement Rate, any technical, administrative or operational changes (including changes to the definition of “Reference Rate,” the definition of “Adjusted Reference Rate,” the definition of “Eurodollar Rate,” the definition of “Interest Period,” timing and frequency of determining rates and making payments of interest and other administrative matters) that the Administrative Agent decides may be appropriate to reflect the adoption and implementation of such Replacement Rate and to permit the administration thereof by the Administrative Agent in a manner substantially consistent with market practice (or, if the Administrative Agent decides that adoption of any portion of such market practice is not administratively feasible or if the Administrative Agent determines that no market practice for the administration of the Replacement Rate exists, in such other manner of administration as the Administrative Agent decides is reasonably necessary in connection with the administration of this Agreement).
+“Benchmark Replacement Date” means the earlier to occur of the following events with respect to the Eurodollar Base Rate:
+(a) in the case of clause (a) or (b) of the definition of “Benchmark Transition Event,” the later of (i) the date of the public statement or publication of information referenced therein and (ii) the date on which the administrator of the Eurodollar Base Rate permanently or indefinitely ceases to provide the Eurodollar Base Rate;
+2
+
+
+(b) in the case of clause (c) of the definition of “Benchmark Transition Event,” the date of the public statement or publication of information referenced therein; and
+(c) in the case of clause (d) of the definition of “Benchmark Transition Event,” the date of such determination by the Administrative Agent or the date the Majority Lenders notify the Administrative Agent of such determination by the Majority Lenders, as applicable.
+“Benchmark Transition Event” means the occurrence of one or more of the following events with respect to the Eurodollar Base Rate:
+(a) a public statement or publication of information by or on behalf of the administrator of the Eurodollar Base Rate announcing that such administrator has ceased or will cease to provide the Eurodollar Base Rate, permanently or indefinitely; provided that, at the time of such statement or publication, there is no successor administrator that will continue to provide the Eurodollar Base Rate;
+(b) a public statement or publication of information by the regulatory supervisor for the administrator of the Eurodollar Base Rate, the U.S. Federal Reserve System, an insolvency official with jurisdiction over the administrator for the Eurodollar Base Rate, a resolution authority with jurisdiction over the administrator for the Eurodollar Base Rate or a court or an entity with similar insolvency or resolution authority over the administrator for the Eurodollar Base Rate, which states that the administrator of the Eurodollar Base Rate has ceased or will cease to provide the Eurodollar Base Rate permanently or indefinitely; provided that, at the time of such statement or publication, there is no successor administrator that will continue to provide the Eurodollar Base Rate;
+(c) a public statement or publication of information by the regulatory supervisor for the administrator of the Eurodollar Base Rate announcing that the Eurodollar Base Rate is no longer representative; or
+(d) the Administrative Agent has made the determination (such determination to be conclusive absent manifest error) or the Majority Lenders notify the Administrative Agent that the Majority Lenders have made the determination that (i) the circumstances described in Section 2.03(c)(ii), (iii) or (iv) have arisen and that such circumstances are unlikely to be temporary, (ii) any applicable interest rate specified herein is no longer a widely recognized benchmark rate for newly originated loans in the U.S. syndicated loan market in the applicable currency or (iii) the applicable supervisor or administrator (if any) of any applicable interest rate specified herein or any Governmental Authority having, or purporting to have, jurisdiction over the Administrative Agent has made a public statement identifying a specific date after which any applicable interest rate specified herein shall no longer be used for determining interest rates for loans in the U.S. syndicated loan market in the applicable currency.
+“Benchmark Transition Start Date” means (a) in the case of a Benchmark Transition Event, the earlier of (i) the applicable Benchmark Replacement Date and (ii) if such Benchmark Transition Event is a public statement or publication of information of a prospective event, the 90th day prior to the expected date of such event as of such public statement or publication of information (or if the expected date of such prospective event is fewer than 90 days after such statement or publication, the date of such statement or publication) and (b) in the case of an Early Opt-in Election, the date specified by the Administrative Agent or the Majority Lenders, as
+3
+
+
+applicable, by notice to the Borrower, the Administrative Agent (in the case of such notice by the Majority Lenders) and the Lenders.
+“Benchmark Unavailability Period” means, if a Benchmark Transition Event and its related Benchmark Replacement Date have occurred with respect to the Eurodollar Base Rate and solely to the extent that the Eurodollar Base Rate has not been replaced with a Replacement Rate, the period (a) beginning at the time that such Benchmark Replacement Date has occurred if, at such time, no Replacement Rate has replaced the Eurodollar Base Rate for all purposes hereunder in accordance with Section 2.03(c)(vii) and (b) ending at the time that a Replacement Rate has replaced the Eurodollar Base Rate for all purposes hereunder pursuant to Section 2.03(c)(vii).
+“BHC Act Affiliate” has the meaning set forth in Section 9.32.
+“Consolidated Cash Balance” means, at any time, an amount equal to (a) the aggregate amount of cash and cash equivalents, marketable securities, treasury bonds and bills, certificates of deposit, investments in money market funds and commercial paper and any other Liquid Investments, in each case, held or owned by (whether directly or indirectly), credited to the account of, or otherwise reflected as an asset on the balance sheet of, Holdings and its consolidated Subsidiaries minus (b) without duplication, the sum of (i) checks issued, wires initiated or ACH transfers initiated, in any case, to non-affiliate third parties or to Affiliates on account of transactions not prohibited under this Agreement, plus (ii) cash or cash equivalents of Holdings or any of its consolidated Subsidiaries constituting purchase price deposits held in escrow pursuant to a binding and enforceable purchase and sale agreement with a third party containing customary provisions regarding the payment and refunding of such deposits plus (iii) Excluded Funds plus (iv) the amount of royalty obligations, working interest obligations, production payments, and severance and ad valorem taxes of the Borrower or any consolidated Subsidiary which are accrued or are due and owing to third parties and any other similar amounts owing to third parties held in suspense by the Borrower or any consolidated Subsidiary as the operator.
+“Consolidated Cash Balance Limit” means $25,000,000.
+“Consolidated Cash Sweep Date” means the second Business Day of each calendar week.
+“Covered Entity” has the meaning set forth in Section 9.32.
+“Covered Party” has the meaning set forth in Section 9.32.
+“Default Right” has the meaning set forth in Section 9.32.
+“Early Opt-in Election” means the occurrence of:
+(a) (i) a determination by the Administrative Agent or (ii) a notification by the Majority Lenders to the Administrative Agent (with a copy to the Borrower) that the Majority Lenders have determined that U.S. dollar-denominated syndicated credit facilities being executed at such time, or that include language similar to that contained in Section 2.03(c)(vii) are being executed or amended, as applicable, to incorporate or adopt a new benchmark interest rate to replace the Eurodollar Base Rate, and
+4
+
+
+(b) (i) the election by the Administrative Agent or (ii) the election by the Majority Lenders to declare that an Early Opt-in Election has occurred and the provision, as applicable, by the Administrative Agent of written notice of such election to the Borrower and the Lenders or by the Majority Lenders of written notice of such election to the Administrative Agent.
+“Fall 2020 BBRD Effective Date” means the date that the redetermined Borrowing Base is effective with respect to the Borrowing Base redetermination scheduled to occur on or about October, 2020 pursuant to Section 2.02(b)(ii).
+“Federal Reserve Bank of New York’s Website” means the website of the Federal Reserve Bank of New York at http://www.newyorkfed.org, or any successor source.
+“QFC” has the meaning set forth in Section 9.32.
+“QFC Credit Support” has the meaning set forth in Section 9.32.
+“Relevant Governmental Body” means the Federal Reserve Board and/or the Federal Reserve Bank of New York, or a committee officially endorsed or convened by the Federal Reserve Board and/or the Federal Reserve Bank of New York or any successor thereto.
+“Resolution Authority” means an EEA Resolution Authority or, with respect to any UK Financial Institution, a UK Resolution Authority.
+“SOFR” with respect to any day means the secured overnight financing rate published for such day by the Federal Reserve Bank of New York, as the administrator of the benchmark, (or a successor administrator) on the Federal Reserve Bank of New York’s Website.
+“Spring 2021 BBRD Effective Date” means the date that the redetermined Borrowing Base is effective with respect to the Borrowing Base redetermination scheduled to occur on or about April, 2021 pursuant to Section 2.02(b)(i).
+“Supported QFC” has the meaning set forth in Section 9.32.
+“Term SOFR” means the forward-looking term rate based on SOFR that has been selected or recommended by the Relevant Governmental Body.
+“UK Financial Institution” means any BRRD Undertaking (as such term is defined under the PRA Rulebook (as amended form time to time) promulgated by the United Kingdom Prudential Regulation Authority) or any person subject to IFPRU 11.6 of the FCA Handbook (as amended from time to time) promulgated by the United Kingdom Financial Conduct Authority, which includes certain credit institutions and investment firms, and certain affiliates of such credit institutions or investment firms.
+“UK Resolution Authority” means the Bank of England or any other public administrative authority having responsibility for the resolution of any UK Financial Institution.
+“Unadjusted Benchmark Replacement” means the Replacement Rate excluding the Benchmark Replacement Adjustment.
+“U.S. Special Resolution Regimes” has the meaning set forth in Section 9.32.
+5
+
+
+(b)Section 1.01 (Certain Defined Terms) of the Credit Agreement is hereby amended by deleting the following definition therein:
+“Permitted Tax Distributions” means Restricted Payments in the form of cash made by the Borrower to Holdings in an amount equal to the net income Tax liabilities of Holdings, attributable solely to the earnings of the Borrower and its Subsidiaries (and not on earnings of any other Subsidiary or Affiliate of Holdings) for such Tax years in which the Borrower is a pass-through entity or a member of a consolidated group with Holdings for Tax purposes (calculated for the avoidance of doubt after taking into account any net operating loss carryovers and similar tax attributes available to Holdings from any source); provided that, in no event shall such amount exceed the amount actually required to be paid by Holdings in income tax attributable to such earnings.
+(c)Section 1.01 (Certain Defined Terms) of the Credit Agreement is hereby amended by amending and restating the following definitions to read as follows:
+“Bail-In Action” means the exercise of any Write-Down and Conversion Powers by the applicable Resolution Authority in respect of any liability of an Affected Financial Institution.
+“Bail-In Legislation” means, (a) with respect to any EEA Member Country implementing Article 55 of Directive 2014/59/EU of the European Parliament and of the Council of the European Union, the implementing law, rule, regulation or requirement for such EEA Member Country from time to time which is described in the EU Bail-In Legislation Schedule, and (b) with respect to the United Kingdom, Part I of the United Kingdom Banking Act 2009 (as amended from time to time) and any other law, regulation or rule applicable in the United Kingdom relating to the resolution of unsound or failing banks, investment firms or other financial institutions or their affiliates (other than through liquidation, administration or other insolvency proceedings).
+“Eurodollar Base Rate” means, subject to the implementation of a Replacement Rate in accordance with Section 2.03(c)(vii), (a) in determining Eurodollar Rate for purposes of determining the Eurodollar Rate for the Adjusted Reference Rate, the rate per annum for Dollar deposits quoted by the Administrative Agent for the purpose of calculating effective rates of interest for loans making reference to the “Daily Three-Month LIBOR” or the “LIBOR Market Index Rate” or other words of similar import, as the inter-bank offered rate in effect from time to time for delivery of funds for three (3) months in amounts approximately equal to the principal amount of the applicable Advances; provided that, the Administrative Agent may base its quotation of the inter-bank offered rate upon such offers or other market indicators of the inter-bank market as the Administrative Agent in its reasonable discretion deems appropriate including the rate determined under the following clause (b), and (b) in determining Eurodollar Rate for all other purposes, the rate per annum (rounded upward to the nearest whole multiple of 1/100th of 1.00%) equal to the interest rate per annum as published by the ICE Benchmark Administration Limited, a United Kingdom company (or a comparable or successor quoting service approved by the Administrative Agent) as the London Interbank Offered Rate, for deposits in Dollars at 11:00 a.m. (London, England time) two Business Days before the first day of the applicable Interest Period, as the rate for Dollar deposits with a maturity comparable to such Interest Period; provided that, if such quotation is not available for any reason, then for purposes of this clause (b), Eurodollar Base Rate shall then be the rate determined by the Administrative Agent to be the rate at which deposits in Dollars for delivery on the first day of such Interest Period in
+6
+
+
+immediately available funds in the approximate amount of the Advances being made, continued or Converted by the Lenders and with a term equivalent to such Interest Period would be offered by the Administrative Agent’s London branch (or other branch or Affiliate of the Administrative Agent, or in the event that the Administrative Agent does not have a London branch, the London branch of a Lender chosen by the Administrative Agent) to major banks in the London or other offshore inter-bank market for Dollars at their request at approximately 11:00 a.m. (London time) two Business Days prior to the commencement of such Interest Period; provided further that, if the rate determined under the preceding clause (a) or clause (b) is less than zero, then “Eurodollar Base Rate” shall be deemed to be zero for such determination. Notwithstanding the foregoing, unless otherwise specified in any amendment to this Agreement entered into in accordance with Section 2.03(c)(vii), in the event that a Replacement Rate with respect to the Eurodollar Base Rate is implemented, then all references herein to the Eurodollar Base Rate shall be deemed references to such Replacement Rate (including the corresponding rate that would apply to any determination of Adjusted Reference Rate).
+“Replacement Rate” means the sum of: (a) the alternate benchmark rate (which may include Term SOFR) that has been selected by the Administrative Agent and the Borrower giving due consideration to (i) any selection or recommendation of a replacement rate or the mechanism for determining such a rate by the Relevant Governmental Body or (ii) any evolving or then-prevailing market convention for determining a rate of interest as a replacement to the Eurodollar Base Rate for U.S. dollar-denominated syndicated credit facilities and (b) the Benchmark Replacement Adjustment; provided that, if the Replacement Rate as so determined would be less than zero, the Replacement Rate will be deemed to be zero for the purposes of this Agreement.
+“Write-Down and Conversion Powers” means, (a) with respect to any EEA Resolution Authority, the write-down and conversion powers of such EEA Resolution Authority from time to time under the Bail-In Legislation for the applicable EEA Member Country, which write-down and conversion powers are described in the EU Bail-In Legislation Schedule, and (b) with respect to the United Kingdom, any powers of the applicable Resolution Authority under the Bail-In Legislation to cancel, reduce, modify or change the form of a liability of any UK Financial Institution or any contract or instrument under which that liability arises, to convert all or part of that liability into shares, securities or obligations of that person or any other person, to provide that any such contract or instrument is to have effect as if a right had been exercised under it or to suspend any obligation in respect of that liability or any of the powers under that Bail-In Legislation that are related to or ancillary to any of those powers.
+(d)Article I (Definitions and Accounting Terms) of the Credit Agreement is hereby amended by adding the following new Section 1.11 to the end thereof:
+Section 1.11 Rates. The Administrative Agent does not warrant or accept responsibility for, and shall not have any liability with respect to, the administration, submission or any other matter related to the rates in the definition of “Eurodollar Base Rate” or with respect to any rate that is an alternative or replacement for or successor to any such rate (including, without limitation, any Replacement Rate) or the effect of any of the foregoing, or of any Benchmark Replacement Conforming Changes.
+(e)Section 2.02(a) (Borrowing Base) of the Credit Agreement is hereby amended and restated to read as follows:
+7
+
+
+(a) Borrowing Base. The initial Borrowing Base in effect as of Closing Date has been set by the Administrative Agent and the Lenders and acknowledged by the Borrower as $128,000,000. Such initial Borrowing Base shall remain in effect until the next redetermination or adjustment made pursuant to this Agreement, including, without limitation, such automatic reduction set forth in Section 2.02(d)(iii). The Borrowing Base shall be determined in accordance with the standards set forth in Section 2.02(e) and is subject to periodic redetermination pursuant to Sections 2.02(b) and 2.02(c), and mandatory reductions pursuant to Section 2.02(d); provided that notwithstanding anything to the contrary in this Agreement, in no event shall the Borrowing Base exceed $600,000,000 unless agreed to by all of the Lenders and the Intercreditor Agreement has been, or will substantially contemporaneously will be, amended to increase the First Lien Cap (as such term is defined therein) and to make such other amendments, if any, as the parties to the Intercreditor Agreement shall agree.
+(f)Section 2.02(d) (Mandatory Reductions) of the Credit Agreement is hereby amended by adding the following new clause (iii) to the end thereof:
+(iii) Unless the reduction set forth in this clause (iii) is waived by the Required Lenders, the Borrowing Base shall automatically reduce on July 1, 2020 by an amount equal to $25,000,000. The Borrowing Base, as reduced pursuant to this Section 2.02(d)(iii) shall remain in effect at such applicable amount until the effective date of any subsequent Borrowing Base redetermination or adjustment made in accordance with the terms of this Agreement.
+(g)Section 2.02(e) (Standards for Redetermination) of the Credit Agreement is hereby amended and restated to read as follows:
+(e) Standards for Redetermination. Each redetermination of the Borrowing Base by the Administrative Agent and the Lenders pursuant to this Section 2.02 shall be made (i) in the sole discretion of the Administrative Agent and the Lenders (but in accordance with the other provisions of this Section 2.02(e)), (ii) in accordance with the Administrative Agent’s and the Lenders’ customary internal standards and practices for valuing and redetermining the value of Oil and Gas Properties in connection with reserve based oil and gas loan transactions, (iii) in conjunction with the most recent Independent Engineering Report or Internal Engineering Report, as applicable, or other information received by the Administrative Agent and the Lenders relating to the Proven Reserves of the Borrower and the Guarantors, and (iv) based upon the estimated value of the Proven Reserves owned by the Borrower and the Guarantors as determined by the Administrative Agent and the Lenders. In valuing and redetermining the Borrowing Base, the Administrative Agent and the Lenders may also consider the business, financial condition, and Indebtedness obligations of the Borrower and the Guarantors and such other factors as the Administrative Agent and the Lenders customarily deem appropriate, including without limitation, commodity price assumptions, projections of production, operating expenses, general and administrative expenses, capital costs, working capital requirements, liquidity evaluations, dividend payments, environmental costs, and legal costs. In that regard, the Borrower acknowledges that the determination of the Borrowing Base contains a value cushion (market value in excess of loan value), which is essential for the adequate protection of the Administrative Agent and the Lenders. Subject to the last sentence of Section 5.08(a), to the extent a Proven Reserve is not encumbered by an Acceptable Security Interest, such Proven Reserve shall not be included or considered for inclusion in the Borrowing Base to the extent an Acceptable Security Interest thereon would be necessary to cause the Administrative Agent to have an Acceptable Security Interest in (x) at least 90% (by value) or, to the extent requested by
+8
+
+
+the Administrative Agent, 95% (by value) of the Proven Reserves and the Oil and Gas Properties relating thereto, (y) 90% (by value) or, to the extent requested by the Administrative Agent, 95% (by value) of the Loan Parties’ other Oil and Gas Properties, and (z) 100% (by value) of the Original Mortgaged Properties (other than such Original Mortgaged Properties which are Disposed of as permitted under Section 6.04(c)). At all times after the Administrative Agent has given the Borrower notification of a redetermination of the Borrowing Base under this Section 2.02, the Borrowing Base shall be equal to the redetermined amount or such lesser amount designated by the Borrower and disclosed in writing to the Administrative Agent and the Lenders until the Borrowing Base is subsequently redetermined in accordance with this Section 2.02; provided that the Borrower shall not request that the Borrowing Base be reduced to a level that would result in a Borrowing Base Deficiency (without giving effect to the proviso in the definition thereof). Notwithstanding anything herein to the contrary, (x) to the extent the redetermined Borrowing Base is less than or equal to the Borrowing Base in effect prior to such redetermination, such redetermined Borrowing Base must be approved by the Administrative Agent and the Required Lenders, and (y) to the extent the redetermined Borrowing Base is greater than the Borrowing Base in effect prior to such redetermination, such redetermined Borrowing Base must be approved by the Administrative Agent and all of the Lenders.
+(h)Section 2.03(c)(iii) (Certain Limitations) of the Credit Agreement is hereby amended and restated to read as follows:
+(iii)  subject to clause (vii) below, if the Administrative Agent is unable to determine the Eurodollar Rate for Eurodollar Rate Advances comprising any requested Borrowing, the right of the Borrower to select Eurodollar Rate Advances for such Borrowing or for any subsequent Borrowing shall be suspended until the Administrative Agent shall notify the Borrower and the Lenders that the circumstances causing such suspension no longer exist, and each Advance comprising such Borrowing shall be a Reference Rate Advance;
+(i)Section 2.03(c)(iv) (Certain Limitations) of the Credit Agreement is hereby amended and restated to read as follows:
+(iv) subject to clause (vii) below, if the Majority Lenders shall, at least one Business Day before the date of any requested Borrowing, notify the Administrative Agent that the Eurodollar Rate for Eurodollar Rate Advances comprising such Borrowing will not adequately reflect the cost to such Lenders of making or funding their respective Eurodollar Rate Advances, as the case may be, for such Borrowing, the right of the Borrower to select Eurodollar Rate Advances for such Borrowing or for any subsequent Borrowing shall be suspended until the Administrative Agent shall notify the Borrower and the Lenders that the circumstances causing such suspension no longer exist, and each Advance comprising such Borrowing shall be a Reference Rate Advance;
+(j)Section 2.03(c)(vii) (Certain Limitations) of the Credit Agreement is hereby amended and restated to read as follows:
+(vii) Effect of Benchmark Transition Event.
+(A) Notwithstanding anything to the contrary herein or in any other Loan Document, upon the occurrence of a Benchmark Transition Event or an Early Opt-in Election, as applicable, the Administrative Agent and the Borrower may amend this Agreement to replace the Eurodollar
+9
+
+
+Base Rate with a Replacement Rate. Any such amendment with respect to a Benchmark Transition Event will become effective at 5:00 p.m. (Houston, Texas time) on the fifth (5th) Business Day after the Administrative Agent has posted such proposed amendment to all Lenders and the Borrower so long as the Administrative Agent has not received, by such time, written notice of objection to such amendment from Lenders comprising the Majority Lenders. Any such amendment with respect to an Early Opt-in Election will become effective on the date that Lenders comprising the Majority Lenders have delivered to the Administrative Agent written notice that such Majority Lenders accept such amendment. No replacement of the Eurodollar Base Rate with a Replacement Rate pursuant to this Section 2.03(c)(vii) will occur prior to the applicable Benchmark Transition Start Date.
+(B) In connection with the implementation of a Replacement Rate, the Administrative Agent will have the right to make Benchmark Replacement Conforming Changes from time to time and, notwithstanding anything to the contrary herein or in any other Loan Document, any amendments implementing such Benchmark Replacement Conforming Changes will become effective without any further action or consent of any other party to this Agreement.
+(C) The Administrative Agent will promptly notify the Borrower and the Lenders of (1) any occurrence of a Benchmark Transition Event or an Early Opt-in Election, as applicable, and its related Benchmark Replacement Date and Benchmark Transition Start Date, (2) the implementation of any Replacement Rate, (3) the effectiveness of any Benchmark Replacement Conforming Changes and (4) the commencement or conclusion of any Benchmark Unavailability Period. Any determination, decision or election that may be made by the Administrative Agent or Lenders pursuant to this Section 2.03(c)(vii), including any determination with respect to a tenor, rate or adjustment or of the occurrence or non-occurrence of an event, circumstance or date and any decision to take or refrain from taking any action, will be conclusive and binding absent manifest error and may be made in its or their sole discretion and without consent from any other party hereto, except, in each case, as expressly required pursuant to this Section 2.03(c)(vii).
+(D) Upon the Borrower’s receipt of notice of the commencement of a Benchmark Unavailability Period, the Borrower may revoke any request for a Eurodollar Rate Advance of, conversion to or continuation of Eurodollar Rate Advances to be made, converted or continued during any Benchmark Unavailability Period and, failing that, the Borrower will be deemed to have converted any such request into a request for a borrowing of or conversion to a Reference Rate Advance. During any Benchmark Unavailability Period, the component of the Adjusted Reference Rate based upon the Eurodollar Base Rate will not be used in any determination of the Adjusted Reference Rate.
+(E) The Replacement Rate shall replace the Eurodollar Base Rate for all purposes under the Loan Documents unless and until (1) an event described in Section 2.03(c)(ii), (iii) or (iv) or a Benchmark Transition Event occurs with respect to the Replacement Rate or (2) the Administrative Agent (or the Majority Lenders through the Administrative Agent) notifies the Borrower that the Replacement Rate does not adequately and fairly reflect the cost to the Lenders of funding the Advances bearing interest at the Replacement Rate, at which time the right of the Borrower to select Advances bearing interest at the Replacement Rate for any Borrowing shall be suspended until the Administrative Agent shall notify the Borrower and the Lenders that the circumstances causing such suspension no longer exist, and each Advance bearing interest at the Replacement Rate shall be Converted to a Reference Rate Advance.
+10
+
+
+(k)Section 2.05(b)(i) (Borrowing Base Deficiency) of the Credit Agreement is hereby amended by amending and restating the first paragraph therein to read as follows:
+(i) Other than as provided in clauses (ii), (iii), (iv) and (vi) below, if a Borrowing Base Deficiency exists, the Borrower shall, after receipt of written notice from the Administrative Agent regarding such deficiency, take any of the following actions (and the failure of the Borrower to take such actions to remedy such Borrowing Base Deficiency shall constitute an election of clause (C) below):
+(l)Section 2.05(b) (Borrowing Base Deficiency) of the Credit Agreement is hereby amended by renumbering clause (vi) therein as clause (vii) and adding the following new clause (vi) therein:
+(vi) If the Borrowing Base is reduced under Section 2.02(d)(iii) and such reduction results in a Borrowing Base Deficiency, then the Borrower shall, immediately upon the effectiveness of such reduction, prepay Advances or, if the Advances have been repaid in full, make deposits into the Cash Collateral Account to provide cash collateral for the Letter of Credit Exposure, such that the Borrowing Base Deficiency is cured.
+(m)Section 2.05(e) (Reserved) of the Credit Agreement is hereby amended and restated to read as follows:
+(e) Mandatory Prepayment for Availability Reduction. Commencing October 1, 2020 until the Fall 2020 BBRD Effective Date, unless the requirements set forth in this clause (e) are waived by the Required Lenders, the Borrower shall prepay (or cause to be prepaid) the Advances or, if the Advances have been repaid in full, make deposits into the Cash Collateral Account to provide cash collateral for the Letter of Credit Exposure, such that Availability is not less than $25,000,000 at any time. For the avoidance of doubt, receipt by the Administrative Agent or any Lender of any prepayment made pursuant to this Section 2.05(e) shall not result in a waiver of any Event of Default then existing, including any Event of Default resulting from a misrepresentation that the condition in Section 3.02(e) had been met, unless such waiver is made in accordance with Section 9.03.
+(n)Section 2.05 (Prepayment of Advances) of the Credit Agreement is hereby amended by relettering subsection (g) therein as subsection (h) and adding the following new subsection (g) therein:
+(g) Excess Cash. If, at any time when Credit Exposure is greater than zero, the Consolidated Cash Balance exceeds the Consolidated Cash Balance Limit as of the end of the last Business Day of any calendar week, then the Borrower shall, on the immediately following Consolidated Cash Sweep Date, prepay the Advances in an aggregate principal amount equal to such excess, and, if any excess remains after prepaying all of the Advances as a result of the Letter of Credit Exposure, Cash Collateralize the Letter of Credit Exposure in an amount equal to such excess. Each prepayment pursuant to this Section 2.05(g) shall be accompanied by accrued and unpaid interest on the amount prepaid to the date of such prepayment. Each prepayment under this Section 2.05(g) shall be applied first to Reference Rate Advances and then to Eurodollar Rate Advances. The requirements set forth in this clause (g) may be waived by the Required Lenders.
+(o)Section 3.02 (Conditions Precedent to All Borrowings) of the Credit Agreement is hereby amended by (i) deleting the word “and” at the end of subsection (b) therein, (ii) replacing the “.” at the
+11
+
+
+end of subsection (c) therein with a “;” and (iii) adding the following new subsections (d) and (e) immediately after subsection (c):
+(d) in the good faith reasonable expectation of the certifying Responsible Officer of the Borrower and as certified to such in the applicable Notice of Borrowing or Letter of Credit Application (i) the Borrower intends to apply the proceeds of such Credit Extension in such a manner that, and (ii) after giving effect to the making of such Credit Extension and the application of the proceeds thereof, the pro forma Consolidated Cash Balance as of the end of the last Business Day of the week in which such Credit Extension is to be made will not exceed the Consolidated Cash Balance Limit; and
+(e) only with respect to each Credit Extension made on or after October 1, 2020 until the Fall 2020 BBRD Effective Date, after giving effect to the making of such Credit Extension, Availability is not less than $25,000,000.
+(p)Article IV (Representations and Warranties) of the Credit Agreement is hereby amended by adding the following new Section 4.30 to the end thereof:
+Section 4.30 Affected Financial Institution. No Loan Party is an Affected Financial Institution.
+(q)Section 5.01 (Compliance with Laws, Etc.) of the Credit Agreement is hereby amended and restated to read as follows:
+Section 5.01 Compliance with Laws, Etc. Each Loan Party shall comply, and cause each of its Subsidiaries to comply, in all respects with all applicable Legal Requirements except where the failure to so comply could not, individually or in the aggregate, reasonably be expected to result in a Material Adverse Change. Without limiting the generality and coverage of the foregoing, each Loan Party shall comply, and shall cause each of its Subsidiaries to comply with all Environmental Laws and all laws, regulations, or directives with respect to equal employment opportunity and employee safety in all jurisdictions in which any Loan Party or any Subsidiary thereof does business except where failure to so comply has not resulted in and could not reasonably be expected to result in, individually or in the aggregate, a Material Adverse Change. Without limitation of the foregoing, each Loan Party shall, and shall cause each of its Subsidiaries to, (a) maintain and possess all authorizations, Permits, licenses, trademarks, trade names, rights and copyrights which are necessary or advisable to the conduct of its business, except where the failure to do so, individually or in the aggregate, could not reasonably be expected to result in a Material Adverse Change, and (b) obtain, as soon as practicable, all consents or approvals required from any states of the United States (or other Governmental Authorities) necessary to grant the Administrative Agent an Acceptable Security Interest in (i) at least 90% (by value) or, to the extent requested by the Administrative Agent, 95% (by value) of the Proven Reserves attributable to the Loan Parties’ Oil and Gas Properties and (ii) 100% (by value) of the Original Mortgaged Properties.
+(r)Section 5.06(d) (Reserved) of the Credit Agreement is hereby amended and restated to read as follows:
+(d) Weekly Consolidated Cash Balance Report. On each Consolidated Cash Sweep Date, a weekly report in form reasonably satisfactory to the Administrative Agent detailing the
+12
+
+
+Consolidated Cash Balance as of the last Business Day of the immediately preceding calendar week certified by a Responsible Officer of Holdings and the Borrower.
+(s)Section 5.06(e)(iv) (Oil and Gas Engineering Reports) of the Credit Agreement is hereby amended and restated to read as follows:
+(iv) With the delivery of each Engineering Report, a certificate from a Responsible Officer of the Borrower certifying that, to the best of his knowledge and in all material respects: (A) the information contained in the Engineering Report and any other information delivered in connection therewith is true and correct, (B) except as set forth on an exhibit to the certificate, on a net basis there are no gas imbalances in excess of 2% of the monthly production, take or pay or other prepayments with respect to its Oil and Gas Properties evaluated in such Engineering Report which would require the Borrower or any Guarantor to deliver Hydrocarbons produced from such Oil and Gas Properties at some future time without then or thereafter receiving full payment therefor, (C) none of its Oil and Gas Properties have been sold since the date of the last Borrowing Base determination except as set forth on an exhibit to the certificate, which certificate shall list all of its Oil and Gas Properties sold and in such detail as reasonably required by the Majority Lenders, (D) upon the request of the Administrative Agent, attached to the certificate is a list of its Oil and Gas Properties added to and deleted from the immediately prior Engineering Report and a list showing any change in working interest or net revenue interest in its Oil and Gas Properties occurring and the reason for such change, (E) upon the request of the Administrative Agent, attached to the certificate is a list of all Persons disbursing proceeds to the Borrower or to any Guarantor, as applicable, from its Oil and Gas Properties, and (F) except as set forth on a schedule attached to the certificate, (x) at least 90% (by value) or, to the extent requested by the Administrative Agent, 95% (by value) of the Proven Reserves and the Oil and Gas Properties relating thereto and (y) 90% (by value) or, to the extent requested by the Administrative Agent, 95% (by value) of the Loan Parties’ other Oil and Gas Properties evaluated by such Engineering Report are pledged as Collateral for the Secured Obligations.
+(t)Section 5.08(a) (Agreement to Pledge; Guaranty) of the Credit Agreement is hereby amended and restated to read as follows:
+(a) In connection with each scheduled redetermination of the Borrowing Base pursuant to Section 2.02(b)(i) or (ii) and each redetermination of the Borrowing Base resulting in an increase to the Borrowing Base, each Loan Party shall, and shall cause its Subsidiaries that is a Loan Party to, review its respective Oil and Gas Properties to ascertain whether such Oil and Gas Properties are subject to an Acceptable Security Interest. In the event that the Oil and Gas Properties subject to an Acceptable Security Interest do not represent (A) at least 90% (by value) or, to the extent requested by the Administrative Agent, 95% (by value) of the Proven Reserves and the Oil and Gas Properties relating thereto, (B) at least 90% (by value) or, to the extent requested by the Administrative Agent, 95% (by value) of the Loan Parties’ other Oil and Gas Properties and (C) 100% (by value) of the Original Mortgaged Properties (other than such Original Mortgaged Properties which are Disposed of as permitted under Section 6.04(c)), then each Loan Party shall, and shall cause each of its Subsidiaries that is a Loan Party to, grant to the Administrative Agent within thirty (30) days of the date the Engineering Report for such redetermination is required to be delivered (subject to the last sentence of this clause (a)), as security for the Secured Obligations an Acceptable Security Interest on such Oil and Gas Properties not already subject to an Acceptable Security Interest such that after giving effect thereto, the Oil and Gas Properties subject to an Acceptable Security Interest will constitute (A)
+13
+
+
+at least 90% (by value) or, to the extent requested by the Administrative Agent, 95% (by value) of the Proven Reserves and the Oil and Gas Properties relating thereto, (B) at least 90% (by value) or, to the extent requested by the Administrative Agent, 95% (by value) of the Loan Parties’ other Oil and Gas Properties and (C) 100% (by value) of the Original Mortgaged Properties (other than such Original Mortgaged Properties which are Disposed of as permitted under Section 6.04(c)). Notwithstanding the foregoing, the Administrative Agent in its sole discretion may agree to a later date for the Loan Parties to comply with this Section 5.08 so long as such later date is no later than 60 days after the otherwise required date.
+(u)Section 6.05(a) (Restricted Payments) of the Credit Agreement is hereby amended and restated to read as follows:
+(a) [reserved];
+(v)Section 6.05(c) (Restricted Payments) of the Credit Agreement is hereby amended by replacing the reference to “$5,000,000” therein with “$1,000,000”.
+(w)Section 6.05(e) (Restricted Payments) of the Credit Agreement is hereby amended and restated to read as follows:
+(e) after the Spring 2021 BBRD Effective Date, if (i) no Default and no Borrowing Base Deficiency exists at the time of public declaration or announcement (to the extent publicly declared or announced and if not publicly declared or announced, at the time of the making of such Restricted Payment), and (ii) such Restricted Payment is permitted under the Second Lien Loan Documents, if any, that are then in effect, other Restricted Payments in an aggregate amount not to exceed $2,500,000 during the term of this Agreement;
+(x)Section 6.05(f) (Restricted Payments) of the Credit Agreement is hereby amended and restated to read as follows:
+(f) provided that (i) no Default and no Borrowing Base Deficiency exists or would result therefrom and (ii) such Restricted Payment is permitted under the Second Lien Loan Documents, if any, that are then in effect, the Loan Parties may (I) redeem, repurchase, retire, defease or otherwise acquire any Equity Interests of Holdings in exchange for additional shares of its Equity Interests (other than Disqualified Equity Interests) or (II) after the Spring 2021 BBRD Effective Date, make any Restricted Payment with the proceeds from a substantially concurrent Equity Issuance (other than issuances of Disqualified Equity Interests) (with an Equity Issuance being deemed substantially concurrent if the applicable Restricted Payment is made after the receipt of such Equity Issuance proceeds but not more than five (5) Business Days after such receipt);
+(y)Section 6.05(g) (Restricted Payments) of the Credit Agreement is hereby amended and restated to read as follows:
+(g) after the Spring 2021 BBRD Effective Date, any Loan Party may make Restricted Payments so long as (i) no Default exists both immediately before and immediately after giving effect to such Restricted Payment, (ii) such Restricted Payment is permitted under the Second Lien Loan Documents, if any, that are then in effect, (ii) at the time of public declaration or announcement (to the extent publicly declared or announced and if not publicly declared or announced, at the time of the making of such Restricted Payment) of such Restricted Payment and
+14
+
+
+after giving pro forma effect to the making of such Restricted Payment and any incurrence or repayment of Indebtedness, the Leverage Ratio as of the most recent fiscal quarter end for which financial statements have been delivered to the Administrative Agent shall not be greater than 2.25 to 1.00 and (iii) at the time of declaration or announcement (to the extent publicly declared or announced and if not publicly declared or announced, at the time of the making of such Restricted Payment) of such Restricted Payment and after giving pro forma effect to the making of such Restricted Payment, Availability shall be no less than 25% of the then effective Borrowing Base; and
+(z)Section 6.05 (Restricted Payments) of the Credit Agreement is hereby amended by adding the following new subsection (h) to the end thereof:
+(h) to the extent any payments under the Second Lien Loan Documents would constitute a Restricted Payment, the Loan Parties may make such Restricted Payments that are permitted under Section 6.21.
+(aa)Section 6.06(k) (Investments) of the Credit Agreement is hereby amended by replacing the reference to “90 days” therein to “five (5) Business Days”.
+(ab)Section 6.17(a) (Leverage Ratio) of the Credit Agreement is hereby amended by replacing the reference to “4.00” therein to “3.50”.
+(ac)Section 9.29 (Acknowledgment and Consent to Bail-In of EEA Financial Institutions) of the Credit Agreement is hereby amended and restated to read as follows:
+Section 9.29 Acknowledgment and Consent to Bail-In of Affected Financial Institutions. Notwithstanding anything to the contrary in any Loan Document or in any other agreement, arrangement or understanding among any such parties, each party hereto acknowledges that any liability of any Affected Financial Institution arising under any Loan Document, to the extent such liability is unsecured, may be subject to the Write-Down and Conversion Powers of the applicable Resolution Authority and agrees and consents to, and acknowledges and agrees to be bound by:
+(a) the application of any Write-Down and Conversion Powers by the applicable Resolution Authority to any such liabilities arising hereunder which may be payable to it by any party hereto that is an Affected Financial Institution; and
+(b) the effects of any Bail-in Action on any such liability, including, if applicable:
+(i) a reduction in full or in part or cancellation of any such liability;
+(ii) a conversion of all, or a portion of, such liability into shares or other instruments of ownership in such Affected Financial Institution, its parent undertaking, or a bridge institution that may be issued to it or otherwise conferred on it, and that such shares or other instruments of ownership will be accepted by it in lieu of any rights with respect to any such liability under this Agreement or any other Loan Document; or
+(iii) the variation of the terms of such liability in connection with the exercise of the Write-Down and Conversion Powers of the applicable Resolution Authority.
+15
+
+
+(ad)Article IX (Miscellaneous) of the Credit Agreement is hereby amended by adding the following new Section 9.32 to the end thereof:
+Section 9.32 Acknowledgment Regarding Any Supported QFCs. To the extent that the Loan Documents provide support, through a guarantee or otherwise, for any Hedge Contract or any other agreement or instrument that is a QFC (such support, “QFC Credit Support” and each such QFC, a “Supported QFC”), the parties acknowledge and agree as follows with respect to the resolution power of the Federal Deposit Insurance Corporation under the Federal Deposit Insurance Act and Title II of the Dodd-Frank Wall Street Reform and Consumer Protection Act (together with the regulations promulgated thereunder, the “U.S. Special Resolution Regimes”) in respect of such Supported QFC and QFC Credit Support (with the provisions below applicable notwithstanding that the Loan Documents and any Supported QFC may in fact be stated to be governed by the laws of the State of New York and/or of the United States or any other state of the United States):
+(a) In the event a Covered Entity that is party to a Supported QFC (each, a “Covered Party”) becomes subject to a proceeding under a U.S. Special Resolution Regime, the transfer of such Supported QFC and the benefit of such QFC Credit Support (and any interest and obligation in or under such Supported QFC and such QFC Credit Support, and any rights in property securing such Supported QFC or such QFC Credit Support) from such Covered Party will be effective to the same extent as the transfer would be effective under the U.S. Special Resolution Regime if the Supported QFC and such QFC Credit Support (and any such interest, obligation and rights in Property) were governed by the laws of the United States or a state of the United States. In the event a Covered Party or a BHC Act Affiliate of a Covered Party becomes subject to a proceeding under a U.S. Special Resolution Regime, Default Rights under the Loan Documents that might otherwise apply to such Supported QFC or any QFC Credit Support that may be exercised against such Covered Party are permitted to be exercised to no greater extent than such Default Rights could be exercised under the U.S. Special Resolution Regime if the Supported QFC and the Loan Documents were governed by the laws of the United States or a state of the United States. Without limitation of the foregoing, it is understood and agreed that rights and remedies of the parties with respect to a Defaulting Lender shall in no event affect the rights of any Covered Party with respect to a Supported QFC or any QFC Credit Support.
+(b) As used in this Section 9.32, the following terms have the following meanings:
+“BHC Act Affiliate” of a party means an “affiliate” (as such term is defined under, and interpreted in accordance with, 12 U.S.C. 1841(k)) of such party.
+“Covered Entity” means any of the following:
+(i) a “covered entity” as that term is defined in, and interpreted in accordance with, 12 C.F.R. § 252.82(b);
+(ii) a “covered bank” as that term is defined in, and interpreted in accordance with, 12 C.F.R. § 47.3(b); or
+(iii) a “covered FSI” as that term is defined in, and interpreted in accordance with, 12 C.F.R. § 382.2(b).
+16
+
+
+“Default Right” has the meaning assigned to that term in, and shall be interpreted in accordance with, 12 C.F.R. §§ 252.81, 47.2 or 382.1, as applicable.
+“QFC” has the meaning assigned to the term “qualified financial contract” in, and shall be interpreted in accordance with, 12 U.S.C. 5390(c)(8)(D). 
+(ae)Schedules I and II to the Credit Agreement are hereby replaced in their entirety with Schedules I and II, respectively, attached hereto.
+(af)Exhibit B (Form of Compliance Certificate) to the Credit Agreement is hereby replaced in its entirety with Exhibit B attached hereto.
+(ag)Exhibit F (Form of Notice of Borrowing) to the Credit Agreement is hereby replaced in its entirety with Exhibit F attached hereto.
+Section 4.Decrease in the Borrowing Base. Subject to the terms of this Agreement, as of the Effective Date, the Borrowing Base shall be decreased from $500,000,000 to $400,000,000 and such Borrowing Base shall remain in effect at that level until the effective date of the next Borrowing Base redetermination or adjustment made in accordance with the terms of the Credit Agreement, as amended hereby. The parties hereto acknowledge and agree that the Borrowing Base redetermination set forth in this Section 4 is the semi-annual redetermination of the Borrowing Base scheduled to occur on or about April 1, 2020, as provided in Section 2.02(b)(i) of the Credit Agreement. Each Lender’s Pro Rata Share of the resulting Borrowing Base, after giving effect to the decrease in the Borrowing Base set forth in this Section 4, and each Lender’s Maximum Credit Amount, after giving effect to this Agreement, are as set forth in Schedule II attached to Annex A hereto.
+Section 5.Representations and Warranties. Each Loan Party hereby represents and warrants that:
+(a)before and after giving effect hereto, the representations and warranties contained in Article IV of the Credit Agreement and the representations and warranties contained in the Security Instruments, the Guaranty, and each of the other Loan Documents are true and correct in all material respects (unless already qualified by materiality or Material Adverse Change in the text thereof, in which case, such representations and warranties shall be true and correct in all respects) on and as of the date hereof, as though made on and as of such date, except to the extent that any such representation or warranty expressly relates solely to an earlier date, in which case it shall have been true and correct in all material respects (unless already qualified by materiality or Material Adverse Change in the text thereof, in which case, such representations and warranties shall be true and correct in all respects) as of such earlier date;
+(b)all conditions required under Section 6 of this Agreement have been met other than such conditions which have been waived by the Lenders; provided that (1) for items which require the satisfaction of the Administrative Agent or Lenders, the Borrower may assume such satisfaction and (2) any Responsible Officer of the Borrower may assume that any signatures of any party other than a Loan Party have been received by the Administrative Agent and are genuine and authorized by all requisite actions;
+(c)before and after giving effect hereto, no Default or Event of Default has occurred and is continuing;
+17
+
+
+(d)the execution, delivery and performance of this Agreement by such Loan Party are within its corporate, partnership, or limited liability company power and authority, as applicable, and have been duly authorized by all necessary corporate, partnership, or limited liability company action, as applicable;
+(e)this Agreement constitutes the legal, valid and binding obligation of such Loan Party enforceable in accordance with its terms, except as limited by applicable Debtor Relief Laws affecting the rights of creditors generally and general principles of equity whether applied by a court of law or equity;
+(f)there are no governmental or other third party consents, licenses and approvals required in connection with the execution, delivery, performance, validity and enforceability of this Agreement;
+(g)the Collateral is unimpaired by this Agreement and the Loan Parties have granted to the Administrative Agent an Acceptable Security Interest in the Collateral covered by the Security Instruments and such Liens are not subject to avoidance, subordination, recharacterization, recovery, attack, offset, counterclaim, or defense of any kind; and
+(h)as of the Effective Date, no action, suit, investigation or other proceeding by or before any arbitrator or any Governmental Authority is threatened or pending and no preliminary or permanent injunction or order by a state or federal court has been entered in connection with this Agreement or any other Loan Document.
+Section 6.Conditions to Effectiveness. This Agreement shall become effective on the Effective Date and enforceable against the parties hereto upon the occurrence of the following conditions which may occur prior to or concurrently with the closing of this Agreement:
+(a)the Administrative Agent shall have received this Agreement executed by duly authorized officers of the Parent, the Borrower, each Guarantor, the Administrative Agent, and the Required Lenders;
+(b)the Borrower shall have delivered duly executed counterparts of Mortgages (or supplements thereto) which, together with all existing Mortgages delivered and in effect, are sufficient to grant an Acceptable Security Interest on at (i) least 95% (by value) of the Proven Reserves and the Oil and Gas Properties relating thereto and (y) 95% (by value) of the Loan Parties’ other Oil and Gas Properties, evaluated in the most recently delivered Engineering Report; and
+(c)the Borrower shall have paid all fees and expenses of the Administrative Agent’s outside legal counsel pursuant to all invoices presented for payment prior to the Effective Date (unless the Administrative Agent consents to the payment of such fees post-closing).
+Section 7.Acknowledgments and Agreements.
+(a)Each Loan Party acknowledges that on the date hereof all outstanding Obligations are payable in accordance with their terms and each Loan Party waives any defense, offset, counterclaim or recoupment (other than a defense of payment or performance) with respect thereto.
+(b)The Parent, Borrower, each Guarantor, the Administrative Agent, the Issuing Lender, and each Lender party hereto does hereby adopt, ratify, and confirm the Credit Agreement, as amended hereby, and acknowledges and agrees that the Credit Agreement, as amended hereby, is and remains in full force and effect, and acknowledge and agree that their respective liabilities and obligations under the
+18
+
+
+Credit Agreement, as amended hereby, the Guaranty, and the other Loan Documents, are not impaired in any respect by this Agreement.
+(c)Nothing herein shall constitute a waiver or relinquishment of (i) any Default or Event of Default under any of the Loan Documents, (ii) any of the agreements, terms or conditions contained in any of the Loan Documents, (iii) any rights or remedies of the Administrative Agent or any Lender with respect to the Loan Documents, or (iv) the rights of the Administrative Agent, the Issuing Lender, or any Lender to collect the full amounts owing to them under the Loan Documents.
+(d)From and after the Effective Date, all references to the Credit Agreement and the Loan Documents shall mean the Credit Agreement and such Loan Documents, as amended by this Agreement. This Agreement is a Loan Document for the purposes of the provisions of the other Loan Documents.
+Section 8.Reaffirmation of Security Instruments. Each Loan Party (a) reaffirms the terms of and its obligations (and the security interests granted by it) under each Security Instrument to which it is a party, and agrees that each such Security Instrument will continue in full force and effect to secure the Secured Obligations as the same may be amended, supplemented, or otherwise modified from time to time, and (b) acknowledges, represents, warrants and agrees that the Liens and security interests granted by it pursuant to the Security Instruments are valid, enforceable and subsisting and create a security interest to secure the Secured Obligations.
+Section 9.Reaffirmation of the Guaranty. Each Guarantor hereby ratifies, confirms, acknowledges and agrees that its obligations under the Guaranty are in full force and effect and that such Guarantor continues to unconditionally and irrevocably guarantee the full and punctual payment, when due, whether at stated maturity or earlier by acceleration or otherwise, all of the Guaranteed Obligations (as defined in the Guaranty), as such Guaranteed Obligations may have been amended by this Agreement, and its execution and delivery of this Agreement does not indicate or establish an approval or consent requirement by such Guarantor under the Guaranty, in connection with the execution and delivery of amendments, consents or waivers to the Credit Agreement or any of the other Loan Documents.
+Section 10.Counterparts. This Agreement may be signed in any number of counterparts and by different parties hereto in separate counterparts, each of which when so executed shall be deemed to be an original and all of which, taken together, constitute one and the same agreement. Delivery of an executed counterpart of a signature page of this Agreement by facsimile or by e-mail “PDF” copy shall be effective as delivery of a manually executed counterpart of this Agreement.
+Section 11.Successors and Assigns. This Agreement shall be binding upon and inure to the benefit of the parties hereto and their respective successors and assigns permitted pursuant to the Credit Agreement.
+Section 12.Invalidity. In the event that any one or more of the provisions contained in this Agreement shall be held invalid, illegal or unenforceable in any respect under any applicable Legal Requirement, the validity, legality, and enforceability of the remaining provisions contained herein or therein shall not be affected or impaired thereby.
+Section 13.Governing Law. This Agreement and any claim, controversy, dispute or cause of action (whether in contract or tort or otherwise) based upon, arising out of or relating to this Agreement or any other Loan Document (except, as to any other Loan Document, as expressly set forth therein) and the transactions contemplated hereby and thereby shall be governed by, and construed in accordance with, the law of the State of New York (including Section 5-1401 and Section 5-1402 of the General
+19
+
+
+Obligations Law of the State of New York), without reference to any other conflicts or choice of law principles thereof.
+Section 14.Entire Agreement. THIS WRITTEN AGREEMENT AND THE OTHER LOAN DOCUMENTS REPRESENT THE FINAL AGREEMENT AMONG THE PARTIES AND MAY NOT BE CONTRADICTED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS, OR SUBSEQUENT ORAL AGREEMENTS OF THE PARTIES.
+        THERE ARE NO UNWRITTEN ORAL AGREEMENTS AMONG THE PARTIES.
+[SIGNATURES BEGIN ON NEXT PAGE]
+
+20
+
+
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be executed by their respective officers thereunto duly authorized as of the day and year first above written.
+BORROWER:
+
+PENN VIRGINIA HOLDING CORP.
+
+By: /s/ Russell T. Kelley, Jr. 
+Name: Russell T. Kelley, Jr.
+Title: Senior Vice President, Chief Financial Officer and Treasurer
+
+PARENT:
+
+PENN VIRGINIA CORPORATION
+
+By: /s/ Russell T. Kelley, Jr. 
+Name: Russell T. Kelley, Jr.
+Title: Senior Vice President, Chief Financial Officer and Treasurer
+
+GUARANTORS:
+
+PENN VIRGINIA OIL & GAS CORPORATION
+PENN VIRGINIA OIL & GAS GP LLC
+PENN VIRGINIA OIL & GAS LP LLC
+PENN VIRGINIA MC CORPORATION
+PENN VIRGINIA MC ENERGY L.L.C.
+PENN VIRGINIA MC GATHERING COMPANY L.L.C.
+PENN VIRGINIA MC OPERATING COMPANY L.L.C.
+PENN VIRGINIA RESOURCE HOLDINGS CORP.
+
+By: /s/ Russell T. Kelley, Jr. 
+Name: Russell T. Kelley, Jr.
+Title: Senior Vice President, Chief Financial Officer and
+Treasurer
+
+PENN VIRGINIA OIL & GAS, L.P.
+
+By: Penn Virginia Oil & Gas GP LLC, its general partner
+
+By: /s/ Russell T. Kelley, Jr. 
+Name: Russell T. Kelley, Jr.
+Title: Senior Vice President, Chief Financial Officer and Treasurer
+
+Signature Page to Borrowing Base Redetermination Agreement and Amendment No. 7 to Credit Agreement
+(Penn Virginia Holdng Corp.)
+
+ADMINISTRATIVE AGENT:
+
+WELLS FARGO BANK, NATIONAL ASSOCIATION, as Administrative Agent, Issuing Lender, and a Lender
+
+By: /s/ Doug McDowell 
+Name: Doug McDowell
+Title: Managing Director
+
+Signature Page to Borrowing Base Redetermination Agreement and Amendment No. 7 to Credit Agreement
+(Penn Virginia Holdng Corp.)
+
+
+LENDER:
+CITIBANK, N.A., as a Lender
+
+By: /s/ William McNeely 
+Name: William McNeely
+Title: Senior Vice President
+
+
+LENDER:
+ROYAL BANK OF CANADA, as a Lender
+
+By: /s/ Grace Garcia 
+Name: Grace Garcia
+Title: Authorized Signatory
+
+
+Signature Page to Borrowing Base Redetermination Agreement and Amendment No. 7 to Credit Agreement
+(Penn Virginia Holdng Corp.)
+
+
+LENDER:
+TRUIST BANK, as successor by merger to SUNTRUST BANK, as a Lender
+
+By: /s/ Greg Krablin 
+Name: Greg Krablin
+Title: Senior Vice President
+
+
+Signature Page to Borrowing Base Redetermination Agreement and Amendment No. 7 to Credit Agreement
+(Penn Virginia Holdng Corp.)
+
+
+LENDER:
+CAPITAL ONE, NATIONAL ASSOCIATION, as a Lender
+
+
+By: /s/ Christopher Kuna 
+Name: Christopher Kuna
+Title: Senior Director
+
+Signature Page to Borrowing Base Redetermination Agreement and Amendment No. 7 to Credit Agreement
+(Penn Virginia Holdng Corp.)
+
+
+LENDER:
+TRUIST BANK, formerly known as BRANCH BANKING AND TRUST COMPANY, as a Lender
+
+By: /s/ Greg Krablin 
+Name: Greg Krablin
+Title: Senior Vice President
+
+Signature Page to Borrowing Base Redetermination Agreement and Amendment No. 7 to Credit Agreement
+(Penn Virginia Holdng Corp.)
+
+
+LENDER:
+BANK OF AMERICA, N.A., as a Lender
+
+By: /s/ Kimberly Miller 
+Name: Kimberly Miller
+Title: Vice President
+
+Signature Page to Borrowing Base Redetermination Agreement and Amendment No. 7 to Credit Agreement
+(Penn Virginia Holdng Corp.)
+
+
+LENDER:
+CANADIAN IMPERIAL BANK OF COMMERCE, NEW YORK BRANCH, as a Lender
+
+By: /s/ Trudy Nelson 
+Name: Trudy Nelson
+Title: Authorized Signatory
+
+CANADIAN IMPERIAL BANK OF COMMERCE, NEW YORK BRANCH, as a Lender
+
+By: /s/ Scott W. Danvers 
+Name: Scott W. Danvers
+Title: Authorized Signatory
+Signature Page to Borrowing Base Redetermination Agreement and Amendment No. 7 to Credit Agreement
+(Penn Virginia Holdng Corp.)
+
+
+LENDER:
+Comerica BANK, as a Lender
+
+By: /s/ Chad W. Stephenson 
+Name: Chad W. Stephenson
+Title: Senior Vice President
+
+
+
+LENDER:
+EAST WEST BANK, as a Lender
+
+By: /s/ Laura A. Nelson 
+Name: Laura A. Nelson
+Title: Vice President
+
+
+Signature Page to Borrowing Base Redetermination Agreement and Amendment No. 7 to Credit Agreement
+(Penn Virginia Holdng Corp.)
+
+
+LENDER:
+THE HUNTINGTON NATIONAL BANK, as a Lender
+
+
+By: /s/ Stephen Hoffman 
+Name: Stephen Hoffman
+Title: Managing Director
+
+
+Schedule II
+Page 1 of 2
+
+
+LENDER:
+SOCIÉTÉ GÉNÉRALE, as a Lender
+
+
+By: /s/ Farhan Musharrif 
+Name: Farhan Musharrif
+Title: Director
+
+Schedule II
+Page 1 of 2
+
+
+LENDER:
+WEST TEXAS NATIONAL BANK, as a Lender
+
+
+By: /s/ Thomas E. Stelmar, Jr. 
+Name: Thomas E. Stelmar, Jr.
+Title: Senior Vice President
+
+Schedule II
+Page 1 of 2
+
+
+
+SCHEDULE I
+PRICING GRID
+Applicable Margins*
+Utilization Level Reference Rate Advances Eurodollar Rate Advances Commitment Fee Rate
+Level I Less than or equal to 25% 1.50% 2.50% 0.50%
+Level II Greater than 25% but less than or equal to 50% 1.75% 2.75% 0.50%
+Level III Greater than 50% but less than or equal to 75%. 2.00% 3.00% 0.50%
+Level IV Greater than 75% but less than or equal to 90% 2.25% 3.25% 0.50%
+Level V Greater than 90% 2.50% 3.50% 0.50%
+
+
+
+
+
+
+
+
+
+
+* Subject to increase as provided in the definition of “Applicable Margin.”
+Schedule II
+Page 1 of 2
+
+
+
+SCHEDULE II
+Notice information and commitments
+Each of the commitments to lend set forth herein is governed by the terms of the Credit Agreement which provides for, among other things, borrowing base limitations which may restrict the Borrower’s ability to request (and the Lenders’ obligation to provide) Credit Extensions to a maximum amount which is less than the commitments set forth in this Schedule II.
+
+Administrative Agent/Issuing Lender:
+Wells Fargo Bank, National Association
+1525 West W.T. Harris Blvd
+Mail Code D1109-019
+Charlotte, North Carolina 28262
+Attn: Syndication Agency Services
+Telephone: (704) 590-2706
+Telecopy: (704) 590-2790
+
+with a copy to:
+Wells Fargo Bank, National Association
+1000 Louisiana Street, 10th Floor
+MAC T0002-090
+Houston, TX 77002
+Attention: Doug McDowell
+Telephone: (713) 319-1615
+Electronic Mail: douglas.l.mcdowell@wellsfargo.com
+
+Borrower:
+at c/o Penn Virginia Corporation
+16285 Park Ten Place, Suite 500
+Houston, Texas 77084
+Attention: Rusty Kelley
+Telephone: (821) 620-1249
+Electronic Mail: rusty.kelley@pennvirginia.com
+
+
+
+
+
+
+
+
+[continued]
+Schedule II
+Page 1 of 2
+
+
+
+Lender
+
+
+
+
+
+
+
+
+Maximum Credit Amounts
+Pro Rata Share **Pro Rata Share of the Borrowing Base as of the Amendment No. 7 Effective Date
+Wells Fargo Bank, National Association $100,000,000.00 10.000000000% $40,000,000.00
+Capital One, National Association $100,000,000.00 10.000000000% $40,000,000.00
+Citibank, N.A. $100,000,000.00 10.000000000% $40,000,000.00
+Royal Bank of Canada $100,000,000.00 10.000000000% $40,000,000.00
+SunTrust Bank $100,000,000.00 10.000000000% $40,000,000.00
+Bank of America, N.A.
+$75,000,000.00
+7.500000000% $30,000,000.00
+Branch Banking and Trust Company $75,000,000.00 7.500000000% $30,000,000.00
+Canadian Imperial Bank of Commerce, New York Branch $62,500,000.00 6.250000000% $25,000,000.00
+Comerica Bank
+$62,500,000.00
+6.250000000% $25,000,000.00
+The Huntington National Bank
+$62,500,000.00
+6.250000000% $25,000,000.00
+Société Générale
+$62,500,000.00
+6.250000000% $25,000,000.00
+East West Bank
+$50,000,000.00
+5.000000000% $20,000,000.00
+West Texas National Bank
+$50,000,000.00
+5.000000000% $20,000,000.00
+Total: $1,000,000,000.00 100.000000000% $400,000,000.00
+
+
+**Borrowing Base is subject to redetermination and adjustment pursuant to the terms of the Agreement.
+Schedule II
+Page 1 of 2

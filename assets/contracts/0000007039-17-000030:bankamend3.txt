@@ -1,0 +1,263 @@
+EX-99.1 2 bankamend3.htm
+
+EXHIBIT 99.1
+  THIRD AMENDMENT TO AMENDED AND RESTATED CREDIT AGREEMENT
+
+THIS THIRD AMENDMENT TO AMENDED AND RESTATED CREDIT AGREEMENT (this "Amendment") is entered into as of July 25, 2017 (the "Effective Date"), among TEXAS OIL & CHEMICAL CO. II, INC., a Texas corporation ("Borrower"), TRECORA CHEMICAL, INC., a Texas corporation formerly known as SSI Chusei, Inc. ("Trecora Chemical") and certain other subsidiaries of the Borrower party hereto, as guarantors ("Guarantors"), the lenders from time to time party hereto ("Lenders"), and BANK OF AMERICA, N.A., as Administrative Agent for the Lenders (in such capacity, the "Administrative Agent"), Swingline Lender and LC Issuer.  Capitalized terms used but not defined in this Amendment have the meaning given them in the Credit Agreement (defined below).
+RECITALS
+A. Borrower, Trecora Chemical, and Lenders are parties to that certain Amended and Restated Credit Agreement dated as of October 1, 2014 (as amended by that certain First Amendment to Amended and Restated Credit Agreement dated as of February 20, 2015, and that certain Second Amendment to Amended and Restated Credit Agreement dated as of March 28, 2017, and as may be further amended, restated or supplemented, the "Credit Agreement").
+B. Borrower desires to increase the Revolving Facility in an aggregate principal amount of $20,000,000 (the "Revolving Commitment Increase").
+C. Each Lender identified on the signature pages hereto desires to provide a portion of the Revolving Commitment Increase in the several amounts set forth on Schedule 1.01(b) hereto.  As used herein (1) "Existing Credit Agreement" means the Credit Agreement as in effect prior to the effective date of this Amendment, (2) "Existing Lender" means each Lender that is a party to this Amendment that has a Revolving Commitment under the Existing Credit Agreement and (3) "Increasing Lender" means each Existing Lender whose dollar Revolving Commitment amount shown on Schedule 1.01(b) attached hereto is higher than its Revolving Commitment under the Existing Credit Agreement.
+NOW THEREFORE, for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the undersigned agree as follows:
+1. Amendment to Section 5.22 of the Credit Agreement. Section 5.22 of the Credit Agreement is hereby deleted in its entirety and replaced as follows:
+                "5.22 Flood Insurance.  All flood hazard insurance policies required hereunder have been obtained and remain in full force and effect, and the premiums thereon have been paid in full."
+                2. Amendment to Section 6.07(c) of the Credit Agreement.  Section 6.07(c) of the Credit Agreement is hereby deleted in its entirety and replaced as follows:
+  "(c) Redesignation.  Promptly notify the Administrative Agent (who shall further notify the Lenders) of any Mortgaged Property that is, or becomes, a Flood Hazard Property."
+
+3. Increase in Revolving Commitments and Amendment to Schedule 1.01(b) of the Credit Agreement.
+(a) Administrative Agent and the Increasing Lenders hereby agree that the Revolving Commitment Increase shall become effective upon the satisfaction of the conditions set forth in Section 4 hereof.  Accordingly, the defined term "Revolving Commitment" in Section 1.01 of the Credit Agreement is deleted in its entirety and replaced as follows:
+  "Revolving Commitment" means, as to each Revolving Lender, its obligation to (a) make Revolving Loans to the Borrower pursuant to Section 2.01(c), (b) purchase participations in L/C Obligations, and (c) purchase participations in Swingline Loans, in an aggregate principal amount at any one time outstanding not to exceed the amount set forth opposite such Lender's name on Schedule 1.01(b) under the caption "Revolving Commitment" or opposite such caption in the Assignment and Assumption pursuant to which such Lender becomes a party hereto, as applicable, as such amount may be adjusted from time to time in accordance with this Agreement.  The Revolving Commitment of all of the Revolving Lenders is $60,000,000."
+(b) Effective as of the Effective Date (i) each Increasing Lender's Commitment shall be as set forth on Schedule 1.01(b) attached hereto, and (ii) Schedule 1.01(b) of the Credit Agreement is amended in its entirety to read as set forth in Schedule 1.01(b) attached hereto.
+4. Conditions.  This Amendment shall be effective as of the Effective Date once all of the following have been satisfied or delivered to the Administrative Agent, in each case, in Proper Form:
+(a)
+this Amendment executed by Borrower, Guarantors, the Administrative Agent and the Increasing Lenders;
+(b)
+a certificate of each Loan Party dated as of the Effective Date (in sufficient copies for each Lender) signed by a Responsible Officer of such Loan Party (i) certifying and attaching the resolutions adopted by such Loan Party approving or consenting to such increase, and (ii) in the case of the Borrower, certifying that, before and after giving effect to such increase, (A) the representations and warranties contained in Article V of the Credit Agreement and the other Loan Documents are true and correct, on and as of the Effective Date, and the representations and warranties contained in subsections (a) and (b) of Section 5.05 of the Credit Agreement shall be deemed to refer to the most recent statements furnished pursuant to clauses (a) and (b), respectively, of Section 6.01 of the Credit Agreement, and (B) both before and after giving effect to the Revolving Commitment Increase, no Default exists;
+(c)
+a replacement Note executed by Borrower in favor of each Increasing Lender requesting a replacement Note;
+(d)
+the Administrative Agent and each Increasing Lender shall have satisfied its flood insurance requirements for all Mortgaged Properties, including without limitation, the receipt of flood determination certificates for all such Mortgaged Properties and confirmation that the Loan Parties maintain flood hazard insurance on all Mortgaged Properties that are Flood Hazard Properties, on such terms and in such amounts as required by the National Flood Insurance Reform Act of 1994 or as otherwise required by the Administrative Agent, all in form and substance reasonably satisfactory to the Administrative Agent and each Increasing Lender;
+(e)
+an upfront fee, payable to the Administrative Agent for the account of each Increasing Lender, in an amount equal to 15 basis points on the portion of such Increasing Lender's share of the Revolving Commitment Increase which is an increase over its existing commitment;
+(f)
+such other fees and expenses that are payable by the Borrower to the Administrative Agent in connection with the consummation of the transactions contemplated hereby, and Haynes and Boone, LLP shall have received from the Borrower payment of all outstanding fees and expenses previously incurred and all fees and expenses incurred in connection with this Amendment; and
+  2
+  (g)
+such other information and documents as the Administrative Agent may reasonably require.
+5. Representations and Warranties.  Borrower and each Guarantor represents and warrants to the Administrative Agent and the Lenders on and as of the Effective Date hereof that (a) it possesses the requisite power and authority to execute and deliver this Amendment, (b) this Amendment has been duly authorized and approved by the requisite corporate action on the part of Borrower or such Guarantor, (c) no other consent of any Person (other than the Administrative Agent and the Lenders) that has not been obtained is required for this Amendment to be effective, (d) the execution and delivery of this Amendment does not  violate its organizational documents, (e) the representations and warranties in each Loan Document to which it is a party are true and correct in all material respects on and as of the date of this Amendment as though made on the date of this Amendment (except to the extent that such representations and warranties speak to a specific date, in which case such representation or warranty shall be true and correct in all material respects as of such date), (f) after giving effect to this Amendment, it is in compliance with all covenants and agreements contained in each Loan Document to which it is a party, (g) after giving effect to this Amendment, no Default or Event of Default has occurred and is continuing and (h) that each Loan Document to which it is a party remains in full force and effect and is the legal, valid, and binding obligations of Borrower or such Guarantor enforceable against it in accordance with their respective terms, subject to applicable bankruptcy, insolvency or similar laws affecting creditors' rights generally and to general principles of equity and principles of good faith and fair dealing.
+6. Scope of Amendment; Reaffirmation; RELEASE.  Except as expressly modified by this Amendment, all references to the Credit Agreement shall refer to the Credit Agreement as affected by this Amendment.  Except as affected by this Amendment, the Loan Documents are unchanged and continue in full force and effect.  However, in the event of any inconsistency between the terms of the Credit Agreement (as amended by this Amendment) and any other Loan Document, the terms of the Credit Agreement (as amended by this Amendment) shall control and such other document shall be deemed to be amended to conform to the terms of the Credit Agreement (as amended by this Amendment).  As material part of the consideration for Administrative Agent and Lenders entering into this Amendment, Borrower and each Guarantor hereby releases and forever discharges Administrative Agent and each Lender (and their successors, assigns, affiliates, officers, managers, directors, employees, and agents) from any and all claims, demands, damages, causes of action, or liabilities for actions or omissions (whether arising at law or in equity, and whether direct or indirect) in connection with the Credit Agreement and the other Loan Documents prior to the date of this Amendment, whether or not heretofore asserted, and which Borrower or any Guarantor may have or claim to have against Administrative Agent or any Lender.
+7. Miscellaneous.
+(a)
+Binding Effect.  The Credit Agreement as amended by this Amendment shall be binding upon and inure to the benefit of each of the undersigned and their respective legal representatives, successors and permitted assigns.
+(b)
+No Waiver of Defaults.  This Amendment  does not constitute a waiver of, or a consent to, any present or future violation of or default under, any provision of the Loan Documents, or a waiver of the Administrative Agent's or any Lender's right to insist upon future compliance with each term, covenant, condition and provision of the Loan Documents.
+  3
+  (c)
+Form.  Each agreement, document, instrument or other writing to be furnished the Administrative Agent or any Lender under any provision of this Amendment must be in form and substance reasonably satisfactory to the Administrative Agent.
+(d)
+Headings.  The headings and captions used in this Amendment are for convenience only and will not be deemed to limit, amplify or modify the terms of this Amendment, the Credit Agreement, or the other Loan Documents.
+(e)
+Costs, Expenses and Attorneys' Fees.  Borrower agrees to pay or reimburse the Administrative Agent on demand for all its reasonable out-of-pocket costs and expenses incurred in connection with the preparation, negotiation, and execution of this Amendment, including, without limitation, the reasonable fees and disbursements of the Administrative Agent's counsel.
+(f)
+Multiple Counterparts.  This Amendment may be executed in any number of counterparts with the same effect as if all signatories have signed the same document.  All counterparts must be construed together to constitute one and the same instrument.  The effectiveness of any such documents and signatures shall, subject to applicable law, have the same force and effect as manually-signed originals and shall be binding on Borrower, each Guarantor, Administrative Agent, and each Lender.  Administrative Agent may also require that any such documents and signatures be confirmed by a manually-signed original; provided that, the failure to request or deliver the same shall not limit the effectiveness of any facsimile document or signature.
+(g)
+Governing Law.  This Amendment and the other Loan Documents must be construed, and their performance enforced, under Texas law.
+8. Entirety.  The Loan Documents represent the final agreement between Borrower, Guarantors, Lenders and Administrative Agent and may not be contradicted by evidence of prior, contemporaneous or subsequent oral agreements by the parties.  there are no unwritten oral agreements among the parties.
+[Signatures are on the following pages.]
+4
+This Amendment is executed as of the Effective Date.
+
+BORROWER:
+
+TEXAS OIL & CHEMICAL CO. II, INC.
+
+
+By: /s/ Sami Ahmad 
+Name: Sami Ahmad
+Title: CFO
+
+
+GUARANTORS:
+
+SOUTH HAMPTON RESOURCES, INC.
+
+
+By: /s/ Sami Ahmad 
+Name: Sami Ahmad
+Title: CFO
+
+GULF STATE PIPE LINE COMPANY, INC.
+
+
+By: /s/ Sami Ahmad 
+Name: Sami Ahmad
+Title: CFO
+
+TRECORA CHEMICAL, INC.
+
+
+By: /s/ Sami Ahmad 
+Name: Sami Ahmad
+Title: CFO
+
+
+
+
+  ADMINISTRATIVE AGENT:
+
+BANK OF AMERICA, N.A.,
+as Administrative Agent
+
+
+By: /s/ Tiffany Shin 
+Tiffany Shin
+Vice President
+
+LENDER:
+
+BANK OF AMERICA, N.A.,
+as a Lender, L/C Issuer and Swingline Lender
+
+
+By: /s/ Adam Rose 
+Adam Rose
+Senior Vice President
+LENDER:
+
+CAPITAL ONE, N.A.,
+as a Lender
+
+
+By: /s/ Lewis H. Gissel III 
+Name:  Lewis H. Gissel III
+Title: Senior Vice President
+LENDER:
+
+COMPASS BANK,
+as a Lender
+
+
+By: /s/ Nikolay Gergov 
+Name:  Nikolay Gergov
+Title: Vice President
+
+
+LENDER:
+
+REGIONS BANK,
+as a Lender
+
+
+By: /s/ Michael Hood 
+Name: Michael Hood
+Title:  Sr. VP Commercial Banking Manager
+
+LENDER:
+
+SUNTRUST BANK,
+as a Lender
+
+
+By:/s/ Justin Lien 
+Name:  Justin Lien
+Title: Director
+
+
+SCHEDULE 1.01(b)
+Commitments and Applicable Percentages
+
+Lender
+  Revolving Commitment
+    Applicable Percentages
+  Bank of America, N.A.
+  $
+14,888,888.89
+      24.814814817
+%
+Compass Bank
+  $
+14,888,888.87
+      24.814814783
+%
+SunTrust Bank
+  $
+11,333,333.34
+      18.888888900
+%
+Regions Bank
+  $
+11,333,333.34
+      18.888888900
+%
+Capital One, N.A.
+  $
+7,555,555.56
+      12.592592600
+%
+Total
+  $
+60,000,000.00
+      100.000000000
+%
+
+
+
+Lender
+  Acquisition Term Commitment
+    Applicable Percentages
+  Bank of America, N.A.
+  $
+17,370,370.38
+      24.814814829
+%
+Compass Bank
+  $
+17,370,370.37
+      24.814814814
+%
+SunTrust Bank
+  $
+13,222,222.22
+      18.888888886
+%
+Regions Bank
+  $
+13,222,222.22
+      18.888888886
+%
+Capital One, N.A.
+  $
+8,814,814.81
+      12.592592586
+%
+Total
+  $
+70,000,000.00
+      100.000000000
+%
+
+
+
+Lender
+  Term Commitment
+    Applicable Percentages
+  Bank of America, N.A.
+  $
+6,203,703.71
+      24.814814840
+%
+Compass Bank
+  $
+6,203,703.70
+      24.814814800
+%
+SunTrust Bank
+  $
+4,722,222.22
+      18.888888880
+%
+Regions Bank
+  $
+4,722,222.22
+      18.888888880
+%
+Capital One, N.A.
+  $
+3,148,148.15
+      12.592592600
+%
+Total
+  $
+25,000,000.00
+      100.000000000
+%

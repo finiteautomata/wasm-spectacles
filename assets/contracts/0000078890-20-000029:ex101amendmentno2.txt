@@ -1,0 +1,312 @@
+EX-10.1 2 ex101amendmentno2.htm EXHIBIT 10.1
+Exhibit 10.1
+
+2020 INCREMENTAL AMENDMENT TO CREDIT AGREEMENT
+
+This 2020 INCREMENTAL AMENDMENT TO CREDIT AGREEMENT (this “Amendment”), dated as of April 1, 2020, is entered into by and among THE BRINK’S COMPANY, a Virginia corporation (the “Parent Borrower”), certain subsidiaries of the Parent Borrower party hereto as guarantors (the “Guarantors”, and, collectively with the Parent Borrower, the “Increase Credit Parties”) under the Credit Agreement, each 2020 Increase Lender (as defined below) and BANK OF AMERICA, N.A. (“Bank of America”), as administrative agent, an Issuing Lender and the Swingline Lender (in such capacity, the “Administrative Agent”).
+
+RECITALS
+WHEREAS, the Credit Parties (as defined in the Credit Agreement (defined below)), the Administrative Agent and the banks and other financial institutions party thereto (the “Existing Lenders”) are parties to that certain Credit Agreement, dated as of October 17, 2017 (as previously amended, as amended hereby, and as further amended, restated, extended, supplemented or otherwise modified from time to time, the “Credit Agreement” and the Credit Agreement prior to giving effect to this Amendment being referred to as the “Existing Credit Agreement”), pursuant to which the Existing Lenders have extended revolving credit facilities and a term loan facility to the Borrowers;
+WHEREAS, the Borrowers have requested that certain Lenders agree, in accordance with the provisions of Section 2.8 of the Existing Credit Agreement, to increase the aggregate principal amount of the Term Loan Facility (as defined in the Existing Credit Agreement) provided to the Parent Borrower with Incremental Term Loan Commitments (as defined in the Existing Credit Agreement) in an aggregate principal amount of $590,000,000 (the “2020 Term Loan Increase”), and to amend certain provisions of the Existing Credit Agreement, as more particularly set forth below, in connection with the 2020 Term Loan Increase;
+
+WHEREAS, the Administrative Agent, the Existing Lenders party to this Amendment and (if any) certain other banks and financial institutions party to this Amendment (the “New Lenders” and collectively with the Existing Lenders providing a portion of the 2020 Term Loan Increase, the “2020 Increase Lenders”) are willing to provide the 2020 Term Loan Increase as provided in, and on the terms and conditions contained in, this Amendment (which shall constitute an Incremental Facility Amendment (as defined in the Existing Credit Agreement)); and
+
+WHEREAS, the 2020 Increase Lenders are also willing to consent to the 2020 Term Loan Increase, and the requested amendments to the Existing Credit Agreement and the Facility Adjustments (as defined below) set forth herein in connection with the 2020 Term Loan Increase, all as provided in, and on the terms and conditions contained in, this Amendment.
+
+NOW, THEREFORE, for valuable consideration, the receipt and adequacy of which are hereby acknowledged, the parties hereto hereby agree, as applicable, as follows:
+1.Defined Terms. Unless otherwise defined herein, capitalized terms used herein shall have the meanings, if any, assigned to such terms in the Credit Agreement.
+2.    Amendments and Facility Adjustments. Subject to the terms and conditions hereof and in accordance with Sections 2.8 and 13.9 of the Existing Credit Agreement, upon the Effective Date (as defined below):
+(a)    the Existing Credit Agreement is hereby amended to increase the Term Loan by the 2020 Term Loan Increase, to be provided on the Effective Date by the 2020 Increase Lenders in the amounts set forth on Annex I hereto;
+(b)    each 2020 Increase Lender agrees to fund its portion of the 2020 Term Loan Increase in the amount set forth on Annex I hereto on the Effective Date;
+(c)    notwithstanding anything to the contrary in the Existing Credit Agreement or the Credit Agreement, in connection with the 2020 Term Loan Increase hereunder, each party hereto agrees (i) to any adjustments to be made to the Register to effectuate the 2020 Term Loan Increase and the 2020 Increase Lenders, (ii) that the initial Interest Period or Interest Periods with respect to the Term Loans advanced on the Effective Date pursuant to the 2020 Term Loan Increase shall be of a length or lengths so as to terminate on the same date as the Interest Period or Interest Periods (ratably among them, if applicable) with respect to the Term Loans in effect on the Effective Date prior to the 2020 Term Loan Increase, and (iii) the 2020 Term Loan Increase shall (A) become and be a portion of the Term Loan, (B) have the same pricing (including Applicable Percentage) and Term Loan Maturity Date as the Initial Term Loan, (C) be payable, repayable and prepayable in the same manner as the Term Loan, including amortization pursuant to Section 2.5(c) of the Credit Agreement (as calculated by the Administrative Agent as if the 2020 Term Loan Increase were a portion of the Initial Term Loan advanced and outstanding on the First Amendment Effective Date) and (D) otherwise be subject to the same terms and conditions as the Term Loan under the Credit Agreement and the other Loan Documents;
+(d)    in connection with the 2020 Term Loan Increase, the Administrative Agent may make such adjustments between and among the Lenders to the Term Loan (including Existing Lenders and New Lenders) as are reasonably necessary to effectuate the 2020 Term Loan Increase, so that the Term Loan and the Ratable Shares of the Lenders to the Term Loan includes the 2020 Term Loan Increase as of the Effective Date;
+(e)    notwithstanding anything to the contrary in the Existing Credit Agreement or the Credit Agreement, each Lender agrees that the conditions to the 2020 Term Loan Increase, the advance of the Term Loans pursuant to the 2020 Term Loan Increase and the effectiveness of this Amendment are limited to the conditions set forth in Section 5 of this Amendment below; and
+(f)    to the extent not otherwise a Lender prior to the date of this Amendment, the New Lenders providing a portion of the 2020 Term Loan Increase are parties to this Amendment for the purposes of agreeing to the Credit Agreement, becoming party thereto and becoming bound by the provisions thereof in the capacity of a Lender and providing their portion of the 2020 Term Loan Increase.
+3.    Joinder of New Lenders. By its execution of this Amendment, each New Lender hereby confirms and agrees that, on and after the Effective Date, it shall be a party to the Credit Agreement as a Lender, shall have all of the rights and be obligated to perform all of the obligations of a Lender thereunder. Each New Lender severally, and not jointly, further (a) represents and warrants that (i) it has full power and authority, and has taken all action necessary, to execute and deliver this Amendment and to consummate the transactions contemplated hereby and to become a Lender under the Credit Agreement, (ii) it meets all requirements of an Assignee under Section 13.7(b) of the Credit Agreement (subject to receipt of such consents as may be required under the Credit Agreement, which such consents shall be deemed provided, to the extent required, by each Person that executes this Amendment), (iii) from and after the Effective Date, it shall be bound by the provisions of the Credit Agreement as a Lender thereunder and shall have the obligations of a Lender thereunder, and (iv) it has received a copy of the Credit Agreement, together with copies of the most recent financial statements delivered pursuant to Section 7.1 thereof, as applicable, and such other documents and information as it has deemed appropriate to make its own credit analysis and decision to enter into the Credit Agreement on the basis of which it has made such analysis and decision independently and without reliance on the Administrative Agent, any other Lender, agent or arranger; and (b) agrees that (i) it will, independently and without reliance on the Administrative Agent, or any other Lender, and based on such documents and information as it shall deem appropriate at the time, continue to make its own credit decisions in taking or not taking action under the Loan Documents, and (ii) it will perform in accordance with their terms all of the obligations that by the terms of the Loan Documents are required to be performed by it as a Lender.
+4.    Representations and Warranties. The Parent Borrower and each of the other Increase Credit Parties, by its execution of this Amendment, hereby represents and warrants to the Administrative Agent and the Lenders as of the Effective Date as follows:
+(a)    the execution, delivery and performance by such Increase Credit Party of this Amendment have been duly authorized by all necessary corporate or other organizational action and do not and will not (i) require any consent or approval of the shareholders or members of such Increase Credit Party, (ii) violate any provision of any law, rule, regulation (including, without limitation, Regulation T, U or X of the Board), order, writ, judgment, injunction, decree, determination, or award presently in effect having applicability to such Increase Credit Party or any Restricted Subsidiary or of the constitutional documents, charter or bylaws of such Increase Credit Party or any Restricted Subsidiary, (iii) result in a breach of or constitute a default under any material indenture or loan or credit agreement or any other material agreement, lease, or instrument to which such Increase Credit Party or any Restricted Subsidiary is a party or by which it or its properties may be bound or affected, or (iv) result in the creation of a Lien of any nature upon or with respect to any of the properties now owned or hereafter acquired by such Increase Credit Party or any Restricted Subsidiary (other than Permitted Liens);
+(b)    this Amendment has been duly executed and delivered by such Increase Credit Party, and this Amendment, the Credit Agreement and each other Loan Document (in each case, as amended hereby) constitutes a legal, valid and binding obligation of each such Increase Credit Party, enforceable against each such Increase Credit Party in accordance with its terms except as such enforcement may be limited by bankruptcy, insolvency, reorganization, moratorium or similar Debtor Relief Laws from time to time in effect which affect the enforcement of creditors’ rights in general and the availability of equitable remedies;
+(c)    the representations and warranties of such Increase Credit Party contained in Article VI of the Credit Agreement and in each other Loan Document are true and correct in all material respects (except to the extent any such representation and warranty is qualified by materiality or reference to Material Adverse Effect, in which case, such representation and warranty shall be true, correct and complete in all respects) on and as of the Effective Date, except to the extent that such representations and warranties specifically relate to an earlier date, in which case they shall remain true and correct in all material respects as of such earlier date, and except that for purposes of this clause (c), the representations and warranties contained in Section 6.1(g) of the Credit Agreement shall be deemed to refer to the most recent statements furnished pursuant to Sections 7.1(a)(i) and (a)(ii) of the Credit Agreement, as applicable;
+(d)    immediately before and after the effectiveness of this Amendment on the Effective Date, the borrowing of Term Loans pursuant to the 2020 Term Loan Increase, and any Acquisition (including any or all of the G4S Acquisitions (as defined below)) occurring on or prior to the Effective Date and all other related transactions occurring on or prior to the Effective Date, no Default or Event of Default has occurred and is continuing; and
+(e)    since December 31, 2017 nothing shall have occurred (and neither the Administrative Agent nor the Lenders shall have become aware of any facts or conditions not previously known) which has had a Material Adverse Effect.
+5.    Effectiveness; Conditions Precedent. The effectiveness of this Amendment and the amendments to the Credit Agreement herein provided are subject to the satisfaction of the following conditions precedent (the date of such satisfaction, the “Effective Date”):
+(a)    receipt by the Administrative Agent of at least one fully executed copy of this Amendment, executed by the Parent Borrower, each other Increase Credit Party, each 2020 Increase Lender and the Administrative Agent;
+(b)    receipt by the Administrative Agent from the Parent Borrower of evidence demonstrating, in form and substance reasonably satisfactory to the Administrative Agent, that (i) the Parent Borrower is in compliance with the financial covenants set forth in Section 9.1 of the Credit Agreement, in each case based on the financial statements most recently delivered pursuant to Section 7.1(a)(i) or 7.1(a)(ii), as applicable, on a pro forma basis immediately after giving effect to the effectiveness of this Amendment on the Effective Date, the borrowing of Term Loans pursuant to the 2020 Term Loan Increase, and any Acquisition (including any or all of the G4S Acquisitions) occurring on or prior to the Effective Date and all other related transactions occurring on or prior to the Effective Date and (ii) the aggregate principal amount of the 2020 Term Loan Increase is within the Incremental Facilities Limit (and any necessary calculations with respect thereto);
+(c)    receipt by the Administrative Agent of a certificate from a Responsible Officer, in form and substance reasonably satisfactory to the Administrative Agent, to the effect that (i) all representations and warranties contained in Section 4 of this Amendment are true and correct in all material respects (except to the extent any such representation and warranty is qualified by materiality or reference to Material Adverse Effect, in which case, such representation and warranty shall be true, correct and complete in all respects); (ii) no Credit Party is in violation of any of the covenants contained in this Amendment, the Credit Agreement and the other Loan Documents; (iii) all governmental and third party approvals necessary or, in the reasonable discretion of the Administrative Agent, advisable in connection with the effectiveness hereof and the financing contemplated hereby shall have been obtained and be in full force and effect, and all applicable waiting periods shall have expired without any action being taken or threatened by any competent authority that would restrain, prevent or otherwise impose adverse conditions on the effectiveness hereof or the financing contemplated hereby; (iv) there does not exist any judgment, order, injunction or other restraint issued or filed or a hearing seeking injunctive relief or other restraint pending or notified prohibiting the transactions contemplated by this Amendment, the Credit Agreement as amended by this Amendment and the other Loan Documents or otherwise referred to herein or therein; (v) at least one G4S Acquisition (A) has been consummated prior to, (B) is being consummated substantially simultaneously with, or (C) was previously notified to the Administrative Agent and the 2020 Increase Lenders at least three Business Days prior to the Effective Date (and the Administrative Agent and the 2020 Increase Lenders shall have received such notice) to be expected to be consummated within three Business Days after the Effective Date; and (vi) each of the conditions in this Section 5 has been satisfied or waived (assuming satisfaction of the Administrative Agent where not advised otherwise);
+(d)    receipt by the Administrative Agent of a certificate of the secretary, assistant secretary or general counsel of each Increase Credit Party certifying as to the incumbency and genuineness of the signature of each officer of such Increase Credit Party executing this Amendment and certifying that attached thereto is a true, correct and complete copy of (i) the articles of incorporation or comparable organizational documents, if any, of such Increase Credit Party and all amendments thereto, certified as of a recent date by the appropriate Governmental Authority in its jurisdiction of incorporation for such Increase Credit Party, or, in any relevant case in this clause (i), certification that such documents have not been altered, amended, revoked or otherwise modified since those delivered on or about the First Amendment Effective Date (and each remains in full force and effect), (ii) the bylaws or comparable organizational documents, if any, of such Increase Credit Party as in effect on the date of such certifications, or, in any relevant case, certification that such documents have not been altered, amended, revoked or otherwise modified since those delivered on or about the First Amendment Effective Date (and each remains in full force and effect)), (iii) resolutions duly adopted by the Board of Directors or comparable governing body of such Increase Credit Party authorizing, as applicable, the borrowings contemplated under the 2020 Term Loan Increase (or the guarantee thereof) and the execution, delivery and performance of this Amendment, or, in any relevant case (subject to the reasonable satisfaction of the Administrative Agent), certification that the resolutions delivered on or about the First Amendment Effective Date have not been altered, amended, revoked or otherwise modified, and each remains in full force and effect, and (iv) certificates as of a recent date of the good standing or active status, as applicable, of the Increase Credit Parties under the laws of their respective jurisdictions of organization;
+(e)    the Parent Borrower shall deliver or cause to be delivered opinions in form and substance reasonably satisfactory to the Administrative Agent of (i) the assistant general counsel of the Parent Borrower and (ii) Hunton Andrews Kurth LLP, special counsel to the Increase Credit Parties, in each case, addressed to the Administrative Agent and the Lenders with respect to such Increase Credit Parties, this Amendment, the Credit Agreement as amended by this Amendment, and such other matters as the Administrative Agent shall reasonably request, and which such opinions shall permit reliance by permitted assigns of each of the Administrative Agent and the Lenders;
+(f)    delivery to the Administrative Agent and the 2020 Increase Lenders of (i) the quality of earnings report of E&Y with respect to the G4S Acquisitions and (ii) projected financial statements through the Specified Maturity Date on an annual basis for the Parent Borrower and its Subsidiaries after the giving effect to the G4S Acquisitions;
+(g)    the Parent Borrower shall have paid any accrued and unpaid fees, commissions and out of pocket expenses due hereunder, under the Credit Agreement or under the engagement letter between the Parent Borrower and BofA Securities, Inc. dated as of March 6, 2020 (including, without limitation, reasonable legal fees and out-of-pocket expenses for which invoices have been presented) to the Administrative Agent and 2020 Increase Lenders, and to any other Person such amount as may be due thereto in connection with the transactions contemplated hereby, including all taxes, fees and other charges in connection therewith;
+(h)    except as set forth in the Current SEC Reports, as of the Effective Date, there shall be no actions, suits or proceedings pending or, to the knowledge of a Responsible Officer, threatened (i) with respect to this Amendment, the Credit Agreement or any other Loan Document or (ii) which the Administrative Agent or a majority of the 2020 Increase Lenders reasonably believe would reasonably be expected to have a Material Adverse Effect;
+(i)    the 2020 Increase Lenders shall have received at least five Business Days in advance of the Effective Date (x) all documentation and other information that is required by regulatory authorities under Anti-Money Laundering Laws, including, without limitation, the USA Patriot Act and any applicable “know your customer” rules and regulations, to the extent requested in writing at least ten Business Days prior to the Effective Date and (y) with respect to each 2020 Increase Lender that so requests at least fifteen Business Days prior to the Effective Date, if any Borrower qualifies as a “legal entity customer” under the Beneficial Ownership Regulation, a Beneficial Ownership Certification in relation to such Borrower; and
+(j)    receipt by the Administrative Agent of a Notice of Borrowing from the Parent Borrower with respect to the Term Loans under the 2020 Term Loan Increase on the Effective Date.
+The occurrence of the Effective Date and the acceptance by the Increase Credit Parties of the benefits of the 2020 Term Loan Increase shall constitute a representation and warranty by the Parent Borrower to the Administrative Agent and each of the 2020 Increase Lenders that all the conditions specified in this Section 5 have been satisfied as of that time. All of the certificates, legal opinions and other documents and papers referred to in this Section 5, unless otherwise specified, shall be delivered to the Administrative Agent for the account of each of the 2020 Increase Lenders and shall be in form and substance reasonably satisfactory to the Administrative Agent.
+For purposes hereof, “G4S Acquisition” means any one of the Acquisitions to be made by the Parent Borrower and/or its Subsidiaries pursuant to (i) that certain several Share Purchase Agreement dated as of February 26, 2020 by and between G4S PLC, a company incorporated in England and Wales with registered number 04992207 and whose registered office is at 5th Floor, Southside, 105 Victoria Street, London, United Kingdom SW1E 6QT (including one or more of its affiliates parties to any Purchase Agreement, the “Seller”) and the Parent Borrower (in such capacity, the “Buyer”), (ii) that certain Second Share Purchase Agreement dated as of February 26, 2020 by and between the Seller and the Buyer and/or (iii) any additional Share Purchase Agreement (or similar document to effectuate a portion of the G4S Acquisitions) by and between the Seller (or any affiliate thereof) and the Buyer (or any affiliate thereof). “G4S Acquisitions” means all such Acquisitions, collectively.
+6.    No Novation; Reaffirmation. Neither the execution and delivery of this Amendment nor the consummation of any other transaction contemplated hereunder is intended to constitute a novation of the Existing Credit Agreement, the Credit Agreement or of any of the other Loan Documents or any obligations thereunder. Each Increase Credit Party (and the Parent Borrower on behalf of the Credit Parties that are not Increase Credit Parties) (a) acknowledges and consents to all of the terms and conditions of this Amendment, (b) affirms all of its obligations under the Loan Documents as amended hereby, (c) agrees that this Amendment and all documents executed in connection herewith do not operate to reduce or discharge any Credit Party’s obligations under the Loan Documents, and (d) confirms that the Security Documents and the Liens granted thereunder remain in full force and effect notwithstanding the entry into this Amendment.
+7.    Miscellaneous.
+(a)    Except as herein expressly amended, all terms, covenants and provisions of the Existing Credit Agreement and each other Loan Document are and shall remain in full force and effect. All references in any Loan Document to the “Credit Agreement” or “this Agreement” (or similar terms intended to reference the Credit Agreement) or any references to any “Loan Document” shall henceforth refer to the Credit Agreement as amended by this Amendment or the Loan Documents as amended by this Amendment, as applicable. This Amendment shall be deemed incorporated into, and a part of, the Credit Agreement.
+(b)    This Amendment shall be binding upon and inure to the benefit of the parties hereto, each other Lender and each other Credit Party, and their respective successors and assigns.
+(c)    THIS AMENDMENT AND THE RIGHTS AND OBLIGATIONS OF THE PARTIES UNDER THIS AMENDMENT SHALL BE GOVERNED BY, AND CONSTRUED AND INTERPRETED IN ACCORDANCE WITH, THE LAW OF THE STATE OF NEW YORK. IN ADDITION, AND WITHOUT LIMITING THE FOREGOING, THIS AMENDMENT IS SUBJECT TO THE PROVISIONS OF SECTIONS 13.3, 13.4 AND 13.5 OF THE CREDIT AGREEMENT RELATING TO GOVERNING LAW, VENUE AND WAIVER OF RIGHT TO TRIAL BY JURY, THE PROVISIONS OF WHICH ARE BY THIS REFERENCE INCORPORATED HEREIN IN FULL.
+(d)    This Amendment may be executed in counterparts (and by different parties hereto in different counterparts), each of which shall constitute an original, but all of which when taken together shall constitute a single contract. This Amendment and the other Loan Documents constitute the entire contract among the parties relating to the subject matter hereof and supersede any and all previous agreements and understandings, oral or written, relating to the subject matter hereof. This Amendment shall become effective upon satisfaction of the conditions set forth in Section 5 hereof. Delivery of an executed counterpart of a signature page of this Amendment by telecopy or other electronic imaging means shall be effective as delivery of a manually executed counterpart of this Amendment. This Amendment may not be amended except in accordance with the provisions of Section 13.9 of the Credit Agreement.
+(e)    If any provision of this Amendment or the other Loan Documents is held to be illegal, invalid or unenforceable, (i) the legality, validity and enforceability of the remaining provisions of this Amendment and the other Loan Documents shall not be affected or impaired thereby and (ii) the parties shall endeavor in good faith negotiations to replace the illegal, invalid or unenforceable provisions with valid provisions the economic effect of which comes as close as possible to that of the illegal, invalid or unenforceable provisions. The invalidity of a provision in a particular jurisdiction shall not invalidate or render unenforceable such provision in any other jurisdiction.
+(f)    The Parent Borrower agrees to pay, in accordance with and subject to the limitations in Section 13.2 of the Credit Agreement, all reasonable and documented out-of-pocket expenses incurred by the Administrative Agent and its Affiliates in connection with the preparation, execution, delivery, administration of this Amendment and the other instruments and documents to be delivered hereunder.
+(g)    None of this Amendment, the Credit Agreement, nor any other Loan Document shall release, limit or impair in any way the priority of any security interests and liens held by the Administrative Agent for the benefit of the Secured Parties against any assets of the Parent Borrower, any other Borrower, or any Guarantor arising under the Credit Agreement or any other Loan Documents, as each may be amended, restated, supplemented or modified from time to time.
+(h)    Except as expressly set forth herein, this Amendment shall not by implication or otherwise limit, impair, constitute a waiver of, or otherwise affect the rights and remedies of the Lenders or the Administrative Agent under the Existing Credit Agreement, the Credit Agreement, or any other Loan Document. Except as expressly set forth herein, nothing herein shall be deemed to entitle the Parent Borrower or any other Credit Party to a consent to, or a waiver, amendment, modification or other change of, any of the terms, conditions, obligations, covenants or agreements contained in the Existing Credit Agreement, the Credit Agreement or any other Loan Document in similar or different circumstances.
+(i)    This Amendment shall constitute a “Loan Document” under and as defined in the Credit Agreement.
+(j)    Each New Lender party hereto hereby makes, as of the Effective Date, the representations and warranties contained in Section 12.13 of the Credit Agreement.
+[Signature Pages Follow.]
+
+
+IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be duly executed as of the date first above written.
+PARENT BORROWER AND AS A GUARANTOR:
+THE BRINK’S COMPANY
+By:    /s/ Richard K. von Seelen    
+Name:
+Richard K. von Seelen
+Title:
+Treasurer
+GUARANTORS:
+PITTSTON SERVICES GROUP INC.
+By:    /s/ Richard K. von Seelen    
+Name:
+Richard K. von Seelen
+Title:
+Treasurer    
+BRINK’S HOLDING COMPANY
+By:    /s/ Richard K. von Seelen    
+Name:
+Richard K. von Seelen
+Title:
+Treasurer
+BRINK’S, INCORPORATED
+By:    /s/ Richard K. von Seelen    
+Name:
+Richard K. von Seelen
+Title:
+Treasurer
+BRINK’S GLOBAL SERVICES USA, INC.
+By:    /s/ Richard K. von Seelen    
+Name:
+Richard K. von Seelen
+Title:    Authorized Officer
+BRINK’S NETWORK, INCORPORATED
+By:    /s/ Richard K. von Seelen    
+Name:
+Richard K. von Seelen
+Title:
+Treasurer
+BRINK’S SECURITY INTERNATIONAL, INC.
+By:    /s/ Richard K. von Seelen    
+Name:
+Richard K. von Seelen
+Title:
+Treasurer
+    
+
+
+ADMINISTRATIVE AGENT AND LENDERS:
+BANK OF AMERICA, N.A., as Administrative Agent
+By:    /s/ Anthony W. Kell    
+Name:
+Anthony W. Kell
+Title:
+Vice President
+
+
+
+
+
+BANK OF AMERICA, N.A., as a 2020 Increase Lender
+By:    /s/ Stephen J. D’Elia    
+Name:
+Stephen J. D’Elia
+Title:
+Vice President
+
+TRUIST BANK, as a 2020 Increase Lender
+By:    /s/ Max N. Greer III    
+Name:
+Max N. Greer III
+Title:
+Senior Vice President
+JPMORGAN CHASE BANK, N.A., as a 2020 Increase Lender
+By:    /s/ Joon Hur    
+Name:
+Joon Hur
+Title:
+Executive Director
+MUFG UNION BANK, N.A., as a 2020 Increase Lender
+By:    /s/ Liwei Liu    
+Name:
+Liwei Liu
+Title:
+Vice President
+
+
+WELLS FARGO BANK, NATIONAL ASSOCIATION, as a 2020 Increase Lender
+By:    /s/ Rich Zell    
+Name:
+Rich Zell
+Title:
+Director
+
+
+BNP PARIBAS, as a 2020 Increase Lender
+By:    /s/ Andrew-Sebastien Aschehoug    
+Name:
+Andrew-Sebastien Aschehoug
+Title:
+Director
+By:    /s/ Richard Pace    
+Name:
+Richard Pace
+Title:
+Managing Director
+
+
+CANADIAN IMPERIAL BANK OF COMMERCE, NEW YORK BRANCH, as a 2020 Increase Lender
+By:    /s/ Dominic Sorresso    
+Name:
+Dominic Sorresso
+Title:
+Authorized Signatory
+By:    /s/ Melissa Brown    
+Name:
+Melissa Brown
+Title:
+Authorized Signatory
+
+BANCO BILBAO VIZCAYA ARGENTARIA, S.A. NEW YORK BRANCH, as a 2020 Increase Lender
+By:    /s/ Brian Crowley    
+Name:
+Brian Crowley
+Title:
+Managing Director
+By:    /s/ Miriam Trautmann    
+Name:
+Miriam Trautmann
+Title:
+Senior Vice President
+
+PNC BANK, NATIONAL ASSOCIATION, as a 2020 Increase Lender
+By:    /s/ David Notaro    
+Name:
+David Notaro
+Title:
+Senior Vice President
+M&T BANK, as a 2020 Increase Lender
+By:    /s/ Andrew J. McNulty    
+Name:
+Andrew J. McNulty
+Title:
+Vice President
+
+
+U.S. BANK NATIONAL ASSOCIATION, as a 2020 Increase Lender
+By:    /s/ Rodney J. Winters    
+Name:
+Rodney J. Winters
+Title:
+Vice President
+
+
+
+CITIZENS BANK. N.A., as a 2020 Increase Lender
+By:    /s/ Douglas Kennedy    
+Name:
+Douglas Kennedy
+Title:
+Senior Vice President
+
+FIFTH THIRD BANK, as a 2020 Increase Lender
+By:    /s/ Kelly Shield    
+Name:
+Kelly Shield
+Title:
+Director
+
+
+REGIONS BANK, as a 2020 Increase Lender
+By:    /s/ Brand Hosford    
+Name:
+Brand Hosford
+Title:
+Vice President
+THE HUNTINGTON NATIONAL BANK, as a 2020 Increase Lender
+By:    /s/ Phil Andresen    
+Name:
+Phil Andresen
+Title:
+Vice President
+ATLANTIC UNION BANK, as a 2020 Increase Lender
+By:    /s/ Charles B. Vaughters    
+Name:
+Charles B. Vaughters
+Title:
+Director – Corporate Banking
+
+
+
+HSBC BANK USA, N.A., as a 2020 Increase Lender
+By:    /s/ Robert J. Levins    
+Name:
+Robert J. Levins
+Title:
+SVP Team Lead
+
+KEYBANK NATIONAL ASSOCIATION, as a 2020 Increase Lender
+
+
+By:    /s/ Tanille Ingle    
+Name:
+Tanille Ingle
+Title:
+Assistant Vice President
+
+
+
+Annex I
+
+(to 2020 Incremental Amendment to Credit Agreement)
+
+
+2020 Increase Lenders
+Incremental Term Loan Commitments
+Bank of America, N.A.
+$75,000,000.00
+Truist Bank
+$65,000,000.00
+JPMorgan Chase Bank, N.A.
+$50,000,000.00
+MUFG Union Bank, N.A.
+$50,000,000.00
+Wells Fargo Bank, National Association
+$50,000,000.00
+BNP Paribas
+$45,000,000.00
+Canadian Imperial Bank of Commerce, New York Branch
+$40,000,000.00
+Banco Bilbao Vizcaya Argentaria, S.A. New York Branch
+$35,000,000.00
+PNC Bank, National Association
+$35,000,000.00
+M&T Bank
+$25,000,000.00
+U.S. Bank National Association
+$25,000,000.00
+Citizens Bank, N.A.
+$20,000,000.00
+Fifth Third Bank
+$20,000,000.00
+Regions Bank
+$17,500,000.00
+The Huntington National Bank
+$12,500,000.00
+Atlantic Union Bank
+$10,000,000.00
+HSBC Bank USA, N.A.
+$9,000,000.00
+KeyBank National Association
+$6,000,000.00
+Total
+$590,000,000.00

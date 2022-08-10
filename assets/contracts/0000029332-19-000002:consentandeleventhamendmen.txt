@@ -1,0 +1,143 @@
+EX-10.1 2 consentandeleventhamendmen.htm EXHIBIT 10.1
+
+Exhibit 10.1
+
+CONSENT AND ELEVENTH AMENDMENT TO CREDIT AGREEMENT
+
+This CONSENT AND ELEVENTH AMENDMENT TO CREDIT AGREEMENT (this “Agreement”), dated as of January 14, 2019, is entered into by and among THE DIXIE GROUP, INC., a Tennessee corporation (“Dixie”), CANDLEWICK YARNS, LLC, an Alabama limited liability company (“Candlewick”), FABRICA INTERNATIONAL, INC., a California corporation (“Fabrica”), TDG OPERATIONS, LLC, a Georgia limited liability company, formerly known as Masland Carpets, LLC (“TDG”; together with Dixie, Candlewick and Fabrica, are referred to hereinafter each individually as a “Borrower”, and individually and collectively, jointly and severally, as the “Borrowers”), the persons identified as the Lenders on the signature pages hereto (the “Lenders”), and WELLS FARGO CAPITAL FINANCE, LLC, a Delaware limited liability company, as administrative agent for the Lenders (in such capacity, together with its successors and assigns in such capacity, “Agent”).
+
+W I T N E S S E T H:
+
+WHEREAS, pursuant to the Credit Agreement dated as of September 13, 2011, as amended by the First Amendment to Credit Agreement dated as of November 2, 2012, the Second Amendment to Credit Agreement dated as of April 1, 2013, the Third Amendment to Credit Agreement dated as of May 22, 2013, the Fourth Amendment to Credit Agreement dated as of July 1, 2013, the Fifth Amendment to Credit Agreement dated as of July 30, 2013, the Sixth Amendment to Credit Agreement dated as of August 30, 2013, the Seventh Amendment to Credit Agreement dated as of January 20, 2014, the Eighth Amendment to Credit Agreement dated as of March 14, 2014, the Ninth Amendment to Credit Agreement dated as of March 26, 2014, the Tenth Amendment to Credit Agreement, First Amendment to Security Agreement, and First Amendment to Guaranty dated as of September 23, 2016 (as amended hereby and as the same may be further amended, modified, supplemented, renewed, restated or replaced, the “Credit Agreement”), among Agent, the Lenders and the Borrowers, the Lenders have made loans and advances and provided other financial accommodations to the Borrowers;
+
+WHEREAS, TDG owns certain real property located in Saraland, Alabama as described in the Specified Sale Leaseback Agreement (as defined below), along with improvements, equipment and related personal property located thereon (collectively, the “Specified Property”);
+
+WHEREAS, TDG has entered into the Agreement for the Purchase and Sale of Real Property attached hereto as Exhibit A (the “Specified Sale Leaseback Agreement”) with Saraland Industrial, LLC (the “Purchaser”) pursuant to which the TDG will transfer all of its rights, title and interest in and to the Specified Property to the Purchaser, and will lease back the Specified Property from the Purchaser (such sale leaseback transaction, the “Sale Leaseback”);
+
+WHEREAS, under the Credit Agreement, the consummation of any of the Sale Leaseback is prohibited as being a disposition of assets that does not constitute a Permitted Disposition; and
+
+WHEREAS, the Borrowers have requested that Agent and Lenders enter into this Agreement to approve the Sale Leaseback as Permitted Fixed Asset Disposition and make certain changes to the Credit Agreement, and Agent and the Lenders are willing to so consent to the Specified Sale Leaseback and to amend the Credit Agreement, in each case, subject to the terms and conditions set forth herein.
+
+
+ATL 22977217v4
+
+NOW, THEREFORE, in consideration of the agreements herein contained and other good and valuable consideration, the parties hereby agree as follows:
+
+I. DEFINITIONS AND INTERPRETATION.
+
+1.1.    Definitions and Interpretation. Unless otherwise defined herein or the context otherwise requires, terms used in this Agreement, including its preamble and recitals, have the meanings provided in the Credit Agreement.
+
+II.     LIMITED CONSENT
+2.1.     The Agent and the Lenders party hereto hereby consent to the consummation of the Sale Leaseback substantially on the terms set forth in the each of the respective Specified Sale Leaseback Agreement, so long as (a) such Sale Leaseback shall be consummated on or before January 31, 2019 (or such later date as agreed upon by Agent and Lenders in writing in their sole discretion), (b) no Default or Event of Default shall exist at the time such Sale Leaseback is consummated, (c) the Net Cash Proceeds received by any Borrower, from such Sale Leaseback shall be applied in accordance with Sections 2.4(e) and (f) of the Credit Agreement, (d) the Purchaser with respect to such Sale Leaseback executes and delivers a Collateral Access Agreement with respect to the Specified Property in favor of Agent, and (e) TDG executes and delivers a collateral assignment of TDG’s rights under the Sale Leaseback Agreement in favor of Agent.
+2.2.    The consent described in this Agreement is limited to the matters expressly covered herein and shall be effective only in this specific instance. This consent shall not entitle the Loan Parties to any other or further consent in any similar or other circumstances. The Credit Agreement remains in full force and effect in accordance with its original terms.
+III.     AMENDMENTS TO CREDIT AGREEMENT.
+Subject to the satisfaction of each of the conditions precedent set forth in Section V of this Agreement, the Credit Agreement is hereby amended as follows:
+3.1.    Capital Lease Definition. The Credit Agreement is hereby amended by deleting the definitions of “Capital Lease”, and inserting the following new definition in lieu thereof:
+
+“Capital Lease” means a lease that is required to be capitalized for financial reporting purposes in accordance with GAAP. Notwithstanding any changes in GAAP as a result of ASU 2016-02, any lease of the Borrowers or their Subsidiaries that would be characterized as an operating lease under GAAP in effect before the effective date of ASU 2016-02 (whether such lease is entered into before or after the effective date thereof) shall not constitute a Capital Lease under this Agreement or any other Loan Document as a result of such changes in GAAP unless otherwise agreed to in writing by the Borrowers and Lender.
+
+IV.     CONDITIONS PRECEDENT
+
+This Agreement shall become effective as of the date hereof, subject to the following conditions precedent having been satisfied or waived by Agent:
+
+
+2
+ATL 22977217v4
+
+4.1.    Execution of Amendment. Agent shall have received fully executed counterparts of this Agreement, duly authorized, executed and delivered by each Borrower, Guarantor and the Required Lenders.
+
+4.2.    Accuracy of Representations and Warranties. Each of the representations and warranties of the Loan Parties set forth in Section 4 of the Credit Agreement shall be true and correct in all material respects (except that such materiality qualifier shall not be applicable to any representations and warranties that already are qualified or modified by materiality in the text thereof).
+
+4.3.    Other Documents. Agent shall have received such other agreements, documents, instruments, officer’s certificates, and information executed and/or delivered by the Loan Parties as Agent may reasonably request.
+
+V.     MISCELLANEOUS
+
+5.1.    No Additional Obligations. The Borrowers acknowledge and agree that the execution, delivery and performance of this Agreement shall not create (nor shall the Borrowers rely upon the existence of or claim or assert that there exists) any obligation of any of Agent or Lenders to consider or agree to any other amendment of or waiver or consent with respect to the Credit Agreement or any other instrument or agreement to which Agent or any Lender is a party (collectively, an “Additional Amendment” or “Consent”), and in the event that Agent and the Lenders subsequently agree to consider any requested Additional Amendment or Consent, neither the existence of this Agreement nor any other conduct of Agent or the Lenders related hereto, shall be of any force or effect on the Lenders’ consideration or decision with respect to any such requested Additional Amendment or Consent, and the Lenders shall not have any obligation whatsoever to consider or agree to any such Additional Amendment or Consent.
+
+5.2.    Acknowledgments and Stipulations. In order to induce Agent and Lenders to enter into this Agreement, each Borrower acknowledges, stipulates and agrees that (a) the Loan Documents executed by each Borrower are legal, valid and binding obligations of such Borrower enforceable against such Borrower in accordance with their respective terms, except as enforcement may be limited by equitable principles or by bankruptcy, insolvency, reorganization, moratorium, or similar laws relating to or limiting creditors’ rights generally; (b) the Liens granted by each Borrower to Agent in the Collateral are valid and duly perfected, first priority Liens, subject only to Permitted Liens; (c) each of the recitals contained at the beginning of this Agreement is true and correct; and (d) prior to executing this Agreement, each Borrower consulted with and had the benefit of advice of legal counsel of its own selection and has relied upon the advice of such counsel, and in no part upon the representation of Agent, any Lender or any counsel to Agent or any Lender concerning the legal effects of this Agreement or any provision hereof.
+
+5.3.    Additional Representations and Warranties of the Borrowers. Each Borrower hereby represents and warrants that on the Tenth Amendment Effective Date and after giving effect to the amendments and waivers contained herein: (a) the representations and warranties contained in Section 4 of the Credit Agreement shall be correct in all material respects on and as of such date as though made on and as of such date, (b) no Default or Event of Default exists under the Credit Agreement on and as of such date, and (c) the Convertible Debentures (as defined in the Credit Agreement prior to giving effect to this Agreement) have been paid in full and no outstanding obligations remain with respect thereto. Without limitation of the preceding sentence, each Borrower hereby expressly re-affirms the validity, effectiveness and enforceability of each Loan Document to which it is a party (in each case, as the same may be modified by the terms of this Agreement).
+
+
+3
+ATL 22977217v4
+
+5.4.    Effect of this Agreement. Except as expressly amended pursuant hereto, no other changes or modifications to the Credit Agreement or any of the other Loan Documents are intended or implied, and in all other respects, the Credit Agreement and each of the other Loan Documents is hereby specifically ratified, restated and confirmed by all parties hereto as of the date hereof. To the extent that any provision of the Credit Agreement or any of the other Loan Documents are inconsistent with the provisions of this Agreement, the provisions of this Agreement shall control. All references in the Credit Agreement (including without limitation the Schedules thereto) to the “Agreement” and all references in the other Loan Documents to the “Credit Agreement” shall be deemed to refer to the Credit Agreement, as amended hereby.
+
+5.5.    Further Assurances. The Loan Parties shall execute and deliver such additional documents and take such additional action as may be reasonably requested by Agent to effectuate the provisions and purposes hereof.
+
+5.6.    Governing Law. THE VALIDITY OF THIS AGREEMENT, THE CONSTRUCTION, INTERPRETATION, AND ENFORCEMENT HEREOF, THE RIGHTS OF THE PARTIES HERETO WITH RESPECT TO ALL MATTERS ARISING HEREUNDER OR RELATED HERETO, AND ANY CLAIMS, CONTROVERSIES OR DISPUTES ARISING HEREUNDER OR RELATED HERETO SHALL BE DETERMINED UNDER, GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH THE LAWS OF THE STATE OF GEORGIA.
+
+5.7.    Binding Effect. This Agreement shall bind and inure to the benefit of the respective successors and permitted assigns of each of the parties hereto.
+
+5.8.    Counterparts; Electronic Execution. This Agreement may be executed in any number of counterparts and by different parties on separate counterparts, each of which, when executed and delivered, shall be deemed to be an original, and all of which, when taken together, shall constitute but one and the same agreement. Delivery of an executed counterpart of this Agreement by telefacsimile or other electronic method of transmission shall be equally as effective as delivery of an original executed counterpart of this Agreement. Any party delivering an executed counterpart of this Agreement by telefacsimile or other electronic method of transmission also shall deliver an original executed counterpart of this Agreement but the failure to deliver an original executed counterpart shall not affect the validity, enforceability, and binding effect of this Agreement.
+
+5.9.    Successors and Assigns. This Agreement shall be binding upon and inure to the benefit of the parties hereto and their respective successors and assigns.
+
+[Remainder of Page Intentionally Left Blank]
+
+Each of the parties hereto has caused a counterpart of this Agreement to be duly executed and delivered as of the date first above written.
+
+BORROWERS:
+THE DIXIE GROUP, INC.
+
+By: /s/ Jon A. Faulkner
+Name: Jon A. Faulkner 
+Title: VP/CFO
+
+  CANDLEWICK YARNS, LLC
+
+By: /s/ Jon A. Faulkner
+Name: Jon A. Faulkner 
+Title: President
+
+  FABRICA INTERNATIONAL, INC.
+
+By: /s/ Jon A. Faulkner
+Name: Jon A. Faulkner 
+Title: President
+
+  TDG OPERATIONS, LLC
+
+By: /s/ Jon. A Faulkner
+Name: Jon A. Faulkner 
+Title: President
+
+
+AGENT AND LENDERS:
+WELLS FARGO CAPITAL FINANCE, LLC,
+as Agent and as a Lender
+
+By: /s/ Zachary S. Buchanan
+Name: Zachary S. Buchanan
+Title: Authorized Signatory
+
+  BANK OF AMERICA, N.A.,
+as a Lender
+
+By: /s/ Todd Tarrance
+Name: Todd Tarrance
+Title: Vice President
+
+
+GUARANTOR’S ACKNOWLEDGEMENT
+
+The undersigned, a guarantor of the Obligations of THE DIXIE GROUP, INC., a Tennessee corporation (“Dixie”), CANDLEWICK YARNS, LLC, an Alabama limited liability company (“Candlewick”), FABRICA INTERNATIONAL, INC., a California corporation (“Fabrica”), TDG OPERATIONS, LLC, a Georgia limited liability company, formerly known as Masland Carpets, LLC (“TDG”; together with Dixie, Candlewick and Fabrica, are referred to hereinafter each individually as a “Borrower”, and collectively, the “Borrowers”), under and as defined in that certain Credit Agreement, dated as of September 13, 2011, as amended by the First Amendment to Credit Agreement, dated as of November 2, 2012, the Second Amendment to Credit Agreement, dated as of April 1, 2013, the Third Amendment to Credit Agreement, dated as of May 22, 2013, the Fourth Amendment to Credit Agreement, dated as of July 1, 2013, the Fifth Amendment to Credit Agreement, dated as of July 30, 2013, the Sixth Amendment to Credit Agreement dated as of August 30, 2013, the Seventh Amendment to Credit Agreement dated as of January 20, 2014, the Eighth Amendment to Credit Agreement dated as of March 14, 2014, the Ninth Amendment to Credit Agreement dated as of March 26, 2014, the Tenth Amendment to Credit Agreement, First Amendment to Security Agreement, and First Amendment to Guaranty dated as of September 23, 2016, and the Consent and Eleventh Amendment to Credit Agreement (the “Eleventh Amendment”) dated as of the date hereof (as amended, restated, supplemented, or otherwise modified prior to the date hereof, the “Credit Agreement”) among the Borrowers, the lenders party thereto (the “Lenders”), WELLS FARGO CAPITAL FINANCE, LLC, a Delaware limited liability company, as administrative agent for the Lenders (in such capacity, together with its successors and assigns in such capacity, the “Agent”), hereby (a) acknowledges receipt of the foregoing Eleventh Amendment; (b) consents to the terms thereof and the execution thereof by the Borrowers; (c) reaffirms its obligations pursuant to the terms of the Guaranty Agreement, dated as of September 13, 2011, by the undersigned in favor of Agent and Lenders (the “Guaranty”); and (d) acknowledges that Agent and the Lenders may amend, restate, extend, renew or otherwise modify the Credit Agreement and any indebtedness or agreement of the Borrowers, or enter into any agreement or extend additional or other credit accommodations to the Borrowers, without notifying or obtaining the consent of the undersigned and without impairing the liability of the undersigned under the Guaranty for the Borrowers’ present and future Obligations. Capitalized terms used but not otherwise defined herein shall have the meanings ascribed to such terms in the Credit Agreement.
+
+  C-KNIT APPAREL, INC.
+
+By: /s/ Jon A. Faulkner
+Name: Jon A. Faulkner 
+Title: President
+
+   
+
+4
+ATL 22977217v4
+
+EXHIBIT A
+SPECIFIED SALE LEASEBACK AGREEMENT
+[SEE ATTACHED.]
+
+
+ATL 22977217v4

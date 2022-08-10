@@ -1,0 +1,314 @@
+EX-99.1 2 ex991waiverandamendmentno5.htm EXHIBIT 99.1
+
+EXHIBIT 99.1
+EXECUTION VERSION
+WAIVER AND AMENDMENT NO. 5 TO CREDIT AGREEMENT
+THIS WAIVER AND AMENDMENT NO. 5 TO CREDIT AGREEMENT (this "Amendment") is made this 2nd day of November, 2018, by and among CSS INDUSTRIES, INC., a Delaware corporation (together with its successors and/or assigns, "Borrower"), the subsidiaries of the Borrower parties hereto (the “Guarantors”) the banks and other financial institutions signatory hereto (together with their successors and/or assigns, collectively, the "Lenders"; and each individually, a "Lender"), and WELLS FARGO BANK, NATIONAL ASSOCIATION, a national banking association, as administrative agent for the Lenders hereunder (in such capacity, together with its successors and/or assigns in such capacity, the "Administrative Agent").
+BACKGROUND
+A.    The Borrower, Guarantors, Administrative Agent and Lenders are parties to that certain Credit Agreement dated March 17, 2011, as amended by that certain Amendment No. 1 to Credit Agreement ("Amendment No. 1") dated as of December 17, 2013, by that certain Amendment No. 2 to Credit Agreement ("Amendment No. 2") dated as of March 24, 2015, by that certain Amendment No. 3 to Credit Agreement ("Amendment No. 3") dated as of October 17, 2017, and by that certain Amendment No. 4 to Credit Agreement ("Amendment No. 4") dated as of July 9, 2018 (as so amended and as may be further amended or otherwise modified from time to time, the "Credit Agreement"). For purposes of this Amendment No.5, the terms “Credit Party” and “Credit Parties” refer to all Credit Parties other than any Pledged Foreign Subsidiary. Capitalized terms used in this Amendment and not otherwise defined shall have the meanings given to them in the Credit Agreement
+B.    The Borrower has notified the Administrative Agent that Events of Default exist under the Credit Agreement as a result of (i) the Credit Parties’ failure to have, at the end of the fiscal quarter ended September 30, 2018, (a) a Tangible Net Worth of at least $170,000,000 as required by Section 5.9(a) of the Credit Agreement and (b) an Interest Coverage Ratio for the period of four fiscal quarters then ended of not less than 3.50 to 1.00, as required by Section 5.9 (b) of the Credit Agreement and (ii) the Credit Parties’ payment of Restricted Payments otherwise permitted by Section 6.5(b) but which were not permitted due to the existence of Events of Default (collectively, the "Specified Events of Default").
+C.    The Credit Parties have requested that the Lenders waive the Specified Events of Defaults, and the Lenders have agreed to grant such a waiver, subject to the terms and conditions hereof.
+
+
+
+D.    The Credit Parties have also requested, and the Lenders have agreed, subject to the terms and conditions hereof, to amend the Credit Agreement in certain respects as set forth herein.
+In consideration of the foregoing premises and the Agreements hereinafter set forth, and intending to be legally bound hereby, the parties hereto agree as follows:
+1.Acknowledgement of Credit Parties. The Credit Parties hereby acknowledge that the Specified Events of Default have occurred and until the conditions set forth in Section 8 of this Amendment have been satisfied, the Specified Events of Default are continuing Events of Default under the Credit Agreement.
+2.    Waiver Related to the Specified Event of Default. Effective upon the satisfaction of the conditions set forth in Section 8 of this Amendment, the Lenders hereby waive the Specified Events of Default.
+3.    No Further Consent or Waiver. Neither the Lenders’ waiver set forth herein nor anything contained herein shall be construed as or constitute a consent or waiver of any further provision of the Credit Agreement and the waiver granted is hereby limited to Specified Events of Default.
+4.    Release by the Credit Parties. Each Credit Party, on behalf of itself, and any person or entity claiming by or through it (collectively, the “Releasors”), hereby unconditionally remises, releases and forever discharges the Administrative Agent and the Lenders, and each of their respective past and present officers, directors, agents, parent corporations, subsidiaries, affiliates, trustees, administrators, attorneys, predecessors, successors and assigns and the heirs, executors, administrators, successors and assigns of any such person or entity, as releasees (collectively, the “Releasees”), of and from any and all manner of actions, causes of action, suits, debts, dues, accounts, bonds, covenants, contracts, agreements, promises, warranties, guaranties, representations, liens, mechanics' liens, judgments, claims, counterclaims, crossclaims, defenses and/or demands whatsoever, including claims for contribution and/or indemnity, whether now known or unknown, past or present, asserted or unasserted, contingent or liquidated, at law or in equity, or resulting from any assignment, if any (collectively, the “Claims”), which any of Releasors ever had, now have, or may have against any of the Releasees, for or by reason of any cause, matter or thing whatsoever, arising from the beginning of time to the date hereof relating to or arising from the lending relationship between any of the Releasees and the Credit Parties, including any funding or requested funding under the Credit Agreement or otherwise. Each Credit Party warrants and represents that it has not assigned, pledged, hypothecated and/or otherwise divested itself and/or encumbered all or any part of the Claims being released hereby and that it hereby agrees to indemnify and hold harmless any and all of Releasees against whom any Claim so assigned, pledged, hypothecated, divested and/or encumbered is asserted.
+5.    Representations and Warranties. Each of the Credit Parties hereby represents and warrants to the Lenders that (i) the representations and warranties set forth in the Credit Agreement are true and correct in all material respects as of the date hereof,
+
+- 2 -
+
+except those representations and warranties made as of a date certain which remain true and correct in all material respects as of such date; (ii) after giving effect to the waiver and amendments provided in this Amendment, there is no Default or Event of Default under the Credit Agreement; (iii) each Credit Party has the power and authority necessary to execute, deliver this Amendment, to the extent each is a party thereto; and (iv) this Amendment has been approved by the appropriate board or committee of each Credit Party and, when executed, this Amendment will constitute the valid, binding and enforceable obligation of each Credit Party to the extent it is a party thereto.
+6.    Amendments to Credit Agreement. The Lenders, Administrative Agent and Credit Parties hereby amend the Credit Agreement as follows:
+a.    The definition of Aggregate Committed Amount is amended and restated in its entirety to read as follows:
+“Aggregate Committed Amount” means $100,000,000 until January 31, 2019, and at all times thereafter means $50,000,000 (as such aggregate maximum amount may be modified as provided in this Section 1.1 or reduced from time to time as provided in Section 2.4)
+b.    Clause (a) of the defined term Permitted Acquisition shall be amended to read as follows:
+(a) (i) after giving effect to payment of the consideration for any acquisition, the amount available under the Aggregate Committed Amount, giving effect to the Borrowing Base, on the date of the acquisition shall be at least $10,000,000, (ii) the aggregate consideration for all such acquisitions after November 1, 2018 shall not exceed $10,000,000 and (iii) all Lenders shall have approved the acquisition.
+c.    The definition of Permitted Restricted Payment is amended and restated in its entirety to read as follows:
+“Permitted Restricted Payment” means:
+(a)    dividends payable to the Borrower or any Subsidiary of the Borrower;
+(b)    repurchase, redemption or retirement of the Borrower’s Capital Stock; provided that (i) after giving effect to such repurchase, redemption or retirement, the Borrower is in pro forma compliance with Section 5.9(a), determined on as of the end of the immediately preceding fiscal quarter, but after giving effect to the consummation of such repurchase, redemption or retirement, as if such repurchase, redemption or retirement occurred during such immediately preceding fiscal quarter; (ii) for Borrower’s fiscal year ending March 31, 2019, such repurchases, redemption and retirements do not exceed $4,373,000 in the aggregate; and (iii) Borrower shall not seek authorization from the Borrower’s board
+
+- 3 -
+
+of directors for additional repurchase, redemptions or retirements of Borrower’s Capital Stock at any time after November 1, 2018 (it being acknowledged that all prior authorizations have been fully utilized); and
+(c)    any dividends from the Borrower to its shareholders made in the ordinary course of business of the Borrower.
+d.    The defined terms “High Commitment Period”, “Medium Commitment Period” and “Low Commitment Period” are deleted from the Credit Agreement.
+e.    The following defined terms are hereby added to the Credit Agreement:
+“Accounts” means all accounts the Borrower’s and its domestic Subsidiaries’ accounts (as defined in Article 9 of the Uniform Commercial Code).
+“Applicable Margin” means (a) 2.00% per annum from November 1, 2018 until December 31, 2018; (b) 3.00% from January 1, 2019 until January 31, 2019; and (c) 3.50% at all times thereafter.
+“Borrowing Base” means, at any time, as of the date of the most recent Borrowing Base Certificate furnished or required to be furnished to Administrative Agent, the sum of:
+In November, 2018: (a) sixty-five percent (65%) of Accounts plus (b) thirty-nine percent (39%) of the Eligible Inventory;
+In December, 2018: (a) sixty percent (60%) of Accounts plus (b) thirty-two percent (32%) of the Eligible Inventory; and
+At all times thereafter: (a) fifty five percent (55%) of Accounts plus (b) twenty percent (20%) of the Eligible Inventory,
+in each case as adjusted to reflect results of any field audit or appraisal conducted in accordance with the terms of this Agreement.
+“Borrowing Base Certificate” means a certificate signed by an officer of the Borrower and setting forth the Borrowing Base as of the end of the previous month and the other information required therein, in form of Exhibit H attached hereto.
+“Collateral Access Agreement” shall mean a landlord waiver, bailee letter, or acknowledgment agreement of any lessor, warehouseman, processor, consignee, or other Person in possession of, having a Lien upon, or having rights or interests in any equipment or inventory of any Credit Party (other than any Pledged Foreign Subsidiary).
+
+- 4 -
+
+“Eligible Inventory” means all Inventory of the Borrower and its domestic Subsidiaries until January 31, 2019, and thereafter means all Inventory of the Borrower and its domestic Subsidiaries located on premises owned by the Borrower or such domestic Subsidiary or on premises as to which the owner has provided to Administrative Agent a Collateral Access Agreement in form and substance satisfactory to Administrative Agent.
+“Inventory” means as to the Borrower and each of its domestic Subsidiaries, all (a) finished goods and merchandise, wherever located, held for sale or lease, or to be furnished under any contract of service; (b) raw materials; (c) work-in-process; and (d) other materials and supplies of any kind, nature or description which are used or consumed in such Credit Party’s business or used in connection with the packing, shipping, advertising, selling or finishing of such inventory, goods and merchandise.
+f.    Section 2.1(a) of the Credit Agreement is amended to restate clause (ii) of the proviso in the first sentence to read as follows:
+(ii) with respect to the Lenders collectively, the aggregate principal amount of Loans plus LOC Obligations shall not exceed the lower of the Aggregate Committed Amount and the Borrowing Base.
+g.    Section 2.1(d) of the Credit Agreement is amended to delete “0.95% per annum” and the end of clauses (i) and (ii) thereof, and to insert “the Applicable Margin” in its place in each such clause.
+h.    Section 2.2(a) of the Credit Agreement is amended to restate clause (B) of the proviso in the first sentence to read as follows:
+(B) Loans plus LOC Obligations shall not exceed the lower of Aggregate Committed Amount and the Borrowing Base,
+i.    Section 2.4(a) of the Credit Agreement is amended and restated in full to read as follows:
+(a)    Voluntary Reductions. The Borrower shall have the right to terminate or permanently reduce the unused portion of the Aggregate Committed Amount at any time or from time to time upon not less than five (5) Business Days’ prior notice to the Administrative Agent (which shall notify the Lenders thereof as soon as practicable) of each such termination or reduction, which notice shall specify the effective date thereof and the amount of any such reduction which shall be in a minimum amount of $5,000,000 or a whole multiple of $1,000,000 in excess thereof, shall be irrevocable and effective upon receipt by the Administrative Agent and shall reduce the Aggregate Commitment Amount, provided that no such reduction or termination of the Aggregate Committed Amount shall be permitted if after giving effect thereto, and to any prepayments of the Loans made on the effective date thereof, the sum
+
+- 5 -
+
+of Loans plus LOC Obligations would exceed the lower of the Aggregate Committed Amount and the Borrowing Base.
+j.    Clause (i) of Section 2.5(b) of the Credit Agreement is amended and restated in full to read as follows:
+(i)    Aggregate Committed Amount. If at any time after the Closing Date, the sum of Loans plus LOC Obligations shall exceed the lower of Aggregate Committed Amount and the Borrowing Base, the Borrower shall immediately prepay the outstanding Loans in an amount sufficient to eliminate such excess (such prepayment to be applied as set forth in clause (ii) below and shall not permanently reduce the Aggregate Commitment Amount)
+k.    Section 5.2 of the Credit Agreement is amended to delete the word “and” from the end of clause (d), to delete the period at the end of clause (e) and replace it with a semi-colon and the word “and”, and to add the following clause (f) thereto:
+(f)    within fifteen (15) days after the end of each month, (i) a Borrowing Base Certificate as of the last day of such month, together with Account aging reports and inventory reports supporting such Borrowing Base Certificate, and (ii) a rolling thirteen week weekly cash flow forecast, each in form satisfactory to Administrative Agent.
+l.    Section 5.6 of the Credit Agreement is amended to add the following sentence to the end of the existing text thereof:
+In addition, unless Administrative Agent has received satisfactory appraisals as described below from Borrower on or before December 1, 2018, the Credit Parties will permit Administrative Agent or its representatives to, (i) conduct a field exam, inventory appraisal and machinery and equipment appraisal with respect to any or all Credit Parties, and (ii) obtain appraisals and environmental reports with respect to any or all real property owned by any Credit Party. Borrower shall reimburse Administrative Agent for all reasonable costs and expenses with respect to all such exams, appraisals and reports; provided, however, that in the absence of an Event of Default Borrower shall not be required to reimburse the Administrative Agent for more than one such field exam and one such inventory and equipment appraisal in any 12-month period.
+m.    Section 5.9(b) of the Credit Agreement is amended and restated in full read as follows:
+(b)    Interest Coverage Ratio. Maintain an Interest Coverage Ratio, as of the last day of each fiscal quarter of the Borrower, of not less than 1.05 to 1.00 for the fiscal quarter ending December 31, 2018 and of not less than 3.50 to 1.00 for each fiscal quarter ending thereafter.
+
+- 6 -
+
+n.    Exhibit H (Form of Borrowing Base Certificate) is added to the Credit Agreement in the form attached to this Amendment.
+7.    Further Agreements. Each of the Credit Parties hereby, jointly and severally:
+a.    ratifies, confirms and acknowledges that the Credit Agreement and all other Loan Documents, as amended hereby, continue to be valid, binding and in full force and effect as of the date of this Amendment, and enforceable in accordance with their terms;
+b.    covenants and agrees to perform all of their respective obligations under the Credit Agreement and all other Loan Documents;
+c.    acknowledges and agrees that as of the date hereof, no Credit Party has any defense, set-off, counterclaim or challenge against the payment of any sums owing to Lenders or the enforcement of any of the terms of the Credit Agreement, as amended hereby, or any of the other Loan Documents;
+d.    ratifies, confirms and continues all rights and remedies granted to Agent and the Lenders in the Loan Documents; and
+e.    ratifies and confirms all waivers made by Credit Parties in the Loan Documents.
+8.    Conditions to Effectiveness of This Amendment. The Lenders’ obligations hereunder are conditioned upon the satisfaction by Credit Parties of the following conditions precedent:
+a.    receipt by the Administrative Agent of this Amendment, duly executed by the Lenders and each of the Credit Parties;
+b.    receipt by the Administrative Agent of an executed Borrowing Base Certificate dated as of the date of this Amendment;
+c.    payment by the Borrower to the Administrative Agent for the benefit of Lenders on a pro rata basis of a waiver fee of $150,000 for the waiver and amendments set forth in this Amendment, which shall be in addition to the fee payable under Section 9(c) below to the extent the conditions therein are met; and
+d.    Payment by the Credit Parties to the Administrative Agent of an amount sufficient to satisfy in full all of the Administrative Agent’s reasonable fees, costs and expenses to date incurred in connection with the preparation and negotiation of this Amendment (including the fees and expenses of the Agent’s counsel).
+9.    Post Closing Covenants. The Credit Parties covenant and agree to the following, which Credit Parties acknowledge and agree are covenants or agreements to which Section 7.1(c)(iii) of the Credit Agreement is applicable, and Credit Parties hereby waive the 30 day cure period set forth in such Section 7.1(c)(iii) with respect to
+
+- 7 -
+
+the following, it being acknowledged and agreed that time is of the essence with respect thereto:
+a.    By no later than November 9, 2018, execute and deliver to the Administrative Agent a security agreement creating a blanket security interest in all personal property and assets of each Credit Party (other than the Pledged Foreign Subsidiaries), including, without limitation, all accounts, inventory, equipment and general intangibles (as such terms are defined in Article 9 of the Uniform Commercial Code) and related commercial personal property and all proceeds thereof, in form and substance satisfactory to Administrative Agent, together with such UCC-1 financing statements, assignments and legal opinions of Borrower’s counsel as Administrative Agent may reasonably request in connection therewith;
+b.    By no later than December 1, 2018, deliver to Administrative Agent copies of all inventory, equipment and real estate appraisals and field exam reports prepared in connection with assets of the Credit Parties for a potential refinance transaction (to the extent the Credit Parties are not prohibited from doing so);
+c.    By no later than January 1, 2019, evidence or confirmation satisfactory to Administrative Agent and Lenders that Borrower has accepted a term sheet for a replacement credit facility, proceeds of which will be used to prepay all Loans and replace all Letters of Credit outstanding under the Credit Agreement;
+d.    On January 1, 2019, unless the Loans have been repaid in full and the Aggregate Commitment terminated prior to such date, pay to the Administrative Agent, for the pro rata benefit of the Lenders, an additional fee of $75,000;
+e.    By no later than January 31, 2019, the Borrower shall have used commercially reasonable efforts to deliver to Administrative Agent an executed Collateral Access Agreement with respect to each leased location or warehouse at which a Borrower or domestic Subsidiary holds Inventory; and
+f.    At any time after February 1, 2019, at the request of Administrative Agent, execute and deliver mortgages or deeds of trust with respect to all real estate owned by Borrower or any domestic Subsidiary, in form and substance satisfactory to Administrative Agent.
+10.    Miscellaneous.
+a.    This Amendment shall be governed by and construed in accordance with the laws of the Commonwealth of Pennsylvania, without regard to the conflicts of law or choice of law principles thereof.
+b.    This Amendment may be executed in any number of counterparts with the same effect as if all the signatures on such counterparts appeared on one document and each such counterpart shall be deemed an original. Any signature on this Amendment, delivered by any party by facsimile transmission shall be deemed to be an original signature thereto.
+
+- 8 -
+
+
+c.    To the extent of any inconsistency between the terms and conditions of this Amendment and the terms and conditions of the Loan Documents, the terms and conditions of this Amendment shall prevail. All terms and conditions of the Loan Amendment and any other Loan Documents not inconsistent herewith shall remain in full force and effect.
+d.    This Amendment shall bind and inure to the benefit of the parties hereto and their respective successors and assigns; provided, however, that Credit Parties shall not assign their rights or obligations under this Amendment.
+e.    This Amendment is the entire agreement between the parties relating to the subject matter hereof, incorporates or rescinds all prior agreements and understandings between the parties hereto relating to the subject matter hereof, cannot be changed or terminated orally or by course of conduct, and shall be deemed effective as of the date it is accepted by the Agent.
+f.    Except as expressly set forth herein, neither the execution, delivery or performance of this Amendment, nor anything contained herein, shall be construed as or shall operate as a course of conduct, course of dealing or a consent to or waiver of any provision of, or any right, power or remedy of any Lender under, the Credit Agreement and the Agreements and documents executed in connection therewith.
+[Signature Pages Follow]
+
+
+- 9 -
+
+
+IN WITNESS WHEREOF, the undersigned have executed this Waiver and Amendment No. 5 to Credit Agreement the day and year first written above.
+
+
+BORROWER:
+
+CSS INDUSTRIES, INC.,
+a Delaware corporation
+
+
+By: /s/ Keith Pfeil         
+Name: Keith Pfeil
+Title: Executive Vice President- Finance and Chief Financial Officer
+
+
+
+
+
+
+
+
+
+LENDERS:
+
+WELLS FARGO BANK, NATIONAL ASSOCIATION,
+as Lender
+
+By: /s/ Stephen T. Dorosh     
+Name: Stephen T. Dorosh
+Title: Senior Vice President
+
+
+CITIZENS BANK OF PENNSYLVANIA,
+as Lender
+
+By: /s/ Pamela L. Hansen    
+Name: Pamela L. Hansen
+Title: Senior Vice President
+
+
+
+
+
+
+
+
+
+
+ADMINISTRATIVE AGENT:
+
+WELLS FARGO BANK, NATIONAL ASSOCIATION,
+as Administrative Agent
+
+
+By: /s/ Stephen T. Dorosh    
+Name: Stephen T. Dorosh
+Title: Senior Vice President
+
+
+
+
+
+
+
+
+GUARANTORS:
+
+PAPER MAGIC GROUP, INC.
+a Pennsylvania corporation
+
+By: /s/ Keith Pfeil        
+Name: Keith Pfeil
+Title: Executive Vice President- Finance
+
+
+BERWICK OFFRAY LLC,
+a Pennsylvania limited liability company
+
+
+By: /s/ Keith Pfeil        
+Name: Keith Pfeil
+Title: Executive Vice President- Finance
+
+CLEO INC,
+a Tennessee corporation
+
+
+By: /s/ Keith Pfeil        
+Name: Keith Pfeil
+Title: Executive Vice President- Finance
+
+
+PHILADELPHIA INDUSTRIES, INC.,
+a Delaware corporation
+
+By: /s/ Steven W. Eck        
+Name: Steven W. Eck
+Title: Vice President - Finance
+
+
+LION RIBBON COMPANY, LLC
+a Delaware limited liability company
+
+
+By: /s/ Keith Pfeil        
+Name: Keith Pfeil
+Title: Executive Vice President- Finance
+
+
+
+C.R. GIBSON, LLC,
+a Delaware limited liability company
+
+
+By: /s/ Keith Pfeil        
+Name: Keith Pfeil
+Title: Executive Vice President- Finance
+
+
+W.J.S. FURNITURE, INC.,
+a Delaware corporation
+
+
+By: /s/ Keith Pfeil        
+Name: Keith Pfeil
+Title: Executive Vice President- Finance
+
+
+PAPER MAGIC DISTRIBUTION, Inc.
+a Delaware corporation
+
+
+By: /s/ Keith Pfeil        
+Name: Keith Pfeil
+Title: Executive Vice President- Finance
+
+
+CRG DISTRIBUTION, INC.,
+a Delaware corporation
+
+
+By: /s/ Keith Pfeil        
+Name: Keith Pfeil
+Title: Executive Vice President- Finance
+
+LR TEXAS CORP.,
+a Texas corporation
+
+
+By: /s/ Keith Pfeil        
+Name: Keith Pfeil
+Title: Executive Vice President- Finance
+
+
+
+BOC DISTRIBUTION, INC.,
+a Delaware corporation
+
+
+By: /s/ Keith Pfeil        
+Name: Keith Pfeil
+Title: Executive Vice President- Finance
+
+
+BERWICK MANAGEMENT LLC,
+a Pennsylvania limited liability company
+By: Berwick Offray LLC
+
+
+By: /s/ Keith Pfeil        
+Name: Keith Pfeil
+Title: Executive Vice President- Finance
+
+
+THE MCCALL PATTERN COMPANY, INC.,
+a Delaware corporation
+
+
+By: /s/ Keith Pfeil        
+Name: Keith Pfeil
+Title: Executive Vice President- Finance
+
+
+MCCALL DISTRIBUTION, INC.,
+a Delaware corporation
+
+
+By: /s/ Keith Pfeil        
+Name: Keith Pfeil
+Title: Executive Vice President- Finance
+
+
+SIMPLICITY CREATIVE CORP (f/k/a STITCH ACQUISITION CORP.),
+a Delaware corporation
+
+
+By: /s/ Keith Pfeil        
+Name: Keith Pfeil
+Title: Executive Vice President- Finance

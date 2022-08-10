@@ -1,0 +1,210 @@
+EX-10.1 2 exhibit101credco121820.htm EX-10.1
+
+EXHIBIT 10.1
+
+FIRST AMENDMENT TO AMENDED AND RESTATED THREE-YEAR CREDIT AGREEMENT
+THIS FIRST AMENDMENT TO AMENDED AND RESTATED THREE-YEAR CREDIT AGREEMENT (this “Amendment”) dated as of December 18, 2020 is by and among AMERICAN EXPRESS CREDIT CORPORATION, a Delaware corporation (the “Borrower”), the Banks identified on the signature pages hereto and WELLS FARGO BANK, NATIONAL ASSOCIATION, as the Administrative Agent (in such capacity, “Administrative Agent”).
+W I T N E S S E T H
+WHEREAS, the Borrower, certain Banks (the “Banks”) and the Administrative Agent are party to that certain Amended and Restated Three-Year Credit Agreement dated as of October 15, 2019 (the “Existing Credit Agreement”);
+WHEREAS, the Borrower has requested that all of the Banks approve certain amendments and modifications to the Existing Credit Agreement, (the Existing Credit Agreement, after giving effect to this Amendment, the “Credit Agreement”);
+WHEREAS, all of the Banks have approved the amendments and modifications to the Existing Credit Agreement requested by the Borrower on the terms and conditions set forth herein.
+NOW, THEREFORE, IN CONSIDERATION of the premises and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:
+1.    Defined Terms. Capitalized terms used herein but not otherwise defined herein shall have the meanings provided to such terms in the Credit Agreement.
+2.    Amendment to the Credit Agreement.
+(a)    The following defined term in Section 1.01 of the Existing Credit Agreement is hereby amended and restated in its entirety as follows:
+“Earnings Available for Fixed Charges” means the net income of the Borrower for the applicable fiscal period determined in accordance with United States generally accepted accounting principles except that in determining such net income there shall be added thereto (i) an amount equal to all Fixed Charges and income taxes of the Borrower for the applicable fiscal period, determined in accordance with generally accepted accounting principles and (ii) an amount equal to a contribution in the form of additional paid in capital made by TRS to the Borrower for the applicable fiscal period pursuant to any agreement between TRS and the Borrower intended to provide support to the Borrower to meet all of its financial covenants and obligations, which contribution shall be settled in cash within 30 days of the last day of the applicable fiscal period for which such contribution is made or by the date of the filing of the Borrower’s applicable report on Form 10-K or Form 10-Q for such applicable fiscal period, whichever is earlier.
+3.    Conditions Precedent. The effectiveness of this Amendment shall be subject to satisfaction of the following conditions:
+-1-
+(a)    Executed Documents. Receipt by the Administrative Agent of counterparts of this Amendment duly executed by the Borrower, each Existing Bank (including each Exiting Bank), each New Bank and the Administrative Agent.
+(b)    No Default. No Default shall exist and be continuing either immediately prior to or after giving effect to this Amendment.
+4.    Amendment is a “Credit Document”. This Amendment is a Credit Document and all references to a “Credit Document” in the Credit Agreement and the other Credit Documents shall be deemed to include this Amendment.
+5.    Reaffirmation of Representations and Warranties. The Borrower represents and warrants as of the effective date of this Amendment that (i) each of the representations and warranties set forth in the Credit Documents is true and correct as of such date, and (ii) no Default has occurred and is continuing.
+6.    Reaffirmation of Obligations. The Borrower (a) affirms all of its obligations under the Credit Documents and (b) agrees that this Amendment and all documents executed in connection herewith do not operate to reduce or discharge the Borrower’s obligations under the Credit Documents.
+7.    No Other Changes. Except as modified hereby, all of the terms and provisions of the Credit Documents shall remain in full force and effect.
+8.    Expenses. The Borrower agrees to pay all reasonable out of pocket costs and expenses incurred by Administrative Agent in connection with this Amendment and the transactions contemplated hereby including the reasonable fees and out-of-pocket disbursements of counsel to the Administrative Agent.
+9.    Counterparts; Delivery. This Amendment may be executed in any number of counterparts, each of which when so executed and delivered shall be an original, but all of which shall constitute one and the same instrument. It shall not be necessary in making proof of this Amendment to produce or account for more than one such counterpart for each of the parties hereto. Delivery by facsimile or other electronic imaging means by any of the parties hereto of an executed counterpart of this Amendment shall be as effective as an original executed counterpart hereof and shall be deemed a representation that an original executed counterpart hereof will be delivered.
+10.    Governing Law. THIS AMENDMENT AND THE RIGHTS AND OBLIGATIONS OF THE PARTIES HEREUNDER SHALL BE GOVERNED BY AND CONSTRUED AND INTERPRETED IN ACCORDANCE WITH THE LAWS OF THE STATE OF NEW YORK.
+[Signature Pages Follow]
+
+-2-
+
+IN WITNESS WHEREOF, each of the parties hereto has caused a counterpart of this Amendment to be duly executed and delivered as of the date first above written.
+BORROWER:
+AMERICAN EXPRESS CREDIT
+CORPORATION, a Delaware
+corporation
+By: /s/ David J. Hoberman
+Name: David J. Hoberman
+Title: Treasurer
+-3-
+
+
+ADMINISTRATIVE AGENT:
+WELLS FARGO BANK, NATIONAL
+ASSOCIATION, as Administrative Agent
+By: /s/ Grainne M. Pergolini
+Name: Grainne M. Pergolini
+Title: Managing Director
+-4-
+
+BANKS:
+
+WELLS FARGO BANK, NATIONAL ASSOCIATION, as a Bank
+
+By:/s/ Grainne M. Pergolini
+Name: Grainne M. Pergolini
+Title: Managing Director
+
+-5-
+        
+CITIBANK, N.A., as a Bank
+
+By:/s/ Robert B. Goldstein
+Name: Robert B. Goldstein
+Title: Managing Director
+
+-6-
+        
+DEUTSCHE BANK AG NEW YORK BRANCH, as a Bank
+
+By: /s/ Annie Chung
+Name: Annie Chung
+Title: Director
+Annie.Chung@db.com
++1-212-250-6375
+
+By: /s/ Ming K. Chu
+Name: Ming K. Chu
+Title: Director
+Ming K. Chu@db.com
++1-212-250-5451
+
+-7-
+        
+MIZUHO BANK, LTD., as a Bank
+
+By: /s/ Donna DeMagistris
+Name: Donna DeMagistris
+Title: Authorized Signatory
+-8-
+        
+CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH, as a Bank
+
+By:/s/ Doreen Barr
+Name: Doreen Barr
+Title: Authorized Signatory
+
+By: /s/ Komal Shah
+Name: Komal Shah
+Title: Authorized Signatory
+
+
+-9-
+        THE TORONTO-DOMINION BANK, NEW YORK BRANCH, as a Bank
+
+By:/s/ Michael Borowiecki
+Name: Michael Borowiecki
+Title: Authorized Signatory
+
+-10-
+        
+BARCLAYS BANK PLC, as a Bank
+
+By: /s/ Evan Moriarty
+Name: Evan Moriarty
+Title: Vice President
+
+-11-
+        
+
+ROYAL BANK OF CANADA, as a Bank
+
+By:/s/ Glenn Van Allen
+Name: Glenn Van Allen
+Title: Authorized Signatory
+
+-12-
+        
+BANK OF AMERICA, N.A., as a Bank
+
+By: /s/ Jason Cassity
+Name: Jason Cassity
+Title: Managing Director
+
+
+-13-
+        
+NATWEST MARKETS PLC, as a Bank
+
+By: /s/ Toby Chapman
+Name: Toby Chapman
+Title: Managing Director
+
+
+-14-
+        
+U.S. BANK NATIONAL ASSOCIATION, as a Bank
+
+By: /s/ Callen M. Strunk
+Name: Callen M. Strunk
+Title: Vice President
+
+-15-
+        
+LLOYDS BANK CORPORATE
+MARKETS PLC, as a Bank
+
+By: /s/ Kamala Basdeo
+Name: Kamala Basdeo
+Title: Assistant Vice President
+By: /s/ Tina Wong
+Name: Tina Wong
+Title: Assistant Vice President
+
+-16-
+        STANDARD CHARTERED BANK, as a Bank
+
+By: /s/ James Beck
+Name: James Beck
+Title: Associate Director
+
+-17-
+        
+SUMITOMO MITSUI BANKING CORPORATION, as a Bank
+
+By: /s/ Shane Klein
+Name: Shane Klein
+Title: Managing Director
+
+-18-
+        
+MUFG BANK, LTD., as a Bank
+
+By: /s/ Jeanne Horn
+Name: Jeanne Horn
+Title: Managing Director
+
+-19-
+        
+BANK OF MONTREAL, as a Bank
+
+By: /s/ Chris Clark
+Name: Chris Clark
+Title: Director
+
+-20-
+        
+HSBC BANK USA, NATIONAL ASSOCIATION, as a Bank
+
+By: /s/ Kiran Sultan
+Name: Kiran Sultan
+Title: Director
+
+-21-
+        WESTPAC BANKING CORPORATION, as a Bank
+
+By: /s/ Stuart Brown
+Name: Stuart Brown
+Title: Tier Two Attorney
+
+-22-

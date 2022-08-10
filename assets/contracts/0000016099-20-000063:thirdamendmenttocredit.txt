@@ -1,0 +1,162 @@
+EX-10.2 3 thirdamendmenttocredit.htm EX-10.2
+
+THIRD AMENDMENT TO CREDIT AGREEMENT
+
+
+This THIRD AMENDMENT TO CREDIT AGREEMENT (this “Amendment”), dated as of April 21, 2020, is made by and among LUBY’S, INC., a Delaware corporation (the “Borrower”), the guarantors party hereto (the “Guarantors” and, together with the Borrower, the “Credit Parties”), each financial institution party hereto as a lender (each individually, a “Lender” and, collectively, the “Lenders”), and MSD PCOF PARTNERS VI, LLC, in its capacity as administrative agent for the Lenders (in such capacity, the “Administrative Agent”). Unless otherwise provided herein, capitalized terms used but not defined in this Agreement shall have the meanings that are set forth in the Credit Agreement (as defined below).
+WHEREAS, reference is made to that certain Credit Agreement, dated as of December 13, 2018 (as amended by that certain First Amendment to Credit Agreement, dated as of July 31, 2019, as amended by that certain Second Amendment to Credit Agreement, dated as of December 18, 2019, and as amended, restated, amended and restated, supplemented or otherwise modified from time to time prior to the date hereof, the “Credit Agreement”), by and among the Borrower, the Lenders and the Administrative Agent;
+WHEREAS, the Borrower has requested that the Lenders agree to effect certain amendments to the Credit Agreement as more fully set forth herein; and
+WHEREAS, the Lenders party hereto (which constitute the Required Lenders) are willing to make the requested amendments to the Credit Agreement as set forth herein, in each case, subject to the terms and conditions set forth herein.
+NOW, THEREFORE, in consideration of the foregoing premises, and other good and valuable consideration, the receipt, sufficiency and adequacy of which are hereby acknowledged, the parties hereto agree as follows:
+1.Amendments. Subject to the terms and conditions set forth in Section 2 and in reliance upon the representations and warranties made by the Credit Parties in Section 3, the Credit Agreement and the other Loan Documents referenced below are hereby amended as follows:
+a.The definition of “Delayed Draw Term Loan Commitment” set forth in Section 1.1 of the Credit Agreement is hereby amended and restated in its entirety as follows:
+“Delayed Draw Term Loan Commitment” means each Delayed Draw Term Loan Lender’s obligation to make a portion of the Delayed Draw Terms Loans to the account of the Borrower hereunder on the applicable borrowing date in an aggregate principal amount not to exceed the amount set forth opposite such Lender’s name on Schedule 1.1 under the heading “Delayed Draw Term Loan Commitment”, as such amount may be increased, reduced or otherwise modified from time to time pursuant to the terms hereof and reflected in the Register. The
+
+
+aggregate Delayed Draw Term Loan Commitment of all the Delayed Draw Term Loan Lenders on the Third Amendment Effective Date is $5,000,000.00; provided that (a) the Borrower shall have no right to request any Extension of Credit constituting Delayed Draw Term Loans pursuant to the terms of this Agreement from the period commencing on the Third Amendment Effective Date to and including SBA Deadline Date, and (b) upon the receipt by the Borrower of any SBA Loans, (x) the Delayed Draw Term Loan Commitment shall be deemed terminated and reduced to zero in accordance with the terms of this Agreement, (y) the Borrower shall have no right to request any Extension of Credit constituting Delayed Draw Term Loans pursuant to the terms of this Agreement and (z) no Lender shall have an obligation to fund a Delayed Draw Term Loan for the account of the Borrower pursuant to the terms of this Agreement.
+b.Section 1.1 of the Credit Agreement is hereby amended by adding thereto in the correct alphabetical order the following new definitions:
+“CARES Act” shall mean the Coronavirus Aid, Relief, and Economic Security Act.
+“Third Amendment Effective Date” shall mean April 21, 2020.
+“PPP” shall mean the SBA’s Payroll Protection Program, established pursuant to the CARES Act, as amended from time to time.
+“SBA” shall mean the U.S. Small Business Administration or any successor agency.
+“SBA Deadline Date” means the date that is fifteen (15) Business Days after the Third Amendment Effective Date (or such later date as may be permitted by the Administrative Agent in its sole discretion).
+“SBA Loan Documents” shall mean any definitive financing agreement, document or instrument pursuant to which any SBA Loans are incurred.
+“SBA Loans” shall mean unsecured loans made to the Credit Parties in an aggregate principal amount not to exceed $10,000,000 pursuant to the PPP, used solely in accordance with PPP rules and regulations, to finance payroll, rent, mortgage interest, utilities or other expenses permitted under the PPP rules and regulations.
+c.A new Section 8.22 shall be added to the Credit Agreement in the correct numerical order and shall read as follows:
+        8.22 SBA Loans.
+        (a) Borrower and each other Credit Party shall use the proceeds of the SBA Loans solely in accordance with the PPP rules and regulations.
+2
+
+(b) Borrower and each other Credit Party shall comply with all rules and regulations promulgated by the SBA or other applicable Governmental Authority with respect to the SBA Loans and shall, as promptly as practicable and using commercially reasonably efforts, to the extent permitted, apply for forgiveness of the SBA Loans in accordance with the CARES Act.
+        (c) Borrower shall provide the Administrative Agent with prompt notice of the closing and funding of any SBA Loan.
+        (d) Borrower shall promptly provide the Administrative Agent with copies of any SBA Loan Document, which shall be in a form reasonably acceptable to the Administrative Agent. Any amendments, restatements, supplements or modifications to any SBA Loan Document that would be adverse to the interests of the Administrative Agent or Lenders shall not be effected without the consent of the Required Lenders.
+        (e)  Notwithstanding anything contrary to the herein, no Credit Party shall receive any credit under any baskets in this Agreement for any proceeds received in connection with the incurrence of any SBA Loans (including, for the avoidance of doubt, any such SBA Loans that have been forgiven by the SBA).
+d.Section 9.1 of the Credit Agreement is hereby amended by (i) removing the “and” at the end of clause (k) thereof, (ii) replacing the “.” at the end of clause (l) thereof with “; and”, and (iii) adding a new Section 9.1(m) to read as follows:
+(m) Indebtedness under the SBA Loan Documents so long as such Indebtedness is incurred on or prior to the SBA Deadline Date.
+e.Section 9.9(b) of the Credit Agreement is hereby amended by (x) removing the “and” at the end of clause (ii) thereof, (y) replacing the “.” at the end of clause (iii) thereof with “; and”, and (z) adding a new Section 9.9(b)(iv) to read as follows:
+(iv) payments and prepayments of any SBA Loans, including the payment of interest, fees, expenses, indemnities and other amounts thereunder, in accordance with the terms of this Agreement.
+f.Section 10.1(d) of the Credit Agreement is hereby amended and restated in its entirety as follows:
+        (d) Default in Performance of Certain Covenants. Any Credit Party or any Subsidiary thereof shall default in the performance or observance of any covenant or agreement contained in Sections 8.3, 8.4., 8.6, 8.14, 8.16, 8.17, 8.18, 8.22 or Article IX.
+3
+
+2.Conditions Precedent. The effectiveness of this Amendment is subject to satisfaction of the following (the date on which all such conditions are satisfied, the “Third Amendment Effective Date”):
+a.the Administrative Agent (or its counsel) and each Lender shall have received from each party hereto either (i) a counterpart of this Amendment signed on behalf of such party or (ii) written evidence reasonably satisfactory to the Administrative Agent (which may include telecopy or other similar method of electronic transmission of a signed signature page of this Amendment) that such party has signed a counterpart of this Amendment;
+a.all necessary corporate or organizational actions shall have been taken by each Credit Party to authorize the execution, delivery and performance of this Amendment;
+b.between the Closing Date and the date hereof, no event has occurred or condition arisen, either individually or in the aggregate, that has had or would reasonably be expected to have a Material Adverse Effect;
+c.on the Third Amendment Effective Date, both immediately before and immediately after giving effect to the transactions occurring on the date hereof, the representations and warranties of the Credit Parties set forth in the Credit Agreement and in the other Loan Documents shall be true, correct and complete in all material respects, except for any representation and warranty that is qualified by materiality or reference to Material Adverse Effect, which such representation and warranty shall be true, correct and complete in all respects, on and as of the Third Amendment Effective Date with the same effect as if made on and as of such date (except for any such representation and warranty that by its terms is made only as of an earlier date, which representation and warranty shall have been true, correct and complete in all material respects as of such earlier date, except for any representation and warranty that is qualified by materiality or reference to Material Adverse Effect, which such representation and warranty shall have been true, correct and complete in all respects as of such earlier date) and except that the representations and warranties set forth in Section 7.15 of the Credit Agreement shall be deemed to refer to the most recent financial statements delivered pursuant to Section 8.1 of the Credit Agreement;
+d.on the Third Amendment Effective Date, both immediately before and immediately after giving effect to the transactions occurring on the date hereof, no Default or Event of Default shall have occurred or be continuing, and there must not be any such Default or Event of Default occurring as a result of the transactions occurring on the Third Amendment Effective Date;
+e.the Borrower shall have paid (x) any and all outstanding Delayed Draw Term Loan Commitment Fees as of the Third Amendment Effective Date and (y) all fees and expenses due and payable on or prior to the Third Amendment Effective Date under the Loan Documents and this Amendment, including the out-of-pocket reasonable fees
+4
+
+and expenses of the Administrative Agent’s attorneys with respect to the preparation, negotiation and execution of the Loan Documents and this Amendment; and
+f.the representations and warranties made by the Credit Parties in Section 3 shall be true and correct in all material respects as of the date hereof and a senior officer of the Borrower has certified the same.
+Each Credit Party shall be deemed to represent and warrant to the Administrative Agent and Lenders that the foregoing conditions in this Section 2 have been satisfied (unless otherwise waived by the Administrative Agent) upon release of its signature to this Amendment; provided that, each Credit Party may assume in making such representation and warranty that any condition that is to be consented to, satisfactory, approved or accepted by the Administrative Agent or the Lenders may be assumed by each Credit Party to be consented to, satisfactory, approved or accepted, as applicable upon release of its respective signature to this Amendment.
+3.Representations and Warranties. Each of the Credit Parties represents and warrants to the Administrative Agent and each Lender that, as of the Third Amendment Effective Date:
+A.the representations and warranties of the Credit Parties set forth in the Credit Agreement and in the other Loan Documents are true, correct and complete in all material respects, except for any representation and warranty that is qualified by materiality or reference to Material Adverse Effect, which such representation and warranty shall be true, correct and complete in all respects, on and as of the Third Amendment Effective Date with the same effect as if made on and as of such date (except for any such representation and warranty that by its terms is made only as of an earlier date, which representation and warranty shall have been true, correct and complete in all material respects as of such earlier date, except for any representation and warranty that is qualified by materiality or reference to Material Adverse Effect, which such representation and warranty shall have been true, correct and complete in all respects as of such earlier date) and except that the representations and warranties set forth in Section 7.15 of the Credit Agreement shall be deemed to refer to the most recent financial statements delivered pursuant to Section 8.1 of the Credit Agreement;
+B.no Default or Event of Default has occurred or is continuing, and no such Default or Event of Default would exist as a result of the transactions occurring on the Third Amendment Effective Date;
+C.each Credit Party and each Subsidiary thereof has the right, power and authority and has taken all necessary corporate and other action to authorize the execution, delivery and performance of this Amendment and each of the other Loan Documents to which it is a party in accordance with their respective terms. This Amendment and each of the other Loan Documents have been duly executed and delivered by the duly authorized officers of each Credit Party and each Subsidiary thereof that is a party thereto, and each such document constitutes the legal, valid and binding obligation of each Credit Party and each Subsidiary thereof that is a party thereto,
+5
+
+enforceable in accordance with its terms, except as such enforceability may be limited by bankruptcy, insolvency, reorganization, moratorium or similar state or federal Debtor Relief Laws from time to time in effect which affect the enforcement of creditors’ rights in general and the availability of equitable remedies; and
+D.the execution, delivery and performance by each Credit Party and each Subsidiary thereof of this Amendment and the other Loan Documents to which each such Person is a party, in accordance with their respective terms, and the transactions contemplated hereby or thereby do not and will not, by the passage of time, the giving of notice or otherwise, (a) require any Governmental Approval or violate any material Applicable Law relating to any Credit Party or any Subsidiary thereof, for which the failure to obtain or violation of which would, individually or in the aggregate, reasonably be expected to have a Material Adverse Effect, (b) conflict with, result in a breach of or constitute a default under the articles of incorporation, bylaws or other organizational documents of any Credit Party or any Subsidiary thereof, (c) conflict with, result in a breach of or constitute a default under any indenture, agreement, Lease or other instrument to which such Person is a party or by which any of its properties may be bound or any Governmental Approval relating to such Person, which would, individually or in the aggregate, reasonably be expected to have a Material Adverse Effect, (d) result in or require the creation or imposition of any Lien upon or with respect to any property now owned or hereafter acquired by such Person other than Permitted Liens or (e) require any consent or authorization of, filing with, or other act in respect of, an arbitrator or Governmental Authority and no consent of any other Person is required in connection with the execution, delivery, performance, validity or enforceability of this Amendment other than (i) consents, authorizations, filings or other acts or consents for which the failure to obtain or make would not, individually or in the aggregate, reasonably be expected to have a Material Adverse Effect, (ii) consents or filings under the UCC, (iii) filings with the United States Copyright Office and/or the United States Patent and Trademark Office, (iv) Mortgage filings with the applicable county recording office or register of deeds and (v) such as have been made or obtained and are in full force and effect.
+4.Miscellaneous.
+A.Continuing Effect of Credit Agreement; Conflicts. Except as expressly modified pursuant hereto, no other changes or modifications to the Credit Agreement or the other Loan Documents are intended or implied by this Amendment and in all other respects the Credit Agreement and the other Loan Documents hereby are ratified and confirmed by all parties hereto as of the Third Amendment Effective Date. To the extent of conflict between the terms of this Amendment, the Credit Agreement and the other Loan Documents, the terms of this Amendment shall govern and control.
+B.Costs and Expenses. The Borrower acknowledges that Section 12.3(a) of the Credit Agreement applies to this Amendment and the transactions, agreements and documents contemplated hereunder.
+6
+
+C.Incorporation by Reference. The terms and provisions of Section 12.1 (Notices), Section 12.2 (Amendments, Waivers and Consents), Section 12.3 (Expenses; Indemnity), Section 12.9 (Successors and Assigns; Participations), Section 12.16 (Counterparts; Integration; Effectiveness; Electronic Execution) and Section 12.15 (Severability of Provisions) of the Credit Agreement are hereby incorporated by reference and shall apply to this Amendment mutatis mutandis as if fully set forth herein.
+D.Further Assurances. At the Borrower’s expense, the parties hereto shall execute and deliver such additional documents and take such further action as may be reasonably requested by any other party hereto to effectuate the provisions and purposes of this Amendment.
+E.Successors and Assigns. This Amendment shall be binding upon and inure to the benefit of each of the parties hereto and their respective successors and assigns.
+F.Survival of Representations, Warranties and Covenants. All representations, warranties and covenants of each Credit Party made in this Amendment or any other document furnished in connection with this Amendment shall survive the execution and delivery of this Amendment, and no investigation by the Administrative Agent or any Lender, or any closing, shall affect the representations and warranties or the right of the Administrative Agent and Lenders to rely upon them.
+G.Severability. Any provision of this Amendment held by a court of competent jurisdiction to be invalid or unenforceable shall not impair or invalidate the remainder of this Amendment.
+H.Relationship. Each Credit Party agrees that the relationship between the Administrative Agent, on the one hand, and each Credit Party, on the other hand, and between each Lender, on the one hand, and each Credit Party, on the other hand, is that of creditor and debtor and not that of partners or joint venturers. Neither this Amendment nor any of the other Loan Documents constitute a partnership agreement, or any other association between the Administrative Agent, on the one hand, and each Credit Party, on the other hand, and between each Lender, on the one hand, and each Credit Party, on the other hand. Each Credit Party acknowledges that the Administrative Agent and each Lender has acted at all times only as a creditor to each Credit Party within the normal and usual scope of the activities normally undertaken by a creditor and in no event has the Administrative Agent or any Lender attempted to exercise any control over the Credit Party or their respective businesses or affairs. Each Credit Party further acknowledges that the Administrative Agent and each Lender has not taken or failed to take any action under or in connection with its respective rights under the Credit Agreement and the Loan Documents that in any way or to any extent has interfered with or adversely affects any ownership of Collateral by each Credit Party.
+7
+
+I.Acknowledgement and Reaffirmation. Except as expressly set forth herein, (i) this Amendment shall not by implication or otherwise limit, impair, constitute a waiver of or otherwise affect the rights and remedies of the Lenders or the Administrative Agent, in each case under the Credit Agreement or any other Loan Document, and (ii) shall not alter, modify, amend or in any way affect any of the terms, conditions, obligations, covenants or agreements contained in the Credit Agreement or any other provision of either such agreement or any other Loan Document. Except as expressly set forth herein, each and every term, condition, obligation, covenant and agreement contained in the Credit Agreement or any other Loan Document is hereby ratified and reaffirmed in all respects and shall continue in full force and effect. Each Credit Party hereby expressly (a) acknowledges the terms of this Amendment, (b) ratifies and reaffirms all of their respective Obligations and each of their other obligations under the Credit Agreement and the other Loan Documents to which it is a party, as modified hereby, (c) acknowledges, renews and extends its continued liability under the Credit Agreement and the other Loan Documents to which it is a party, as modified hereby, (d) ratifies and reaffirms all Liens granted by it pursuant to the Loan Documents to secure the Obligations and (e) reaffirms that its guarantee under each Guaranty Agreement, if applicable, and the other Loan Documents to which it is a party remains in full force and effect with respect to the Obligations. This Amendment shall constitute a Loan Document for purposes of the Credit Agreement and from and after the Third Amendment Effective Date, all references to the “Credit Agreement” in any Loan Document and all references in the Credit Agreement to “this Amendment”, “hereunder”, “hereof” or words of like import referring to the Credit Agreement, shall, unless expressly provided otherwise, refer to the Amendment. Each Credit Party hereby consents to this Amendment and confirms that all obligations of each Credit Party under the Loan Documents to which such Credit Party is a party shall continue to apply to the Credit Agreement.
+J.No Action, Claims, Etc. As of the date hereof, each Credit Party hereby acknowledges and confirms that it has no knowledge of any actions, causes of action, claims, demands, damages and liabilities of whatever kind or nature, in law or in equity, against the Administrative Agent, the Lenders, or any of the Administrative Agent’s or any Lender’s respective officers, employees, representatives, agents, counsel or directors arising from any action by such Persons, or failure of such Persons to act under the Credit Agreement prior to the date hereof.
+K.Counterparts. This Amendment may be executed in any number of counterparts, but all of such counterparts shall together constitute but one and the same agreement. Receipt by telecopy, facsimile or email transmission of any executed signature page to this Amendment shall constitute effective delivery of such signature page.
+L.Interpretation. Wherever possible, each provision of this Amendment shall be interpreted in such a manner as to be effective and valid under applicable law, but if any provision of this Amendment shall be prohibited by or invalid under
+8
+
+applicable law, such provision shall be ineffective to the extent of such prohibition or invalidity, without invalidating the remainder of such provision or the remaining provisions of this Amendment.
+M.Headings. The headings of this Amendment are for purposes of reference only and shall not limit or otherwise affect the meaning hereof.
+N.Entirety. This Amendment and the other Loan Documents embody the entire agreement between the parties and supersede all prior agreements and understandings, if any, relating to the subject matter hereof. This Amendment and the other Loan Documents represent the final agreement between the parties and may not be contradicted by evidence of prior, contemporaneous or subsequent oral agreements of the parties.
+O.GOVERNING LAW, JURISDICTION AND JURY TRIAL WAIVER. THIS AMENDMENT SHALL BE SUBJECT TO THE PROVISIONS REGARDING GOVERNING LAW, JURISDICTION AND JURY TRIAL WAIVER SET FORTH IN SECTIONS 12.5 and 12.6 OF THE CREDIT AGREEMENT, AND SUCH PROVISIONS ARE INCORPORATED HEREIN BY THIS REFERENCE, MUTATIS MUTANDIS.
+P.Release. To the extent that any offsets, defenses or claims may exist arising out of or relating to this Amendment or any Loan Document against any Agent, any Lender or any of their Related Parties, subsidiaries, affiliates, officers, directors, employees, agents, attorneys, predecessors, successors or assigns, whether asserted or unasserted, each Credit Party, for itself and its Related Parties, successors, assigns, parents, subsidiaries, affiliates, predecessors, employees, agents, heirs and executors, as applicable (collectively, the “Releasors”), jointly and severally with each other Credit Party, releases, remises, acquits and forever discharges each Agent and each Lender and each of their Related Parties, subsidiaries, affiliates, officers, directors, employees, agents, attorneys, predecessors, successors and assigns, both present and former (collectively, the “Released Parties”), of and from any and all manner of actions, causes of action, torts, suits, debts, controversies, damages, judgments, executions, claims and demands whatsoever, whether asserted or unasserted, in law or in equity, that exist or have occurred on or prior to or on the date of this Amendment, arising out of or relating to this Amendment or any Loan Document which the Releasors ever had or now have against any of the Released Parties, including any presently existing claim whether or not presently suspected, contemplated or anticipated.
+[Remainder of page intentionally left blank]
+
+9
+
+IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be duly executed and delivered by its proper and duly authorized officers as of the day and year first above written.
+
+BORROWER:
+ Luby’s, Inc.
+By: _/s Christopher Pappas__________
+Name: Christopher Pappas
+Title: President and Chief Executive Officer
+
+
+[Signature Page to Third Amendment to Credit Agreement]
+
+ACKNOWLEDGED AND AGREED:
+
+ADMINISTRATIVE AGENT
+AND LENDER:
+
+
+MSD PCOF PARTNERS VI, LLC
+
+
+By: _/s Marcello Liguori____________
+Name: Marcello Liguori
+Title: Vice President
+
+
+
+
+
+
+[Signature Page to Third Amendment to Credit Agreement]
+
+SUBSIDIARY GUARANTORS: LUBY'S FUDDRUCKERS RESTAURANTS, LLC
+
+
+By: /s Christopher Pappas   
+        Christopher J. Pappas
+        President
+
+LUBY’S BEV I, LLC
+LUBY’S BEV II, LLC
+
+
+Each by: /s Benjamin Coutee   
+         Benjamin Coutee
+         Manager
+
+LUBY’S BEVCO, INC.
+
+
+By: /s Christopher Pappas   
+        Christopher J. Pappas
+        CEO & President
+
+FUDDRUCKERS OF ANNAPOLIS, LLC
+FUDDRUCKERS OF BRANDYWINE, LLC
+
+Each by Luby’s Bev II, LLC, as its Managing Member
+
+
+By: /s Benjamin Coutee   
+        Benjamin Coutee
+        Manager
+
+PARADISE CHEESEBURGERS, LLC
+
+By: Luby’s Fuddruckers Restaurants, LLC, as its Manager
+
+By: /s Christopher Pappas   
+        Christopher J. Pappas
+        President
+
+
+[Signature Page to Third Amendment to Credit Agreement]

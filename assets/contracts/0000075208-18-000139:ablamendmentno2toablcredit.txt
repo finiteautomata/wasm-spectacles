@@ -1,0 +1,584 @@
+EX-10..2 3 ablamendmentno2toablcredit.htm EXHIBIT 10..2
+
+SECOND AMENDMENT TO ABL CREDIT AGREEMENT AND CONSENT
+
+SECOND AMENDMENT TO ABL CREDIT AGREEMENT AND CONSENT, dated as
+of December 21, 2018 (this “Second Amendment”), among Overseas Shipholding Group, Inc., a Delaware corporation (“Holdings”), OSG Bulk Ships, Inc., a New York corporation (the “Administrative Borrower”), each Co-Borrower party hereto, each Guarantor party hereto, the Lenders party hereto and Wells Fargo Bank, National Association, as administrative agent (in such capacity, the “Administrative Agent”) for the Lenders. All capitalized terms used herein and not otherwise defined herein shall have the respective meanings provided to such terms in the Credit Agreement (as defined below).
+
+W I T N E S S E T H:
+
+WHEREAS, Holdings, the Borrowers, the other Loan Parties, the lenders party thereto from time to time (each, a “Lender” and, collectively, the “Lenders”), the Administrative Agent and the other parties thereto are parties to that certain ABL Credit Agreement, dated as of August 5, 2014 (as amended by that certain First Amendment to ABL Credit Agreement, dated June 3, 2015, this Second Amendment and as may hereafter be further amended, amended and restated, modified, supplemented, extended, renewed, restated or otherwise modified from time to time, the “Credit Agreement”);
+
+WHEREAS, Holdings and the Borrowers have advised the Administrative Agent and the Lenders that the Loan Parties intend to refinance and replace the existing Term Loan Facility entered into on the Closing Date with Jefferies Finance LLC, as the existing Term Loan Administrative Agent (the “Existing Term Loan Administrative Agent”), and certain financial institutions as lenders (the “Existing Term Loan Facility”), with a new Term Loan Facility in the aggregate principal amount of $325,000,000 (subject to increase up to $365,000,000) (the “Replacement Term Loan Facility”) to be entered into with PGIM, Inc., in its capacity as new Term Loan Administrative Agent, and certain financial institutions as Lenders (the “Replacement Term Loan Lenders”);
+
+WHEREAS, in connection with the Replacement Term Loan Facility, Holdings and the Borrowers have requested that the Administrative Agent and the Lenders agree, among other things, (a) to remove certain Vessels constituting ABL Priority Collateral Vessels from the Borrowing Base and to convert such Vessels to Term Loan Priority Collateral Vessels, (b) to convert certain of the Loan Parties, which currently constitute Co-Borrowers, to solely constituting Subsidiary Guarantors (clauses (a) and (b), collectively, the “Vessel Restructuring”), and (c) make certain other amendments to the Credit Agreement as provided herein, to which the Administrative Agent and the Lenders are willing to agree, on and subject to the terms and conditions provided herein; and
+
+WHEREAS, Holdings, the Borrowers, the other Loan Parties, the Administrative Agent and the Lenders party hereto desire to amend the Credit Agreement as provided herein.
+
+NOW, THEREFORE, in consideration of the foregoing, the parties hereto hereby agree
+as follows:
+
+SECTION I.    Amendments to the Credit Agreement.    On the Second Amendment Closing Date, the parties hereto agree that the Credit Agreement is hereby amended as set forth in this Section I:
+
+1.Additional Definitions. Section 1.01 of the Credit Agreement is hereby amended by adding the following new definitions to Section 1.01 of the Credit Agreement in the appropriate alphabetical order:
+
+“Revolving Commitment Increase Amount” shall mean $0.
+
+“Second Amendment” shall mean the Second Amendment to ABL Credit Agreement and Consent, dated as of December 21, 2018, by and among Holdings, the Borrowers, the other Loan Parties party thereto, the Administrative Agent and the lenders party thereto.
+
+“Second Amendment Closing Date” shall mean December 21, 2018. “Vessel Sublimit” shall mean $10,000,000.
+2.Deleted Definition. Section 1.01 of the Credit Agreement is hereby amended by deleting the following definition from Section 1.01 of the Credit Agreement:
+
+“Covenant Compliance Period”
+
+3.Amended and Restated Definitions. Each of the following definitions set forth in Section 1.01 of the Credit Agreement are hereby deleted in their entirety and the following inserted in lieu thereof, respectively:
+
+“Affiliate” shall mean, when used with respect to a specified person, another person that directly, or indirectly through one or more intermediaries, Controls or is Controlled by or is under common Control with the person specified; provided, however, that for purposes of Section 6.09, the term “Affiliate” shall also include (i) any person that directly or indirectly owns 15% or more of any class of Equity Interests of the person specified and (ii) any person that is an officer or director of the person specified.
+
+“Borrowing Base” shall mean, at any time and from time to time, an amount equal to the sum of:
+
+(a)    85% of Eligible Receivables of the Borrowers and the Subsidiary Guarantors, plus
+
+(b)    the lesser of (i) 25% of the Net Forced Liquidation Value of Eligible ABL Priority Collateral Vessels of the Borrowers and
+(ii) Vessel Sublimit, minus
+
+(c)    any Reserves established from time to time by the Collateral Agent in the exercise of its Permitted Discretion.
+
+“Immaterial Subsidiary” shall mean (a) as of the Second Amendment Closing Date, each of the Subsidiaries listed on Schedule 3.07(d) that have little or no assets and are in the process of being dissolved or are intended to be dissolved, or (b) as of any date of determination, any Wholly Owned Domestic Restricted Subsidiary of the Administrative Borrower (i) whose total assets (on a consolidated basis including its Restricted Subsidiaries, but excluding the value attributable to any Unrestricted Subsidiary) as of the last day of the most recently ended Test Period for which financial statements have been delivered pursuant to Section 5.01(a) or (b) did not exceed 2.0% of Consolidated Total Assets as of such date or (ii) whose gross revenues (on a consolidated
+
+basis including its Restricted Subsidiaries, but excluding the revenues of any Unrestricted Subsidiary) for such Test Period did not exceed 2.0% of the consolidated gross revenues of the Administrative Borrower and its Restricted Subsidiaries for such period, but excluding the revenues of any Unrestricted Subsidiary; provided, however, (x) a Wholly Owned Domestic Restricted Subsidiary of the Administrative Borrower that no longer meets the foregoing requirements of this definition or is otherwise required to become a Loan Party pursuant to Section 5.10 shall no longer constitute an Immaterial Subsidiary for purposes of this Agreement and
+(y) notwithstanding the foregoing, the Administrative Borrower may elect to cause an Immaterial Subsidiary to become a Loan Party pursuant to Section 5.10, in which case such Immaterial Subsidiary shall, upon satisfaction of the provisions of such Section, no longer constitute an Immaterial Subsidiary. Notwithstanding the foregoing, (i) the total assets (as determined above) of all Immaterial Subsidiaries shall not exceed 5.0% of the Consolidated Total Assets, (ii) the gross revenues (as determined above) of all Immaterial Subsidiaries shall not exceed 5.0% of the consolidated gross revenues of Administrative Borrower and its Restricted Subsidiaries (as determined above) and (iii) any Restricted Subsidiary of the Administrative Borrower that guarantees or is an obligor of the Indebtedness incurred under this Agreement and the other ABL Loan Documents or the Indebtedness under the Term Loan Documents or Additional Permitted Unsecured Debt Documents shall not be deemed an Immaterial Subsidiary.
+
+“LC Commitment” shall mean the commitment of the Issuing Bank to issue Letters of Credit pursuant to Section 2.17. The amount of the LC Commitment shall be $5,000,000 on the Second Amendment Closing Date, but in no event shall the LC Commitment exceed the Total Revolving Commitments.
+
+“Maturity Date” shall mean August 2, 2019; provided, however, that with respect to any Extended Revolving Commitments (and any related outstandings), the Maturity Date with respect thereto instead shall be the final maturity date as specified in the applicable Extension Amendment.
+
+“Petrobras Hire” shall mean all charter hire and other sums payable by Petrobras America Inc., as charterer, to Overseas ST Holdings LLC, as owner, pursuant to that certain Time Charter Party, dated October 4, 2007, as such charter may be amended, amended and restated, extended, replaced, supplemented or otherwise modified from time to time, in respect of the vessel named OVERSEAS CASCADE.
+
+“Revolving Commitment” shall mean, with respect to each Lender, the commitment of such Lender to make Revolving Loans hereunder up to the amount set forth on Annex I hereto or on Schedule 1 to the Assignment and Acceptance pursuant to which such Lender assumed its Revolving Commitment, as applicable, as the same may be (a) reduced from time to time pursuant to Section 2.07, (b) increased from time to time pursuant to Section 2.21, and (c) reduced or increased from time to time pursuant to assignments by or to such Lender pursuant to Section
+
+11.04. In addition, the Revolving Commitment of each Lender shall include any Extended Revolving Commitments of such Lender. The aggregate principal amount of the Lenders’ Revolving Commitments on the Second Amendment Closing Date is $30,000,000.
+
+“Specified ABL Accounts” shall mean each Deposit Account and Security Account (including the OSG Bulk Ships, Inc. Concentration Account and the Specified Disbursement Account) (in either case, which may include a Residual Bank Account) into which proceeds of ABL Priority Collateral are paid (or required to be paid) or into which proceeds of Loans are disbursed, but shall exclude the Excluded Accounts and the Specified Term Loan Account.
+
+“Specified Term Loan Account” shall mean that certain Deposit Account into which the Petrobras Hire is required to be paid pursuant to Section 5.16(h) of the Term Loan Credit Agreement.
+
+“Term Loan Administrative Agent” shall mean PGIM, Inc., in its capacity as the administrative agent under the Term Loan Documents, or any successor administrative agent under the Term Loan Documents.
+
+“Term Loan Collateral Agent” shall mean PGIM, Inc., in its capacity as the collateral agent and mortgage trustee under the Term Loan Documents, or any successor collateral agent and mortgage trustee under the Term Loan Documents.
+
+“Term Loan Credit Agreement” shall mean the Term Loan Credit Agreement, dated as of the Second Amendment Closing Date, among Holdings, the Administrative Borrower, the Co-Borrowers, the Subsidiary Guarantors party thereto, the Subsidiaries of Holdings party thereto, the lenders party thereto from time to time, the Term Loan Administrative Agent, the Term Loan Collateral Agent, and the other agents and arrangers party thereto.
+
+“Test Period” shall mean each period of the twelve (12) consecutive fiscal months of the Administrative Borrower most recently ended (in each case taken as one accounting period).
+
+“Total Revolving Commitment” shall mean the aggregate principal amount of all Revolving Commitments, which as of the Second Amendment Closing Date is in the aggregate amount of $30,000,000.”
+
+4.Eligible Receivables. The definition of “Eligible Receivables” set forth in Section 1.01 of the Credit Agreement is hereby amended by (a) deleting “; or” at the end of clause (q) and replacing it with a semicolon, (b) deleting the period at the end of clause (r) and replacing it with “; or”, and (c) adding the following new clause (s) immediately following clause (r) therein:
+
+“(s) such Receivable consists of demurrage or other incremental charges owed by a Customer.”
+
+5.Currency Equivalents Generally. Section 1.07(b) of the Credit Agreement is hereby deleted in its entirety and the following inserted in lieu thereof:
+
+“(b) For purposes of determining the Consolidated Fixed Charge Coverage Ratio and the Total Leverage Ratio, amounts denominated in a currency other than Dollars will be converted to Dollars for the purposes of (A) testing the financial covenant under Section 6.10, at the Exchange Rate in respect thereof as of the last day of the fiscal quarter for which such measurement is being made, and (B) calculating any Consolidated Fixed Charge Coverage Ratio and the Total Leverage Ratio (other than for the purposes of determining compliance with Section 6.10), at the Exchange Rate as of the date of calculation, and will, in the case of Indebtedness, reflect the currency translation effects, determined in accordance with GAAP, of Swap Obligations permitted hereunder for currency exchange risks with respect to the applicable currency in effect on the date of determination of the Dollar equivalent of such Indebtedness.”
+
+6.Increases of the Revolving Commitments.    Section 2.21(a)(i) of the Credit Agreement is hereby deleted in its entirety and the following inserted in lieu thereof:
+
+“(i) the aggregate principal amount of the increases in the Revolving Commitments pursuant to this Section 2.21 shall not exceed the Revolving Commitment Increase Amount and the aggregate principal amount of any requested increase shall be in a minimum amount of
+$1,000,000 (or such lower amount that represents all remaining availability pursuant to this Section 2.21);”
+
+7.Notice of Cash Dominion Period. Section 5.01(l) of the Credit Agreement is hereby deleted in its entirety and the following inserted in lieu thereof:
+
+“(l) Notice of Cash Dominion Period. Promptly, and in any event within two Business Days after any Loan Party’s knowledge of the commencement thereof, notice of the commencement of a Cash Dominion Period;”
+
+8.Additional ABL Priority Collateral Vessel.    Section 5.10(f) of the Credit Agreement is hereby deleted in its entirety and the following inserted in lieu thereof:
+
+“(f) Promptly after, and in any event within 45 days (as such date may be extended by the Administrative Agent in its sole discretion) of, (i)(A) the acquisition by a Borrower or a Subsidiary Guarantor of a Vessel after the Closing Date (other than an Excluded Vessel), (B) any person that owns a vessel (other than a vessel that would be an Excluded Vessel) becoming a Borrower or Subsidiary Guarantor hereunder after the Closing Date or (C) any Excluded Vessel of a Borrower or a Subsidiary Guarantor ceasing to be an Excluded Vessel, in each case under the foregoing clauses (A), (B) and (C), to the extent permitted under the terms of the Term Loan Credit Agreement, grant to the Mortgage Trustee a security interest in and Collateral Vessel Mortgage on such Vessel, or (ii) the acquisition by a Borrower or a Subsidiary
+
+Guarantor of a substitute Vessel (other than an Excluded Vessel) acquired by such Borrower or such Subsidiary Guarantor in replacement of an ABL Priority Collateral Vessel after the Second Amendment Closing Date, using proceeds advanced hereunder or proceeds from the sale or Total Loss (as defined in the Term Loan Credit Agreement) of an ABL Priority Collateral Vessel, grant to the Mortgage Trustee a security interest in and Collateral Vessel Mortgage on such Vessel. Such Collateral Vessel Mortgage shall be granted pursuant to documentation reasonably satisfactory in form and substance to the Administrative Agent and the Mortgage Trustee and shall satisfy the provisions of the Vessel Collateral Requirements and such Collateral Vessel Mortgage shall constitute a valid and enforceable perfected First Priority (or, to the extent constituting Term Loan Priority Collateral, Second Priority) Lien subject only to Permitted Collateral Vessel Liens related thereto. In addition, to the extent that Suppressed Availability at such time is less than $10,000,000, the Administrative Borrower shall have the right, with the written consent of the Administrative Agent, to designate such Vessel (other than an Excluded Vessel) as an ABL Priority Collateral Vessel so long as the requirements set forth in the definition of “Eligible ABL Priority Collateral Vessel” contained herein are satisfied (including the delivery to the Administrative Agent of a Vessel Appraisal with respect to such Vessel).”
+
+9.Collateral Field Examinations; Appraisals. Section 5.13 of the Credit Agreement is hereby deleted in its entirety and the following inserted in lieu thereof:
+
+“Section 5.13 Collateral Field Examinations; Appraisals. The Borrowers agree that the Collateral Agent and the Administrative Agent (and their respective agents, representatives and consultants) shall be permitted to conduct collateral field examinations and Vessel Appraisals of the Receivables and ABL Priority Collateral Vessels (and related assets), respectively, in each case, as the Collateral Agent and the Administrative Agent may designate at the Borrowers’ expense. None of the Collateral Agent, the Administrative Agent and the Lenders shall have any duty to any Loan Party to make any inspection, nor to share any results of any inspection or report with any Loan Party. Each of the Loan Parties acknowledges that all inspections and reports are prepared by the Collateral Agent, the Administrative Agent and the Lenders for their purposes and the Loan Parties shall not be entitled to rely upon them.”Financial Covenant. Section 6.10 of the Credit Agreement is
+hereby deleted in its entirety and the following inserted in lieu thereof:
+
+“Section 6.10 Financial Covenant.
+
+Minimum Fixed Charge Coverage Ratio. Commencing with the fiscal month ending January 31, 2019, permit the Fixed Charge Coverage Ratio, measured as of the last day of each Test Period ending on the last day of each fiscal month for which financial statements are required to be delivered pursuant to Section 5.1, to be less than 1.00 to 1.00.”
+
+11.Commitments. Annex I attached to the Credit Agreement is hereby deleted in its entirety and replaced with Annex I to Credit Agreement appended to this Second Amendment as Exhibit A.
+
+12.Vessels; Co-Borrowers; Subsidiary Guarantors; Immaterial Subsidiaries. Schedules 1.01(a), 1.01(c), 1.01(g) and 3.07(d) attached to the Credit Agreement are hereby deleted in their entirety and replaced with Schedules 1.01(a), 1.01(c), 1.01(g) and 3.07(d), respectively, appended to this Second Amendment as Exhibit B.
+
+13.Post-Closing Covenant (Immaterial Subsidiaries). Administrative Borrower and the other Loan Parties hereby covenant and agree that, in the event that any of the Immaterial Subsidiaries designated on Schedule 3.07(d) are not dissolved on or prior to March 31, 2019, the Borrowers shall cause to be delivered to the Lenders each of the items set forth in Sections 4.01(b)(i), 4.01(b)(ii), 4.01(f) and 4.01(i)(i) as they relate to each such entity and shall pay to the Agents and the Lenders on demand all reasonable and documented fees, costs and expenses (including legal fees and expenses of Stradley Ronon Stevens & Young, LLP) incurred by them in connection with their review and comment on the documents and opinions provided. In addition, from the Second Amendment Closing Date until March 31, 2019 (or the earlier dissolution thereof) the Immaterial Subsidiaries designated on Schedule 3.07(d) shall not own or acquire any assets in the amount of $100,000 for any such Immaterial Subsidiary or
+$1,000,000 in the aggregate for all such Immaterial Subsidiaries.
+
+14.Post-Closing Covenant (Quiet Enjoyment Agreement). On or before January 21, 2019, Administrative Borrower and the other Loan Parties hereby covenant and agree to deliver the Quiet Enjoyment Agreement, in form and substance satisfactory to Administrative Agent, duly authorized, executed and delivered by Petrobras America, Inc.
+
+15.Collateral Vessel Mortgages (Field Examination and Inspection Rights). The parties hereto acknowledge confirm and agree that, notwithstanding anything to the contrary set forth in Section 9 of Article II of any of the Collateral Vessel Mortgages, the rights of the Administrative and the Collateral Agent to visit and inspect the any of the Collateral Vessels shall be subject to the terms and conditions set forth in the Credit Agreement, including, without limitation, Section 5.13 of the Credit Agreement (as amended herein).
+
+SECTION II.    Amendment to the Administrative Agent Fee Letter.
+
+1.    Collateral Management and Agency Fee. Section A.2. of the Administrative Agent Fee Letter is hereby deleted in its entirety and the following inserted in lieu thereof:
+
+“2. Collateral Management and Agency Fee. The Borrowers hereby agree, jointly and severally, to pay to the Collateral Agent, for its sole and separate account and not the account of any Lender, while the Credit Agreement remains in effect and for so long thereafter as any of the Obligations are outstanding, a collateral management fee in an amount equal to $5,000 per month in respect of the Collateral Agent’s services for each such month (or part thereof). Such fee shall be fully earned as of and payable in advance on the first day of each month after the Second Amendment Closing Date.”
+
+SECTION III. Consent to Vessel Restructuring.
+
+1.Consent and Agreement. Effective as of the Second Amendment Closing Date, the Administrative Agent and Lenders hereby consent and agree to the Vessel Restructuring and, in connection therewith, agree to (at the sole cost and expense of the Borrowers), execute and/or deliver such other documents and agreements (including, without limitation, a replacement Intercreditor Agreement and Collateral Vessel Mortgages) and take such other actions as may be necessary to effect or evidence the Vessel Restructuring and the consummation of the Replacement Term Loan Facility, but without representation, warranty or recourse to the Administrative Agent or the Lenders of any kind and at the sole cost and expense of the Borrowers. Administrative Agent agrees to direct and empower its special maritime counsel, Thompson Coburn LLP, to (a) promptly following receipt of notification by PGIM, Inc., as collateral agent and mortgage trustee for the Replacement Term Loan Lenders, that it has received evidence from the National Vessel Documentation Center that the first preferred mortgages on the Term Loan Priority Collateral Vessels have been filed, file with the United States Coast Guard, National Vessel Documentation Center, second preferred mortgages on the Term Loan Priority Collateral Vessels, and (b) promptly upon receipt from the National Vessel Documentation Center that the second preferred mortgages on the Term Loan Priority Collateral Vessels have been filed, file with the United States Coast Guard, National Vessel Documentation Center, releases of mortgage, in the form previously prepared by the Collateral Agent, releasing the Collateral Agent’s existing first priority mortgage on each such Term Loan Priority Collateral Vessel.
+
+2.Vessel Appraisal. On or before February 15, 2019, Administrative Borrower and the other Loan Parties hereby covenant and agree to deliver to the Administrative Agent and Collateral Agent (and their respective agents, representatives and consultants) Vessel Appraisals of the ABL Priority Collateral Vessels.
+
+SECTION IV. Effectiveness. This Second Amendment shall become effective as of the date on which the following conditions have been satisfied in a manner reasonably satisfactory to the Administrative Agent:
+
+1.the Administrative Agent shall have received copies of signature pages to this Second Amendment, duly executed and delivered (including by way of facsimile or other electronic transmission) by the Administrative Agent, the Lenders and the Loan Parties;
+
+2.the Administrative Agent shall have received properly executed counterparts of each of (a) the Intercreditor Agreement and (b) the Amended and Restated Blocked Account Control Agreement among the Administrative Agent, the Term Loan Collateral Agent, JPMorgan Chase Bank, N.A., as depository, and the Administrative Borrower, as company;
+
+3.the Administrative Agent shall have received a letter, in form and substance reasonably satisfactory to the Administrative Agent, from the Existing Term Loan Administrative Agent, respecting the amount necessary to repay in full all of the obligations of the Loan Parties and their Affiliates owing under the Existing Term Loan Credit Facility and obtain a release of all of the Liens existing in favor of Existing Term Loan Administrative Agent in and to the assets of the Loan Parties and their Affiliates, together with termination statements and other documentation evidencing the termination by the Existing Term Loan Administrative Agent of its Liens in and to the properties and assets of Loan Parties and their Affiliates;
+
+4.the Collateral Agent, for the benefit of the Secured Parties, shall have been granted Second Priority Liens and security interests in the Vessels now constituting Term Loan Priority Collateral;
+
+5.each of the Collateral Vessel Mortgages required to be recorded on the Second Amendment Closing Date shall have been executed and delivered to the Mortgage Trustee for submission to the National Vessel Documentation Center for filing and recording, and all actions reasonably necessary or advisable in connection therewith shall have been taken;
+
+6.the Administrative Agent shall have received true and correct copies of the Term Loan Credit Agreement, duly executed and delivered (including by way of facsimile or other electronic transmission) by the Term Loan Administrative Agent, the lenders party thereto and the Loan Parties party thereto;
+
+7.
+the Administrative Agent shall have received with respect to each Collateral
+Vessel:
+
+(a)    certified copies of all technical management agreements and commercial management agreements, if any, and all pooling agreements and charter contracts having a remaining term in excess of 6 months;
+
+(b)    a confirmation of class certificate issued by an Approved Classification Society showing such Collateral Vessel to be free of overdue recommendations, issued not more than 10 days prior to the Second Amendment Closing Date, and copies of all ISM and ISPS Code documentation for such Collateral Vessel and its owner or manager, as appropriate, which shall be valid and unexpired;
+
+(c)    a Certificate of Ownership (CG-1330) confirming documentation of such Collateral Vessel under the law and flag of the United States, the record owner of the Collateral Vessel and all Liens of record (which shall be only Permitted Collateral Vessel Liens or Liens to be discharged on or prior to the Second Amendment Closing Date) for such Collateral Vessel, such certificate to be issued not earlier than 30 days prior to the Second Amendment Closing Date, and reasonably satisfactory to the Administrative Agent; and
+
+(d)    a report, addressed to and in form and scope reasonably acceptable to the Administrative Agent, from a firm of marine insurance brokers reasonably acceptable to the Administrative Agent (including Marsh and Willis), confirming the particulars and placement of the marine insurances covering the Collateral Vessels and their compliance with the provisions hereunder, the endorsement of loss payable clauses and notices of assignment on the policies, and containing such other confirmations and undertakings as are customary in the New York market.
+
+8.the Administrative Agent shall have received, on behalf of itself, the other Agents, the Lenders and the Issuing Bank, a favorable written opinion from William G. Gotimer, Jr., Esq., special maritime counsel for the Loan Parties, in form and substance reasonably satisfactory to the Administrative Agent, (a) dated the Second Amendment Closing Date, (b) addressed to the Administrative Agent, the Issuing Bank and the Lenders (and allowing for reliance by their permitted successors and assigns on customary terms) and (c) covering such matters relating to the Second Amendment, the Collateral Vessel Mortgages and the other transactions contemplated hereunder;
+
+9.(a) no Default shall have occurred and be continuing on the date hereof or would occur after giving effect to this Second Amendment, and (b) both immediately before and after giving effect to this Second Amendment, each of the representations and warranties made by any Loan Party set forth in Article III of the Credit Agreement or in any other ABL Loan Document shall be true and correct in all material respects (or true and correct in all respects in the case of representations and warranties qualified by materiality or Material Adverse Effect) on and as of the date hereof with the same effect as though made on and as of such date, except to the extent such representations and warranties expressly
+
+relate to an earlier date (in which case such representations and warranties shall be true and correct in all material respects (or true and correct in all respects in the case of representations and warranties qualified by materiality or Material Adverse Effect) on and as of such earlier date);
+
+10.
+the Administrative Agent shall have received an amendment fee in the amount of
+$75,000.00, which fee shall be fully earned and payable as of the date of this Second Amendment; and
+
+11.the Borrowers shall have paid to the Administrative Agent and its Affiliates, all costs, fees and expenses (including legal fees and expenses of Stradley Ronon Stevens & Young, LLP) owing in connection with this Second Amendment and the other ABL Loan Documents to the extent invoiced (in the case of costs and expenses) at least one Business Day prior to the date hereof.
+
+SECTION V.    Miscellaneous Provisions.
+
+1.Except as expressly provided herein, (a) the Credit Agreement and the other ABL Loan Documents shall be unmodified and shall continue to be in full force and effect in accordance with their terms, and (b) this Second Amendment shall not be deemed a waiver or modification of any other term or condition of any ABL Loan Document and shall not be deemed to prejudice any right or rights which Administrative Agent or any Lender may now have or may have in the future under or in connection with any ABL Loan Document or any of the instruments or agreements referred to therein, as the same may be amended from time to time.
+
+2.This Second Amendment may be executed in any number of counterparts and by the different parties hereto on separate counterparts, each of which counterparts when executed and delivered shall be an original, but all of which shall together constitute one and the same instrument. Delivery by facsimile or electronic transmission of an executed counterpart of a signature page to this Second Amendment shall be effective as delivery of an original executed counterpart of this Second Amendment.
+
+3.THIS SECOND AMENDMENT AND THE RIGHTS AND OBLIGATIONS OF THE PARTIES HEREUNDER SHALL BE CONSTRUED IN ACCORDANCE WITH AND GOVERNED BY THE LAWS OF THE STATE OF NEW YORK, AND THE PROVISIONS OF THE CREDIT AGREEMENT UNDER THE HEADING “GOVERNING LAW; JURISDICTION; CONSENT TO SERVICE OF PROCESS”, AS SET FORTH IN SECTION 11.09 OF THE CREDIT AGREEMENT, ARE INCORPORATED HEREIN BY THIS REFERENCE.
+
+4.From and after the date hereof, (a) all references in the Credit Agreement and each of the other ABL Loan Documents to the Credit Agreement shall be deemed to be references to the Credit Agreement, as modified hereby, and (b) this Second Amendment shall be deemed to constitute a “ABL Loan Document” for all purposes of the Credit Agreement.
+
+[Remainder of page left intentionally blank.]
+
+
+IN WITNESS WHEREOF, the parties hereto have caused their duly authorized officers to execute and deliver this Second Amendment as of the date first above written.
+OVERSEAS SHIPHOLDING GROUP, INC.,
+As Holdings and a Guarantor
+By:_____________________
+Name: Richard Trueblood
+Title: Chief Financial Officer
+
+OSG BULK SHIPS, INC.,
+As the Administrative Borrower and a Guarantor
+By:___________________________
+Name: Richard Trueblood
+Title: Chief Financial Officer
+0SG242LLC
+0SG243 LLC
+OSG COLUMBIA LLC
+OSG INDEPENDENCE LLC
+Each, as Co-Borrower and as a Subsidiary Guarantor
+By:______________________________
+Name: Richard Trueblood
+Title:    Authorized Signatory
+
+
+OSG AMERICA L.P.
+By: OSG AMERICA LLC
+Its: General Partner
+                        OSG AMERICA LLC
+As a Subsidiary Guarantor
+
+
+By:         _________________
+Name: Richard Trueblood
+Title:    Chief Financial Officer
+
+
+[SIGNATURES CONTINUED FROM PREVIOUS PAGE]
+
+
+MARITRANS OPERATING COMPANY L.P. By: MARITRANS GENERAL PARTNER INC.
+Its: General Partner
+
+MARITRANS GENERAL PARTNER INC.
+As a Subsidiary Guarantor
+By: _________________________________
+Name: Richard Trueblood
+Title: Chief Financial Officer
+
+OSG SHIP MANAGEMENT, INC.,
+As a Subsidiary Guarantor
+By: ____________________________
+Name: Richard Trueblood
+Title: Chief Financial Officer
+
+[SIGNATURES CONTINUED FROM PREVIOUS PAGE]
+
+
+OSG209LLC OSG 214 LLC OSG244LLC
+OSG COURAGEOUS LLC OSG ENDURANCE LLC OSG ENTERPRlSE LLC OSG HONOUR LLC
+OVERSEAS ST HOLDING LLC
+OSG AMERlCA OPERATING COMPANY LLC OSG DELAWARE BAY LIGHTERlNG LLC OSG MARITRANS PARENT LLC
+OSG PRODUCT TANKERS AVTC, LLC OVERSEASANACORTES LLC OVERSEAS BOSTON LLC
+OVERSEAS HOUSTON LLC OVERSEAS LONG BEACH LLC OVERSEASLOS ANGELES LLC OVERSEAS MARTINEZ LLC OVERSEAS NEW YORK LLC OVERSEAS NIKISKl LLC OVERSEAS TAMPALLC OVERSEAS TEXAS CITY LLC
+
+Each, as a Subsidiary Guarantor
+By: ________________________
+Name: Richard Trueblood
+
+Title:    Authorized Signatory
+
+[SIGNATURES CONTINUED FROM PREVIOUS PAGE]
+
+
+WELLS FARGO BANK, NATIONAL ASSOCIATION,
+as Administrative Agent and a Lender
+By: _______________________________
+Name: Marie A. Turner    
+Title: Authorized Signatory
+
+Exhibit A to
+Second Amendment to ABL Credit Agreement and Consent Initial Lenders and Commitments
+ANNEX I
+
+Initial Lenders and Revolving Commitments
+
+
+Lender
+
+Address for Notices
+Amount of Revolving Commitment
+Wells Fargo Bank, National
+100 Park Avenue, 14th Floor
+$30,000,000
+Association
+New York, New York 10017
+    Attention: Loan Portfolio Manager – OSG
+    Bulk Ships, Inc.
+    Telephone: 212-545-4346
+    Fax: 212-545-4555
+    Email: thomas.grabosky@wellsfargo.com
+    marie.a.turner@wellsfargo.com
+ 
+Exhibit B to
+Second Amendment to ABL Credit Agreement and Consent Vessels; Co-Borrowers
+
+Schedule 1.01(a) Vessels
+All Vessels shown on this schedule are documented under the laws of the United States.
+
+ABL Priority Collateral Vessels
+
+
+  Vessel Name
+US Official Number
+Description
+Documented Owner
+1.
+OSG 242
+636104
+ATB Barge
+OSG 242 LLC
+2.
+OSG 243
+646669
+ATB Barge
+OSG 243 LLC
+3.
+OSG Columbia
+641135
+ATB Tug
+OSG Columbia LLC
+4.
+OSG Independence
+620723
+ATB Tug
+OSG Independence LLC
+
+
+Term Loan Priority Collateral Vessels
+
+
+  Vessel Name
+US Official Number
+Description
+Documented Owner
+1
+Overseas Cascade
+1221232
+Shuttle Tanker
+Overseas ST Holding LLC
+2
+OSG 209
+624039
+ATB Barge
+OSG 209 LLC
+3
+OSG 214
+565314
+ATB Barge
+OSG 214 LLC
+4
+OSG 244
+532585
+ATB Barge
+OSG 244 LLC
+5
+OSG Courageous
+1231405
+ATB Tug
+OSG Courageous LLC
+6
+OSG Endurance
+1231406
+ATB Tug
+OSG Endurance LLC
+7
+OSG Enterprise
+587753
+ATB Tug
+OSG Enterprise LLC
+8
+OSG Honour
+565902
+ATB Tug
+OSG Honour LLC
+9
+Overseas Chinook
+1226143
+Shuttle Tanker
+Overseas ST Holding LLC
+10
+OSG 350
+1223554
+ATB Barge
+OSG Delaware Bay Lightering LLC
+11
+OSG 351
+1229615
+ATB Barge
+OSG Delaware Bay Lightering LLC
+12
+OSG Horizon
+1229614
+ATB Tug
+OSG Delaware Bay Lightering LLC
+13
+OSG Vision
+1216365
+ATB Tug
+OSG Delaware Bay Lightering LLC
+
+Excluded Vessels
+
+None.
+
+
+Demise Chartered Vessels
+
+
+
+  Vessel Name
+US Official Number
+Description
+Bareboat Charterer
+1
+Overseas Anacortes
+1225545
+Aker BBCP
+Overseas Anacortes LLC
+2
+Overseas Boston
+1207239
+Aker BBCP
+Overseas Boston LLC
+3
+Overseas Houston
+1190626
+Aker BBCP
+Overseas Houston LLC
+4
+Overseas Long Beach
+1197822
+Aker BBCP
+Overseas Long Beach LLC
+5
+Overseas Los Angeles
+1197824
+Aker BBCP
+Overseas Los Angeles LLC
+6
+Overseas Martinez
+1223293
+Aker BBCP
+Overseas Martinez LLC
+7
+Overseas Nikiski
+1215187
+Aker BBCP
+Overseas Nikiski LLC
+8
+Overseas New York
+1197823
+Aker BBCP
+Overseas New York LLC
+9
+Overseas Tampa
+1225533
+Aker BBCP
+Overseas Tampa LLC
+10
+Overseas Texas City
+1207236
+Aker BBCP
+Overseas Texas City LLC
+
+Schedule 1.01(c) Co-Borrowers
+
+1.
+OSG 242 LLC
+2.
+OSG 243 LLC
+3.
+OSG Columbia LLC
+4.
+OSG Independence LLC
+
+Schedule 1.01(g) Subsidiary Guarantors
+
+1.
+Maritrans General Partner Inc.
+2.
+Maritrans Operating Company L.P.
+3.
+OSG 209 LLC
+4.
+OSG 214 LLC
+5.
+OSG 242 LLC
+6.
+OSG 243 LLC
+7.
+OSG 244 LLC
+8.
+OSG America L.P.
+9.
+OSG America LLC
+10.
+OSG America Operating Company LLC
+11.
+OSG Columbia LLC
+12.
+OSG Courageous LLC
+13.
+OSG Delaware Bay Lightering LLC
+14.
+OSG Endurance LLC
+15.
+OSG Enterprise LLC
+16.
+OSG Honour LLC
+17.
+OSG Independence LLC
+18.
+OSG Maritrans Parent LLC
+19.
+OSG Product Tankers AVTC, LLC
+20.
+OSG Ship Management, Inc.
+21.
+Overseas Anacortes LLC
+22.
+Overseas Boston LLC
+23.
+Overseas Houston LLC
+24.
+Overseas Long Beach LLC
+25.
+Overseas Los Angeles LLC
+26.
+Overseas Martinez LLC
+27.
+Overseas New York LLC
+28.
+Overseas Nikiski LLC
+29.
+Overseas ST Holding LLC
+30.
+Overseas Tampa LLC
+31.
+Overseas Texas City LLC
+
+Schedule 3.07(d) Immaterial Subsidiaries
+
+Note: All balances are per the Company’s books and records.
+
+    As of December 31, 2018
+  Company
+Total Assets
+1.
+OSG Product Tankers I, LLC
+
+$0
+
+2.
+OSG Product Tankers II, LLC
+
+$0
+
+3.
+OSG Product Tankers Member LLC
+
+$0
+
+4.
+OSG Product Tankers, LLC
+
+$0
+
+5.
+OSG 192 LLC
+
+$0
+
+6.
+OSG 252 LLC
+
+$0
+
+7.
+OSG 254 LLC
+
+$0
+
+8.
+OSG Intrepid LLC
+
+$0
+
+9.
+OSG Navigator LLC
+
+$0
+
+  Total
+
+$0

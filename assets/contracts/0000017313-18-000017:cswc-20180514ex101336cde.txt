@@ -1,0 +1,92 @@
+EX-10.1 2 cswc-20180514ex101336cde.htm EX-10.1
+Exhibit 10.1
+Execution Version
+  INCREMENTAL ASSUMPTION AGREEMENT
+dated as of May 11, 2018,
+made by
+ING CAPITAL LLC,
+  as  Increasing Lender,
+  relating to the
+SENIOR SECURED REVOLVING CREDIT AGREEMENT
+dated as of August 30, 2016,
+among
+CAPITAL SOUTHWEST CORPORATION,
+ as Borrower,
+  the Lenders from time to time party thereto,
+ING CAPITAL LLC,
+ as Administrative Agent,
+Arranger and Bookrunner
+and
+TEXAS CAPITAL BANK, N.A.,
+ as Documentation Agent,
+          INCREMENTAL ASSUMPTION AGREEMENT, dated as of May 11, 2018 (this “Assumption Agreement”), by and among CAPITAL SOUTHWEST CORPORATION (the “Borrower”), ING CAPITAL LLC (“ING”), in its capacity as Administrative Agent (in such capacity, the “Administrative Agent”), and  ING CAPITAL LLC (the “Increasing Lender”), relating to the SENIOR SECURED REVOLVING CREDIT AGREEMENT, dated as of August 30, 2016 (as amended, restated, supplemented or otherwise modified from time to time, the “Credit Agreement”), among the Borrower, the Administrative Agent, the several lenders from time to time party to the Credit Agreement and TEXAS CAPITAL BANK, N.A., as documentation agent.
+A.The Borrower has requested that the Increasing Lender provide an additional Commitment in an amount equal to $10,000,000 (the “Incremental Commitment”), pursuant to Section 2.06(f) of the Credit Agreement.
+B.The Increasing Lender is willing to make such an Incremental Commitment to the Borrower on the terms and subject to the conditions set forth herein and in the Credit Agreement.
+Accordingly, in consideration of the mutual agreements herein contained and other good and valuable consideration, the sufficiency and receipt of which are hereby acknowledged, the parties hereto agree as follows:
+SECTION 1.    Defined Terms; Interpretation; Etc.    Capitalized terms used and not defined herein shall have the meanings assigned to such terms in the Credit Agreement.  The rules of construction set forth in Section 1.03 of the Credit Agreement shall apply equally to this Assumption Agreement.  This Assumption Agreement shall be a “Loan Document” for all purposes of the Credit Agreement and the other Loan Documents.
+SECTION 2.    Incremental Commitment.  Pursuant to Section 2.06(f) of the Credit Agreement and subject to the terms and conditions hereof, the Increasing Lender hereby agrees to make the Incremental Commitment to the Borrower effective on and as of the Increase Effective Date (as defined below). The Incremental Commitment shall constitute an additional “Commitment” and a “Commitment Increase” for all purposes of the Credit Agreement and the other Loan Documents, and the Increase Effective Date shall be the “Commitment Increase Date” of the Incremental Commitment for purposes of Section 2.06(f) of the Credit Agreement.
+(a) The terms of the Incremental Commitment shall be the same as the other Commitments made under the Credit Agreement. 
+(b) On the Increase Effective Date, in connection with the adjustments to any outstanding Loans and participation interests contemplated by Section 2.06(f)(iv) of the Credit Agreement, the Increasing Lender shall make a payment to the Administrative Agent, for account of the other Lenders, in an amount calculated by the Administrative Agent in accordance with such section, so that after giving effect to such payment and to the distribution thereof to the other Lenders in accordance with such section, the Loans are held ratably by the Lenders in accordance with the respective Commitments of such Lenders (after giving effect to the Incremental Commitment and any other Commitment Increases, if any, occurring on the date hereof).
+SECTION 3.    Conditions Precedent to Incremental Commitment.  This Assumption Agreement, and the obligations of the Increasing Lender to make its Incremental Commitment, shall become effective on and as of the Business Day (the “Increase Effective Date”) occurring on or before May 11, 2018, on which the following conditions precedent have been satisfied:
+2
+  (a) the Administrative Agent shall have received counterparts of this Assumption Agreement that, when taken together, bear the signatures of the Borrower, the Administrative Agent and the Increasing Lender;
+(b) on the date hereof, each of the conditions set forth or referred to in Section 2.06(f)(i) of the Credit Agreement shall be satisfied, and pursuant to Section 2.06(f)(ii)(x) of the Credit Agreement the Administrative Agent shall have received a certificate of a duly authorized officer of the Borrower dated the date hereof certifying as to the foregoing;
+(c) (i) the Increasing Lender shall have received all fees due to such Increasing Lender on the date hereof pursuant to any outstanding fee letters or commitment letters by and between the Borrower and the Increasing Lender, and (ii) ING, in its capacity as the Lead Arranger, shall have received all fees due to it on the date hereof pursuant to any outstanding fee letters by and between the Borrower and ING;
+(d) the Administrative Agent shall have received for the account of the Lenders the amounts, if any, payable under Section 2.13 of the Credit Agreement as a result of the adjustments of Borrowings pursuant to Section 2(c) of this Assumption Agreement; and
+(e) pursuant to Section 9.03 of the Credit Agreement, the Administrative Agent shall have received all other reasonable and documented out-of-pocket fees and expenses related to this Agreement owing on the date hereof.
+SECTION 4.    Representations and Warranties of the Borrower.  To induce the other parties hereto to enter into this Assumption Agreement, the Borrower represents and warrants to the Administrative Agent and the Increasing Lender that, as of the date hereof:
+(a) This Assumption Agreement has been duly authorized, executed and delivered by the Borrower, and constitutes a legal, valid and binding obligation of the Borrower in accordance with its terms, except as enforceability may be limited by applicable bankruptcy, insolvency, reorganization, moratorium or similar laws affecting the enforcement of creditors’ rights generally and by general equitable principles (whether enforcement is sought by proceedings in equity or at law). 
+(b) Each of the representations and warranties made by the Borrower in or pursuant to the Loan Documents are true and correct in all material respects as if made on such date (except to the extent they relate specifically to an earlier date, in which case they are true and correct in all material respects as of such earlier date, and unless a representation or warranty is already qualified by materiality or by Material Adverse Effect, in which case it is true and correct in all respects).
+(c) No Default or Event of Default has occurred and is continuing on the date hereof or shall result from the Incremental Commitment.
+SECTION 5.    Consent and Reaffirmation.  (a) The Borrower agrees that, notwithstanding the effectiveness of this Assumption Agreement, the Guarantee and Security Agreement and each of the other Security Documents continue to be in full force and effect, (b) the Borrower acknowledges that the terms “Revolving Credit Agreement Obligations,” “Guaranteed Obligations” and “Secured Obligations” (each as defined in the Guarantee and Security Agreement) include any and all Loans made now or in the future by the Increasing Lender in respect of the Incremental Commitment and all interest and other amounts owing in respect thereof under the Loan Documents (including all interest and expenses accrued or incurred subsequent to the commencement of any bankruptcy or insolvency proceeding with respect to the Borrower, whether or not such interest or expenses are allowed as a claim in such proceeding), and (c) the Borrower confirms its grant of a security interest in its assets
+3
+ as Collateral for the Secured Obligations, all as provided in the Loan Documents as originally executed (and amended prior to the date hereof and supplemented hereby).  On the Increase Effective Date, each reference in the Credit Agreement to “this Agreement,” “hereunder,” “hereof,” “herein” or words of similar import shall mean and be a reference to the Credit Agreement as modified by this Agreement and each reference in any other Loan Document shall mean the Credit Agreement as modified hereby.
+SECTION 6.    Notices.  All notices hereunder shall be given in accordance with the provisions of Section 9.01 of the Credit Agreement.
+SECTION 7.    Expenses.  The Borrower agrees to pay all reasonable out-of-pocket expenses incurred by the Administrative Agent in connection with this Assumption Agreement in accordance with the Credit Agreement, including the reasonable and documented fees, charges and disbursements of one outside counsel for the Administrative Agent.
+SECTION 8.    Counterparts.  This Assumption Agreement may be executed in any number of counterparts and by different parties hereto in separate counterparts, each of which when so executed and delivered shall be deemed an original, but all such counterparts together shall constitute but one and the same contract.  Delivery of an executed counterpart of a signature page of this Assumption Agreement by facsimile or electronic transmission shall be as effective as delivery of a manually executed counterpart hereof.
+SECTION 9.    Applicable Law; Jurisdiction; Consent to Service of Process; Other.  THIS ASSUMPTION AGREEMENT AND THE RIGHTS AND OBLIGATIONS OF THE PARTIES UNDER THIS ASSUMPTION AGREEMENT SHALL BE GOVERNED BY, AND CONSTRUED AND INTERPRETED IN ACCORDANCE WITH, THE LAW OF THE STATE OF NEW YORK.  THE PROVISIONS OF SECTION 9.09 OF THE CREDIT AGREEMENT (AND ALL OTHER APPLICABLE PROVISIONS OF ARTICLE IX OF THE CREDIT AGREEMENT) ARE HEREBY INCORPORATED BY REFERENCE.
+SECTION 10.    Headings.  The headings of this Assumption Agreement are for purposes of reference only and shall not limit or otherwise affect the meaning hereof.
+SECTION 11.    No Third Party Beneficiaries.  This Assumption Agreement is intended to be solely for the benefit of the parties hereto and is not intended to confer any benefits upon, or create any rights in favor of, any other person or entity.  No person or entity other than the parties hereto shall have any rights under or be entitled to rely upon this Assumption Agreement.
+SECTION 12.    Acknowledgments.  Pursuant to Section 2.06(f)(i)(C) of the Credit Agreement, each of the Administrative Agent and the Borrower consents to the Commitment Increase provided for herein.  For the avoidance of doubt, pursuant to Section 2.06(f)(iv) of the Credit Agreement, the Borrower hereby acknowledges, and consents to the fact, that the Increase Effective Date (and thereby the Commitment Increase Date with respect to the Incremental Commitment provided for herein) may occur on a day other than the last day of an Interest Period.
+[Remainder of page intentionally left blank]
+  4
+    IN WITNESS WHEREOF, the parties hereto have caused this Assumption Agreement to be duly executed and delivered by their proper and duly authorized representatives as of the day and year first above written.
+  CAPITAL SOUTHWEST CORPORATION,  
+  as Borrower
+          By:
+/s/ Michael Sarner
+  Name:
+Michael Sarner
+  Title:
+Chief Financial Officer
+  [Signature Page to Incremental Assumption Agreement]
+            ING CAPITAL LLC,
+  as Administrative Agent
+          By:
+/s/ Patrick Frisch
+  Name:
+Patrick Frisch
+  Title:
+Managing Director
+          By:
+/s/ Grace Fu
+  Name:
+Grace Fu
+  Title:
+Director
+  [Signature Page to Incremental Assumption Agreement]
+            ING CAPITAL LLC,
+  as Increasing Lender
+          By:
+/s/ Patrick Frisch
+  Name:
+Patrick Frisch
+  Title:
+Managing Director
+          By:
+/s/ Grace Fu
+  Name:
+Grace Fu
+  Title:
+Director
+  [Signature Page to Incremental Assumption Agreement]

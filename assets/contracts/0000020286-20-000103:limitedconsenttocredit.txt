@@ -1,0 +1,108 @@
+EX-10.7 2 limitedconsenttocredit.htm EX-10.7
+
+LIMITED CONSENT TO CREDIT AGREEMENT
+THIS LIMITED CONSENT TO CREDIT AGREEMENT (this “Consent”), dated as of December 11, 2020, is entered into by and among Cincinnati Financial Corporation, an Ohio corporation (the “Company”), CFC Investment Company, an Ohio corporation (“CFC-I” and together with the Company, each a “Borrower” and together, the “Borrowers”), the Lenders party hereto, and PNC BANK, NATIONAL ASSOCIATION, in its capacity as administrative agent for the Lenders under the Credit Agreement (the “Administrative Agent”). Unless otherwise specified herein, capitalized terms used in this Consent shall have the meanings ascribed to them in the Credit Agreement (as hereinafter defined) as amended hereby.
+A.    WHEREAS, the Administrative Agent, the Lenders and the Borrowers are parties to that certain Amended and Restated Credit Agreement, dated as of May 13, 2014 (as amended, restated, supplemented or otherwise modified prior to the date hereof, the “Credit Agreement”); and
+B.     WHEREAS, the Borrowers have requested that the Administrative Agent and each of the Lenders consent to the Extension described below, and, subject to the terms and conditions set forth herein, the Administrative Agent and each of the Lenders have agreed to consent to the Extension as set forth herein.
+NOW, THEREFORE, for and in consideration of the premises and mutual agreements herein contained and for the purposes of setting forth the terms and conditions of this Consent and for other valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto, intending to be bound, hereby agree as follows:
+1.    Limited Consent.
+(a)    Pursuant to Section 2.13(i) of the Credit Agreement, each of the Lenders party hereto consents to the extension of the Expiration Date to February 4, 2026 (the “Extension”).
+(b)    The parties hereto agree that the limited consent set forth in this Section shall be limited precisely as written and, except as expressly set forth in this Section, shall not be deemed to be a consent to any future extension of the Expiration Date or any other amendment, waiver or modification of any other term or condition of the Credit Agreement or any other Loan Document.
+2.    Effectiveness. This Consent shall be deemed to be effective upon receipt by the Administrative Agent of (a) a copy of this Consent duly executed by the Borrowers and each of the Lenders, (b) the receipt by the Administrative Agent of the Upfront Fee described below and (b) payment by the Borrowers to the Administrative Agent of all fees and expenses payable under the Credit Agreement or any other Loan Document, including, without limitation, those set forth in Section 3(b) hereof.
+3.    Fees and Expenses.
+(a)    The Borrowers agree to pay an upfront fee payable to the Administrative Agent for the ratable benefit of the Lenders in an amount equal to 1.5 basis points of the aggregate Revolving Credit Commitments (or $45,000) on the date hereof (the “Upfront Fee”).
+(b)    The Borrowers agree to pay on demand all reasonable out-of-pocket costs and expenses of or incurred by the Administrative Agent, including but not limited to, reasonable fees and disbursements of counsel to the Administrative Agent, in connection with the preparation, negotiation, execution and delivery of this Consent.
+1
+739022338.3 12403011
+
+4.    Representations and Warranties. In order to induce the Administrative Agent and the Lenders to enter into this Consent, Borrowers hereby represent and warrant that (a) the representations, warranties and agreements contained in Article 5 of the Credit Agreement, are true and correct in all material respects on and as of the date hereof, after giving effect to this Consent (it being understood and agreed that any representation or warranty which by its terms is made as of a specified date shall be required to be true and correct in all material respects only as of such specified date); (b) no Event of Default or Potential Default exists on the date hereof, both before and after giving effect to this Consent; (c) the execution, delivery and performance by Borrowers of this Consent have been duly authorized by all necessary corporate and other action and do not and will not require any registration with, amendment or approval of, notice to or action by, any Person (including any federal, foreign, state or local governmental authority) in order to be effective and enforceable; and (d) no Borrower nor any Subsidiary has any claims against Administrative Agent, any Lender or any of their respective partners, stockholders, officers, directors, employees, successors, assignees, affiliates, agents or attorneys of any nature arising out of or related to the Borrowers, the Subsidiaries, any dealings with such Borrower or any of its Subsidiaries, the Collateral, any of the Loan Documents or any transactions pursuant thereto or contemplated thereby or otherwise.
+5.    Ratification. Except as expressly modified by Section 1 of this Consent, all of the terms, provisions and conditions of the Credit Agreement and the other Loan Documents to which the Borrowers are a party shall remain unchanged and in full force and effect. The Credit Agreement and each other Loan Document to which the Borrowers are a party are hereby ratified and confirmed and shall remain in full force and effect according to their terms, as expressly modified by Section 1 of this Consent. The execution, delivery and effectiveness of this Consent shall not operate as a waiver of any right, power or remedy of Administrative Agent or the Lenders under the Credit Agreement or any of the other Loan Documents, or constitute a waiver of any provision of the Credit Agreement or any of the other Loan Documents. This Consent shall not constitute a course of dealing with Administrative Agent or the Lenders at variance with the Credit Agreement or the other Loan Documents such as to require further notice by Administrative Agent or the Lenders to require strict compliance with the terms of the Credit Agreement and the other Loan Documents in the future. The Borrowers acknowledge and expressly agree that Administrative Agent or any of the Lenders reserve the right to, and do in fact, require strict compliance with all terms and provisions of the Credit Agreement and the other Loan Documents
+6.    Governing Law. THIS CONSENT SHALL BE DEEMED TO BE A CONTRACT UNDER THE LAWS OF THE STATE OF OHIO WITHOUT REGARD TO ITS CONFLICT OF LAWS PRINCIPLES.
+7.    Waiver of Jury Trial. EACH PARTY HERETO HEREBY IRREVOCABLY WAIVES, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, ANY RIGHT IT MAY HAVE TO A TRIAL BY JURY IN ANY LEGAL PROCEEDING DIRECTLY OR INDIRECTLY ARISING OUT OF OR RELATING TO THIS CONSENT OR ANY OTHER LOAN DOCUMENT OR THE TRANSACTIONS CONTEMPLATED HEREBY OR THEREBY (WHETHER BASED ON CONTRACT, TORT OR ANY OTHER THEORY). EACH PARTY HERETO (A) CERTIFIES THAT NO REPRESENTATIVE, ADMINISTRATIVE AGENT OR ATTORNEY OF ANY OTHER PERSON HAS REPRESENTED, EXPRESSLY OR OTHERWISE, THAT SUCH OTHER PERSON WOULD NOT, IN THE EVENT OF LITIGATION, SEEK TO ENFORCE THE FOREGOING WAIVER AND (B) ACKNOWLEDGES THAT IT AND THE OTHER PARTIES HERETO HAVE BEEN INDUCED TO ENTER INTO THIS CONSENT AND THE OTHER LOAN DOCUMENTS BY, AMONG OTHER THINGS, THE MUTUAL WAIVERS AND CERTIFICATIONS IN THIS SECTION.
+2
+739022338.3 12403011
+
+8.    Construction. The words “hereof”, “herein”, and “hereunder”, and other words of a similar import refer to this Consent as a whole and not to the individual Sections in which such terms are used. References to Sections and other subdivisions of this Consent are to the designated Sections and other subdivisions of this Consent as originally executed. The headings of this Consent are for convenience only and shall not define or limit the provisions hereof. Where the context so requires, words used in singular shall include the plural and vice versa, and words of one gender shall include all other genders.
+9.    Successors and Assigns. Upon execution and delivery of this Consent, the provisions hereof shall be binding upon and inure to the benefit of the Lenders, the Administrative Agent and the Borrowers and their respective successors and assigns, subject to restrictions on assignment contained in the Credit Agreement and the Loan Documents.
+10.    References. From and after the date hereof, all references in the Credit Agreement and in each of the Loan Documents shall be deemed to be references to the Credit Agreement as amended hereby.
+11.    Counterparts; Facsimile Signatures Binding. This Consent may be executed in counterparts, all of which, when taken together, shall constitute a single instrument. In making proof of this Consent, it shall not be necessary to produce or account for more than one counterpart signed by each party hereto by and against which enforcement hereof is sought. Delivery of an executed counterpart of this Consent by email .pdf, telefax or other electronic method of transmission shall be equally as effective as delivery of an original executed counterpart of this Consent.
+12.    Recitals. The Recitals to this Consent are incorporated herein as an integral part hereto.
+13.    No Prejudice; No Impairment. This Consent shall not prejudice, limit, restrict or impair any rights, privileges, powers or remedies of the Administrative Agent or the Lenders under the Credit Agreement or any other Loan Documents as hereby amended. The Administrative Agent and each Lender reserves, without limitation, all rights which the Administrative Agent and each Lender has now or in the future against any guarantor or endorser of the Obligations.
+[Signatures Immediately Follow]
+
+3
+739022338.3 12403011
+
+IN WITNESS WHEREOF, the undersigned have executed this Limited Consent to Credit Agreement as of the date first written above.
+CINCINNATI FINANCIAL CORPORATION
+
+
+By: /S/ Michael J. Sewell    
+Name: Michael Sewell    
+Title: CFO    
+
+    CFC INVESTMENT COMPANY
+
+
+By: /S/ Michael J. Sewell    
+Name: Michael Sewell    
+Title: CFO    
+
+
+Signature Page to Limited Consent to Credit Agreement
+
+
+PNC BANK, NATIONAL ASSOCIATION, individually and as Administrative Agent
+
+
+By: /S/ Thomas A. McLaughlin    
+Name: Thomas A. McLaughlin    
+Title: Senior Vice President    
+
+
+Signature Page to Limited Consent to Credit Agreement
+
+
+FIFTH THIRD BANK, NATIONAL ASSOCIATION (formerly known as Fifth Third Bank)
+
+
+By: /S/ Michael J. Schaltz    
+Name: Michael J. Schaltz, Jr.    
+Title: Managing Director and Senior Vice President    
+
+
+Signature Page to Limited Consent to Credit Agreement
+
+
+THE HUNTINGTON NATIONAL BANK
+
+
+By: /S/ Greg R. Branstetter    
+Name: Greg R. Branstetter    
+Title: Managing Director    
+
+
+Signature Page to Limited Consent to Credit Agreement
+
+
+U.S. BANK NATIONAL ASSOCIATION
+
+
+By: /S/ Kyle Rinderle    
+Name: Kyle Rinderle    
+Title: Assistant Vice President    
+
+
+Signature Page to Limited Consent to Credit Agreement
+
+
+TRUST BANK, formerly known as Branch Banking and Trust Company
+
+
+By: /S/ Carlos Navarrete    
+Name: J. Carlos Navarrete    
+Title: Director    
+
+
+Signature Page to Limited Consent to Credit Agreement
+    

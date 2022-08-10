@@ -1,0 +1,245 @@
+EX-10.2 3 a20171214-ex102secondamend.htm EXHIBIT 10.2
+
+EXECUTION VERSION
+
+SECOND AMENDMENT AGREEMENT
+THIS SECOND AMENDMENT AGREEMENT, dated as of December 14, 2017 (this “Agreement”), among WESTAR ENERGY, INC., a Kansas corporation (the “Borrower”), KANSAS GAS AND ELECTRIC COMPANY, a Kansas corporation (the “Guarantor”), the several banks and other financial institutions or entities from time to time party to this Agreement (the “Lenders”) and JPMORGAN CHASE BANK, N.A., as administrative agent (in such capacity, the “Administrative Agent”).
+RECITALS
+A.    The Borrower, the banks and other financial institutions party thereto and the Administrative Agent are parties to that certain Fourth Amended and Restated Credit Agreement, dated as of September 29, 2011, as amended by the First Extension Agreement, dated as of July 19, 2013, as further amended by the Second Extension Agreement, dated as of September 18, 2014, as further amended by the Third Extension Agreement, dated as of September 17, 2015 and as further amended by the Amendment Agreement, dated as of December 19, 2016 (as further amended, restated, supplemented or otherwise modified from time to time, the “Credit Agreement”). Capitalized terms used herein without definition shall have the meanings given to them in the Credit Agreement, as they may be modified pursuant to this Agreement.
+B.    Whereas, on May 29, 2016, the Borrower and Great Plains Energy Incorporated, a Missouri Corporation (“Great Plains”) entered into an agreement and plan of merger (the “Original Merger Agreement”), pursuant to which the Borrower was to become a wholly-owned subsidiary of Great Plains.
+C.    Whereas, on July 9, 2017, the Borrower, Great Plains, Monarch Energy Holding, Inc., a Missouri Corporation (“Monarch”), King Energy, Inc., a Kansas corporation (“King Energy”) and, for certain limited purposes, GP Star, Inc., a Kansas corporation, amended and restated the Original Merger Agreement by entering into the Amended and Restated Agreement and Plan of Merger (as amended, restated, supplemented or otherwise modified from time to time, the “Merger Agreement”), pursuant to which (i) Great Plains will merge with and into Monarch, with Monarch being the surviving entity of such merger and (ii) King Energy, a wholly owned subsidiary of Monarch, will merge with and into the Borrower, with the Borrower being the surviving entity of such merger and a wholly owned subsidiary of Monarch (the mergers set forth in clauses (i) and (ii), collectively the “Merger”).
+D.    Whereas, in connection with the Merger, the Borrower has requested certain amendments to the Credit Agreement and the parties hereto are willing to amend the Credit Agreement in the manner provided for herein, subject to the terms and conditions set forth herein.
+STATEMENT OF AGREEMENT
+NOW, THEREFORE, in consideration of the foregoing and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:
+I.AMENDMENT
+The Credit Agreement is hereby amended as follows:
+(i)    Section 1.1 is hereby amended by adding the following defined term in appropriate alphabetical order:
+
+    
+
+““Monarch”: Monarch Energy Holding, Inc., a Missouri Corporation.
+
+(ii)    Section 1.1 is further amended by amending and restating the following definitions in their entireties as follows:
+““Change in Control”: shall be deemed to have occurred if (i) prior to the consummation of the Merger, (a) any “person” or “group” (within the meaning of Rule 13d‑5, as in effect on the date hereof, promulgated by the SEC under the Securities Exchange Act of 1934, as amended (the “Exchange Act”)), shall, after the date hereof, become the “beneficial owner” (within the meaning of Rule 13d‑3, as in effect on the date hereof, promulgated by the SEC under the Exchange Act), of shares representing more than 30% of the aggregate ordinary voting power represented by the issued and outstanding capital stock of the Borrower or (b) a majority of the seats (other than vacant seats) on the board of directors of the Borrower shall at any time be occupied by Persons who are not Continuing Directors and (ii) after giving effect to the Merger, any event or series of events shall occur by which: (a) any “person” or “group” (as such terms are used in Sections 13(d) and 14(d) of the Exchange Act, but excluding any employee benefit plan of Monarch or its Subsidiaries, or any Person acting in its capacity as trustee, agent or other fiduciary or administrator of any such plan) becomes the “beneficial owner” (as defined in Rules 13d‑3 and 13d‑5 under the Exchange Act), directly or indirectly, of thirty-three and one-third percent (33 1/3%) or more of the “voting equity interests” (meaning for this purpose the power under ordinary circumstances to vote for the election of members of the board of directors) of Monarch; or (b) during any period of twelve (12) consecutive months, a majority of the members of the board of directors or other equivalent governing body of Monarch ceases to be composed of individuals (x) who were members of that board or equivalent governing body on the first day of such period, (y) whose election or nomination to that board or equivalent governing body was approved by individuals referred to in clause (x) above constituting at the time of such election or nomination at least a majority of that board or equivalent governing body or (z) whose election or nomination to that board or other equivalent governing body was approved by individuals referred to in clauses (x) and (y) above constituting at the time of such election or nomination at least a majority of that board or equivalent governing body; or (c) Monarch shall cease to own, directly or indirectly, beneficially and of record, 100% of the Capital Stock of the Borrower.”
+““Merger”: collectively, (i) the merger of Great Plains with and into Monarch, with Monarch being the surviving entity of such merger and (ii) the merger of King Energy, Inc., a Kansas corporation and wholly owned subsidiary of Monarch, with and into the Borrower, with the Borrower being the surviving entity of such merger and a wholly owned subsidiary of Monarch, in each case pursuant to the Amended and Restated Agreement and Plan of Merger, dated as of July 9, 2017, by and among the Borrower, Great Plains, Monarch and the other parties party thereto, as it may be amended, restated, supplemented or otherwise modified from time to time.”
+
+(iii)    Section 6.8 is hereby amended and restated in its entirety as follows:
+
+2
+
+6.8    Ownership of KGE. (a) Permit any issued and outstanding Capital Stock of KGE to be owned directly or indirectly, beneficially or of record, by any person other than (x) the Borrower and (y) after the consummation of the Merger, and solely to the extent that the covenant in the preceding clause (x) is satisfied, Monarch, or (b) permit KGE to issue or have outstanding any rights, warrants, options or convertible or exchangeable securities entitling the holders thereof, conditionally or unconditionally, to purchase, subscribe for or otherwise receive shares of Capital Stock of KGE prior to the termination of the Revolving Commitments and the repayment of all Letters of Credit, Revolving Loans and other amounts owing to any Lender or the Administrative Agent hereunder.
+II.    CONDITIONS PRECEDENT
+The amendments pursuant to Section I hereof shall become effective as of the date when, and only when, each of the following conditions precedent shall have been satisfied (the “Effective Date”):
+(i)    The Administrative Agent (or its counsel) shall have received from the Borrower, the Guarantor and from Lenders constituting Required Lenders either (i) a counterpart of this Agreement signed on behalf of such party or (ii) written evidence satisfactory to the Administrative Agent (which may include facsimile or other electronic image scan transmission of a signed signature page of this Agreement) that such party has signed a counterpart of this Agreement.
+(ii)    The Borrower shall have paid all fees and reasonable expenses of the Administrative Agent and the Lenders required under the Credit Agreement and any other Loan Document to be paid on or prior to the Effective Date (including reasonable fees and expenses of counsel) in connection with this Agreement.
+(iii)    The Administrative Agent shall have received a certificate, dated as of the Effective Date and signed by an authorized officer of the Borrower, confirming (i) no Default or Event of Default shall have occurred and be continuing on the Effective Date and after giving effect thereto and (ii) the representations and warranties set forth in Section III hereof, if not qualified as to materiality, shall be true and correct in all material respects and all other representations and warranties set forth in Section III hereof shall be true and correct, in each case on and as of the Effective Date with the same force and effect as if made on or as of the Effective Date (except for those representations and warranties or parts thereof that, by their terms, expressly relate solely to a specific date, in which case such representations and warranties, if not qualified as to materiality, shall be true and correct in all material respects and all such other representations and warranties shall be true and correct, in each case as of such specific date).
+III.    REPRESENTATIONS AND WARRANTIES
+The Borrower represents and warrants to the Administrative Agent and the Lenders that (i) each of the representations and warranties contained in Section 3 of the Credit Agreement, if not qualified as to materiality, are true and correct in all material respects and all other representations and warranties set forth in Section 3 of the Credit Agreement are true and correct, in each case on and as of the Effective Date, both immediately before and after giving effect to this Agreement (except for those representations and warranties
+
+3
+
+or parts thereof that, by their terms, expressly relate solely to a specific date, in which case such representations and warranties, if not qualified as to materiality, shall be true and correct in all material respects and all such other representations and warranties shall be true and correct, in each case as of such specific date), (ii) this Agreement has been duly authorized, executed and delivered by the Borrower and constitutes the legal, valid and binding obligation of the Borrower enforceable against it in accordance with its terms and (iii) no Default or Event of Default shall have occurred and be continuing on the Effective Date, both immediately before and after giving effect to this Agreement.
+IV.    ACKNOWLEDGMENT AND CONFIRMATION OF THE BORROWER AND THE GUARANTOR
+Each of the Borrower and the Guarantor hereby confirms and agrees that after giving effect to this Agreement, the Credit Agreement and the other Loan Documents remain in full force and effect and enforceable against each Loan Party in accordance with their respective terms and shall not be discharged, diminished, limited or otherwise affected in any respect. Each of the Borrower and the Guarantor represents and warrants to the Lenders that it has no knowledge of any claims, counterclaims, offsets, or defenses to or with respect to its obligations under the Loan Documents, or if the Borrower or the Guarantor has any such claims, counterclaims, offsets, or defenses to the Loan Documents or any transaction related to the Loan Documents, the same are hereby waived, relinquished, and released in consideration of the execution of this Agreement. This acknowledgment and confirmation by the Borrower and the Guarantor is made and delivered to induce the Administrative Agent and the Lenders to enter into this Agreement. Each of the Borrower and the Guarantor acknowledges that the Administrative Agent and the Lenders would not enter into this Agreement in the absence of the acknowledgment and confirmation contained herein.
+V.    LIMITED CONSENT
+(i)    Subject to the satisfaction of the conditions set forth in Article II of this Agreement, the Lenders party hereto hereby each offer their limited consent to the Merger until the earlier of the following (each, a “Consent Termination Event”): (i) the “End Date” as defined in the Merger Agreement; (ii) the date the Merger Agreement is validly terminated in accordance with its terms; or (iii) the Merger Agreement is amended or modified or a consent or waiver is provided thereunder in any case in a manner that is materially adverse to the interests of the Lenders after the date hereof.
+(ii)    Upon the occurrence of any Consent Termination Event, (w) the limited consent set forth in Section V(i) hereof shall automatically terminate and be of no further force or effect, (x) all rights and remedies with respect to the matters set forth in Section V(i) hereof of the Administrative Agent and the Lenders under the Credit Agreement and any other Loan Document shall, without any further action by any person, automatically be reinstated as if the limited consent set forth in Section V(i) hereof had not become effective and (y) clause (ii) of the definition of “Change of Control” (as amended by Section I(ii) hereof) shall be deleted and given no further force or effect. This limited consent shall not constitute or be deemed to be a waiver of, consent to or departure from, any other term or provision in the Credit Agreement, which shall continue in full force and effect, nor shall this limited consent constitute a course of dealing among the parties.
+
+4
+
+VI.    MISCELLANEOUS
+(i)    GOVERNING LAW. THIS AGREEMENT AND THE RIGHTS AND OBLIGATIONS OF THE PARTIES UNDER THIS AGREEMENT SHALL BE GOVERNED BY, AND CONSTRUED AND INTERPRETED IN ACCORDANCE WITH, THE LAW OF THE STATE OF NEW YORK (INCLUDING SECTIONS 5‑1401 AND 5‑1402 OF THE NEW YORK GENERAL OBLIGATIONS LAW, BUT EXCLUDING ALL OTHER CHOICE OF LAW AND CONFLICTS OF LAW RULES).
+(ii)    Full Force and Effect. Except as expressly modified hereby, the Credit Agreement and the other Loan Documents shall continue in full force and effect in accordance with the provisions thereof on the date hereof. As used in the Credit Agreement, “hereinafter,” “hereto,” “hereof,” and words of similar import shall, unless the context otherwise requires, mean the Credit Agreement after giving effect to this Agreement. Any reference to the Credit Agreement or any of the other Loan Documents herein or in any such documents shall refer to the Credit Agreement and Loan Documents as modified hereby. This Agreement is limited as specified and shall not constitute or be deemed to constitute an amendment, modification or waiver of any provision of the Credit Agreement except as expressly set forth herein. This Agreement shall constitute a Loan Document under the terms of the Credit Agreement.
+(iii)    Expenses. Without limiting clause (ii) of Section II hereof, the Borrower agrees on demand (i) to pay all reasonable fees and expenses of counsel to the Administrative Agent, and (ii) to reimburse the Administrative Agent for all reasonable out-of-pocket costs and expenses, in each case, in connection with the preparation, negotiation, execution and delivery of this Agreement and the other Loan Documents delivered in connection herewith.
+(iv)    Severability. Any provision of this Agreement that is prohibited or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of such prohibition or unenforceability without invalidating the remaining provisions hereof, and any such prohibition or unenforceability in any jurisdiction shall not invalidate or render unenforceable such provision in any other jurisdiction.
+(v)    Successors and Assigns. This Agreement shall be binding upon, inure to the benefit of and be enforceable by the respective successors and permitted assigns of the parties hereto.
+(vi)    Construction. The headings of the various sections and subsections of this Agreement have been inserted for convenience only and shall not in any way affect the meaning or construction of any of the provisions hereof. The provisions of Section 1.2 of the Credit Agreement are hereby incorporated by reference as if fully set forth herein.
+(vii)    Counterparts. This Agreement may be executed by one or more of the parties to this Agreement on any number of separate counterparts, and all of said counterparts taken together shall be deemed to constitute one and the same instrument. Delivery of an executed signature page of this Agreement by facsimile transmission or by email shall be effective as delivery of a manually executed counterpart hereof.
+
+5
+
+A set of the copies of this Agreement signed by all the parties shall be lodged with the Borrower and the Administrative Agent.
+[signature pages follow]
+
+
+6
+
+
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be executed by their duly authorized officers as of the day and year first above written.
+
+WESTAR ENERGY, INC., as the Borrower
+By:    /s/ Anthony D. Somma    
+Anthony D. Somma
+Senior Vice President, Chief Financial Officer and Treasurer    
+
+KANSAS GAS AND ELECTRIC COMPANY, as the Guarantor
+By:    /s/ Anthony D. Somma    
+Anthony D. Somma
+Vice President and Treasurer
+
+
+
+
+
+[Signature Page to Amendment Agreement]
+
+
+JPMORGAN CHASE BANK, N.A., as Administrative Agent and as a Lender
+
+By:    /s/ Juan J. Javellana    
+Name:    Juan J. Javellana
+Title:    Executive Director
+
+[Signature Page to Amendment Agreement]
+
+
+
+BANK OF AMERICA, N.A., as a Lender
+
+By:    /s/ Alok Jain    
+Name:    Alok Jain
+Title:    Senior Vice President
+
+
+
+[Signature Page to Amendment Agreement]
+
+
+
+BARCLAYS BANK PLC, as a Lender
+
+By:    /s/ Sydney G. Dennis    
+Name:    Sydney G. Dennis
+Title:    Director
+
+
+[Signature Page to Amendment Agreement]
+
+
+
+BNP PARIBAS, as a Lender
+
+By:    /s/ Francis DeLaney    
+Name:    Francis DeLaney
+Title:    Managing Director
+
+
+By:    /s/ Theodore Sheen    
+Name:    Theodore Sheen
+Title:    Director
+
+
+
+[Signature Page to Amendment Agreement]
+
+
+
+CITIBANK, N.A., as a Lender
+
+By:    /s/ Chido Ugochukwu    
+Name:    Chido Ugochukwu
+Title:    Vice President
+
+
+[Signature Page to Amendment Agreement]
+
+
+
+COBANK, ACB, as a Lender
+
+By:    /s/ Dustin Zubke    
+Name:    Dustin Zubke
+Title:    Vice President
+
+
+[Signature Page to Amendment Agreement]
+
+
+
+MUFG Bank, as a Lender
+
+By:    /s/ Cherese Joseph    
+Name:    Cherese Joseph
+Title:    Vice President
+
+[Signature Page to Amendment Agreement]
+
+
+
+Regions Bank, as a Lender
+
+By:    /s/ Ted Tarver    
+Name:    Ted Tarver
+Title:    Vice President
+
+
+[Signature Page to Amendment Agreement]
+
+
+
+TD Bank, N.A., as a Lender
+
+By:    /s/ Shannon Batchman    
+Name:    Shannon Batchman
+Title:    Senior Vice President
+
+
+[Signature Page to Amendment Agreement]
+
+
+
+The Bank of New York Mellon, as a Lender
+
+By:    /s/ Molly C. Homoki    
+Name:    Molly C. Homoki
+Title:    Vice President
+
+
+[Signature Page to Amendment Agreement]
+
+
+
+THE NORTHERN TRUST COMPANY, as a Lender
+
+By:    /s/ John Lascody    
+Name:    John Lascody
+Title:    Vice President
+
+
+[Signature Page to Amendment Agreement]
+
+
+
+UMB Bank, n.a., as a Lender
+
+By:    /s/ Robert P. Elbert    
+Name:    Robert P. Elbert
+Title:    Senior Vice President
+
+
+[Signature Page to Amendment Agreement]
+
+
+
+U.S. BANK NATIONAL ASSOCIATION, as a Lender
+
+By:    /s/ Michael T. Sagges    
+Name:    Michael T. Sagges
+Title:    Vice President
+
+
+[Signature Page to Amendment Agreement]
+
+
+
+Wells Fargo Bank, National Association, as a Lender
+
+By:    /s/ Frederick W. Price    
+Name:    Frederick W. Price
+Title:    Managing Director
+
+
+
+
+
+[Signature Page to Amendment Agreement]

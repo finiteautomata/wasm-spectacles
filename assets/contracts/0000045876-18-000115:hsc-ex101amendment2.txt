@@ -1,0 +1,528 @@
+EX-10.1 2 hsc-ex101amendment2.htm EXHIBIT 10.1
+Exhibit 10.1
+
+
+
+
+
+EXECUTION VERSION
+
+AMENDMENT NO. 2, dated as of June 18, 2018 (this “Amendment Agreement”), among HARSCO CORPORATION, a Delaware corporation (the “Company”), the Subsidiary Guarantors party hereto, CITIBANK, N.A., as Administrative Agent and Collateral Agent and each person set forth on Schedule I hereto (each, an “Incremental Revolving Lender”).
+Reference is made to the Third Amended and Restated Credit Agreement, dated as of November 2, 2016 (as amended by Amendment No. 1 to Credit Agreement, dated as of December 8, 2017, the “Existing Credit Agreement”; the Existing Credit Agreement as amended by this Amendment Agreement, the “Amended Credit Agreement”), among the Company, the Approved Borrowers (as defined therein) from time to time party thereto, the lenders from time to time party thereto (the “Existing Lenders”) and Citibank, N.A., as Administrative Agent and Collateral Agent. Unless otherwise defined herein, terms defined in the Amended Credit Agreement and used herein shall have the meanings given to them in the Amended Credit Agreement.
+WHEREAS, the Company, pursuant to Section 2.24 of the Existing Credit Agreement, has requested the establishment of a $100,000,000 increase in the amount of the Revolving Credit Commitments (the “Incremental Revolving Credit Commitments”);
+WHEREAS, Incremental Revolving Lenders have agreed, upon the terms and subject to the conditions set forth herein, to make available Incremental Revolving Credit Commitments in a principal amount equal to the amount set forth opposite such Incremental Revolving Lender’s name under the heading “Incremental Revolving Credit Commitments” on Schedule I hereto; and
+WHEREAS, all notice requirements set forth in Section 2.24 of the Existing Credit Agreement have been duly provided by the Company or waived by the Administrative Agent and the Incremental Revolving Lenders.
+NOW, THEREFORE, in consideration of the foregoing and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto hereby agree as follows:
+Section 1.Incremental Revolving Credit Commitments.
+
+(a)On the Amendment No. 2 Effective Date (as defined below), each Incremental Revolving Lender shall provide, severally but not jointly, an Incremental Revolving Credit Commitment in a principal amount equal to its Incremental Revolving Credit Commitment as set forth in Schedule I attached hereto. The Revolving Credit Commitments of each Revolving Credit Lender set forth on Annex A to the Existing Credit Agreement shall be amended as set forth on Schedule II attached hereto.
+
+(b)The Incremental Revolving Credit Commitments shall have the same terms as the Revolving Credit Commitments under the Existing Credit Agreement and shall otherwise be subject to the provisions of the Amended Credit Agreement and the other Loan Documents.
+
+
+
+Exhibit 10.1
+
+
+(c)From and after the Amendment No. 2 Effective Date, each Incremental Revolving Lender shall have all of the rights and obligations of a “Revolving Credit Lender” and all Incremental Revolving Credit Commitments shall be “Revolving Credit Commitments,” in each case for all purposes of the Amended Credit Agreement and the other Loan Documents, it being understood that (x) all borrowings, commitment reductions, prepayments and repayments of Revolving Credit Loans made under the Incremental Revolving Credit Commitments shall be made on a ratable basis with the other Revolving Credit Loans under the Amended Credit Agreement and (y) the Incremental Revolving Credit Commitments shall be subject to the provisions set forth in Section 2.24(g) of the Amended Credit Agreement to the extent applicable. For the avoidance of doubt and notwithstanding any provision herein to the contrary, after the Amendment No. 2 Effective Date, the Incremental Revolving Credit Commitments established pursuant to this Amendment Agreement (and the Revolving Credit Loans made pursuant thereto) are to be treated as part of the same series and tranche as the Revolving Credit Commitments (and the Revolving Credit Loans made pursuant thereto) in existence immediately prior to the Amendment No. 2 Effective Date (such Revolving Credit Commitments, the “Existing Revolving Credit Commitments” and such Loans, the “Existing Revolving Credit Loans”) for all purposes under the Amended Credit Agreement, and the Incremental Revolving Credit Commitments (and the Incremental Revolving Credit Loans made pursuant thereto) are to be fungible (for United States federal income tax and all other purposes) with the Existing Revolving Credit Commitments and Existing Revolving Credit Loans.
+
+(d)As of the Amendment No. 2 Effective Date, after giving effect to the incurrence of the Incremental Revolving Credit Commitments, the aggregate principal amount of the Revolving Credit Commitments pursuant to the Amended Credit Agreement shall be $500,000,000.
+
+(e)Each Issuing Lender party hereto consents to the Incremental Revolving Credit Commitments and any Incremental Revolving Lender to the extent required by Section 2.24(d) of the Existing Credit Agreement.
+
+(f)Notwithstanding anything to the contrary contained herein, the initial Interest Period with respect to Revolving Loans deemed to be incurred under Section 2.24(g) of the Amended Credit Agreement on the Amendment No. 2 Effective Date shall commence on the Amendment No. 2 Effective Date and end on June 29, 2018.
+(g)    Effective from and including the Amendment No. 2 Effective Date, the Existing Credit Agreement shall be amended as follows:
+(i)     The definition of “Initial Revolving Credit Commitment” shall be amended and restated in its entirety as follows:
+“Initial Revolving Credit Commitment”: as to any Lender, the obligation of such Lender, if any, to make Revolving Credit Loans and participate in Letters of Credit on the Closing Date.
+(ii)     The definition of “Revolving Credit Commitment” shall be amended by adding the following sentence at the end thereof: “The aggregate amount of the Revolving Credit Commitments as of the Amendment No. 2 Effective Date is $500,000,000.”
+(iii)     Section 2.24(e) is hereby amended by (x) adding the symbol “(i)” after the words “it being understood that” and (y) adding the words “and (ii) Amendment No. 2 constitutes an “Incremental Amendment” with respect to the establishment of the Incremental
+
+
+Exhibit 10.1
+
+
+Revolving Credit Commitment and the Loans provided thereunder as “Incremental Revolving Credit Loans” (subject to the parenthetical in clause (ii) of the proviso to Section 2.24)” at the end of the last sentence thereof.
+Section 2.Representations and Warranties. The Company hereby represents and warrants to the Administrative Agent and each Lender party hereto that (x) no Default or Event of Default has occurred and is continuing on and as of the Amendment No. 2 Effective Date after giving effect hereto and to any extension of credit requested to be made hereunder and under the Amended Credit Agreement on the Amendment No. 2 Effective Date, (y) each of the representations and warranties in each of the Loan Documents is true and correct in all material respects (except that any representation and warranty that is qualified by materiality shall be true and correct in all respects) on and as of the Amendment No. 2 Effective Date after giving effect hereto and to any extension of credit requested to be made hereunder and under the Amended Credit Agreement on the Amendment No. 2 Effective Date (except to the extent such representations and warranties are specifically made as of an earlier date, in which case such representations and warranties were true and correct in all material respects as of such date) and (z) as of the Amendment No. 2 Effective Date, the Mortgaged Properties are as set forth on Schedule III hereto.
+
+Section 3.Effectiveness of this Amendment Agreement. This Amendment Agreement shall become effective as of the date hereof, subject to the satisfaction of the following conditions precedent on such date (the date on which all of such conditions shall first be satisfied, the “Amendment No. 2 Effective Date”):
+(a)the Administrative Agent shall have received in .pdf format (followed promptly by originals) and unless otherwise specified, properly executed by a Responsible Officer of the signing Loan Party and by each other party thereto, each in form and substance reasonably satisfactory to the Administrative Agent and its legal counsel:
+
+(i)counterparts hereof that, when taken together, bear the signatures of the Loan Parties, the Administrative Agent, the Collateral Agent, each Incremental Revolving Lender and each Issuing Lender;
+
+(ii)certificates of good standing from the secretary of state of the state of organization of each Loan Party, customary certificates of resolutions or other action, incumbency certificates and/or other certificates of Responsible Officers of each Loan Party certifying true and complete copies of the organizational documents attached thereto and evidencing the identity, authority and capacity of each Responsible Officer thereof authorized to act as a Responsible Officer in connection with this Amendment Agreement and the other Loan Documents to which such Loan Party is a party or is to be a party on the Amendment No. 2 Effective Date;
+
+(iii)customary legal opinions from (x) Fried, Frank, Harris, Shriver & Jacobson LLP, New York and Delaware counsel to the Loan Parties and (y) the general counsel of the Company, in each case, in form and substance reasonably satisfactory to the Administrative Agent; and
+
+(iv)a certificate of a Responsible Officer (x) demonstrating in reasonable detail that after giving effect to the incurrence of the Incremental Revolving Credit Commitments (assuming a full drawing thereof) and the use of proceeds thereof on a Pro Forma Basis the Company would be in full compliance with the Financial Covenants recomputed as of the end
+
+
+Exhibit 10.1
+
+
+of the most recently ended Test Period and (y) certifying the other conditions in Section 2.24 of the Existing Credit Agreement have been satisfied;
+
+(b)all fees and expenses (in the case of expenses, to the extent invoiced at least three Business Days prior to the Amendment No. 2 Effective Date (except as otherwise reasonably agreed by the Company)) required to be paid hereunder, under the Amended Credit Agreement and under the Engagement Letter, dated as of May 30, 2018, among Citigroup Global Markets Inc. and the Company (and any fee letter referenced in such Engagement Letter) on the Amendment No. 2 Effective Date shall have been paid.
+
+Section 4.Post-Closing Matters. By the date that is ninety (90) days after the Amendment No. 2 Effective Date, as such time period may be extended, from time to time, in the Administrative Agent’s reasonable discretion, not to be unreasonably withheld or delayed, the applicable Loan Party shall deliver to the Administrative Agent, unless otherwise agreed by the Administrative Agent in its sole reasonable discretion, the following items, in form and substance reasonably satisfactory to the Administrative Agent: (i) such amendments to the Mortgages of such Loan Party to the extent reasonably necessary to effectuate the transactions contemplated hereby, (ii) mortgage modification or bring-down endorsements to the applicable loan policies of title insurance, to the extent such endorsements are reasonably available in the applicable jurisdiction, confirming that each of such policies remains in full force and effect notwithstanding the amendment of the obligations secured by the applicable Mortgage, and (iii) such other documentation as may be reasonably requested by the Administrative Agent in connection therewith (including local counsel opinions solely with respect to enforceability of any such amendments to the Mortgages, or to the extent that amendments are not reasonably necessary, confirming that the Mortgages continue in full force and effect as enforceable Liens securing the obligations of the applicable Loan Party, as such obligations have been amended).
+
+Section 5.Effect of Amendment; No Novation. (a)  Except as expressly set forth herein or in the Amended Credit Agreement, this Amendment Agreement shall not by implication or otherwise limit, impair, constitute a waiver of or otherwise affect the rights and remedies of the Lenders or the Agents under the Existing Credit Agreement or any other Loan Document and shall not alter, modify, amend or in any way affect any of the terms, conditions, obligations, covenants or agreements contained in the Existing Credit Agreement or any other provision of the Existing Credit Agreement or of any other Loan Document, all of which are ratified and affirmed in all respects and shall continue in full force and effect.
+
+(b)Nothing herein shall be deemed to entitle the Company to a consent to, or a waiver, amendment, modification or other change of, any of the terms, conditions, obligations, covenants or agreements contained in the Existing Credit Agreement or any other Loan Document in similar or different circumstances.
+
+(c)On and after the Amendment No. 2 Effective Date, each reference in the Existing Credit Agreement to “this Agreement”, “hereunder”, “hereof’, “herein”, or words of like import, and each reference to the “Credit Agreement”, in any other Loan Document shall be deemed a reference to the Amended Credit Agreement. This Amendment Agreement shall constitute a “Loan Document” for all purposes of the Amended Credit Agreement and the other Loan Documents.
+
+(d)The parties hereto hereby consent to the incurrence of the Incremental Revolving Credit Commitments upon the terms and subject to the conditions set forth herein, and in accordance with the recitals to this Amendment Agreement. Upon the Amendment No. 2 Effective Date, all conditions and requirements set forth in the Existing Credit Agreement or the other Loan Documents
+
+
+Exhibit 10.1
+
+
+relating to the effectiveness of this Amendment Agreement and the incurrence of the Incremental Revolving Credit Commitments shall be deemed satisfied.
+
+(e)Nothing contained in this Amendment Agreement, the Amended Credit Agreement or any other Loan Document shall constitute or be construed as a novation of any of the Obligations.
+
+Section 6.Governing Law. THIS AMENDMENT AGREEMENT AND THE RIGHTS AND OBLIGATIONS OF THE PARTIES UNDER THIS AMENDMENT AGREEMENT SHALL BE GOVERNED BY, AND CONSTRUED AND INTERPRETED IN ACCORDANCE WITH, THE LAW OF THE STATE OF NEW YORK.
+
+Section 7.Costs and Expenses. In accordance with, and subject to the limitations of, Section 10.05 of the Amended Credit Agreement, the Company agrees to reimburse the Administrative Agent for its reasonable documented out-of-pocket expenses in connection with this Amendment Agreement, including the reasonable documented fees, charges and disbursements of counsel for the Administrative Agent.
+
+Section 8.Counterparts. This Amendment Agreement may be executed in any number of counterparts and by different parties hereto in separate counterparts, each of which when so executed and delivered shall be deemed an original, but all such counterparts together shall constitute but one and the same instrument. Delivery of any executed counterpart of a signature page of this Amendment Agreement by facsimile or electronic transmission shall be as effective as delivery of a manually executed counterpart hereof.
+
+Section 9.Titles. In connection with the Amendment Agreement, Citibank, N.A., Goldman Sachs Bank USA, HSBC Securities (USA) Inc., Merrill Lynch, Pierce, Fenner & Smith Incorporated, RBC Capital Markets, U.S. Bank National Association and KeyBanc Capital Markets have acted as joint bookrunners and joint lead arrangers, Citibank, N.A., Goldman Sachs Bank USA, and HSBC Securities (USA) Inc. have acted as co-syndication agents, Merrill Lynch, Pierce, Fenner & Smith Incorporated, Royal Bank of Canada, U.S. Bank National Association and KeyBanc Capital Markets have acted as co-documentation agents, PNC Capital Markets LLC and Bank of Montreal have acted as senior co-managers and Fifth Third Bank and ING Bank N.V., Dublin Branch have acted as co-managers.
+
+Section 10.Headings. The headings of this Amendment Agreement are for purposes of reference only and shall not limit or otherwise affect the meaning hereof.
+
+[Remainder of page intentionally blank]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exhibit 10.1
+
+
+IN WITNESS WHEREOF, the parties hereto have caused this Amendment Agreement to be duly executed and delivered by their respective duly authorized officers or representatives as of the day and year first above written.
+
+HARSCO CORPORATION, as Borrower
+By:
+/s/ Michael Kolinsky
+Name:
+Michael Kolinsky
+Title:
+Vice President - Treasurer, Tax and Real Estate
+
+HARSCO DEFENSE HOLDING LLC
+HARSCO MINNESOTA FINANCE, INC.
+PROTRAN TECHNOLOGY LIMITED LIABILITY COMPANY
+HARSCO MINERALS TECHNOLOGIES LLC
+HARSCO FINANCIAL HOLDINGS, INC.
+By:
+/s/ Michael Kolinsky
+Name:
+Michael Kolinsky
+Title:
+President
+
+HARSCO MINNESOTA LLC
+HARSCO TECHNOLOGIES LLC
+
+By:
+/s/ Daniel King
+Name:
+Daniel King
+Title:
+President
+
+HARSCO RAIL, LLC
+HARSCO METRO RAIL, LLC
+
+By:
+/s/ Allen Branham
+Name:
+Allen Branham
+Title:
+President
+
+CITIBANK, N.A., as Administrative Agent, Collateral Agent and Issuing Lender
+By:
+/s/ Matthew S. Burke
+Name:
+Matthew S. Burke
+Title:
+Vice President
+
+
+
+Exhibit 10.1
+
+
+KEYBANK NATIONAL ASSOCIATION
+By:
+/s/ Suzannah Valdivia
+Name:
+Suzannah Valdivia
+Title:
+Senior Vice President
+
+Fifth Third Bank
+By:
+/s/ Will Batchelor
+Name:
+Will Batchelor
+Title:
+Vice President
+
+ING Bank N.V., Dublin Branch
+By:
+/s/ Sean Hassett
+Name:
+Sean Hassett
+Title:
+Director
+    By:
+/s/ Shaun Hawley
+Name:
+Shaun Hawley
+Title:
+Director
+
+BMO Harris Bank, N.A.
+By:
+/s/ Matthew Gerber
+Name:
+Matthew Gerber
+Title:
+Director
+
+Santander Bank, N.A.
+By:
+/s/ Joseph J Sigle
+Name:
+Joseph J Sigle
+Title:
+Senor Vice President
+
+THE HUNTINGTON NATIONAL BANK
+By:
+/s/ Michael Kiss
+Name:
+Michael Kiss
+Title:
+Vice President
+
+
+
+Exhibit 10.1
+
+
+CONSENTED TO:
+PNC BANK, NATIONAL ASSOCIATION, as an Incremental Revolving Lender and an Issuing Lender
+By:
+/s/ Joseph McElhinny
+Name:
+Joseph McElhinny
+Title:
+Vice President
+
+CONSENTED TO:
+ROYAL BANK OF CANADA, as an Issuing Lender
+By:
+/s/ Philippe Pepin
+Name:
+Philippe Pepin
+Title:
+Authorized Signatory
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exhibit 10.1
+
+
+CONSENT AND REAFFIRMATION
+Each of the undersigned hereby acknowledges receipt of a copy of the foregoing Amendment Agreement (the “Amendment Agreement”), dated as of June 18, 2018, which amends and restates the Third Amended and Restated Credit Agreement dated as of November 2, 2016 (as amended by Amendment No. 1 to Credit Agreement, dated as of December 8, 2017, the “Existing Credit Agreement”), among Harsco Corporation, a Delaware corporation, Citibank, N.A., as Administrative Agent, and the several lenders from time to time party thereto. Capitalized terms used in this Consent and Reaffirmation and not defined herein shall have the meanings given to them in the Amended Credit Agreement (as defined in the Amendment Agreement). In connection with the execution and delivery of the Amendment Agreement, each of the undersigned (i) ratifies and affirms all the provisions in the Amended Credit Agreement, the Guarantee and Collateral Agreement and the other Loan Documents, (ii) agrees that the terms and conditions of the Loan Documents, including the security provisions set forth therein, shall continue in full force and effect as amended thereby, and shall not be impaired or limited by the execution or effectiveness of the Amendment Agreement and (iii) acknowledges and agrees that the Collateral continues to secure, to the fullest extent possible in accordance with the Amended Credit Agreement and the Guarantee and Collateral Agreement, the payment and performance of all Obligations. All references in the Loan Documents to (i) the “Credit Agreement” shall hereafter mean and refer to the Existing Credit Agreement as amended and restated pursuant to the Amendment Agreement, and (ii) the term “Obligations” shall hereafter mean and refer to the Obligations as redefined in the Amended Credit Agreement and shall include all additional Obligations resulting from or incurred pursuant to the Amended Credit Agreement.
+The terms and conditions of the Guarantee and Collateral Agreement and the other Security Documents are hereby reaffirmed by the Subsidiary Guarantors.
+Dated: June 18, 2018
+[Signature Pages Follow]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exhibit 10.1
+
+
+HARSCO CORPORATION, as Borrower
+By:
+/s/ Michael Kolinsky
+Name:
+Michael Kolinsky
+Title:
+Vice President - Treasurer, Tax and Real Estate
+
+
+HARSCO DEFENSE HOLDING LLC
+HARSCO MINNESOTA FINANCE, INC.
+PROTRAN TECHNOLOGY LIMITED LIABILITY COMPANY
+HARSCO MINERALS TECHNOLOGIES LLC
+HARSCO FINANCIAL HOLDINGS, INC.
+By:
+/s/ Michael Kolinsky
+Name:
+Michael Kolinsky
+Title:
+President
+
+HARSCO MINNESOTA LLC
+HARSCO TECHNOLOGIES LLC
+
+By:
+/s/ Daniel King
+Name:
+Daniel King
+Title:
+President
+
+HARSCO RAIL, LLC
+HARSCO METRO RAIL, LLC
+
+By:
+/s/ Allen Branham
+Name:
+Alle Branham
+Title:
+President
+
+
+
+
+
+
+
+
+
+Exhibit 10.1
+
+
+Schedule I
+INCREMENTAL REVOLVING CREDIT Commitments
+Incremental Revolving Lender
+KeyBank National Association
+$2,000,000
+PNC Bank, National Association
+Fifth Third Bank
+ING Bank N.V., Dublin Branch
+$12,000,000
+BMO Harris Bank, N.A.
+$30,000,000
+Santander Bank, N.A.
+$22,000,000
+The Huntington National Bank
+$22,000,000
+Total:
+$100,000,000.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exhibit 10.1
+
+
+Schedule II
+REVOLVING CREDIT Commitments
+Revolving Lender
+Revolving Credit Commitments
+Citibank, N.A.
+$47,000,000
+Goldman Sachs Bank USA
+$47,000,000
+HSBC Bank USA, N.A.
+$43,000,000
+Bank of America, N.A.
+$42,000,000
+Royal Bank of Canada
+$42,000,000
+U.S. Bank National Association
+$42,000,000
+KeyBank National Association
+$39,000,000
+PNC Bank, National Association
+$37,000,000
+Fifth Third Bank
+$35,000,000
+ING Bank N.V., Dublin Branch
+$32,000,000
+BMO Harris Bank, N.A.
+$30,000,000
+Santander Bank, N.A.
+$22,000,000
+The Huntington National Bank
+$22,000,000
+KBC Bank, N.V.
+$20,000,000
+Total:
+$500,000,000.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exhibit 10.1
+
+
+SCHEDULE III
+Mortgaged Properties
+
+1.
+357 and 359 North Pike Road, Sarver, PA 16055 (Parcel Identification Numbers: 320-1F75-1-0000 & 320-1F75-3-0000)
+
+2.
+2401 Edmund Hwy, West Columbia, SC 29170 (Tax Map Parcel No. 006797-02-001)
+
+3.
+1514 S. Sheldon Road, Channelview, TX 77530 (Parcel Number: 0410320010045), as more particularly described on Annex A attached to this Schedule III.
+
+4.
+320 and 350 Poplar Church Road, Camp Hill, PA 17011 (Parcel Identification Numbers: 47-19-1590-071 and 47-19-1590-072)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exhibit 10.1
+
+
+Annex A to Schedule III
+Description of the Land
+TRACT I:
+FIELD NOTES of 190,333 square feet of land in the Richard & Robert Vince Survey, Abstract No. 76, Harris County, Texas, said 190,333 square feet of land being a part of that certain tract described in Contract for Purchase by and between the United States of America and Houston Channel Industrial Development, Inc., dated September 30, 1964 and recorded in Volume 5679, Pages 176 et. seq. of the Deed Records of Harris County, Texas, said 190,333 square feet of land being more particularly described by Coordinates and Grid Bearings based on the Texas Plane Coordinate System, South Central Zone, as follows:
+
+BEGINNING at a point in the North right-of-way line of Jacintoport Boulevard 100 feet wide; said point being located 'at Coordinates X = s 3,229,160,61 and Y = 717,201.26;
+
+THENCE along the East line of a tract conveyed to H.L. & P. Co., by deed of record in Volume 6771 at Page 110 of the Deed Records of Harris County, Texas, North 14 degrees 32 minutes 04 seconds East 346.20 feet.to a point for comer;
+THENCE along the South line of a tract conveyed to Houston-Chicago Industries Partnership by deed of record under Film Code No. 155-90-0541 of the Official Records of Real Property of Harris County, Texas, South 75 degrees 27 minutes 56 seconds East 496.46 feet to its Southeast comer;
+THENCE along the West right-of way line of Sheldon Road, South 02 degrees 35 minutes 03 seconds East 362.25 feet to its intersection with the North right-of­ way line of Jacintoport Boulevard 100 feet wide;
+
+THENCE along the North right-of-way line of Jacintoport Boulevard, North 75 degrees 27 minutes 56 seconds West 603.09 feet to the PLACE OF BEGINNING containing a Gross Area of 190,333 square feet of land.
+TRACT 2:
+5.0 acres of land in the Richard & Robert Vince Survey, Abstract No. 76, Harris County, Texas, said 5.0 acres being a part of that certain tract described in Contract for Purchase by and between the United States of America and Houston Channel Industrial Development, Inc., dated September 30, 1964 and recorded in Volume 5679, pages 176 et. seq. of the Deed Records of Harris County, Texas, said 5.0 acres being more particularly described by Coordinates and Grid Bearings based on the Texas Plane Coordinate System, South Central Zone, as follows:
+BEGINNING at the intersection of the North line of a Houston Lighting & Power Company Easement described as Tract One in Volume 6774, Page 366 of the Deed Records of Harris County, Texas, with the West right-of-way line of Sheldon Road 100 feet wide, said intersection being located at Coordinates X = 3,229,703.35 and Y = 717,959.32;
+THENCE along the West right-of-way line of Sheldon Road, South 02 degrees 35 minutes 03 seconds East 548.08 feet to an iron rod for corner;
+THENCE North 75 degrees 27 minutes 56 seconds West 496.46 feet to an iron rod for corner;
+THENCE in part along the East line of a Houston Lighting & Power Company sub station site described in Volume 6771, Page 110 of the Deed Records of Harris County, Texas, North 14 degrees 32 minutes 04 seconds East 523.80 feet to an iron rod for comer;
+
+THENCE along the North line of said Houston Lighting & Power Company Easement, South 75 degrees 27 minutes 56 seconds East 335.13 feet to the PLACE OF BEGINNING containing 5.0 acres of land.

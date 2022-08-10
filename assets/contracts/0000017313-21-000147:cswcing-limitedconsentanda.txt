@@ -1,0 +1,156 @@
+EX-10.1 2 cswcing-limitedconsentanda.htm EX-10.1
+Exhibit 10.1
+LIMITED CONSENT AND AMENDMENT NO. 1 TO SECOND AMENDED AND RESTATED SENIOR SECURED REVOLVING CREDIT AGREEMENT
+
+This LIMITED CONSENT AND AMENDMENT NO. 1 TO SECOND AMENDED AND RESTATED SENIOR SECURED REVOLVING CREDIT AGREEMENT (this “Consent”), dated as of September 10, 2021, and effective as of August 26, 2021, is made with respect to the Second Amended and Restated Senior Secured Revolving Credit Agreement, dated as of August 9, 2021 (as amended, restated, supplemented or otherwise modified from time to time, the “Credit Agreement”), among CAPITAL SOUTHWEST CORPORATION, a Texas corporation (the “Borrower”), CAPITAL SOUTHWEST EQUITY INVESTMENTS, INC., a Delaware corporation (the “Subsidiary Guarantor”), the LENDERS party hereto, ING CAPITAL LLC, as Administrative Agent, and TEXAS CAPITAL BANK, N.A., as documentation agent. Capitalized terms not otherwise defined herein shall have the meanings ascribed to them in the Credit Agreement (as amended hereby).
+W I T N E S S E T H:
+WHEREAS, pursuant to the Credit Agreement, the Lenders have made certain loans and other extensions of credit to the Borrower;
+WHEREAS, on August 27, 2021, the Borrower issued an initial principal amount of $100,000,000 of unsecured notes (such notes, the “Initial Unsecured Notes”) with a final maturity date of October 1, 2026 (the “Earlier Maturity Date”), which is earlier than six months after the Maturity Date and would therefore not otherwise satisfy the requirement set forth in clause (A)(a) of the definition of “Unsecured Longer-Term Indebtedness” to qualify as Unsecured Longer-Term Indebtedness under the Credit Agreement;
+WHEREAS, the Borrower may issue an additional principal amount up to $50,000,000 of such Unsecured Notes (the “Add-On” and, together with the Initial Unsecured Notes, the “Unsecured Notes”);
+WHEREAS, the Initial Unsecured Notes would therefore have been and any Add-On would be deemed to be Unsecured Shorter-Term Indebtedness and the basket set forth in Section 6.01(b)(i) of the Credit Agreement would be insufficient to permit the incurrence of the Unsecured Notes thereunder; and
+WHEREAS, the Borrower has requested that the Lenders and the Administrative Agent consent to the classification of the Unsecured Notes as Unsecured Longer-Term Indebtedness so long as all other conditions set forth in the definition of Unsecured Longer-Term Indebtedness are met (the accommodation set forth in this paragraph is referred to herein as the “Unsecured Indebtedness Classification Consent”), and certain other amendments as set forth herein, and the Lenders signatory hereto (constituting the Required Lenders) and the Administrative Agent have consented and agreed to the foregoing on the terms and subject to the conditions contained in this Consent.
+
+    NOW THEREFORE, in consideration of the promises and the mutual agreements contained herein, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto hereby agree as follows:
+SECTION I LIMITED CONSENT
+1.1.Limited Consent. Effective as of August 26, 2021 and subject to the terms and conditions set forth in Section 3.1 and in reliance upon the representations and warranties made by the Borrower and Subsidiary Guarantor in Section 3.2 and solely to the extent that, other than with respect to the Earlier Maturity Date, the Unsecured Notes satisfy all of the requirements of the definition of “Unsecured Longer-Term Indebtedness”, the Administrative Agent and the Lenders signatory hereto (constituting the Required Lenders) hereby consent to the Unsecured Indebtedness Classification Consent and agree that the Earlier Maturity Date of the Unsecured Notes and the indenture related thereto will not in and of itself disqualify the Unsecured Notes from satisfying the definition of Unsecured Longer-Term Indebtedness so long as the proceeds of the Initial Unsecured Notes are used to repay in full the 2024 Notes on or around September 24, 2021. The limited consent in this Section 1.1 shall be effective only in this specific instance and for the specific purpose set forth herein and does not address whether the Unsecured Notes otherwise satisfy the definition of Unsecured Longer-Term Indebtedness or otherwise comply with the Credit Agreement and the other Loan Documents and does not allow for any other or further departure from the terms and conditions of the Credit Agreement or any other Loan Document, which terms and conditions shall continue in full force and effect.
+SECTION II AMENDMENTS
+Effective as of August 26, 2021 and subject to the terms and conditions set forth in Section 3.1 and in reliance upon the representations and warranties made by the Borrower and the Subsidiary Guarantor in Section 3.2:
+
+2.1. Amendments to Section 1.01 of the Credit Agreement. Section 1.01 of the Credit Agreement is hereby amended by inserting the following new definition in the appropriate alphabetical order:
+“2026-2 Notes” means the Borrower’s 3.375% Unsecured Notes due October 1, 2026 in an aggregate principal amount not to exceed $150,000,000, as such aggregate principal amount may be reduced from time to time pursuant to Section 6.12(b), and without giving effect to any other amendment, consent, waiver or modification thereto.
+
+“First Amendment Effective Date” means August 26, 2021.
+
+2.2. Amendments to Section 1.01 of the Credit Agreement. Section 1.01 of the Credit Agreement is hereby amended by amending and restating the following definitions in their entirety (solely for the sake of convenience in reviewing this Consent, the language changed in these definitions of “Other Covered Indebtedness” and “Unsecured Longer-Term Indebtedness” is set forth in bold italics):
+2
+
+    “Other Covered Indebtedness” means, collectively, (i) Secured Longer-Term Indebtedness, (ii) Unsecured Shorter-Term Indebtedness and (iii) from and after the date that is 9 months prior to their scheduled maturity, the 2024 Notes, the 2026 Notes and the 2026-2 Notes; provided that to the extent any portion of any such Indebtedness is subject to a contractually scheduled amortization payment, other principal payment or redemption earlier than the scheduled maturity date of such Indebtedness, such portion of such Indebtedness shall be included in the calculation of Other Covered Indebtedness beginning upon the date that is the later of (x) 9 months prior to such scheduled amortization payment, other principal payment or redemption and (y) the date the Borrower becomes aware that such Indebtedness is required to be paid or redeemed.
+“Unsecured Longer-Term Indebtedness” means (A) any Indebtedness for borrowed money of an Obligor that (a) has no amortization, or mandatory redemption, repurchase or prepayment prior to, and a final maturity date not earlier than, six months after the Maturity Date (it being understood that (i) the conversion features into Permitted Equity Interests under convertible notes (as well as the triggering of such conversion and/or settlement thereof solely with Permitted Equity Interests, except in the case of interest or expenses, which may be payable in cash) shall not constitute “amortization”, “redemption”, “repurchase” or “prepayment” for the purposes of this definition) and (ii) that any mandatory amortization, redemption, repurchase or prepayment obligation or put right that is contingent upon the happening of a Change in Control that is not certain to occur shall not in and of itself be deemed to disqualify such Indebtedness under this clause (a) (notwithstanding the foregoing, in this clause (ii), the Borrower acknowledges that any payment prior to the Termination Date in respect of any such obligation or right shall only be made to the extent permitted by Section 6.12)), (b) is incurred pursuant to documentation containing (i) financial covenants, covenants governing the borrowing base, if any, covenants regarding portfolio valuation, and events of default that are no more restrictive in any respect than those set forth in this Agreement (other than, if such Indebtedness is governed by a customary indenture, events of default that are customary in indentures or similar instruments and that have no analogous provisions in this Agreement or credit agreements generally) (it being understood that customary put rights or repurchase or redemption obligations (x) in the case of convertible securities, in connection with the suspension or delisting of the Equity Interests of the Borrower or the failure of the Borrower to satisfy a continued listing rule with respect to its Equity Interests or (y) arising out of circumstances that would constitute a “fundamental change” (as such term is customarily defined in convertible note offerings) shall not be deemed to be more restrictive for purposes of this definition) and (ii) other terms that are substantially comparable to market terms for substantially similar debt, and (c) is not secured by any assets of any Person, and (B) the 2024 Notes, the 2026 Notes and the 2026-2 Notes up until the date that is 9 months prior to the scheduled maturity of such notes, as applicable, provided that such notes otherwise comply with the provisions of the immediately preceding clause (A). For the avoidance of doubt, (a) Unsecured Longer-Term Indebtedness shall also include any refinancing, refunding, renewal or extension of any Unsecured Longer-Term Indebtedness so long as such refinanced, refunded, renewed or extended Indebtedness continues to satisfy the requirements of this definition and (b)
+3
+
+    any payment on account of Unsecured Longer-Term Indebtedness shall be subject to Section 6.12.
+
+2.3. Amendments to Section 6.01 of the Credit Agreement. Section 6.01 of the Credit Agreement is hereby amended by (1) deleting the word “and” at the end of clause (l), (2) deleting the “.” at the end of clause (m) and replacing it with “; and”, and (3) adding the following clause (n) immediately after clause (m):
+(n)the 2026-2 Notes in an aggregate principal amount not to exceed, at any time outstanding after the First Amendment Effective Date, an amount equal to $150,000,000 less the aggregate amount of payments of principal made thereon on or after the First Amendment Effective Date.
+2.4. Amendments to Section 6.12 of the Credit Agreement. Section 6.12 of the Credit Agreement is hereby amended by amending and restating clauses (a) and (b) thereof in their entirety, in each case, to read as follows in their entirety (solely for the sake of convenience in reviewing this Consent, the language changed in clauses (a) and (b) of Section 6.12 is set forth in bold italics):
+(a)Payments of Longer-Term Indebtedness. The Borrower will not, nor will it permit any of its Subsidiaries (other than SBIC Subsidiaries) to, purchase, redeem, retire or otherwise acquire for value, or set apart any money for a sinking, defeasance or other analogous fund for the purchase, redemption, retirement or other acquisition of or make any voluntary or involuntary payment or prepayment of the principal of or interest on, or any other amount owing in respect of, any Secured Longer-Term Indebtedness or Unsecured Longer-Term Indebtedness (other than the refinancing of Secured Longer-Term Indebtedness or Unsecured Longer-Term Indebtedness (other than the 2024 Notes, the 2026 Notes and the 2026-2 Notes) with Indebtedness permitted under Section 6.01(b) and (c) or with the proceeds of any issuance of Equity Interests, in each case to the extent not required to be used to repay Loans), except (a) for regularly scheduled payments of interest in respect thereof required pursuant to the instruments evidencing such Indebtedness and the payment when due of the types of fees and expenses that are customarily paid in connection with such Indebtedness (it being understood that (w) the conversion features into Permitted Equity Interests under convertible notes, (x) the triggering of such conversion and/or settlement thereof solely with Permitted Equity Interests, and (y) any cash payment on account of interest or expenses on such convertible notes made by the Borrower in respect of such triggering and/or settlement thereof, shall be permitted under this clause (a)) or (b) for payments and prepayments of Secured Longer-Term Indebtedness required to comply with requirements of Section 2.09(b).
+(b)Payments of 2024 Notes, the 2026 Notes and the 2026-2 Notes. Except for regularly scheduled payments of interest required pursuant to the 2024 Notes, the 2026 Notes or the 2026-2 Notes, as applicable, and the payment when due of the fees and expenses that are required to be paid in connection with the 2024 Notes, the 2026 Notes and the 2026-2 Notes, the Borrower will not purchase, redeem, retire or otherwise acquire for value, or set apart any money for a sinking, defeasance or other analogous fund for the purchase, redemption, retirement or other acquisition of or make any voluntary or involuntary payment or prepayment of the
+4
+
+    principal of or interest on, or any other amount owing in respect of, the 2024 Notes, the 2026 Notes or the 2026-2 Notes other than (i) to refinance the 2024 Notes, the 2026 Notes or the 2026-2 Notes in full or in part with Indebtedness permitted under Section 6.01(c), (ii) to prepay the 2024 Notes, the 2026 Notes or the 2026-2 Notes in full or in part with the proceeds of any issuance of Equity Interests, or (iii) to prepay the 2024 Notes, the 2026 Notes or the 2026-2 Notes in full or in part using the proceeds of Loans (in an aggregate amount not to exceed, as applicable, the aggregate amount of cash proceeds received by the Borrower pursuant to the immediately preceding clauses (i) and/or (ii) but not applied to refinance the 2024 Notes, the 2026 Notes or the 2026-2 Notes) so long as (x) no Default or Event of Default shall have occurred or be continuing and (y) the Covered Debt Amount does not exceed 80% of the Borrowing Base calculated on a pro forma basis immediately after giving effect to such refinancing or prepayment.
+SECTION III MISCELLANEOUS
+3.1. Consent Effective Date. This effectiveness of this Consent shall not become effective until completion of each of the following conditions precedent (unless a condition shall have been waived in accordance with Section 9.02 of the Credit Agreement):
+(a)Executed Counterparts. The Administrative Agent shall have received from each party hereto either (1) a counterpart of this Consent signed on behalf of such party or (2) written evidence satisfactory to the Administrative Agent (which may include telecopy or e-mail transmission of a signed signature page to this Consent) that such party has signed a counterpart of this Consent.
+(b)Consents. The Borrower shall have obtained and delivered to the Administrative Agent certified copies of all consents, approvals, authorizations, registrations, or filings (other than any filing required under the Exchange Act or the rules or regulations promulgated thereunder, including, without limitation, any filing required on Form 8-K) required to be made or obtained by the Borrower and all guarantors in connection with this Consent, such consents, approvals, authorizations, registrations, filings and orders shall be in full force and effect and all applicable waiting periods shall have expired and no investigation or inquiry by any Governmental Authority regarding the Consent or any transaction being financed with the proceeds of the Loans shall be ongoing.
+(c)No Litigation. There shall not exist any action, suit, investigation, litigation or proceeding or other legal or regulatory developments pending or, to the knowledge of the Borrower, threatened in any court or before any arbitrator or Governmental Authority that relates to the Consent or that could reasonably be expected to have a Material Adverse Effect.
+(d)Default. After giving effect to this Consent, no Default or Event of Default shall have occurred and be continuing under the Credit Agreement or this Consent, nor any default or event of default that permits (or which upon notice, lapse of time or both, would permit) the acceleration of any Material Indebtedness, immediately before and after giving effect to the Consent.
+5
+
+    (e)Representations and Warranties. The representations and warranties of the Borrower or any other Obligor set forth in this Consent, the Credit Agreement and each other Loan Document shall be true and correct in all material respects (other than any representation or warranty already qualified by materiality or Material Adverse Effect, which shall be true and correct in all respects) on and as of the date hereof or as to any such representation or warranty that refers to a specific date, as of such specific date.
+(f)Officer’s Certificate. The Administrative Agent shall have received a certificate, dated the date of this Consent and signed by a Financial Officer of the Borrower, certifying that (x) no Default or Event of Default existed at the time of the incurrence of the 2026-2 Notes and (y) prior to and immediately after giving effect to the incurrence of the 2026-2 Notes, the Borrower is in pro forma compliance with each of the covenants set forth in Sections 6.07(a), (b), (c), (e) and (f) of the Credit Agreement.
+(g)Other Documents. The Administrative Agent shall have received such other documents, instruments, certificates, opinions and information as the Administrative Agent may reasonably request or require in form and substance reasonably satisfactory to the Administrative Agent.
+3.2. Representations and Warranties. To induce the other parties hereto to enter into this Consent, each of the Borrower and the Subsidiary Guarantor represents and warrants to the Administrative Agent and each of the Lenders that, as of the date hereof and after giving effect to this Consent:
+(a) This Consent has been duly authorized, executed and delivered by the Borrower and the Subsidiary Guarantor and constitutes a legal, valid and binding obligation of the Borrower and the Subsidiary Guarantor enforceable in accordance with its terms. The Credit Agreement, as amended by the Consent, constitutes the legal, valid and binding obligation of the Borrower enforceable in accordance with its respective terms.
+(b)The Borrower shall have obtained and delivered to the Administrative Agent certified copies of all consents, approvals, authorizations, registrations, or filings (other than any filing required under the Exchange Act or the rules or regulations promulgated thereunder, including any filing required on Form 8-K) required to be made or obtained by the Borrower and all guarantors in connection with this Consent and any other evidence reasonably requested by, and reasonably satisfactory to, the Administrative Agent as to compliance with all material legal and regulatory requirements applicable to the Obligors and such consents, approvals, authorizations, registrations, filings and orders are be in full force and effect and all applicable waiting periods shall have expired and no investigation or inquiry by any Governmental Authority regarding the Consent or any transaction being financed with the proceeds of the Loans shall be ongoing.
+(c)There does not exist any action, suit, investigation, litigation or proceeding or other legal or regulatory developments pending or threatened in any court or before any arbitrator or Governmental Authority that relates to the Consent or that could have a Material Adverse Effect.
+6
+
+    (d)No Default or Event of Default has occurred and is continuing under the Credit Agreement, this Consent or under any Material Indebtedness before or immediately after giving effect to the Consent and the incurrence of the 2026-2 Notes.
+(e)Prior to and immediately after giving effect to the Consent and the incurrence of the 2026-2 Notes, the Borrower is in pro forma compliance with each of the covenants set forth in Sections 6.07(a), (b), (c), (e) and (f) of the Credit Agreement.
+(f)The representations and warranties set forth in this Consent, the Credit Agreement and each other Loan Document are true and correct in all material respects (other than any representation or warranty already qualified by materiality or Material Adverse Effect, which is true and correct in all respects) on and as of the date hereof or as to any such representations and warranties that refer to a specific date, as of such specific date, with the same effect as though made on and as of the date hereof.
+3.3. Counterparts. This Consent may be executed in counterparts (and by different parties hereto on different counterparts), each of which shall constitute an original, but all of which when taken together shall constitute a single contract. This Consent constitutes the entire contract between and among the parties relating to the subject matter hereof and supersedes any and all previous agreements and understandings, oral or written, relating to the subject matter hereof. This Consent shall become effective as provided in Section 3.1, and thereafter shall be binding upon and inure to the benefit of the parties hereto and their respective successors and assigns. Delivery of an executed counterpart of a signature page to this Consent by telecopy or electronic mail shall be effective as delivery of a manually executed counterpart of this Consent.
+3.4. Payment of Expenses. The Borrower agrees to pay and reimburse the Administrative Agent for all of its reasonable and documented out-of-pocket fees, costs and expenses incurred in connection with this Consent, including, without limitation, the reasonable fees, charges and disbursements of legal counsel to the Administrative Agent.
+3.5. Governing Law. This Consent shall be construed in accordance with and governed by the law of the State of New York.
+3.6. WAIVER OF JURY TRIAL. EACH PARTY HERETO HEREBY WAIVES, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, ANY RIGHT IT MAY HAVE TO A TRIAL BY JURY IN ANY LEGAL PROCEEDING DIRECTLY OR INDIRECTLY ARISING OUT OF OR RELATING TO THIS CONSENT OR THE TRANSACTIONS CONTEMPLATED HEREBY (WHETHER BASED ON CONTRACT, TORT OR ANY OTHER THEORY). EACH PARTY HERETO (A) CERTIFIES THAT NO REPRESENTATIVE, AGENT OR ATTORNEY OF ANY OTHER PARTY HAS REPRESENTED, EXPRESSLY OR OTHERWISE, THAT SUCH OTHER PARTY WOULD NOT, IN THE EVENT OF LITIGATION, SEEK TO ENFORCE THE FOREGOING WAIVER AND (B) ACKNOWLEDGES THAT IT AND THE OTHER PARTIES HERETO HAVE BEEN INDUCED TO ENTER INTO THIS AGREEMENT BY, AMONG OTHER THINGS, THE MUTUAL WAIVERS AND CERTIFICATIONS IN THIS SECTION.
+7
+
+    3.7. Incorporation of Certain Provisions. The provisions of Sections 9.01, 9.03, 9.07, 9.09, 9.10 and 9.12 of the Credit Agreement are hereby incorporated by reference mutatis mutandis as if fully set forth herein.
+3.8. Effect of Consent. Except as expressly set forth herein, this Consent shall not by implication or otherwise limit, impair, constitute a waiver of, or otherwise affect the rights and remedies of the Lenders, the Administrative Agent, the Collateral Agent, the Borrower or the Subsidiary Guarantor under the Credit Agreement or any other Loan Document, and, except as expressly set forth herein, shall not alter, modify, amend or in any way affect any of the other terms, conditions, obligations, covenants or agreements contained in the Credit Agreement or any other Loan Document, all of which are ratified and affirmed in all respects and shall continue in full force and effect. Nothing herein shall be deemed to entitle any Person to a consent to, or a waiver, amendment, modification or other change of, any of the terms, conditions, obligations, covenants or agreements contained in the Credit Agreement or any other Loan Document in similar or different circumstances. This Consent shall apply and be effective only with respect to the provisions modified herein of the Credit Agreement. Upon the effectiveness of this Consent, each reference in the Credit Agreement to “this Agreement,” “hereunder,” “hereof,” “herein” or words of similar import shall mean and be a reference to the Credit Agreement as modified by this Consent and each reference in any other Loan Document shall mean the Credit Agreement as modified hereby. This Consent shall constitute a Loan Document.
+3.9. Consent and Affirmation. Without limiting the generality of the foregoing, by its execution hereof, each of the Borrower and the Subsidiary Guarantor hereby, as of the date hereof, (i) consents to this Consent and the transactions contemplated hereby, (ii) agrees that the Guarantee and Security Agreement and each of the other Security Documents is in full force and effect, (iii) confirms its guarantee (solely in the case of the Subsidiary Guarantor) and affirms its obligations under the Guarantee and Security Agreement and confirms its grant of a security interest in its assets as Collateral for the Secured Obligations (as defined in the Guarantee and Security Agreement), and (iv) acknowledges and affirms that such guarantee and/or grant is in full force and effect in respect of, and to secure, the Secured Obligations (as defined in the Guarantee and Security Agreement).
+3.10. Release. Each of the Borrower and the Subsidiary Guarantor hereby acknowledges and agrees that: (a) neither it nor any of its Affiliates has any claim or cause of action against the Administrative Agent, the Collateral Agent or any Lender (or any of their respective Affiliates, officers, directors, employees, attorneys, consultants or agents) including, but not limited to, under the Credit Agreement and the other Loan Documents (and each other document entered into in connection therewith), and (b) the Administrative Agent, the Collateral Agent and each Lender has heretofore properly performed and satisfied in a timely manner all of its obligations to the Obligors and their Affiliates under the Credit Agreement and the other Loan Documents (and each other document entered into in connection therewith) that are required to have been performed on or prior to the date hereof. Accordingly, for and in consideration of the agreements contained in this Consent and other good and valuable consideration, each of the Borrower and the Subsidiary Guarantor (for itself and its Affiliates and the successors, assigns, heirs and representatives of each of the foregoing) (collectively, the “Releasors”) does hereby fully, finally, unconditionally and irrevocably release and forever discharge the Administrative
+8
+
+    Agent, the Collateral Agent, each Lender and each of their respective Affiliates, officers, directors, employees, attorneys, consultants and agents (collectively, the “Released Parties”) from any and all debts, claims, obligations, damages, costs, attorneys’ fees, suits, demands, liabilities, actions, proceedings and causes of action, in each case, whether known or unknown, contingent or fixed, direct or indirect, and of whatever nature or description, and whether in law or in equity, under contract, tort, statute or otherwise, which any Releasor has heretofore had or now or hereafter can, shall or may have against any Released Party by reason of any act, omission or thing whatsoever done or omitted to be done on or prior to the date hereof directly arising out of, connected with or related to this Consent, the Credit Agreement or any other Loan Document (or any other document entered into in connection therewith), or any act, event or transaction related or attendant thereto, or the agreements of the Administrative Agent, the Collateral Agent or any Lender contained therein, or the possession, use, operation or control of any of the assets of the Borrower or any Subsidiary Guarantor, or the making of any Loans or other advances, or the management of such Loans or advances or the Collateral.
+[Signature pages follow]
+9
+
+
+IN WITNESS WHEREOF, the parties hereto have caused this Consent to be duly executed and delivered as of the day and year first above written.
+
+
+CAPITAL SOUTHWEST CORPORATION,
+as Borrower
+By: /s/ Michael S. Sarner
+Name: Michael S. Sarner
+Title:  Chief Financial Officer
+CAPITAL SOUTHWEST EQUITY INVESTMENTS, INC.,
+as Subsidiary Guarantor
+By: /s/ Michael S. Sarner
+Name: Michael S. Sarner
+Title:  Chief Financial Officer
+
+
+[Signature Page to Limited Consent and Amendment No. 1 to Second Amended and Restated Senior Secured Revolving Credit Agreement]
+     ING CAPITAL LLC, as Administrative Agent and as a Lender
+By: /s/ Grace Fu
+Name: Grace Fu
+Title:  Managing Director
+By: /s/ Richard Troxel
+Name: Richard Troxel
+Title:  Vice President
+[Signature Page to Limited Consent and Amendment No. 1 to Second Amended and Restated Senior Secured Revolving Credit Agreement]
+
+TIAA, FSB, as Lender
+By: /s/ Martin O'Brien
+Name: Martin O'Brien
+Title:  Director
+[Signature Page to Limited Consent and Amendment No. 1 to Second Amended and Restated Senior Secured Revolving Credit Agreement]
+
+Customers Bank, as Lender
+By: /s/ Lyle P. Cunningham
+Name: Lyle P. Cunningham
+Title:  EVP, Managing Director & Chief Lending Officer
+[Signature Page to Limited Consent and Amendment No. 1 to Second Amended and Restated Senior Secured Revolving Credit Agreement]
+     Cadence Bank, N.A., as Lender
+By: /s/ Richard M. Prewitt, Jr.
+Name: Richard M. Prewitt, Jr.
+Title:  Senior VP
+[Signature Page to Limited Consent and Amendment No. 1 to Second Amended and Restated Senior Secured Revolving Credit Agreement]
+
+Hancock Whitney Bank, as Lender
+By: /s/ Ian McKie
+Name: Ian McKie
+Title:  Senior Vice President
+[Signature Page to Limited Consent and Amendment No. 1 to Second Amended and Restated Senior Secured Revolving Credit Agreement]
+
+Texas Capital Bank, N.A., as Lender
+By: /s/ Matt Love
+Name: Matt Love
+Title:  Senior Vice President
+[Signature Page to Limited Consent and Amendment No. 1 to Second Amended and Restated Senior Secured Revolving Credit Agreement]
+
+Zions Bancorporation, N.A. dba Amegy Bank, as Lender
+By: /s/ Kathy V. Magee
+Name: Kathy V. Magee
+Title:  Senior Vice President
+[Signature Page to Limited Consent and Amendment No. 1 to Second Amended and Restated Senior Secured Revolving Credit Agreement]
+
+CIT Bank, N.A. (as successor by merger to Mutual of Omaha Bank), as Lender
+By: /s/ Robert L. Klein
+Name: Robert L. Klein
+Title:  Director
+[Signature Page to Limited Consent and Amendment No. 1 to Second Amended and Restated Senior Secured Revolving Credit Agreement]
+
+Hitachi Capital America Corp., as Lender
+By: /s/ Michael A. Semanco
+Name: Michael A. Semanco
+Title:  Director
+
+[Signature Page to Limited Consent and Amendment No. 1 to Second Amended and Restated Senior Secured Revolving Credit Agreement]
+
+Dallas Capital Bank, as Lender
+By: /s/ Garrett Hill
+Name: Garrett Hill
+Title:  SVP - Commercial Bank
+
+[Signature Page to Limited Consent and Amendment No. 1 to Second Amended and Restated Senior Secured Revolving Credit Agreement]

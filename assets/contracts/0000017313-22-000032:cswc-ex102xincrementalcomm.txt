@@ -1,0 +1,230 @@
+EX-10.2 3 cswc-ex102xincrementalcomm.htm EX-10.2
+Exhibit 10.2
+
+INCREMENTAL COMMITMENT AGREEMENT
+
+dated as of May 11, 2022,
+
+made by
+
+CAPITAL SOUTHWEST CORPORATION,
+as Borrower,
+
+CAPITAL SOUTHWEST EQUITY INVESTMENTS, INC,
+as a Subsidiary Guarantor,
+
+THE INCREASING LENDERS PARTY HERETO,
+as Increasing Lenders,
+
+and
+
+ING CAPITAL LLC
+as Administrative Agent and Issuing Bank
+
+relating to the
+
+SECOND AMENDED AND RESTATED SENIOR SECURED REVOLVING CREDIT AGREEMENT
+
+dated as of August 9, 2021,
+
+as amended by
+Limited Consent and Amendment No. 1, dated September 10, 2021 and
+Amendment No. 2, dated as of May 11, 2022
+
+among
+
+CAPITAL SOUTHWEST CORPORATION,
+as Borrower
+
+The LENDERS Party Thereto
+
+ING CAPITAL LLC,
+as Administrative Agent, Arranger and Bookrunner
+
+TEXAS CAPITAL BANK,
+as Documentation Agent
+
+
+INCREMENTAL COMMITMENT AGREEMENT, dated as of May 11, 2022 (this “Agreement”), among CAPITAL SOUTHWEST CORPORATION, a Texas corporation (the “Borrower”), CAPITAL SOUTHWEST EQUITY INVESTMENTS, INC., a Delaware corporation, ING CAPITAL LLC (“ING”), in its capacity as Administrative Agent and Issuing Bank, and the financial institutions listed on Schedule 1 hereto, as increasing lenders (each in such capacity, an “Increasing Lender”), relating to the SECOND AMENDED AND RESTATED SENIOR SECURED REVOLVING CREDIT AGREEMENT, dated as of August 9, 2021 (as amended, restated, supplemented or otherwise modified from time to time, the “Credit Agreement”), among the Borrower, the Administrative Agent and the Lenders from time to time party thereto.
+
+A.    The Borrower has requested that each Increasing Lender provide an additional Commitment in an aggregate principal amount equal to the amount set forth opposite such Increasing Lender’s name on Schedule 1 hereto under the heading “Incremental Commitment Amount” (each, an “Incremental Commitment”), pursuant to Section 2.07(f) of the Credit Agreement.
+
+B.    Each Increasing Lender is willing to make its Incremental Commitment on and as of the Effective Date (as defined below) to the Borrower on the terms and subject to the conditions set forth herein and in the Credit Agreement.
+
+Accordingly, in consideration of the mutual agreements herein contained and other good and valuable consideration, the sufficiency and receipt of which are hereby acknowledged, the parties hereto agree as follows:
+
+SECTION 1. Defined Terms; Interpretation; Etc. Capitalized terms used and not defined herein shall have the meanings assigned to such terms in the Credit Agreement. The rules of construction set forth in Section 1.03 of the Credit Agreement shall apply equally to this Agreement. This Agreement shall be a “Loan Document” for all purposes of the Credit Agreement and the other Loan Documents.
+
+SECTION 2. Incremental Commitments.
+
+(a)Pursuant to Section 2.07(f) of the Credit Agreement and subject to the terms and conditions hereof, each Increasing Lender hereby agrees to make its Incremental Commitment to the Borrower effective on and as of the Effective Date (as defined below). Each Incremental Commitment shall constitute an additional “Commitment” and a “Commitment Increase” for all purposes of the Credit Agreement and the other Loan Documents, and the Effective Date shall be the “Commitment Increase Date” of the Incremental Commitments for purposes of Section 2.07(f) of the Credit Agreement.
+(b)The terms and provisions of any new Loans issued by the Increasing Lenders, and the Incremental Commitments of the Increasing Lenders, shall be identical to the terms and provisions of Loans issued by, and the Commitments of, the Lenders immediately prior to the Effective Date.
+(c)On the Effective Date, in connection with the adjustments, if any, to any outstanding Loans and participation interests contemplated by Section 2.07(f)(iv)
+
+
+of the Credit Agreement, each Increasing Lender shall make a payment to the Administrative Agent, for the account of the other Lenders, in an amount calculated by the Administrative Agent in accordance with such Section, so that after giving effect to such payment and to the distribution thereof to the other Lenders in accordance with such Section, the Loans are held ratably by the Lenders in accordance with the respective Commitments of such Lenders (after giving effect to the Incremental Commitments and any other Commitment Increases, if any, occurring on the Effective Date).
+SECTION 3. Conditions Precedent to Incremental Commitment. This Agreement, and the obligations of each Increasing Lender to make its Incremental Commitment, shall become effective on and as of the Business Day (the “Effective Date”) on which the following conditions precedent have been satisfied (unless a condition shall have been waived in accordance with Section 9.02 of the Credit Agreement):
+
+(a)the Administrative Agent shall have received counterparts of this Agreement that, when taken together, bear the signatures of the Borrower, each Subsidiary Guarantor, the Administrative Agent, the Issuing Bank and each Increasing Lender;
+
+(b)on the Effective Date, each of the conditions set forth or referred to in Section 2.07(f)(i) of the Credit Agreement shall be satisfied, and pursuant to Section 2.07(f)(ii)(x) of the Credit Agreement, the Administrative Agent shall have received a certificate of a Financial Officer of the Borrower dated the Effective Date certifying as to the foregoing;
+
+(c)(i) each Increasing Lender shall have received all fees due to such Increasing Lender on the Effective Date pursuant to any outstanding fee letters or commitment letters by and between the Borrower, such Increasing Lender and/or ING, as applicable, including payment of any fees under any fee letters or commitment letters entered into on the Effective Date, and (ii) ING, in its capacity as Arranger, shall have received all fees due to it on the Effective Date pursuant to any outstanding fee letters by and between the Borrower and ING, in its capacity as Arranger;
+(d)the Administrative Agent shall have received for the account of the Lenders the amounts, if any, payable under Section 2.13 of the Credit Agreement as a result of the adjustments of Borrowings pursuant to Section 2(c) of this Agreement;
+(e)the Administrative Agent and the Lenders shall have received all fees (if any) and expenses (including reasonable legal fees to the extent invoiced) related to this Agreement and the Credit Agreement owing as of the date hereof.
+SECTION 4. Representations and Warranties of the Borrower and each Subsidiary Guarantor. To induce the other parties hereto to enter into this Agreement, the Borrower and each Subsidiary Guarantor represents and warrants to the Administrative Agent, the Issuing Bank and the Increasing Lenders that, as of the date hereof and as of the Effective Date:
+(a)This Agreement has been duly authorized, executed and delivered by the Borrower and each Subsidiary Guarantor, and constitutes a legal, valid and binding obligation of the Borrower and each Subsidiary Guarantor, enforceable in accordance with its terms, except as enforceability may be limited by applicable bankruptcy, insolvency, reorganization, moratorium or similar laws affecting the enforcement of
+
+
+creditors’ rights generally and by general equitable principles (whether enforcement is sought by proceedings in equity or at law). The Credit Agreement, as modified by this Agreement, constitutes a legal, valid and binding obligation of the Borrower enforceable in accordance with its terms, except as enforceability may be limited by applicable bankruptcy, insolvency, reorganization, moratorium or similar laws affecting the enforcement of creditors’ rights generally and by general equitable principles (whether enforcement is sought by proceedings in equity or at law).
+
+(b)The representations and warranties made by the Borrower and each Subsidiary Guarantor contained in the Credit Agreement and the other Loan Documents, are true and correct in all material respects (other than any representation or warranty already qualified by materiality or Material Adverse Effect, which are true and correct in all respects) on and as of the Effective Date as if made on and as of such date (or, if any such representation or warranty is expressly stated to have been made as of a specific date, as of such specific date).
+
+(c)No Default or Event of Default has occurred and is continuing on the date hereof or the Effective Date or shall result from the Incremental Commitment.
+
+SECTION 5. Representations, Warranties and Covenants of the Increasing Lenders. Each Increasing Lender represents and warrants on the date hereof that (i) it has full power and authority, and has taken all action necessary, to execute and deliver this Agreement and to consummate the transactions contemplated hereby, (ii) it satisfies the requirements, if any, specified in the Credit Agreement that are required to be satisfied by it in order to make the Incremental Commitment set forth opposite such Increasing Lender’s name on Schedule 1 hereto, and (iii) it has made such analysis and decision independently and without reliance on the Administrative Agent or any other Lender.
+SECTION 6. Consent and Reaffirmation.
+(a)Each of the Subsidiary Guarantors hereby consents to this Agreement and the transactions contemplated hereby.
+(b)The Borrower and each Subsidiary Guarantor (i) agrees that, notwithstanding the effectiveness of this Agreement, the Guarantee and Security Agreement, and each of the other Security Documents continue to be in full force and effect, (ii) acknowledges that the terms “Revolving Credit Agreement Obligations,” “Guaranteed Obligations” and “Secured Obligations” (each as defined in the Guarantee and Security Agreement) include any and all Loans made now or in the future by the Increasing Lender in respect of the Incremental Commitment and all interest and other amounts owing in respect thereof under the Loan Documents, (iii) confirms its grant of a security interest in its assets as Collateral for the Secured Obligations (as defined in the Guarantee and Security Agreement), all as provided in the Loan Documents as originally executed (and amended prior to the Effective Date and supplemented hereby), and (iv) confirms, as applicable, its guarantee of the Guaranteed Obligations.
+(c)On the Effective Date, each reference in the Credit Agreement to “this Agreement,” “hereunder,” “hereof,” “herein” or words of similar import shall mean and be a reference to the Credit Agreement as modified by this Agreement and each reference in any other Loan Document shall mean the Credit Agreement as modified hereby.
+
+
+SECTION 7. Notices. All notices hereunder shall be given in accordance with the provisions of Section 9.01 of the Credit Agreement.
+
+SECTION 8. Expenses. Pursuant to Section 9.03 of the Credit Agreement, the Borrower agrees to pay all reasonable and documented out-of-pocket expenses incurred by the Administrative Agent in connection with this Agreement.
+
+SECTION 9. Counterparts. This Agreement may be executed in any number of counterparts and by different parties hereto in separate counterparts, each of which when so executed and delivered shall be deemed an original, but all such counterparts together shall constitute but one and the same contract. Delivery of an executed counterpart of a signature page of this Agreement by facsimile or electronic transmission shall be as effective as delivery of a manually executed counterpart hereof.
+
+SECTION 10. Governing Law; Jurisdiction; Etc. THIS AGREEMENT SHALL BE CONSTRUED IN ACCORDANCE WITH AND GOVERNED BY THE LAW OF THE STATE OF NEW YORK. THE PROVISIONS OF SECTION 9.09 OF THE CREDIT AGREEMENT (AND ALL OTHER APPLICABLE PROVISIONS OF ARTICLE IX OF THE CREDIT AGREEMENT) ARE HEREBY INCORPORATED BY REFERENCE.
+SECTION 11. WAIVER OF JURY TRIAL. EACH PARTY HERETO HEREBY WAIVES, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, ANY RIGHT IT MAY HAVE TO A TRIAL BY JURY IN ANY LEGAL PROCEEDING DIRECTLY OR INDIRECTLY ARISING OUT OF OR RELATING TO THIS AGREEMENT OR THE TRANSACTIONS CONTEMPLATED HEREBY (WHETHER BASED ON CONTRACT, TORT OR ANY OTHER THEORY). EACH PARTY HERETO (A) CERTIFIES THAT NO REPRESENTATIVE, AGENT OR ATTORNEY OF ANY OTHER PARTY HAS REPRESENTED, EXPRESSLY OR OTHERWISE, THAT SUCH OTHER PARTY WOULD NOT, IN THE EVENT OF LITIGATION, SEEK TO ENFORCE THE FOREGOING WAIVER AND (B) ACKNOWLEDGES THAT IT AND THE OTHER PARTIES HERETO HAVE BEEN INDUCED TO ENTER INTO THIS AGREEMENT BY, AMONG OTHER THINGS, THE MUTUAL WAIVERS AND CERTIFICATIONS IN THIS SECTION.
+
+SECTION 12. Headings. The headings of this Agreement are for purposes of reference only and shall not limit or otherwise affect the meaning hereof.
+SECTION 13. No Third Party Beneficiaries. This Agreement is intended to be solely for the benefit of the parties hereto and is not intended to confer any benefits upon, or create any rights in favor of, any other person or entity. No person or entity other than the parties hereto shall have any rights under or be entitled to rely upon this Agreement.
+
+SECTION 14. Electronic Execution of Documents. The words “execution,” “execute”, “signed,” “signature,” and words of like import in or related to any document to be signed in connection with this Agreement and the transactions contemplated hereby shall be deemed to include electronic signatures, deliveries or the keeping of records in electronic form, each of which shall be of the same legal effect, validity or enforceability as a manually executed signature, physical delivery thereof or the use of a paper-based recordkeeping system, as the case may be, to the extent and as provided for in any applicable law, including the Federal Electronic Signatures in Global and National Commerce Act, the New York State Electronic Signatures and Records Act, or any other
+
+
+similar state laws based on the Uniform Electronic Transactions Act, and the parties hereto consent to conduct the transactions contemplated hereunder by electronic means.
+
+SECTION 15. Acknowledgment and Consent. The Administrative Agent hereby acknowledges that it has received notice pursuant to Section 2.07(f)(i) of the Credit Agreement within the time period required thereunder. Pursuant to Section 2.07(f)(i)(C) of the Credit Agreement, each of the Administrative Agent, the Issuing Bank and the Borrower consents to Incremental Commitment provided for herein. For the avoidance of doubt, pursuant to Section 2.07(f)(iv) of the Credit Agreement, the Borrower hereby acknowledges, and consents to the fact, that the Effective Date (and thereby the Commitment Increase Date with respect to the Incremental Commitments provided for herein) may occur on a day other than the last day of an Interest Period.
+[Remainder of page intentionally left blank]
+
+
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be duly executed and delivered by their proper and duly authorized representatives as of the day and year first above written.
+
+
+CAPITAL SOUTHWEST CORPORATION,
+as the Borrower
+
+
+By: /s/ Michael S. Sarner    
+Name: Michael S. Sarner
+Title: Chief Financial Officer
+
+
+CAPITAL SOUTHWEST EQUITY INVESTMENTS, INC, as Subsidiary Guarantor
+
+
+By: /s/ Michael S. Sarner    
+Name: Michael S. Sarner
+Title: President
+
+
+
+
+
+[Signature Page to Incremental Commitment Agreement (CSWC)]
+
+ING CAPITAL LLC,
+as Administrative Agent and Issuing Bank
+
+
+
+By: /s/ Patrick Frisch    
+Name: Patrick Frisch
+Title: Managing Director
+
+
+By: /s/ Grace Fu    
+Name: Grace Fu
+Title: Managing Director
+
+
+[Signature Page to Incremental Commitment Agreement (CSWC)]
+
+CUSTOMERS BANK, as Increasing Lender
+
+
+
+By: /s/ Lyle P. Cunningham         
+Name: Lyle P. Cunningham
+Title: EVP, Managing Director & Chief Lending Officer
+
+
+[Signature Page to Incremental Commitment Agreement (CSWC)]
+
+HANCOCK WHITNEY BANK, as Increasing Lender
+
+
+
+By: /s/ Ian McKie         
+Name: Ian McKie
+Title: SVP
+
+
+[Signature Page to Incremental Commitment Agreement (CSWC)]
+
+First-Citizens Bank & Trust Company (successor by merger to CIT Bank, N.A.), as Increasing Lender
+
+
+
+By: /s/ Robert L. Klein         
+Name: Robert L. Klein
+Title: Managing Director
+
+[Signature Page to Incremental Commitment Agreement (CSWC)]
+
+TEXAS CAPITAL BANK, as Increasing Lender
+
+
+
+By: /s/ Matt Love         
+Name: Matt Love
+Title: Senior Vice President
+
+
+[Signature Page to Incremental Commitment Agreement (CSWC)]
+
+CADENCE BANK, as Increasing Lender
+
+
+
+By: /s/ Ronald K. Baker         
+Name: Ronald K. Baker
+Title: Executive Vice President
+
+
+[Signature Page to Incremental Commitment Agreement (CSWC)]
+
+DALLAS CAPITAL BANK, as Increasing Lender
+
+
+
+By: /s/ Garrett Hill         
+Name: Garrett Hill
+Title: SVP, Commercial Bank
+
+
+
+[Signature Page to Incremental Commitment Agreement (CSWC)]
+
+SCHEDULE 1
+Incremental Commitments
+
+Increasing Lender Commitment Amount (immediately prior to the Effective Date) Incremental Commitment Amount Commitment Amount (on and immediately after the Effective Date)
+Customers Bank $35,000,000 $15,000,000 $50,000,000
+Hancock Whitney Bank $35,000,000 $5,000,000 $40,000,000
+First-Citizens Bank & Trust Company (successor by merger to CIT Bank, N.A.) $25,000,000 $10,000,000 $35,000,000
+Texas Capital Bank $35,000,000 $5,000,000 $40,000,000
+Cadence Bank $30,000,000 $5,000,000 $35,000,000
+Dallas Capital Bank $5,000,000 $5,000,000 $10,000,000

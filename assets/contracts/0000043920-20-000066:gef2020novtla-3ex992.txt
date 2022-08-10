@@ -1,0 +1,467 @@
+EX-99.2 3 gef2020novtla-3ex992.htm EX-99.2
+EXECUTION VERSION
+
+INCREMENTAL TERM LOAN AGREEMENT
+by and among
+
+GREIF PACKAGING LLC,
+as Borrower,
+THE GUARANTORS PARTY HERETO,
+THE INCREMENTAL TERM A-3 LENDER PARTY HERETO
+and
+JPMORGAN CHASE BANK, NATIONAL ASSOCIATION,
+as Administrative Agent
+
+Dated as of November 13, 2020
+
+COBANK, ACB,
+as the Incremental Term A-3 Facility Lead Arranger
+
+$225,000,000 INCREMENTAL TERM FACILITY
+
+    
+
+INCREMENTAL TERM LOAN AGREEMENT
+
+THIS INCREMENTAL TERM LOAN AGREEMENT (this “Incremental Term Loan Agreement”), dated as of November 13, 2020 (the “Incremental Term A-3 Agreement Effective Date”), is entered into by and among GREIF PACKAGING LLC, a Delaware limited liability company (the “Borrower” or “Greif Packaging”), JPMORGAN CHASE BANK, NATIONAL ASSOCIATION, as administrative agent for the Lenders party to the Credit Agreement referred to below (in such capacity, the “Administrative Agent”), the Guarantors party hereto, COBANK, ACB, a federally chartered instrumentality under the Farm Credit Act of 1971, as amended (“CoBank”), as sole lead arranger and bookrunner for the Incremental Term A-3 Facility referred to below (in such capacity, the “Incremental Term A-3 Lead Arranger”), and, as sole lender under the Incremental Term A-3 Facility (in such capacity, the “Incremental Term A-3 Lender”).
+PRELIMINARY STATEMENTS:
+
+(1)Greif Packaging, Greif, Inc., a Delaware corporation (the “Company”), the other borrowers from time to time party thereto, the Lenders from time to time party thereto and the Administrative Agent entered into that certain Amended & Restated Credit Agreement, dated as of February 11, 2019 (as amended, supplemented or otherwise modified from time to time, the “Credit Agreement”).
+(2)Greif Packaging has requested that CoBank, as Incremental Term A-3 Lead Arranger, arrange and, as Incremental Term A-3 Lender, provide the Incremental Term A-3 Facility consisting of the Incremental Term A-3 Loan. The Incremental Term A-3 Facility is to be documented as an incremental term loan tranche under the Credit Agreement pursuant to this Incremental Term Loan Agreement.
+(3)The Incremental Term A-3 Lender is willing to provide the Incremental Term A-3 Facility, upon and subject to the terms and conditions set forth herein and in Section 2.14 of the Credit Agreement.
+NOW, THEREFORE, in consideration of the premises and in order to induce the parties hereto to enter into the transactions described herein and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, each of the Administrative Agent, the Incremental Term A-3 Lead Arranger, the Incremental Term A-3 Lender, Greif Packaging and the Guarantors party hereto hereby agree as follows:
+SECTION 1.Definitions. All capitalized terms not otherwise defined herein shall have the meanings attributed thereto in the Credit Agreement.
+SECTION 2.Incremental Term A-3 Facility.
+(a)Incremental Term A-3 Facility. Pursuant to Section 2.14 of the Credit Agreement, the Incremental Term A-3 Facility is hereby established under the Credit Agreement on the terms set forth below. Subject to the terms and conditions set forth herein, the Incremental Term A-3 Lender agrees to make a single loan to Greif Packaging in Dollars in an amount not to exceed the Incremental Term A-3 Commitment. For the avoidance of doubt, Greif Packaging has no obligation to draw any portion of the Incremental Term A-3 Loan for any reason (including, without limitation, because of the Reset Date Cost of Funds (as defined
+
+
+below) as of the Incremental Term A-3 Funding Date (as defined below)). If Greif Packaging delivers a Loan Notice with respect to the Incremental Term A-3 Facility designating the Incremental Term A-3 Loan as a Eurodollar Rate Loan, the terms of Section 3.05 of the Credit Agreement shall apply. The Incremental Term A-3 Loan shall be deemed to be a “Term Loan” as defined in the Credit Agreement for all purposes of the Loan Documents having terms and provisions identical to those applicable to the Term Loans outstanding immediately prior to the Incremental Term A-3 Agreement Effective Date except as otherwise set forth in this Incremental Term Loan Agreement.
+(b)Principal Amount. The aggregate principal amount of the Incremental Term A-3 Lender’s commitment with respect to the Incremental Term A-3 Loan is TWO HUNDRED TWENTY-FIVE MILLION DOLLARS ($225,000,000). The Incremental Term A-3 Loan shall rank equally in right of payment with the other Loans. Greif Packaging’s obligations with respect to the Incremental Term A-3 Loan shall constitute Obligations under the Credit Agreement and will be secured and guaranteed with the other Obligations on a pari passu basis.
+(c)Availability/Borrowing. The Incremental Term A-3 Loan shall be funded in a single drawing on a Business Day occurring on or before July 15, 2021 (the date on which such Incremental Term A-3 Loan is funded, the “Incremental Term A-3 Funding Date”). The Incremental Term A-3 Loan may be a Base Rate Loan or a Eurodollar Rate Loan, as further provided herein. The Incremental Term A-3 Loan shall be made upon Greif Packaging’s irrevocable notice, substantially consistent with Exhibit A (Loan Notice) to the Credit Agreement, to the Administrative Agent and the Incremental Term A-3 Lead Arranger, which must be received by the Administrative Agent and the Incremental Term A-3 Lead Arranger not later than 12:00 noon (Eastern time) three (3) Business Days prior to the requested date of such Borrowing of Eurodollar Rate Loans or on the requested date of such Borrowing of Base Rate Loans. Once repaid, the Incremental Term A-3 Loan may not be reborrowed.
+(d)Maturity Date; Amortization. The maturity date for the Incremental Term A-3 Loan shall be July 15, 2026 (the “Incremental Term A-3 Maturity Date”). The Incremental Term A-3 Loan shall be subject to scheduled amortization of 5.0% per annum, based on the initial aggregate principal amount of such Incremental Term A-3 Loan (which amounts shall be reduced as a result of the application of prepayments in accordance with the order of priority set forth in Section 2.05 of the Credit Agreement). The principal amount outstanding under Incremental Term A-3 Loan shall be due and payable in quarterly installments on the last Business Day of each Fiscal Quarter of the Company commencing with the first such date to occur after the Incremental Term A-3 Funding Date. The final principal repayment installment of the Incremental Term A-3 Loan shall be repaid on the Incremental Term A-3 Maturity Date and in any event shall be in an amount equal to the aggregate principal amount of the Incremental Term A-3 Loan outstanding on such date.
+(e)Applicable Rate. The Applicable Rate for the Incremental Term A-3 Loan shall be the following percentages per annum, based upon the Leverage Ratio as set forth in the most recent Compliance Certificate received by the Administrative Agent pursuant to Section 6.02(a) of the Credit Agreement:
+3
+
+
+Level
+Leverage Ratio
+Applicable Rate for Eurodollar Rate Loans Applicable Rate for Base Rate Loans
+1 Greater than or equal to 4.00 to 1.00 2.75% 1.75%
+2 Less than 4.00 to 1.00 but greater than or equal to 3.50 to 1.00 2.50% 1.50%
+3 Less than 3.50 to 1.00 but greater than or equal to 3.00 to 1.00 2.25% 1.25%
+4 Less than 3.00 to 1.00 but greater than or equal to 2.50 to 1.00 2.00% 1.00%
+5 Less than 2.50 to 1.00 but greater than or equal to 2.00 to 1.00 1.75% 0.75%
+6
+Less than 2.00 to 1.00
+1.50% 0.50%
+
+Any increase or decrease in the Applicable Rate resulting from a change in the Leverage Ratio shall become effective as of the first Business Day immediately following the date a Compliance Certificate is delivered pursuant to Section 6.02(a) of the Credit Agreement; provided that if a Compliance Certificate is not delivered when due in accordance with such Section, then, upon the request of the Required Lenders, Pricing Level 1 shall apply as of the first Business Day after the date on which such Compliance Certificate is delivered.
+Notwithstanding anything to the contrary contained in this clause, the determination of the Applicable Rate for any period shall be subject to the provisions of Section 2.10(b) of the Credit Agreement.
+(f)Interest Rate. Subject to the provisions of Section 2.08(b) of the Credit Agreement, (i) each Eurodollar Rate Loan under the Incremental Term A-3 Facility shall bear interest on the outstanding principal amount thereof for each Interest Period at a rate per annum equal to the Eurodollar Rate for such Interest Period, plus the Applicable Rate for the Incremental Term A-3 Facility and (ii) each Base Rate Loan under the Incremental Term A-3 Facility shall bear interest on the outstanding principal amount thereof from the applicable borrowing date at a rate per annum equal to the Base Rate, plus the Applicable Rate for the Incremental Term A-3 Facility.
+(g)Cost of Funds. On the Incremental Term A-3 Funding Date and on the date that is 2.5 years from the Incremental Term A-3 Funding Date (or if such date is not a Business Day, the next succeeding Business Day) (each, a “Reset Date”), CoBank (x) shall determine the difference (in basis points), if any, between the Reset Date Cost of Funds (as defined below) as of such Reset Date and the Incremental Term A-3 Agreement Effective Date Cost of Funds (as defined below) and (y) thereafter shall notify the Administrative Agent, Greif Packaging and the Company of such difference by delivering a certificate in substantially the form of Exhibit
+4
+
+
+A hereto (or in such other form as is mutually acceptable to CoBank, the Administrative Agent, Greif Packaging and the Company) prior to such Reset Date. With respect to the calculation of interest on the portion of the Incremental Term A-3 Loan consisting of Eurodollar Rate Loans (but, for the avoidance of doubt, not Base Rate Loans), the Applicable Rate for each Interest Period shall equal the Applicable Rate as of the Incremental Term A-3 Agreement Effective Date, increased or decreased, as applicable, by the amount of such difference (in a like amount of basis points), effective from and as of such Reset Date until the earlier of (A) the next succeeding Reset Date and (B) the Incremental Term A-3 Maturity Date; provided that, for the avoidance of doubt, in no event shall any decrease in the Applicable Rate result in an Applicable Rate less than zero with respect to the portion of the Incremental Term A-3 Loan that are Eurodollar Rate Loans. Notwithstanding anything to the contrary herein or in any other Loan Document, such increase or decrease of the Applicable Rate shall be automatic and shall not require an amendment to this Incremental Term Loan Agreement or the consent of any Lender. As used in this Section 2(g):
+(i)    “Incremental Term A-3 Agreement Effective Date Cost of Funds” means, as of the Incremental Term A-3 Effective Date, 8.1 basis points, which is the amount by which (x) the Floating Note Rate exceeds the (y) the Eurodollar Rate for an Interest Period of one month, in each case determined as of the date that is two (2) Business Days prior to Incremental Term A-3 Agreement Effective Date.
+(ii)     “Floating Note Rate” means, as of any date of determination, the estimated funding cost (not the actual sale price), including standard underwriting fees, for new two and a half-year debt securities issued by The Federal Farm Credit Banks Funding Corporation into the primary market based on market observations on such date indicated at approximately 9:30 a.m., Eastern time; it being understood that such indications represent The Federal Farm Credit Banks Funding Corporation’s best estimate of the cost of new debt issuances based on a combination of daily surveys of selected farm credit selling group members (participating bond dealers) and ongoing monitoring of the fixed income markets for actual, recent, primary market issuance by other government-sponsored institutions of similar bonds and notes and pricing within related derivative markets, particularly the interest rate swap market. Notwithstanding the foregoing, if, in connection with the Incremental Term A-3 Agreement Effective Date or any Reset Date, new farm credit debt securities with a two and a half year term are not then being issued into the primary market by The Federal Farm Credit Banks Funding Corporation, then “Floating Note Rate” shall mean CoBank’s best estimate of the cost of such debt securities based on market observations of synthetic (swaps) floating rate indications for similar debt securities or such other replacement benchmark, in each case, as CoBank and Greif Packaging may mutually agree upon.
+(iii)     “Reset Date Cost of Funds” means, as of a Reset Date, the amount (in basis points and which amount shall be set forth as a negative number if the amount in the following clause (x) is less than the amount in the following clause (y)), if any, by which (x) the Floating Note Rate differs from (y) the Eurodollar Rate (giving effect to any alternate rate of interest implemented pursuant to Section 3.03(b) of the Credit Agreement) for an Interest Period of one month, in each case determined as of the date that is two (2) Business Days prior to such Reset Date.
+5
+
+
+By way of example, assuming the Incremental Term A-3 Agreement Effective Date Cost of Funds is 15 basis points, (A) if the Reset Date Cost of Funds as of a Reset Date is 35 basis points, then the Eurodollar Rate for any Interest Period (with respect only to the calculation of interest on the Incremental Term Loan A-3) shall be increased by 20 basis points commencing from and as of such Reset Date until the next Reset Date or the Incremental Term A-3 Maturity Date, as applicable, and (B) if the Reset Date Cost of Funds as of a Reset Date is -5 basis points (i.e., the Floating Note Rate is 5 basis points less than the Eurodollar Rate for an Interest Period of one month, in each case as of such Reset Date), then the Eurodollar Rate for any Interest Period (with respect only to the calculation of interest on the Incremental Term Loan A-3) shall be decreased by 20 basis points commencing from and as of such Reset Date until the next Reset Date or the Incremental Term A-3 Maturity Date, as applicable.
+(h)Interest Payment Dates. Interest on the Incremental Term A-3 Loan shall be due and payable in arrears on each Interest Payment Date applicable thereto, commencing with the first such date to occur after the Incremental Term A-3 Funding Date, and on the Incremental Term A-3 Facility Maturity Date. Interest hereunder shall be due and payable in accordance with the terms hereof and of the Credit Agreement before and after judgment, and before and after the commencement of any proceeding under any Debtor Relief Law.
+(i)Prepayments. For the avoidance of doubt, voluntary and mandatory prepayments with respect to the Incremental Term A-3 Facility shall be governed by Section 2.05 of the Credit Agreement.
+(j)Use of Proceeds. The proceeds of the Incremental Term A-3 Facility shall be used by Greif Packaging solely to finance (or refinance) investments made by Greif Packaging, the Company or a U.S. Subsidiary Guarantor that satisfy both of following criteria: (i) such investments are (or were) made, directly or indirectly, in order to allow existing mills of Greif Packaging to utilize waste and waste product (including mixed paper post-consumer materials and old corrugate containers) as inputs for their operations and (ii) such investments are (or were) made, directly or indirectly, in mills that are located in rural areas with populations of no more than 20,000 (collectively, the “Term A-3 Investment Purpose”). Greif Packaging, the Company and the U.S. Subsidiary Guarantors hereby covenant that the proceeds of the Incremental Term A-3 Facility shall be used solely for the Term A-3 Investment Purpose. Until the Incremental Term A-3 Funding Date, the Loan Parties agree to maintain ownership of the mills and assets that will be the subject of the investments referred to in the definition of “Term A-3 Investment Purpose” (or similar assets reasonably acceptable to CoBank). For so long as the Incremental Term A-3 Loan remains outstanding, the Loan Parties agree to maintain, in all material respects, the business of owning mills or similar assets.
+(k)Ticking Fee. In consideration of the Incremental Term A-3 Facility, Greif Packaging agrees to pay to the Incremental Term A-3 Lender from the Incremental Term A-3 Agreement Effective Date until the earliest of (i) the Incremental Term A-3 Funding Date, (ii) the date upon which Greif Packaging advises the Incremental Term A-3 Lender that it will not draw the Incremental Term A-3 Loan and terminates the Incremental Term A-3 Commitment, and (iii) July 15, 2021, a ticking fee (the “Ticking Fee”) in Dollars in an amount equal to 0.35% per annum on the average daily undrawn amount of the Incremental Term A-3 Facility, subject to adjustment as provided in Section 2.17 of the Credit Agreement. The Ticking Fee shall be due and payable quarterly in arrears on the last Business Day of each January, April, July and
+6
+
+
+October, commencing with the first such date to occur after the Incremental Term A-3 Agreement Effective Date. The Ticking Fee shall be calculated quarterly in arrears.
+SECTION 3.Amendments to Credit Agreement.
+(a)Section 1.01 of the Credit Agreement is hereby amended by adding the following definitions in proper alphabetical sequence:
+“Incremental Term A-3 Agreement” means that certain Incremental Term Loan Agreement dated as of the Incremental Term A-3 Agreement Effective Date among Greif Packaging, the Guarantors party thereto, the Administrative Agent and the Incremental Term A-3 Lender.
+“Incremental Term A-3 Agreement Effective Date” means November 13, 2020.
+“Incremental Term A-3 Borrowing” means a borrowing consisting of simultaneous Incremental Term A-3 Loans of the same Type and, in the case of Eurodollar Rate Loans, having the same Interest Period made by the Incremental Term A-3 Lender pursuant to the Incremental Term A-3 Agreement.
+“Incremental Term A-3 Commitment” means, as to the Incremental Term A-3 Lender, its obligation to make the Incremental Term A-3 Loan to Greif Packaging pursuant to the Incremental Term A-3 Agreement in an aggregate principal amount at any one time outstanding not to exceed the amount set forth in the Incremental Term A-3 Agreement.
+“Incremental Term A-3 Facility” means, at any time, (a) on the Incremental Term A-3 Agreement Effective Date, the aggregate amount of the Incremental Term A-3 Commitment at such time and (b) thereafter, the aggregate principal amount of the Incremental Term A-3 Loan outstanding at such time. As of the Incremental Term A-3 Agreement Effective Date, the Incremental Term A-3 Facility is $225,000,000.
+“Incremental Term A-3 Lead Arranger” has the meaning given to such term in the Incremental Term A-3 Agreement.
+“Incremental Term A-3 Lender” has the meaning given to such term in the Incremental Term A-3 Agreement.
+“Incremental Term A-3 Loan” means Loan made on the Incremental Term A-3 Agreement Effective Date pursuant to the Incremental Term A-3 Agreement.
+“Incremental Term A-3 Note” means a promissory note made by Greif Packaging in favor of the Incremental Term A-3 Lender evidencing the Incremental Term A-3 Loan made by such Incremental Term A-3 Lender.
+(b)The following defined terms in Section 1.01 of the Credit Agreement are each hereby amended and restated in their entireties to read as follows:
+7
+
+
+“Arrangers” means, collectively, WFS, JPMorgan, GS, MLPFSI, and, with respect to the Term A-2 Facility and the Incremental Term A-3 Facility, CoBank, in their respective capacities as joint lead arrangers and joint bookrunners.
+“Commitment” means a Term A-1 Commitment, a Term A-2 Commitment, the Incremental Term A-3 Commitment, a U.S. Revolving Credit Commitment or a Global Revolving Credit Commitment, as the context may require.
+“Facility” means the Term A-1 Facility, the Term A-2 Facility, the Incremental Term A-3 Facility, the U.S. Revolving Credit Facility or the Global Revolving Credit Facility, as the context may require.
+“Lender” has the meaning specified in the introductory paragraph hereto and, as the context requires, includes each Term A-1 Lender, each Term A-2 Lender, the Incremental Term A-3 Lender, each U.S. Revolving Credit Lender, each Global Revolving Credit Lender and each Swing Line Lender.
+“Loan” means an extension of credit by a Lender to a Borrower under Article II in the form of a Term A-1 Loan, a Term A-2 Loan, the Incremental Term A-3 Loan, a U.S. Revolving Credit Loan, a Global Revolving Credit Loan or a Swing Line Loan.
+“Loan Notice” means a notice of a (a) Term A-1 Borrowing, (b) Term A-2 Borrowing, (c) Incremental Term A-3 Borrowing, (d) U.S. Revolving Credit Borrowing, (e) Global Revolving Credit Borrowing, (f) conversion of Loans from one Type to the other, or (g) continuation of Eurodollar Rate Loans, pursuant to Section 2.02(a), which, if in writing, shall be substantially in the form of Exhibit A.
+“Maturity Date” means (a) with respect to the Revolving Credit Facility, February 11, 2024, (b) with respect to the Term A-1 Facility, February 11, 2024, (c) with respect to the Term A-2 Facility, February 11, 2026, and (d) with respect to the Incremental Term A-3 Facility, July 15, 2026; provided that, in each case, if such date is not a Business Day, the Maturity Date shall be the next preceding Business Day.
+
+“Note” means a Term A-1 Note, a Term A-2 Note, the Incremental Term A-3 Note or a Revolving Credit Note, as the context may require.
+
+“Specified Foreign Indebtedness” means Indebtedness of a Foreign Subsidiary of the Company having a maturity not earlier than the date that is six months following the Maturity Date then in effect for the Revolving Credit Facility, the Term A-1 Facility, the Term A-2 Facility or the Incremental Term A-3 Facility, whichever occurs later; provided that Specified Foreign Indebtedness shall not include Intercompany Indebtedness.
+
+8
+
+
+“Term Borrowing” means a Term A-1 Borrowing, a Term A-2 Borrowing or the Incremental Term A-3 Borrowing.
+
+“Term Commitment” means a Term A-1 Commitment, a Term A-2 Commitment or the Incremental Term A-3 Commitment.
+
+“Term Facilities” means, at any time, the Term A-1 Facility, the Term A-2 Facility and the Incremental Term A-3 Facility.
+
+“Term Lender” means, at any time, a Term A-1 Lender, a Term A-2 Lender or the Incremental Term A-3 Lender.
+
+“Term Loan” means a Term A-1 Loan, a Term A-2 Loan or the Incremental Term A-3 Loan.
+
+(c)The definition of “Appropriate Lender” contained in Section 1.01 of the Credit Agreement is hereby amended by deleting the phrase “either Term Facility” contained therein and replacing it with the following: “any Term Facility”.
+(d)The definition of “Applicable Percentage” contained in Section 1.01 of the Credit Agreement is hereby amended by (i) deleting the “and” at the end of subsection (c) thereof, (ii) deleting the “.” at the end of subsection (d) thereof and replacing it with “; and”, and (iii) adding the following as the new subsection (e) thereof:
+    “(e)    in respect of the Incremental Term A-3 Facility, with respect to the Incremental Term A-3 Lender at any time, the percentage (carried out to the ninth decimal place) of the Incremental Term A-3 Facility represented by (i) on the Incremental Term A-3 Agreement Effective Date, the Incremental Term A-3 Lender’s Incremental Term A-3 Commitment at such time, subject to adjustment as provided in Section 2.17, and (ii) thereafter, the principal amount of such the Incremental Term A-3 Lender’s Incremental Term A-3 Loan at such time.”
+(e)The definition of “Outstanding Amount ” contained in Section 1.01 of the Credit Agreement is hereby amended by deleting the phrase “Term A-2 Loans, U.S. Revolving Credit Loan” contained in subsection (a) thereof and replacing it with “Term A-2 Loans, Incremental Term A-3 Loan, U.S. Revolving Credit Loan”.
+(f)Section 2.05(a)(i) of the Credit Agreement is hereby amended by deleting the last sentence thereof in its entirety and replacing it with the following:
+“Each prepayment of the outstanding Term Loans pursuant to this Section 2.05(a) shall be applied (x) ratably to the Term A-1 Facility, the Term A-2 Facility and the Incremental Term A-3 Facility and (y) to the principal repayment installments thereof on a pro-rata basis, and subject to Section 2.17, each such prepayment shall be paid to the Lenders in accordance with their respective Applicable Percentages in respect of each of the relevant Facilities.”
+
+(g)Section 2.06(b)(i) of the Credit Agreement is hereby amended by deleting the phrase “The aggregate Term A-1 Commitments and the aggregate Term A-2 Commitments”
+9
+
+
+contained therein and replacing it with the following: “The aggregate Term A-1 Commitments, the aggregate Term A-2 Commitments and the Incremental Term A-3 Commitment”.
+(h)Section 3.03(a) of the Credit Agreement is hereby amended by deleting each usage of the phrase “Term A-2 Facility, the U.S. Revolving Credit Facility” contained therein and replacing them with the following: “Term A-2 Facility, the Incremental Term A-3 Facility, the U.S. Revolving Credit Facility”.
+(i)Section 10.01(a)(v) of the Credit Agreement is hereby amended by deleting such Section in its entirety and replacing it with the following:
+“(v)    (v) if such Facility is the Term A-1 Facility, the Required Term A-1 Lenders, (w) if such Facility is the Term A-2 Facility, the Required Term A-2 Lenders, (x) if such Facility is the Incremental Term A-3 Facility, the Incremental Term A-3 Lender, (y) if such Facility is the U.S. Revolving Credit Facility, the Required U.S. Revolving Lenders, and (z) if such Facility is the Global Revolving Credit Facility, the Required Global Revolving Lenders, change Section 2.13 or Section 8.02, in either case, in any manner that materially and adversely affects the Lenders under any such Facility,”
+(j)Section 10.01(a)(E) of the Credit Agreement is hereby amended by deleting the phrase “Required Term A-2 Lenders, the Required U.S. Revolving Lenders” contained therein and replacing it with the following: “Required Term A-2 Lenders, the Incremental Term A-3 Lender, the Required U.S. Revolving Lenders”.
+(k)Section 10.01(b) of the Credit Agreement is hereby amended by deleting the phrase “the Required Term A-2 Lenders, the Required U.S. Revolving Lenders” contained therein and replacing it with the following: “the Required Term A-2 Lenders, the Incremental Term A-3 Lender, the Required U.S. Revolving Lenders”.
+(l)Sections 10.21(a) and (b) of the Credit Agreement are hereby amended by deleting such Sections in their respective entities and replacing them with the following:
+“(a)    So long as (i) CoBank (or its Affiliate) is a Lender hereunder and (ii) CoBank has notified Greif Packaging that it is eligible to receive patronage distributions directly from CoBank on account of the Term A-2 Loans or the Incremental Term A-3 Loan made (or participated in) by CoBank hereunder, Greif Packaging will acquire (and CoBank will make available to Greif Packaging for purchase) equity in CoBank in such amounts and at such times as CoBank may require in accordance with CoBank’s bylaws and capital plan or similar documents (as each may be amended from time to time), except that the maximum amount of equity that Greif Packaging may be required to purchase in CoBank in connection with the portion of the Term A-2 Loans or the Incremental Term A-3 Loan made by CoBank (or its Affiliate) may not exceed the maximum amount permitted by the applicable bylaws, capital plan and related documents at the Incremental Term A-3 Amendment Effective Date. Greif Packaging acknowledges receipt as of the Incremental Term A-3 Agreement Effective Date of a copy of (x) CoBank’s most recent annual report, and if more recent, CoBank’s latest quarterly report, (y) CoBank’s Notice to Prospective
+10
+
+
+Stockholders and (z) CoBank’s Bylaws and Capital Plan, which describe the nature of all Greif Packaging’s cash patronage, stock and other equities in CoBank acquired in connection with its patronage loan from CoBank (or its Affiliate) (the “CoBank Equities”) as well as capitalization requirements, and agrees to be bound by the terms thereof.
+(b)    Each party hereto acknowledges that CoBank’s Bylaws and Capital Plan (as each may be amended from time to time) shall govern (x) the rights and obligations of the parties with respect to the CoBank Equities and any patronage refunds or other distributions made on account thereof or on account of Greif Packaging’s patronage with CoBank, (y) Greif Packaging’s eligibility for patronage distributions from CoBank (in the form of CoBank Equities and cash) and (z) patronage distributions, if any, in the event of a sale of a participation interest. CoBank reserves the right to assign or sell participations in all or any part of its Commitments or outstanding Term A-2 Loans or Incremental Term A-3 Loan hereunder on a non-patronage basis in accordance with Section 11.06. Subject to the first sentence of this clause, any Term A-2 Loans or the Incremental Term A-3 Loan made to Greif Packaging shall result in the accrual of patronage refunds or distributions for the benefit of Greif Packaging from the CoBank (or its Affiliate), and such patronage refunds or distributions shall be payable directly for the account of Greif Packaging.”
+(m)Schedule 10.06(g) to the Credit Agreement is hereby amended and restated in its entirety to read as shown on Schedule 10.06(g) attached hereto.
+SECTION 4.Conditions of Effectiveness. This Incremental Term Loan Agreement shall become effective on the Incremental Term A-3 Agreement Effective Date upon the satisfaction of the conditions precedent set forth in this Section 4:
+(a)Incremental Term Loan Agreement and Incremental Term A-3 Note. The Administrative Agent and the Incremental Term A-3 Lead Arranger shall have received (i) from Greif Packaging and from each other party hereto (including the Incremental Term A-3 Lender), an executed signature page counterpart of this Incremental Term Loan Agreement and (ii) from Greif Packaging, the Incremental Term A-3 Note executed by Greif Packaging.
+(b)Other Deliverables. Greif Packaging shall deliver to the Administrative Agent:
+(i)     such assurances, certificates, documents, consents or opinions as the Administrative Agent may reasonably request to be satisfied that such increase will not violate or cause a default under the Senior Note Documents or otherwise provide the holders of the Senior Notes the right to collateral to secure the obligations under the Senior Note Documents; and
+(ii)     a certificate of each Domestic Loan Party dated as of the Incremental Term A-3 Agreement Effective Date signed by a Responsible Officer of such Loan Party (A) certifying and attaching the resolutions adopted by such Loan Party approving or consenting to such increase, and (B) in the case of the Company, certifying that, before and after giving effect to the Incremental Term A-3 Facility, (1) the representations and warranties contained in Article V of the Credit Agreement and the other Loan Documents
+11
+
+
+are true and correct on and as of the Incremental Term A-3 Agreement Effective Date, except to the extent that such representations and warranties specifically refer to an earlier date, in which case they are true and correct as of such earlier date, and except that for purposes of this Section, the representations and warranties contained in clause (a) of Section 5.05 of the Credit Agreement shall be deemed to refer to the most recent statements furnished pursuant to clauses (a) and (b), respectively, of Section 6.01 of the Credit Agreement and (2) no Default exists.
+(c)Fees, Costs and Expenses. The Administrative Agent and the Incremental Term A-3 Lead Arranger shall have received evidence reasonably satisfactory to it that Greif Packaging has paid (i) all fees and expenses payable to the Incremental Term A-3 Lead Arranger pursuant to that certain Fee Letter dated August 12, 2020 among the Company, Greif Packaging and the Incremental Term A-3 Lead Arranger, and (ii) all reasonable out-of-pocket expenses of the Administrative Agent and the Incremental Term A-3 Lead Arranger (including reasonable fees, charges and disbursements of counsel to CoBank) in connection with the preparation, negotiation, execution and delivery of this Incremental Term Loan Agreement and as otherwise required to be reimbursed or paid by Greif Packaging pursuant to Section 10.04(a) of the Credit Agreement.
+SECTION 5.Representations and Warranties. Each of Greif Packaging, the Company and each U.S. Subsidiary Guarantor hereby represents and warrants, on and as of the date hereof, that (i) the execution, delivery and performance by such Person of this Incremental Term Loan Agreement and the transactions contemplated hereby have been duly authorized by all company action required to be obtained by such Person, and (ii) this Incremental Term Loan Agreement has been duly executed and delivered by such Person and constitutes a legal, valid and binding obligation of such Person enforceable against such Person in accordance with its terms, subject to (1) the effects of bankruptcy, insolvency, moratorium, reorganization, fraudulent conveyance or other similar laws affecting creditors’ rights generally, (2) general principles of equity (regardless of whether such enforceability is considered in a proceeding in equity or at law), and (3) implied covenants of good faith and fair dealing.
+SECTION 6.Reaffirmation of Security. Each of Greif Packaging, the Company and each U.S. Subsidiary Guarantor (a) affirms that each of the Liens granted in or pursuant to the Loan Documents are valid and subsisting, (b) agrees that such Liens and the Collateral secure such Person’s obligations in respect of the Incremental Term A-3 Facility and (c) agrees that this Incremental Term Loan Agreement does not in any manner impair or otherwise adversely affect any of the Liens granted in or pursuant to the Loan Documents.
+SECTION 7.This Incremental Term Loan Agreement Constitutes an Amendment and a Loan Document. In accordance with Section 2.14 of the Credit Agreement, the Credit Agreement and other Loan Documents are hereby deemed amended to give effect to the provisions of this Incremental Term Loan Agreement relating to the Incremental Term A-3 Facility, including that the Incremental Term A-3 Facility constitutes Obligations that are secured and guaranteed with the other Obligations on a pari passu basis. This Incremental Term Loan Agreement constitutes a Loan Document and all references to a “Loan Document” in the Credit Agreement and the other Loan Documents (including, without limitation, all such references in the representations and warranties in the Credit Agreement and the other Loan Documents) shall be deemed to include this Incremental Term Loan Agreement.
+SECTION 8.Execution in Counterparts. This Incremental Term Loan Agreement may be executed in counterparts (and by different parties hereto in different counterparts), each of which shall
+12
+
+
+constitute an original, but all of which when taken together shall constitute a single contract. Delivery of an executed counterpart of a signature page to this Incremental Term Loan Agreement by facsimile or in electronic imaging means (e.g., “pdf” or “tif”) shall be effective as delivery of a manually executed counterpart of this Incremental Term Loan Agreement.
+SECTION 9.Governing Law. This Incremental Term Loan Agreement shall be governed by, and construed in accordance with, the laws of the State of New York.
+[Remainder of Page Intentionally Left Blank]
+13
+
+
+IN WITNESS WHEREOF, the parties hereto have caused this Incremental Term Loan Agreement to be duly executed by their respective authorized officers as of the day and year first written above.
+BORROWER:    GREIF PACKAGING LLC,
+a Delaware limited liability company
+
+/s/    DAVID C. LLOYD    
+Name: David C. Lloyd
+                        Title: Vice President and Treasurer
+
+GUARANTORS:                GREIF, INC.,
+a Delaware corporation
+
+/s/    DAVID C. LLOYD    
+                        Name: David C. Lloyd
+Title: Vice President and Treasurer
+
+                        AMERICAN FLANGE & MANUFACTURING
+CO. INC.,
+a Delaware corporation
+
+/s/    DAVID C. LLOYD    
+                        Name: David C. Lloyd
+Title: Vice President and Treasurer
+
+GREIF NEVADA HOLDINGS LLC,
+a Nevada limited liability company
+
+By: Greif U.S. Holdings, Inc., a Nevada corporation, its Sole Member
+
+/s/    DAVID C. LLOYD    
+                        Name: David C. Lloyd
+Title: Vice President and Treasurer
+
+GREIF U.S. HOLDINGS, INC.,
+a Nevada corporation
+
+/s/    DAVID C. LLOYD    
+                        Name: David C. Lloyd
+Title: Vice President and Treasurer
+
+
+
+GREIF USA LLC,
+a Delaware limited liability company
+
+/s/    DAVID C. LLOYD    
+                        Name: David C. Lloyd
+Title: Vice President and Treasurer
+
+SOTERRA LLC,
+a Delaware limited liability company
+
+/s/    DAVID C. LLOYD    
+                        Name: David C. Lloyd
+Title: Vice President and Treasurer
+
+DELTA PETROLEUM COMPANY, INC.,
+a Louisiana corporation
+
+/s/    DAVID C. LLOYD    
+                        Name: David C. Lloyd
+Title: Vice President and Treasurer
+
+EARTH MINDED LLC,
+a Delaware limited liability company
+
+/s/    DAVID C. LLOYD    
+                        Name: David C. Lloyd
+Title: Vice President and Treasurer
+
+Greif Euro LLC,
+a Delaware limited liability company
+
+/s/    DAVID C. LLOYD    
+                        Name: David C. Lloyd
+Title: Vice President and Treasurer
+
+GREIF INTERNATIONAL PROCUREMENT
+LLC,
+an Ohio limited liability company
+
+/s/    DAVID C. LLOYD    
+                        Name: David C. Lloyd
+Title: Vice President and Treasurer
+
+
+
+PACKAGING TRANSPORT LLC,
+a Delaware limited liability company
+
+/s/    DAVID C. LLOYD    
+                        Name: David C. Lloyd
+Title: Vice President and Treasurer
+    PAPERBOARD PARENT, INC.,
+a Delaware corporation
+
+/s/    DAVID C. LLOYD    
+                        Name: David C. Lloyd
+Title: Vice President and Treasurer
+
+CARAUSTAR INDUSTRIES, INC.,
+a Delaware corporation
+
+/s/    DAVID C. LLOYD    
+                        Name: David C. Lloyd
+Title: Vice President and Treasurer
+
+CARAUSTAR CONSUMER PRODUCTS
+GROUP, LLC,
+a Delaware limited liability company
+
+/s/    DAVID C. LLOYD    
+                        Name: David C. Lloyd
+Title: Vice President and Treasurer
+
+TAMA PAPERBOARD, LLC,
+a Delaware limited liability company
+
+/s/    DAVID C. LLOYD    
+                        Name: David C. Lloyd
+Title: Vice President and Treasurer
+
+CARAUSTAR INDUSTRIAL PRODUCTS
+GROUP, LLC,
+a Delaware limited liability company
+
+/s/    DAVID C. LLOYD    
+                        Name: David C. Lloyd
+Title: Vice President and Treasurer
+
+
+
+CARAUSTAR MILL GROUP, INC.,
+an Ohio corporation
+
+/s/    DAVID C. LLOYD    
+                        Name: David C. Lloyd
+Title: Vice President and Treasurer
+
+CARAUSTAR INDUSTRIAL AND
+CONSUMER PRODUCTS GROUP, INC.,
+a Delaware corporation
+
+/s/    DAVID C. LLOYD    
+                        Name: David C. Lloyd
+Title: Vice President and Treasurer
+
+CARAUSTAR RECOVERED FIBER GROUP,
+INC.,
+a Delaware corporation
+
+/s/    DAVID C. LLOYD    
+                        Name: David C. Lloyd
+Title: Vice President and Treasurer
+
+CASCADE PAPER CONVERTERS CO.,
+a Michigan corporation
+
+/s/    DAVID C. LLOYD    
+                        Name: David C. Lloyd
+Title: Vice President and Treasurer
+
+THE NEWARK GROUP, INC.,
+a New Jersey corporation
+
+/s/    DAVID C. LLOYD    
+                        Name: David C. Lloyd
+Title: Vice President and Treasurer
+
+SPRAGUE PAPERBOARD, INC.,
+a Connecticut corporation
+
+/s/    DAVID C. LLOYD    
+                        Name: David C. Lloyd
+Title: Vice President and Treasurer
+
+
+
+
+ADMINISTRATIVE
+AGENT:    JPMORGAN CHASE BANK NATIONAL ASSOCIATION
+
+/s/    ERIC B. BERGESON    
+                        Name: Eric B. Bergeson
+Title: Authorized officer
+
+
+
+Incremental Term A-3 LEAD
+ARRANGER AND
+INCREMENTAL TERM
+LOAN A-3 LENDER:    COBANK, ACB
+
+/s/    ROBERT PRICKETT    
+                        Name: Robert Prickett
+Title: Vice President
+
+
+
+Schedule 10.06(g)
+Voting Participants
+Lender Voting Participant U.S. Revolving Credit Commitment Participation Amount/Resulting U.S. Revolving Credit Commitment* Term A-2 Commitment Participation Amount / Resulting Term A-2 Commitment* Incremental Term A-3 Commitment Participation Amount / Resulting Incremental Term A-3 Commitment*
+CoBank, ACB $75,000,000.00 $18,500,000.00 $400,000,000.00 $98,500,000.00 $225,000,000.00 $45,000,000.00
+AgChoice Farm Credit, ACA, on behalf of itself and its wholly owned Subsidiaries, AgChoice Farm Credit, FLCA and AgChoice Farm Credit, PCA $1,600,000.00 $8,400,000.00 $5,000,000.00
+AgCountry Farm Credit Services, FLCA $4,700,000.00 $25,300,000.00 $14,000,000.00
+AgFirst Farm Credit Bank $7,100,000.00 $37,900,000.00 $25,000,000.00
+American AgCredit, FLCA $3,900,000.00 $21,100,000.00 $14,500,000.00
+Compeer Financial, FLCA $10,300,000.00 $54,700,000.00 $31,000,000.00
+Farm Credit Bank of Texas $10,300,000.00 $54,700,000.00 $31,000,000.00
+Farm Credit East, ACA $2,600,000.00 $13,900,000.00 $8,000,000.00
+Farm Credit Mid-America, FLCA $3,900,000.00 $21,100,000.00 $12,000,000.00
+Farm Credit Services of America, FLCA $2,600,000.00 $13,900,000.00 $10,500,000.00
+Farm Credit West, FLCA $2,600,000.00 $13,900,000.00 $8,000,000.00
+GreenStone Farm Credit Services, FLCA $4,300,000.00 $22,700,000.00 $13,000,000.00
+Northwest Farm Credit Services, FLCA $2,600,000.00 $13,900,000.00 $8,000,000.00
+TOTAL $75,000,000.00 $75,000,000.00 $400,000,000.00 $400,000,000.00 $225,000,000.00 $225,000,000.00
+* For voting purposes only.
+
+
+
+
+Exhibit A
+
+Cost of Funds True-Up Certificate
+
+Reference is made to (a) that certain Amended & Restated Credit Agreement, dated as of February 11, 2019 (as amended or modified from time to time, the “Credit Agreement”), among Greif Inc., a Delaware corporation (the “Company”), Greif Packaging LLC, a Delaware limited liability company (“Greif Packaging”), Greif UK International Holding Ltd., a private limited liability company incorporated and existing under the laws of the United Kingdom, Greif International Holding B.V., a private limited liability company (besloten vennootschap met beperkte aansprakelijkheid) incorporated and existing under the laws of The Netherlands with statutory seat in Amstelveen, The Netherlands and registered with the Dutch trade register under number 33065401, Greif Luxembourg Holding S.À R.L., a Luxembourg private limited liability company (société à responsabilité limitée), organized under the laws of the Grand Duchy of Luxembourg, having its registered office at 12C, rue Guillaume Kroll, L-1882 Luxembourg, Grand Duchy of Luxembourg, and registered with the Luxembourg Register of Commerce and Companies (R.C.S. Luxembourg) under number B 206851, the other borrowers from time to time party thereto, the Lenders party thereto and JPMorgan Chase Bank, National Association, as Administrative Agent (the “Administrative Agent”) and (b) that certain Incremental Term Loan Agreement, dated as of November 13, 2020 (as amended or modified from time to time, the “Incremental Term A-3 Agreement”), among Greif Packaging, the Guarantors party thereto, the Lenders party thereto and the Administrative Agent. Capitalized terms used herein without definition shall have the meanings set forth in the Credit Agreement or the Incremental Term A-3 Agreement, as applicable.
+The undersigned officer of CoBank hereby certifies as of the date hereof, in such capacity and not in a personal capacity and without personal liability, as follows:
+1.    As of _____________ [insert applicable date that is the Incremental Term A-3 Funding Date or the date that is 2.5 years from the Incremental Term A-3 Funding Date (or if such date is not a Business Day, the next succeeding Business Day)] (the “Applicable Reset Date”), and pursuant to the calculations set forth on Annex A hereto, the Reset Date Cost of Funds is [ ] basis points, which represents an [increase/decrease] of [__] basis points compared to the Incremental Term A-3 Agreement Effective Date Cost of Funds.
+2.    Pursuant to Section 2(g) of the Incremental Term A-3 Agreement, the Eurodollar Rate with respect to Incremental Term A-3 Loan shall be [increased/decreased] by [ ] basis points, which [increase/decrease] shall commence from and as of the Applicable Reset Date and shall remain in effect until the next Reset Date or the Incremental Term A-3 Maturity Date, as applicable; provided that in no event shall any decrease in the Applicable Rate result in an Applicable Rate of less than zero with respect to the portion of the Incremental Term A-3 Loan that are Eurodollar Rate Loans.
+3.    The calculations set forth on Annex A hereto are true and accurate as of the Applicable Reset Date.
+
+    
+
+The foregoing certifications are made and delivered on [ ], pursuant to Section 2(g) of the Incremental Term A-3 Agreement.
+COBANK, ACB
+
+
+/s/        
+Name:
+Title:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ANNEX A
+TO
+COST OF FUNDS TRUE-UP CERTIFICATE
+
+As of [ ] (the “Applicable Reset Date”),
+(Amounts in basis points)1
+1. Incremental Term A-3 Agreement Effective Date Cost of Funds: (a) – (b) =
+[___]
+(a) Floating Note Rate,2 determined as of the date that is two Business Days prior to the Incremental Term A-3 Agreement Effective Date:2
+[___]
+(b) Eurodollar Rate for an Interest Period of one month, determined as of the date that is two Business Days prior to the Incremental Term A-3 Agreement Effective Date: [___]
+2. Reset Date Cost of Funds: (a) - (b) =
+[___]
+(a) Floating Note Rate, determined as of the date that is two Business Days prior to the Applicable Reset Date: [___]
+(b) Eurodollar Rate for an Interest Period of one month, determined as of the date that is two Business Days prior to the Applicable Reset Date:
+[___]
+3. Cost of Funds Differential: compare (a) to (b) =
+[___][Increase/Decrease]
+(a) Incremental Term A-3 Agreement Effective Date Cost of Funds: [___]
+(b) Reset Date Cost of Funds: [___]
+
+
+
+1 If (a) is less than (b) for Line 1 and/or Line 2, reflect as a negative number.
+2 For purposes hereof, “Floating Note Rate” means, as of any date of determination, the estimated funding cost (not the actual sale price), including standard underwriting fees, for new two and a half-year debt securities issued by The Federal Farm Credit Banks Funding Corporation into the primary market based on market observations on such date indicated at approximately 9:30 a.m., Eastern time; it being understood that such indications represent The Federal Farm Credit Banks Funding Corporation’s best estimate of the cost of new debt issuances based on a combination of daily surveys of selected farm credit selling group members (participating bond dealers) and ongoing monitoring of the fixed income markets for actual, recent, primary market issuance by other government-sponsored institutions of similar bonds and notes and pricing within related derivative markets, particularly the interest rate swap market.  Notwithstanding the foregoing, if, in connection with the Incremental Term A-3 Agreement Effective Date or any Reset Date, new farm credit debt securities with a two and a half year term are not then being issued into the primary market by The Federal Farm Credit Banks Funding Corporation, then “Floating Note Rate” shall mean CoBank’s best estimate of the cost of such debt securities based on market observations of synthetic (swaps) floating rate indications for similar debt securities or such other replacement benchmark as CoBank and Greif Packaging may mutually agree upon.

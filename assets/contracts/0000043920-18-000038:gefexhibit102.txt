@@ -1,0 +1,716 @@
+EX-10.2 3 gefexhibit102.htm EXHIBIT 10.2
+Exhibit 10.2
+
+EXECUTION VERSION
+
+WELLS FARGO BANK, NATIONAL ASSOCIATION
+WELLS FARGO SECURITIES, LLC
+550 S. Tryon Street
+Charlotte, NC 28202
+JPMORGAN CHASE BANK, N.A.
+383 Madison Avenue
+New York, NY 10179
+GOLDMAN SACHS BANK USA
+200 West Street
+New York, NY 10282
+
+CONFIDENTIAL
+December 20, 2018
+Greif, Inc.
+425 Winter Road
+Delaware, OH 43015
+Attention: David Lloyd
+Vice President, Corporate Controller and Treasurer
+Re:    Project Peach Commitment Letter
+$1,200.0 Million Senior Secured Term Loan A Facility
+$1,073.75 Million Senior Secured Backstop Credit Facilities
+$700.0 Million Senior Bridge Facility
+Ladies and Gentlemen:
+You have advised Wells Fargo Bank, National Association (“Wells Fargo Bank”), Wells Fargo Securities, LLC (“Wells Fargo Securities”), JPMorgan Chase Bank, N.A. (“JPMorgan”) and Goldman Sachs Bank USA (“GS” and, together with Wells Fargo Bank, Wells Fargo Securities and JPMorgan, the “Commitment Parties” or “we” or “us”) that Greif, Inc., a Delaware corporation (the “Parent Borrower” or “you”) seeks financing to fund the purchase price for the proposed acquisition (the “Acquisition”) of all the equity interests of a company previously identified to us and code named “Peach” (the “Acquired Company”) from the existing equity holders of the Acquired Company (the “Seller”) pursuant to an agreement and plan of merger among the Acquired Company, Greif Packaging LLC, a Delaware limited liability company, Greif USA II LLC, a Delaware limited liability company, and Seller’s representative party thereto (the “Acquisition Agreement”).
+You have further advised us that the total funds needed to (a) finance the Acquisition, (b) refinance certain existing indebtedness of the Parent Borrower and its subsidiaries and/or the Acquired Company and its subsidiaries, including the Acquired Company’s existing credit agreement dated as of May 1 2013, as amended, and the Acquired Company’s existing ABL credit agreement dated as of May 1, 2013, as amended (such refinancings, collectively, the “Refinancing”) and (c) pay fees, commissions and expenses in connection with the Transactions (as defined below) will consist of:
+(i) either (x) the utilization of an additional $199.0 million of Revolving Credit Loans (as defined in the Existing Credit Agreement (as defined below)) under the Existing Credit Agreement (as defined below) to finance the Acquisition (such utilization being the “Existing Credit Agreement Acquisition Draw”) or (y) in the event that the Backstopped Amendments (as defined below) are not obtained on or prior to the Closing Date, the utilization of $199.0 million of revolving credit loans under the New Senior Credit Facilities (as defined below) to finance the Acquisition (such
+
+
+[[NYCORP:3882362v30:12/20/2018--09:36 AM]]
+
+
+amount to be, for the avoidance of doubt, in addition to the amount of Revolving Credit Loans under the Existing Credit Agreement that have been refinanced under the New Credit Facilities);
+(ii)    a senior secured term loan A facility of $1,200.0 million to the Parent Borrower (the “Incremental Term Loan A Facility”), as described in the Summary of Proposed Terms and Conditions attached hereto as Annex A (the “Bank Term Sheet”); and
+(iii)    the issuance and sale by the Parent Borrower of senior unsecured notes (the “Notes”) in a Rule 144A or other private placement on or prior to the Closing Date (as defined below) yielding up to $700.0 million in gross cash proceeds on or prior to the Closing Date (as defined below) or, in the event the Notes are not issued at or prior to the time the Transactions (as defined below) are consummated, borrowings by the Parent Borrower of up to $700.0 million, minus the aggregate principal amount of the Notes, if any, issued on or prior to the Closing Date (including pursuant to an escrow arrangement), under a senior unsecured credit facility (the “Bridge Facility” and, together with the Senior Credit Facilities (as defined below), the “Facilities”) as described in the Summary of Proposed Terms and Conditions attached hereto as Annex B (the “Bridge Term Sheet” and, together with the Bank Term Sheet, the “Term Sheets”) of which $250.0 million will be utilized to redeem the Parent Borrower’s 7-3/4% Senior Notes due 2019 (the “2019 Notes Redemption”).
+In connection with the foregoing, you have further advised us that you wish to obtain an amendment (which may be in the form of an amendment and restatement) of your existing Credit Agreement dated as of November 3, 2016 (the “Existing Credit Agreement”), among the Parent Borrower, Greif International Holding Supra C.V., a limited partnership (commanditaire vennootschap) incorporated and existing under the laws of the Netherlands with statutory seat in Amsterdam, the Netherlands and registered with the Dutch trade register under number 34342637 (“Greif CV1”), Greif International Holding B.V., a private limited liability company (besloten vennootschap met beperkte aansprakelijkheid) incorporated and existing under the laws of the Netherlands with statutory seat in Amstelveen, the Netherlands and registered with the Dutch trade register under number 33065401 (“Greif International Holding”), Greif JART S.à.r.l., a Luxembourg private limited liability company (société à responsabilité limitée), organized under the laws of the Grand Duchy of Luxembourg, having its registered office at 6, rue Eugène Ruppert, L-2453 Luxembourg, Grand Duchy of Luxembourg, and registered with the Luxembourg Register of Commerce and Companies (R.C.S. Luxembourg) under number B 206375 (“Greif JART”), Grief Luxembourg Holding S.à.r.l., a Luxembourg private limited liability company (société à responsabilité limitée), organized under the laws of the Grand Duchy of Luxembourg, having its registered office at 6, rue Eugène Ruppert, L-2453 Luxembourg, Grand Duchy of Luxembourg, and registered with the Luxembourg Register of Commerce and Companies (R.C.S. Luxembourg) under number B 206851 (“Greif Luxembourg” and, together with the Parent Borrower, Greif CV1, Greif International Holding and Greif JART, collectively, the “Borrowers” and each, a “Borrower”) and certain other wholly-owned subsidiaries of the Parent Borrower from time to time party thereto, each lender from time to time party thereto and JPMorgan, as administrative agent and L/C issuer, in the manner required by the Existing Credit Agreement, to permit and/or provide for (a) the consummation of the Acquisition, (b) the continuation of the aggregate principal amount of Revolving Credit Loans (as defined in the Existing Credit Agreement) and the Term Loans (as defined in the Existing Credit Agreement), in each case outstanding as of the Closing Date, (c) the Existing Credit Agreement Acquisition Draw with the only conditions applicable to such Existing Credit Agreement Acquisition Draw being the Funds Certain Conditions (as defined in the Bank Term Sheet), (d) the incurrence of the Incremental Term Loan A Facility thereunder, (e) the issuance and sale of the Notes and the establishment of the Bridge Facility, (f) modifications to the financial maintenance covenant ratio and the negative covenants as more fully described in the Bank Term Sheet, (g) the 2019 Notes Redemption, (h) the increase in the aggregate amount of the subfacility for the issuance of letters of credit as more fully described in the Bank Term Sheet and (i) such other changes
+
+
+
+[[NYCORP:3882362v30:12/20/2018--09:36 AM]]
+
+
+to the Existing Credit Agreement as more fully described in the Bank Term Sheet as “Best Efforts Amendments” (the amendments described in clauses (a) through (h) (inclusive), collectively, the “Backstopped Amendments”; the amendments described in clause (i), the “Best Efforts Amendments”; the Backstopped Amendments and the Best Efforts Amendments, collectively, the “Amendments”).
+In the event that the Backstopped Amendments are not obtained on or prior to the Closing Date, the Parent Borrower will obtain senior secured credit facilities consisting of (a) a senior secured revolving credit facility in an aggregate amount equal to the aggregate Revolving Credit Commitments (as defined in the Existing Credit Agreement) outstanding immediately prior to the Closing Date (but, in any event, not to exceed $800.0 million) (the “Revolving Credit Facility”), (b) a senior secured term loan A facility in an aggregate principal amount equal to the aggregate principal amount of Term Loans (as defined in the Existing Credit Agreement) outstanding immediately prior to the Closing Date (but, in any event, not to exceed $273.75 million) (the “New Term Loan A-1 Facility”) and (c) the Incremental Term Loan A Facility (in such circumstances, the “New Term Loan A-2 Facility” and, together with the Revolving Credit Facility and the New Term Loan A-1 Facility, the “New Senior Credit Facilities”), having the terms set forth in the Bank Term Sheet, and shall use a portion of the proceeds thereof to repay in full all indebtedness, and terminate all commitments, guarantees and security interests, under the Existing Credit Agreement (the “Existing Credit Agreement Replacement”).
+For purposes of this Commitment Letter (except as otherwise set forth herein or in the Term Sheets), the term “Senior Credit Facilities” shall mean (x) in the event that the Backstopped Amendments are obtained on or prior to the Closing Date, the Incremental Term Loan A Facility and (y) in the event that the Backstopped Amendments are not obtained on or prior to the Closing Date, the New Senior Credit Facilities.
+As used herein, the term “Transactions” means, collectively, the Acquisition, the Refinancing, the initial borrowings and other continuations or extensions of credit under the Senior Credit Facilities on the Closing Date, the issuance of the Notes on or prior to the Closing Date and/or the borrowings under the Bridge Facility on the Closing Date (as applicable), the arrangement of the Amendments, the Existing Credit Agreement Replacement (if necessary) and the payment of fees, commissions and expenses in connection with each of the foregoing. This letter, including the Term Sheets and the Conditions Annex attached hereto as Annex C (the “Conditions Annex”), is hereinafter referred to as the “Commitment Letter”. The date on which the Senior Credit Facilities are closed and the Acquisition is consummated is referred to as the “Closing Date”. Except as the context otherwise requires, references to the “Borrower and its subsidiaries” will include the Acquired Company and its subsidiaries after giving effect to the Acquisition.
+1.Commitments; Commercially Reasonable Efforts. Upon the terms and subject to the conditions set forth in this Commitment Letter, in the fee letter dated the date hereof from the Commitment Parties to you (the “Fee Letter”) and in each of the other fee letters dated the date hereof from one or more of the Commitment Parties to you (collectively with the Fee Letter, the “Fee Letters”), (a) Wells Fargo Bank, JPMorgan and GS are pleased to advise you of their respective commitments to provide to the Parent Borrower 100% of the principal amount of (i) the Incremental Term Loan A or (ii) the New Senior Credit Facilities, as applicable (the “Bank Commitment”) and (b) Wells Fargo Bank, JPMorgan and GS are pleased to advise you of their respective commitments to provide to the Parent Borrower 100% of the principal amount of the Bridge Facility (the “Bridge Commitment” and, together with the Bank Commitment, the “Commitments”). Wells Fargo Bank, JPMorgan and GS are referred to herein, collectively, as the “Initial Lenders” and, individually, as an “Initial Lender”, with Wells Fargo Bank, JPMorgan and GS in their capacities as the Initial Lenders of the Bank Commitment being herein called, collectively, the “Initial Bank Lenders” and, individually, an “Initial Bank Lender” and Wells Fargo Bank, JPMorgan and GS in their capacities as the Initial Lenders of the Bridge Commitment being herein called, collectively, the “Initial Bridge Lenders” and,
+
+
+
+[[NYCORP:3882362v30:12/20/2018--09:36 AM]]
+
+
+individually, an “Initial Bridge Lender.” Each of the Bank Commitment and the Bridge Commitment will be allocated among the Initial Bank Lenders and the Initial Bridge Lenders, respectively, on the following basis: 60% to Wells Fargo Bank; 20% to JPMorgan; and 20% to GS. The commitments hereunder of each Initial Lender shall be several and not joint and, in the case of the New Senior Credit Facilities, will be allocated ratably between the Revolving Credit Facility, the New Term Loan A-1 Facility and the New Term Loan A-2 Facility.
+In addition to the foregoing, the Commitment Parties will use their commercially reasonable efforts to obtain the requisite consents for the Amendments. It is understood and agreed that, except as expressly provided herein, this Commitment Letter shall not be construed to impose any obligation upon the Commitment Parties or any of their respective affiliates to ensure that the Best Efforts Amendments will become effective.
+2.    Titles and Roles. Each of Wells Fargo Securities, JPMorgan and GS, acting alone or through or with affiliates selected by it, will act as a joint bookrunner and a joint lead arranger (each in such capacities, a “Lead Arranger” and, collectively, the “Lead Arrangers”) in arranging and syndicating the Facilities and the Amendments; provided, however, that Wells Fargo Securities will have the “left” and “highest” placement in any and all marketing materials or other documentation used in connection with the Facilities and the Amendments and shall hold the leading role and responsibilities conventionally associated with such placement, including maintaining sole physical books for the Facilities and the Amendments. JPMorgan will continue to act as the sole administrative agent under the Existing Credit Agreement (as amended by the Amendments) or, if the Backstopped Amendments are not obtained on or prior to the Closing Date, will act as the sole administrative agent for the Senior Credit Facilities (in each case, in such capacity, the “Bank Administrative Agent”), and Wells Fargo Bank will act as the sole administrative agent (in such capacity, the “Bridge Administrative Agent” and, together with the Bank Administrative Agent, the “Administrative Agents”) for the Bridge Facility. No additional agents, co-agents, arrangers or bookrunners will be appointed and no other titles will be awarded and no other compensation will be paid (other than compensation expressly contemplated by this Commitment Letter and the Fee Letters) unless you and we shall agree in writing; provided that (i) on or prior to the date which is 10 business days after the date of this Commitment Letter, you will have the right to appoint one additional financial institution reasonably acceptable to the Lead Arrangers as a joint lead arranger and joint bookrunner, in each case in respect of the Facilities and the Amendments, so long as the aggregate commitment of such institution (or its affiliates) is not less than such amount as may be agreed between the Lead Arrangers and you and with economics not to exceed in the aggregate 10% of the economics payable to the Lead Arrangers in connection with the Facilities and the Amendments (excluding any fees payable to the Administrative Agents in their capacities as such) and (ii) the Lead Arrangers shall have the right, in consultation with you, to award titles to other co-agents, arrangers or bookrunners who are Lenders (as defined below) that provide (or whose affiliates provide) commitments in respect of one or more of the Facilities (it being further agreed that (x) each of the parties hereto shall execute a revised version of this Commitment Letter or an amendment or joinder hereto to reflect the commitment or commitments of any such institution (or its affiliate) (and the reduction of the Commitments of the Initial Lenders on a ratable basis by the amount of the commitments of such institution (or its affiliate)) and (y) no other agent, co-agent, arranger or bookrunner (other than the Lead Arrangers) will have rights in respect of the management of the syndication of the Facilities (including, without limitation, in respect of “market flex” rights under the Fee Letter, over which the Lead Arrangers will have sole control)).
+3.    Conditions to Commitment. The Commitments and undertakings of the Commitment Parties hereunder are subject solely to the satisfaction of the conditions precedent set forth in the Conditions Annex; it being understood that there are no conditions (implied or otherwise) including compliance with the terms of this Commitment Letter, the Fee Letters and the Financing Documentation, to the commitment hereunder,
+
+
+
+[[NYCORP:3882362v30:12/20/2018--09:36 AM]]
+
+
+or to the availability and initial funding of the Facilities, other than those conditions that are expressly stated in the Conditions Annex to be conditions to the initial funding of the Facilities on the Closing Date (and upon satisfaction or waiver by the Lead Arrangers of such conditions, the initial funding under the Facilities shall occur).
+Notwithstanding anything in this Commitment Letter, the Fee Letters or the Financing Documentation (as defined in the Conditions Annex) or any other letter agreement or other undertaking concerning the Facilities or the financing of the Transactions to the contrary, (a) the only representations relating to the Acquired Company, the Parent Borrower and their respective subsidiaries and their respective businesses the accuracy of which shall be a condition to the availability of the Facilities and, if applicable, the Existing Credit Agreement Acquisition Draw on the Closing Date shall be (i) such of the representations made by the Acquired Company in the Acquisition Agreement as are material to the interests of the Initial Lenders in their capacities as such (the “Specified Acquisition Agreement Representations”), but only to the extent that you or your affiliates have the right to terminate your or their respective obligations under the Acquisition Agreement or otherwise decline to close the Acquisition as a result of a breach of any such Specified Acquisition Agreement Representations or any such Specified Acquisition Agreement Representations not being accurate (in each case, determined without regard to any notice requirement) and (ii) the Specified Representations (as defined below) and (b) the terms of the Financing Documentation shall be in a form such that they do not impair the availability of the Facilities on the Closing Date if the conditions set forth in or referred to in this Commitment Letter are satisfied (it being understood that, to the extent any security interest in any Collateral (as defined in the Bank Term Sheet) (other than security interests that may be perfected by (x) the filing of a financing statement under the Uniform Commercial Code and (y) the delivery of certificates evidencing the equity security of each domestic subsidiary of the Parent Borrower (but, with respect to the Acquired Company and its subsidiaries, only to the extent received from the Acquired Company after use of commercially reasonable efforts to obtain such certificates) required to be pledged pursuant to the Bank Term Sheet), is not or cannot be perfected on the Closing Date, then the perfection of such security interests shall not constitute a condition precedent to the availability of the Facilities and, if applicable, the Existing Credit Agreement Acquisition Draw on the Closing Date, but instead, shall be required to be perfected after the Closing Date pursuant to arrangements and timing to be mutually agreed by the Bank Administrative Agent and the Parent Borrower acting reasonably (but not to exceed 60 days after the Closing Date, unless extended by the Bank Administrative Agent). For purposes hereof, “Specified Representations” means the representations and warranties of the Borrower and Guarantors set forth in Financing Documentation relating to corporate status of the Borrower and each Guarantor; corporate power and authority (as to execution, delivery and performance of the applicable Financing Documentation) of the Borrower and the Guarantors; no violation of the Loan Parties’ organizational documents (limited to execution, delivery and performance of the Financing Documentation, incurrence of indebtedness thereunder and the granting of the guarantees and security interests in respect thereof); solvency as of the Closing Date (after giving effect to the Transactions) of the Parent Borrower and its subsidiaries on a consolidated basis (as determined pursuant to Annex D hereto); use of proceeds and Federal margin regulations; the Investment Company Act; the PATRIOT Act; the use of proceeds of the Facilities on the Closing Date not violating anti-corruption laws and sanctions; and creation, validity and, subject to the parenthetical in the immediately preceding sentence, perfection of security interests in the Collateral. This paragraph, and the provisions herein, shall be referred to as the “Limited Conditionality Provision”.
+4.    Syndication; Offering Document.
+(a)    The Lead Arrangers intend and reserve the right, both prior to and after the Closing Date, to secure commitments for the Facilities from a syndicate of banks, financial institutions and other entities identified by the Lead Arrangers in consultation with you (such banks, financial institutions and
+
+
+
+[[NYCORP:3882362v30:12/20/2018--09:36 AM]]
+
+
+other entities committing to the Senior Credit Facilities, including the Initial Bank Lenders, the “Bank Lenders”; such financial institutions and other entities committing to the Bridge Facility, including the Initial Bridge Lenders, the “Bridge Lenders”; and, together with the Bank Lenders, the “Lenders”) upon the terms and subject to the conditions set forth in this Commitment Letter. Until the earlier of (i) the date that a Successful Syndication (as defined in the Fee Letter) is achieved and (ii) the date that is 60 days following the Closing Date (the “Syndication Date”), you agree to, and will use commercially reasonable efforts to cause appropriate members of management of the Acquired Company to, assist us actively in achieving a syndication of the Facilities that is satisfactory to us and you. To assist us in our syndication efforts and the arrangement of the Amendments, you agree that you will, and will cause your representatives and advisors to, and will use commercially reasonable efforts to cause appropriate members of management of the Acquired Company and its representatives and advisors to, (i) provide promptly to the Commitment Parties and the other prospective Lenders upon request all information reasonably deemed necessary by the Lead Arrangers to assist the Lead Arrangers and each prospective Lender in their evaluation of the Transactions and to complete the syndication and arrangement (including, without limitation, projections prepared by your management of balance sheets, income statements and cash flow statements of you and your subsidiaries for such periods after the Closing Date and during the term of the Facilities as are requested by the Lead Arrangers), (ii) make your senior management available to existing Lenders (as defined in the Existing Credit Agreement; the “Existing Lenders”) and prospective Lenders on reasonable prior notice and at reasonable times and places, (iii) host, with the Lead Arrangers, one or more meetings and/or calls with Existing Lenders and prospective Lenders at mutually agreed times and locations, (iv) assist, and cause your affiliates and advisors to assist, the Lead Arrangers in the preparation of one or more confidential information memoranda and other marketing materials in form and substance reasonably satisfactory to the Lead Arrangers to be used in connection with the syndication and the arrangement, (v) use commercially reasonable efforts to ensure that the syndication and arrangement efforts of the Lead Arrangers benefit materially from the existing lending relationships of the Parent Borrower, (vi) use commercially reasonable efforts to obtain, at the Parent Borrower’s expense, (A) a current public corporate credit rating of the Parent Borrower from S&P Global Ratings, a segment of S&P Global Inc. (“S&P”), (B) a current public corporate family rating of the Parent Borrower from Moody’s Investors Service, Inc. (“Moody’s”) and (C) a current public rating with respect to each of the Facilities and the Notes from each of S&P and Moody’s, in each case, prior to the commencement of the Compliance Period (as defined in Annex C hereto) and to participate actively in the process of securing such ratings, including having your senior management meet with such rating agencies and (vii) your ensuring (and, to the extent consistent with the terms of the Acquisition Agreement, using your commercially reasonable efforts to cause the Acquired Company to ensure) that prior to the later of the Closing Date and the Syndication Date there will be no competing issues, offerings, placements, arrangements or syndications of debt securities or commercial bank or other credit facilities by or on behalf of you or your subsidiaries or the Acquired Company and its subsidiaries, being offered, placed or arranged (other than the Facilities and the Notes) without the written consent of the Lead Arranger, unless such issuance, offering, placement, arrangement or syndication could not reasonably be expected, in the reasonable discretion of the Lead Arrangers, to materially impair the syndication of the Facilities or the arrangement of the Amendments (it being understood that indebtedness incurred in the ordinary course of business of the Parent Borrower, the Acquired Company and their respective subsidiaries for capital expenditures and working capital purposes will not materially impair the syndication of the Facilities or the arrangement of the Amendments).
+(b)    The Lead Arrangers and/or one or more of their respective affiliates will exclusively manage all aspects of the syndication of the Facilities and the arrangement of the Amendments (in consultation with you and consistent with the terms of this Commitment Letter), including decisions as to the selection and number of prospective Lenders to be approached, when they will be approached, whose commitments will be accepted, any titles offered to the Lenders and the final allocations of the commitments and any related fees among the Lenders, and the Lead Arrangers will exclusively perform all functions and exercise
+
+
+
+[[NYCORP:3882362v30:12/20/2018--09:36 AM]]
+
+
+all authority as is customarily performed and exercised in such capacities; provided that any Lender from which commitments have been accepted shall be reasonably acceptable to you. Notwithstanding the Lead Arrangers’ rights to syndicate the Facilities and receive commitments with respect thereto, (i) the Initial Lenders shall not be relieved or released from their respective obligations hereunder (including their respective obligations to fund the Facilities on the Closing Date) in connection with any syndication, assignment or participation in the Facilities, including their respective Commitments, until the initial funding under the Facilities has occurred on the Closing Date has occurred, (ii) no assignment by any Initial Lender shall become effective with respect to all or any portion of such Initial Lender’s Commitments until the initial funding of the Facilities (except to the extent that Notes are issued and paid for in lieu of the Bridge Facility or a portion thereof), (iii) unless you and we agree in writing, each Initial Lender will retain exclusive control over all rights and obligations with respect to its Commitments in respect of the Facilities, including all rights with respect to consents, modifications, supplements, waivers and amendments, until the Closing Date has occurred and (iv) the Lead Arrangers will not syndicate to (A) those banks, financial institutions and other institutional lenders separately identified (by legal entity name) in writing by you to us on or prior to the date hereof, (B) any other Person (as defined in the Existing Credit Agreement) determined by the Parent Borrower to be competitors of the Parent Borrower, the Acquired Company or any of their respective subsidiaries and which are specifically identified by the Parent Borrower by written notice to the Bank Administrative Agent or the Bridge Administrative Agent, as applicable, or (C) in the case of the foregoing clauses (A) and (B), any of such Person’s Affiliates (as defined in the Existing Credit Agreement) to the extent that such Affiliates are reasonably identifiable as Affiliates based solely on the similarity of such Affiliates’ names and are not bona fide debt investment funds (collectively, the “Disqualified Institutions”).
+(c)    You shall deliver to the Lead Arrangers, (i) with respect to the Parent Borrower and its subsidiaries, (A) audited consolidated balance sheets and related consolidated statements of income, comprehensive income, shareholder’s equity and cash flows for the three most recently completed fiscal years ended at least 90 days prior to the Closing Date and (B) unaudited consolidated balance sheets and related consolidated statements of income, comprehensive income, shareholder’s equity and cash flows for each interim fiscal quarter ended since the last audited financial statements and at least 45 days prior to the Closing Date and for each comparable period in the preceding fiscal year. You shall also deliver to the Lead Arrangers a pro forma consolidated balance sheet and related pro forma consolidated statements of income and cash flows of the Parent Borrower for the twelve-month period ending on the last day of the most recent fiscal quarter ending at least 45 days before the Closing Date (or 90 days before such date if such fiscal quarter is the last fiscal quarter in the Parent Borrower’s fiscal year), prepared after giving pro forma effect to each element of the Transactions as if the Transactions had occurred on the last day of such four quarter period (in the case of such balance sheet) or at the beginning of such period (in the case of such other financial statements).
+(d)    You will engage one or more investment banks satisfactory to the Lead Arrangers (collectively, the “Investment Bank”) to publicly sell or privately place the Notes and you will provide to the Investment Bank and the Lead Arrangers, during the entirety of the Compliance Period (as defined in Annex C hereto), a preliminary offering memorandum or preliminary private placement memorandum (collectively, an “Offering Document”) suitable for use in a customary high-yield road show relating to the issuance of the Notes, which contains all audited and unaudited historical and pro forma financial statements and other data to be included therein (including other financial data of the type and form customarily included in offering memoranda for a Rule 144A offering) (which financial statements and other data, for the avoidance of doubt, in no event shall require financial information otherwise required by Rule 3-05 (other than the financial statements of the Acquired Company), Rule 3-09, Rule 3-10 (other than customary guarantor and non-guarantor information with respect to sales, EBITDA, liabilities and/or assets, but not of the Acquired Company) and Rule 3-16 of Regulation S-X or “segment reporting” for the Acquired Company or any
+
+
+
+[[NYCORP:3882362v30:12/20/2018--09:36 AM]]
+
+
+Compensation Discussion and Analysis required by Item 402 of Regulation S-K and information regarding executive compensation related to SEC Release Nos. 33-8732A, 34-54302A and IC-27444A (other than customary disclosure with respect to material related party transactions) or any other information customarily excluded for an offering memorandum for non-convertible high yield bonds pursuant to Rule 144A) or that would be necessary for the Investment Bank to receive customary “comfort” (including “negative assurance” comfort) from independent accountants and customary legal opinions in connection with the offering of the Notes. You agree that the comfort letters to be provided by the independent accountants of the Parent Borrower and the Acquired Company in connection with the Offering Document shall be in usual and customary form (including satisfying the requirements of SAS 72), and that the auditors shall be prepared to deliver such letters at the pricing date, and shall cover both the financial statements of the Parent Borrower and the Acquired Company as well as financial data derived from the books and records of the Parent Borrower and the Acquired Company included in such Offering Document. You further agree to ensure that the independent accountants of the Parent Borrower shall have, and will use commercially reasonable efforts to ensure that the independent accountants of the Acquired Company shall also have, (i) consented to the inclusion in the Offering Document of the audited financial statements of the Parent Borrower and the Acquired Company contained therein and (ii) cooperated in preparing the Offering Document, including participating in standard due diligence in connection therewith as well as cooperated in preparing the pro forma financials for the Acquisition. It is understood and agreed that, so long as the condition set forth in paragraph 11 of Annex C hereto has been satisfied, your failure to comply with the provisions of Section 4(c) or this Section 4(d) shall constitute an “OM Delivery Failure Event”.
+(e)    Without limiting your obligations to assist with the syndication efforts and to deliver the financial statements and Offering Document as set forth in this Section 4, it is understood that the Commitments hereunder are not conditioned upon the syndication of, or receipt of commitments in respect of, the Facilities, the obtaining of any rating from S&P or Moody’s or the requirements under clauses (c) and (d) of this Section 4 and in no event shall the successful completion of the syndication of the Facilities or the delivery requirements under clauses (c) and (d) of this Section 4 constitute a condition to the availability of the Facilities on the Closing Date.
+5.    Information.
+(a)    You represent, warrant and covenant that (i) all written information and written data (other than the Projections, as defined below, other forward-looking information and information of a general economic or industry specific nature) concerning the Parent Borrower, the Acquired Company and their respective subsidiaries and the Transactions that has been or will be made available to the Commitment Parties or the prospective Lenders by you or any of your representatives, subsidiaries or affiliates (or on your or their behalf) (the “Information”), when taken as a whole, (x) is, and in the case of Information made available after the date hereof, will be complete and correct in all material respects and (y) does not, and in the case of Information made available after the date hereof, will not contain any untrue statement of a material fact or omit to state a material fact necessary in order to make the statements contained therein, in light of the circumstances under which they were made and after giving effect to any supplements thereto, not misleading and (ii) all financial projections concerning the Parent Borrower, the Acquired Company and their respective subsidiaries, taking into account the consummation of the Transactions, that have been or will be made available to the Commitment Parties or the prospective Lenders by you or any of your representatives, subsidiaries or affiliates (or on your or their behalf) (the “Projections”) have been and will be prepared in good faith based upon assumptions believed by you to be reasonable at the time made available to the Commitment Parties or the prospective Lenders, it being understood that such Projections are not to be viewed as facts and that actual results may vary materially from the Projections and there can be no assurance that the results therein will be realized. You agree that if, at any time prior to the later of the
+
+
+
+[[NYCORP:3882362v30:12/20/2018--09:36 AM]]
+
+
+Closing Date and the Syndication Date, you become aware that any of the representations and warranties contained in the preceding sentence would be incorrect in any material respect if the Information and Projections were being furnished, and such representations were being made, at such time, then you will promptly supplement the Information and the Projections so that such representations are correct in all respects under those circumstances. Solely as they relate to matters with respect to the Acquired Company and its subsidiaries, the foregoing representations, prior to the Closing Date warranties and covenants are made to the best of your knowledge. We will be entitled to use and rely upon, without responsibility to verify independently, the Information and the Projections. You acknowledge that we may share with any of our respective affiliates (it being understood that such affiliates will be subject to the confidentiality agreements between you and us), and such affiliates may share with the Commitment Parties, any information related to you, the Acquired Company or any of your or their respective subsidiaries or affiliates (including, without limitation, in each case, information relating to creditworthiness) and the transactions contemplated hereby.
+(b)    You acknowledge that (i) the Commitment Parties will make available, on your behalf, the Information, Projections and other marketing materials and presentations, including the confidential information memoranda (collectively, the “Informational Materials”), to the Existing Lenders and the prospective Lenders by posting the Informational Materials on SyndTrak Online or by other similar electronic means (collectively, the “Electronic Means”) and (ii) certain Existing Lenders and prospective Lenders may be “public side” (i.e., lenders that have personnel that do not wish to receive material non-public information (within the meaning of the United States federal securities laws, “MNPI”) with respect to the Parent Borrower, the Acquired Company, the Seller or any of their respective subsidiaries or affiliates or any of their respective securities, and who may be engaged in investment and other market-related activities with respect to such entities’ securities (such Existing Lenders and prospective Lenders, “Public Lenders”)). At the request of the Lead Arrangers, (A) you will assist, and cause your affiliates, advisors and, to the extent possible using commercially reasonable efforts, appropriate representatives of the Acquired Company to assist, the Lead Arrangers in the preparation of Informational Materials to be used in connection with the syndication of the Facilities to Public Lenders, which will not contain MNPI (the “Public Informational Materials”), (B) you will identify and conspicuously mark any Public Informational Materials “PUBLIC”, and (C) you will identify and conspicuously mark any Informational Materials that include any MNPI as “PRIVATE AND CONFIDENTIAL”. Notwithstanding the foregoing, provided that you have been given a reasonable opportunity to review such documents prior to any distribution, you agree that the Commitment Parties may distribute the following documents to all Existing Lenders and prospective Lenders (including the Public Lenders) on your behalf, unless you advise the Commitment Parties in writing (including by email) within a reasonable time prior to their intended distributions that such material should not be distributed to Public Lenders: (w) administrative materials for Existing Lenders and prospective Lenders such as lender meeting invitations and funding and closing memoranda, (x) notifications of changes in the terms of the Facilities and the Amendments, (y) financial information regarding the Parent Borrower and its subsidiaries (other than the Projections and other non public financial information) and (z) other materials intended for Existing Lenders and prospective Lenders after the initial distribution of the Informational Materials, including drafts and final versions of the Term Sheets and the Financing Documentation. If you advise us in writing (including by email) that any of the foregoing items (other than the Financing Documentation) should not be distributed to Public Lenders, then the Commitment Parties will not distribute such materials to Public Lenders without further discussions with you. Before distribution of any Informational Materials to Existing Lenders or prospective Lenders, you shall provide us with a customary letter authorizing the dissemination of the Informational Materials and confirming the accuracy and completeness in all material respects of the information contained therein and, in the case of Public Informational Materials, confirming the absence of MNPI therefrom.
+
+
+
+[[NYCORP:3882362v30:12/20/2018--09:36 AM]]
+
+
+(c)    You hereby authorize the Lead Arrangers to download copies of the Parent Borrower’s trademark logos from its website and post copies thereof on the SyndTrak site or similar workspace established by the Lead Arrangers to syndicate the Facilities and use the logos on any confidential information memoranda, presentations and other marketing materials prepared in connection with the syndication of the Facilities or in any advertisements (to which you consent, such consent not to be unreasonably withheld) that we may place after the closing of the Facilities in financial and other newspapers, journals, the World Wide Web, home page or otherwise, at their own expense describing its services to the Parent Borrower hereunder.
+6.    Expenses. You agree to reimburse each of the Commitment Parties, from time to time on demand, for all reasonable out-of-pocket costs and expenses of the Commitment Parties, including, without limitation, reasonable legal fees and expenses, due diligence expenses and all printing, reproduction, document delivery, travel, CUSIP, SyndTrak and communication costs, incurred in connection with the syndication and execution of the Facilities and the preparation, review, negotiation, execution, delivery and enforcement of this Commitment Letter, the Fee Letters, the Financing Documentation (as defined in the Conditions Annex) and any security arrangements in connection therewith regardless of whether the Closing Date occurs.
+7.    Fees. As consideration for the commitments and agreements of the Commitment Parties hereunder, you agree to cause to be paid the nonrefundable fees described in the Fee Letters on the terms and subject to the conditions set forth therein.
+8.    Indemnification. You agree to indemnify and hold harmless the Commitment Parties and each of their respective affiliates, directors, officers, employees, partners, representatives, advisors and agents and each of their respective heirs, successors and assigns (each, an “Indemnified Party”) from and against any and all actions, suits, losses, claims, damages, penalties, liabilities and expenses of any kind or nature (including legal expenses), joint or several, to which such Indemnified Party may become subject or that may be incurred or asserted or awarded against such Indemnified Party, in each case arising out of or in connection with or by reason of (including, without limitation, in connection with any investigation, litigation or proceeding or preparation of a defense in connection therewith) (a) any matters contemplated by this Commitment Letter, the Transactions or any related transaction (including, without limitation, the execution and delivery of this Commitment Letter, the Financing Documentation, the documentation for debt financing issued for the purpose of refinancing all or a portion of the Facilities (the “Permanent Financing”) and the closing of the Transactions) or (b) the use or the contemplated use of the proceeds of the Facilities, and will reimburse each Indemnified Party for all out-of-pocket expenses (including reasonable attorneys’ fees, expenses and charges) on demand as they are incurred in connection with any of the foregoing; provided that no Indemnified Party will have any right to indemnification for any of the foregoing to the extent resulting from (i) such Indemnified Party’s own bad faith, gross negligence or willful misconduct as determined by a court of competent jurisdiction in a final non-appealable judgment, (ii) a material breach in bad faith of the funding obligations of such Indemnified Party under this Commitment Letter as determined by a court of competent jurisdiction in a final non-appealable judgment, or (iii) any dispute solely among Indemnified Parties that does not involve any act or omission by you or any of your affiliates, other than any claims against any Commitment Party in its capacity or in fulfilling its role as an administrative agent or arranger or any similar role hereunder or under the Facilities. In the case of an investigation, litigation or proceeding to which the indemnity in this paragraph applies, such indemnity shall be effective whether or not such investigation, litigation or proceeding is brought by you, your equity holders or creditors or an Indemnified Party, whether or not an Indemnified Party is otherwise a party thereto and whether or not the transactions contemplated hereby are consummated. No Indemnified Party will be liable for any indirect, consequential, special or punitive damages in connection with this Commitment Letter, the Fee Letters, the Financing
+
+
+
+[[NYCORP:3882362v30:12/20/2018--09:36 AM]]
+
+
+Documentation or any other element of the Transactions. No Indemnified Party will be liable to you, your affiliates or any other person for any damages arising from the use by others of Informational Materials or other materials obtained by Electronic Means, except to the extent that your damages are found in a final non-appealable judgment by a court of competent jurisdiction to have resulted from the bad faith, gross negligence or willful misconduct of such Indemnified Party. You shall not, without the prior written consent of each Indemnified Party affected thereby, which consent shall not be unreasonably withheld, delayed or conditioned, settle any threatened or pending claim or action that would give rise to the right of any Indemnified Party to claim indemnification hereunder unless such settlement (x) includes a full and unconditional release of all liabilities arising out of such claim or action against such Indemnified Party, (y) does not include any statement as to or an admission of fault, culpability or failure to act by or on behalf of such Indemnified Party and (z) requires no action on the part of the Indemnified Party other than its consent.
+9.    Confidentiality.
+(a)    This Commitment Letter and the Fee Letters (collectively, the “Commitment Documents”) and the existence and contents hereof and thereof shall be confidential and may not be disclosed, directly or indirectly, by you in whole or in part to any person without our prior written consent, except for (i) the disclosure of the Commitment Documents on a confidential basis to your directors, officers, employees, accountants, attorneys and other professional advisors who have been advised of their obligation to maintain the confidentiality of the Commitment Documents for the purpose of evaluating, negotiating or entering into the Transactions, (ii) the disclosure of the Commitment Documents as otherwise required by law (in which case, you agree to use commercially reasonable efforts, to the extent permitted by law, to inform us promptly in advance thereof), (iii) the disclosure of the Commitment Documents on a confidential basis to the board of directors, officers and advisors of the Seller and the Acquired Company in connection with their consideration of the Acquisition (provided that any information relating to pricing (including in any “market flex” provisions that relate to pricing), fees and expenses has been redacted in a manner reasonably acceptable to us), (iv) the disclosure of this Commitment Letter, but not any Fee Letter, in any required filings with the Securities and Exchange Commission and other applicable regulatory authorities and stock exchanges and (v) the disclosure of the Term Sheets to any ratings agency in connection with the Transactions. In connection with any disclosure by you to any third party as set forth above (except as set forth in clause (ii) above), you shall notify such third party of the confidential nature of the Commitment Documents and agree to be responsible for any failure by any third party to whom you disclosed the Commitment Documents or any portion thereof to maintain the confidentiality of the Commitment Documents or any portion thereof.
+(b)    The Commitment Parties and their respective affiliates shall use all confidential information provided to them by or on behalf of you or your affiliates in the course of the Transactions solely for the purposes of providing the services that are the subject of this Commitment Letter and shall treat all such information as confidential; provided that nothing herein shall prevent the Commitment Parties or any of their respective affiliates from disclosing any such information (i) to any Lenders (including, for purposes of this paragraph, Existing Lenders) or participants or prospective Lenders or prospective participants (provided that any such disclosure shall be made subject to the acknowledgment and acceptance by such Lender or participant or prospective Lender or prospective participant that such information is being disseminated on a confidential basis (and they shall agree to be bound to substantially the same terms as are set forth in this paragraph or as are otherwise reasonably acceptable to you and us, including as agreed in any informational memoranda or other marketing materials) in accordance with the standard syndication processes of the Commitment Parties or customary market standard for dissemination of such type of information), (ii) pursuant to the order of any court or administrative agency or in any judicial or administrative proceeding or as otherwise required by law or compulsory legal process (in which case the applicable Commitment Party shall use commercially reasonable efforts to promptly notify you, in advance, to the
+
+
+
+[[NYCORP:3882362v30:12/20/2018--09:36 AM]]
+
+
+extent practicable and permitted by law), (iii) upon the request or demand of any regulatory authority having jurisdiction over any of the Commitment Parties (in which case the applicable Commitment Party shall use commercially reasonable efforts to, except with respect to any audit or examination conducted by bank accountants or any governmental regulatory authority exercising examination or regulatory authority, promptly notify you, in advance, to the extent practicable and permitted by law), (iv) to our respective affiliates involved in the Transactions and their and their affiliates’ respective directors, officers, employees, accountants, attorneys, agents and other professional advisors (collectively, “Representatives”) on a need-to-know basis who are informed of the confidential nature of such information and are or have been advised of their obligation to keep information of this type confidential, (v) to ratings agencies in connection with the Transactions, (vi) to the extent that such information is independently developed by the Commitment Parties, so long as the Commitment Parties have not otherwise breached their confidentiality obligations hereunder and have not developed such information based on information received from a third party that to their knowledge has breached confidentiality obligations owing to you, (vii) to the extent any such information becomes publicly available other than by reason of disclosure by us in breach of this provision, (viii) to the extent that such information is received by a Commitment Party or an affiliate of a Commitment Party from a third party that is not to its knowledge subject to confidentiality obligations to you or your affiliates, (ix) for purposes of establishing a “due diligence” defense, (x) in connection with the exercise of any remedies hereunder, any action or proceeding relating to the Commitment Documents or the enforcement of rights thereunder, or (xi) with your prior written consent. In addition, each Commitment Party may disclose the existence of this Commitment Letter and the information about the Facilities to market data collectors, similar services providers to the lending industry, and service providers to the Commitment Parties in connection with the administration and management of the Facilities. The provisions of this paragraph with respect to the Commitment Parties and their respective affiliates shall automatically terminate on the earlier of (x) one year following the date of this Commitment Letter and (y) the execution of the definitive documentation for the Senior Credit Facilities (in which case, the confidentiality provisions in the definitive documentation shall supersede the provisions of this paragraph). The terms of this paragraph shall supersede all prior confidentiality or non-disclosure agreements and understandings between you and the Commitment Parties relating the Transactions.
+(c)    The Commitment Parties shall be permitted to use information related to the syndication and arrangement of the Facilities in connection with obtaining a CUSIP number, marketing, press releases or other transactional announcements or updates provided to investor or trade publications, subject to confidentiality obligations or disclosure restrictions reasonably requested by you. Prior to the Closing Date, the Commitment Parties shall have the right to review and approve any public announcement or public filing made by you, the Acquired Company or your or their respective representatives relating to the Facilities or to any of the Commitment Parties in connection therewith, before any such announcement or filing is made (such approval not to be unreasonably withheld or delayed).
+10.    PATRIOT Act and Beneficial Ownership Regulation Notification. The Commitment Parties hereby notify you that pursuant to the requirements of the USA PATRIOT Improvement and Reauthorization Act (Pub. L. 109-177) (the “PATRIOT Act”) and the requirements of 31 C.F.R. § 1010.230 (the “Beneficial Ownership Regulation”), each of them is required to obtain, verify and record information that identifies you and any additional Loan Parties, which information includes your and their respective names, addresses, tax identification numbers and other information that will allow the Commitment Parties and the other Existing Lenders and prospective Lenders to identify you and such other parties in accordance with the PATRIOT Act and the Beneficial Ownership Regulation. This notice is given in accordance with the requirements of the PATRIOT Act and the Beneficial Ownership Regulation and is effective for each of us, the Existing Lenders and the prospective Lenders.
+
+
+
+[[NYCORP:3882362v30:12/20/2018--09:36 AM]]
+
+
+11.    Other Services.
+(a)    Nothing contained herein shall limit or preclude the Commitment Parties or any of their respective affiliates from carrying on any business with, providing banking or other financial services to, or from participating in any capacity, including as an equity investor, in any party whatsoever, including, without limitation, any competitor, supplier or customer of you, the Seller, the Acquired Company or any of your or their respective affiliates, or any other party that may have interests different than or adverse to such parties.
+(b)    You acknowledge that each Lead Arranger and its affiliates (the term “Lead Arranger” as used in this section being understood to include such affiliates) (i) may be providing debt financing, equity capital or other services (including financial advisory services) to other entities and persons with which you, the Seller, the Acquired Company or your or their respective affiliates may have conflicting interests regarding the Transactions and otherwise, (ii) may act, without violation of its contractual obligations to you, as it deems appropriate with respect to such other entities or persons, and (iii) have no obligation in connection with the Transactions to use, or to furnish to you, the Seller, the Acquired Company or your or their respective affiliates or subsidiaries, confidential information obtained from other entities or persons.
+(c)    In connection with all aspects of the Transactions, you acknowledge and agree that: (i) the Facilities and any related arranging or other services contemplated in this Commitment Letter constitute an arm’s-length commercial transaction between you and your affiliates, on the one hand, and the Commitment Parties, on the other hand, and you are capable of evaluating and understanding and understand and accept the terms, risks and conditions of the Transactions, (ii) in connection with the process leading to the Transactions, each of the Commitment Parties is and has been acting solely as a principal and not as a financial advisor, agent or fiduciary, for you, the Acquired Company or any of your or their respective management, affiliates, equity holders, directors, officers, employees, creditors or any other party, (iii) no Commitment Party or any affiliate thereof has assumed or will assume an advisory, agency or fiduciary responsibility in your or your affiliates’ favor with respect to any of the Transactions or the process leading thereto (irrespective of whether any Commitment Party or any of its affiliates has advised or is currently advising you or your affiliates or the Acquired Company or its affiliates on other matters) and no Commitment Party has any obligation to you or your affiliates with respect to the Transactions except those obligations expressly set forth in the Commitment Documents, (iv) the Commitment Parties and their respective affiliates may be engaged in a broad range of transactions that involve interests that differ from yours and those of your affiliates and no Commitment Party shall have any obligation to disclose any of such interests, and (v) no Commitment Party has provided any legal, accounting, regulatory or tax advice with respect to any of the Transactions and you have consulted your own legal, accounting, regulatory and tax advisors to the extent you have deemed appropriate. To the fullest extent permitted by law, you hereby agree not to assert any claims that you may have against any Commitment Party or any of their respective affiliates with respect to any breach or alleged breach of agency, fiduciary duty or conflict of interest.
+(d)    As you know, Goldman Sachs & Co. LLC has been retained by the Parent Borrower (or one of its affiliates) as financial advisor (in such capacity, the “Financial Advisor”) in connection with the Acquisition. You agree to such retention, and further agree not to assert any claim you might allege based on any actual or potential conflicts of interest that might be asserted to arise or result from the engagement of the Financial Advisor, on the one hand, and our and our affiliates’ relationships with you as described and referred to herein, on the other. Each of the Commitment Parties hereto acknowledges (i) the retention of Goldman Sachs & Co. LLC as the Financial Advisor and (ii) that such relationship does not create any fiduciary duties or fiduciary responsibilities to such Commitment Party on the part of GS or its affiliates.
+
+
+
+[[NYCORP:3882362v30:12/20/2018--09:36 AM]]
+
+
+12.    Acceptance/Expiration of Commitments.
+(a)    This Commitment Letter and the Commitments and agreements of the Initial Lenders and the undertakings of the Lead Arrangers set forth herein shall automatically terminate at 8:00 a.m. (Eastern Time) on December 20, 2018 (the “Acceptance Deadline”), without further action or notice unless signed counterparts of this Commitment Letter and each of the Fee Letters shall have been delivered to the Lead Arrangers or their counsel by such time.
+(b)    In the event this Commitment Letter is accepted by you as provided above, the commitments and agreements of the Initial Lenders and the undertakings of the Lead Arrangers set forth herein will automatically terminate without further action or notice upon the earliest to occur of (i) consummation of the Acquisition (with or without the use of the Senior Credit Facilities), (ii) termination of the Acquisition Agreement in accordance with its terms, (iii) the date that is five business days after the “Termination Date” (as defined in the Acquisition Agreement) as extended pursuant to the terms of the Acquisition Agreement and (iv) 5:00 p.m. (Eastern Time) on September 20, 2019, if the Closing Date shall not have occurred by such time.
+13.    Survival. The sections of this Commitment Letter and the Fee Letters relating to “Expenses”, “Indemnification”, “Confidentiality”, “Other Services”, “Survival”, “Governing Law” and “Miscellaneous” shall survive any termination or expiration of this Commitment Letter, the Commitments and agreements of the Initial Lenders or the undertakings of the Lead Arrangers set forth herein (regardless of whether definitive Financing Documentation is executed and delivered), and the sections relating to “Syndication” and “Information” shall survive until the completion of the syndication of the Facilities; provided that your obligations under this Commitment Letter (other than your obligations with respect to the sections of this Commitment Letter relating to “Syndication”, “Information”, “Confidentiality”, “Other Services”, “Survival” and “Governing Law”) shall be superseded by the provisions of the Financing Documentation upon the initial funding thereunder.
+14.    Governing Law. THIS COMMITMENT LETTER AND THE FEE LETTERS, AND ANY CLAIM, CONTROVERSY OR DISPUTE ARISING UNDER OR RELATED THERETO (INCLUDING, WITHOUT LIMITATION, ANY CLAIMS SOUNDING IN CONTRACT LAW OR TORT LAW ARISING OUT OF THE SUBJECT MATTER HEREOF OR THEREOF), SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF NEW YORK (INCLUDING SECTION 5-1401 AND SECTION 5-1402 OF THE GENERAL OBLIGATIONS LAW OF THE STATE OF NEW YORK), WITHOUT REFERENCE TO ANY OTHER CONFLICTS OR CHOICE OF LAW PRINCIPLES THEREOF; PROVIDED THAT, NOTWITHSTANDING THE FOREGOING TO THE CONTRARY, IT IS UNDERSTOOD AND AGREED THAT ANY DETERMINATIONS AS TO (X) WHETHER ANY SPECIFIED ACQUISITION AGREEMENT REPRESENTATIONS HAVE BEEN BREACHED AND (Y) WHETHER A MATERIAL ADVERSE EFFECT (AS DEFINED IN THE CONDITIONS ANNEX) HAS OCCURRED, SHALL, IN EACH CASE BE GOVERNED BY THE LAWS OF THE STATE OF DELAWARE. THE PARTIES HEREBY WAIVE ANY RIGHT TO TRIAL BY JURY WITH RESPECT TO ANY CLAIM OR ACTION ARISING OUT OF THIS COMMITMENT LETTER OR ANY FEE LETTER. With respect to any suit, action or proceeding arising in respect of this Commitment Letter or the Fee Letters or any of the matters contemplated hereby or thereby, the parties hereto hereby irrevocably and unconditionally submit to the exclusive jurisdiction of any state or federal court located in the Borough of Manhattan in the City of New York, and irrevocably and unconditionally waive any objection to the laying of venue of such suit, action or proceeding brought in such court and any claim that such suit, action or proceeding has been brought in an inconvenient forum. The parties hereto hereby agree that service
+
+
+
+[[NYCORP:3882362v30:12/20/2018--09:36 AM]]
+
+
+of any process, summons, notice or document by registered mail addressed to you or each of the Commitment Parties will be effective service of process against such party for any action or proceeding relating to any such dispute. A final judgment in any such action or proceeding may be enforced in any other courts with jurisdiction over you or each of the Commitment Parties.
+15.    Miscellaneous. This Commitment Letter and the Fee Letters embody the entire agreement and understanding among the Commitment Parties and you and your affiliates with respect to the specific matters set forth above and supersede all prior agreements and understandings relating to the subject matter hereof. No person has been authorized by any of the Commitment Parties to make any oral or written statements inconsistent with this Commitment Letter or any Fee Letter. This Commitment Letter and the Fee Letters shall not be assignable by any party hereto without the prior written consent of the other parties hereto (except by the Commitment Parties as contemplated by Section 2; provided that GS may assign its commitments in respect of the Facilities hereunder to Goldman Sachs Lending Partners LLC; provided further that any Commitment Party may perform the services described herein through any of their respective affiliates (including, in the case of JPMorgan, J.P. Morgan Securities LLC)), and any purported assignment without such consent shall be void. This Commitment Letter and the Fee Letters are not intended to benefit or create any rights in favor of any person other than the parties hereto, the prospective Lenders and, with respect to indemnification, each Indemnified Party. This Commitment Letter and the Fee Letters may be executed in separate counterparts and delivery of an executed signature page of this Commitment Letter and the Fee Letters by facsimile or electronic mail shall be effective as delivery of manually executed counterpart hereof; provided that, upon the request of any party hereto, such facsimile transmission or electronic mail transmission shall be promptly followed by the original thereof. This Commitment Letter and the Fee Letters may only be amended, modified or superseded by an agreement in writing signed by each of you and the Commitment Parties, and shall remain in full force and effect and not be superseded by any other documentation unless such other documentation is signed by each of the parties hereto and expressly states that this Commitment Letter is superseded thereby.
+By signing this Commitment Letter, each of the parties hereto hereby acknowledges and agrees that Commitment Parties are offering to provide (a) the Senior Credit Facilities separate and apart from Commitment Parties’ offer to provide the Bridge Facility and (b) the Bridge Facility separate and apart from the Commitment Parties’ offer to provide the Senior Credit Facilities.
+[Signature Pages Follow]
+
+
+
+
+[[NYCORP:3882362v30:12/20/2018--09:36 AM]]
+
+
+If you are in agreement with the foregoing, please indicate acceptance of the terms hereof by signing the enclosed counterpart of this Commitment Letter and returning it to the Lead Arrangers, together with executed counterparts of the Fee Letters, by no later than the Acceptance Deadline.
+Sincerely,
+WELLS FARGO BANK, NATIONAL ASSOCIATION
+By:    /s/ Andrew G. Payne                    
+Name: Andrew G. Payne
+Title: Director
+WELLS FARGO SECURITIES, LLC
+By:    /s/ Scott M. Yarbrough                    
+Name: Scott M. Yarbrough
+Title: Managing Director
+JPMORGAN CHASE BANK, N.A.
+By:    /s/ Eric B. Bergeson                    
+Name: Eric B. Bergeson
+Title: Authorized Officer
+GOLDMAN SACHS BANK USA
+By:    /s/ Robert Ehudin                    
+Name: Robert Ehudin
+Title: Authorized Signatory
+
+Project Peach
+Commitment Letter
+Signature Page
+[[NYCORP:3882362v30:12/20/2018--09:36 AM]]
+
+
+
+Agreed to and accepted as of the date first
+above written:
+GREIF, INC.
+By:    /s/ David Lloyd                
+Name: David Lloyd
+Title: VP, Corporate Controller and Treasurer
+
+Project Peach
+Commitment Letter
+Signature Page
+[[NYCORP:3882362v30:12/20/2018--09:36 AM]]
+    
+
+
+ANNEX A
+
+$1,200.0 MILLION SENIOR SECURED TERM LOAN A FACILITY
+$1,073.75 MILLION SENIOR SECURED BACKSTOP CREDIT FACILITIES
+SUMMARY OF PROPOSED TERMS AND CONDITIONS
+Capitalized terms not otherwise defined herein shall have the meanings assigned to them in the Commitment Letter to which this Summary of Proposed Terms and Conditions is attached (the “Commitment Letter”).
+Borrowers:
+Greif, Inc., a Delaware corporation (the “Parent Borrower”), Greif UK International Holding LTD, a private limited liability company incorporated and existing under the laws of the United Kingdom (subject to compliance with the requirements of Section 2.16 of the Existing Credit Agreement with respect to such entity), Greif JART S.à.r.l., a Luxembourg private limited company organized under the laws of the Grand Duchy of Luxembourg, Greif Luxembourg Holdings S.à.r.l., a private limited company organized under the laws of the Grand Duchy of Luxembourg, and certain other wholly-owned subsidiaries of the Parent Borrower to be designated as co-borrowers on terms substantially the same as those set forth in the Existing Credit Agreement (collectively, the “Borrowers” and each, individually, a “Borrower”).
+Joint Lead Arrangers and Joint Bookrunners:
+Wells Fargo Securities, LLC, JPMorgan Chase Bank, N.A. (“JPMorgan”), Goldman Sachs Bank USA (“GS”) and other entities appointed in accordance with the terms of the Commitment Letter will act as joint lead arrangers and joint bookrunners (in such capacities, collectively, the “Lead Arrangers” and each, individually, a “Lead Arranger”).
+Lenders:
+Wells Fargo Bank, National Association, JPMorgan, GS and a syndicate of financial institutions and other entities (each a “Lender” and, collectively, the “Lenders”).
+Administrative Agent:
+JPMorgan (in such capacity, the “Bank Administrative Agent”).
+
+Annex A – Bank Term Sheet
+
+
+[[NYCORP:3882362v30:12/20/2018--09:36 AM]]
+    
+
+
+Facilities:
+In the event that the Backstopped Amendments are not obtained on or prior to the Closing Date, senior secured credit facilities (the “New Senior Credit Facilities”) in an aggregate principal amount of $2,273.75 million, such Senior Credit Facilities to consist of:
+(a)    New Revolving Credit Facility. A revolving credit facility in an aggregate principal amount of $800.0 million (the “New Revolving Credit Facility”), which can be drawn in U.S. dollars, Euro and other currencies that are approved on terms substantially the same as those set forth in the Existing Credit Agreement (with subfacilities for (i) standby and commercial letters of credit (each, a “Letter of Credit”) in a maximum amount equal to $80.0 million and (ii) swingline loans (each, a “Swingline Loan”) in a maximum amount specified in the Existing Credit Agreement, in each case on terms and conditions substantially the same as those set forth in the Existing Credit Agreement).
+(b)    New Term Loan A-1 Facility. A term loan facility to the Parent Borrower in an aggregate principal amount equal to the aggregate principal amount of the Existing Term Loan A Facility (as defined below) outstanding on the Closing Date (the “New Term Loan A-1 Facility”).
+(c)    New Term Loan A-2 Facility. A term loan facility to the Parent Borrower in an aggregate principal amount equal to $1,200.0 million (the “New Term Loan A-2 Facility”; the New Term Loan A-1 Facility and the New Term Loan A-2 Facility, collectively, the “New Term Loan A Facilities”).
+In the event that the Backstopped Amendments are obtained on or prior to the Closing Date, senior secured credit facilities in an aggregate principal amount of $2,273.75 million, such senior secured credit facilities to consist of:
+(a) the revolving credit facility existing under the Existing Credit Agreement as of the Closing Date (the “Existing Revolving Credit Facility”) in an aggregate principal amount of $800.0 million, specifically providing for the Existing Credit Agreement Acquisition Draw subject solely to the Funds Certain Provisions (it being understood and agreed that the Letter of Credit subfacility will be increased to $80.0 million);
+(b) the term loan facility existing under the Existing Credit Agreement as of the Closing Date (the “Existing Term Loan A Facility”) in an aggregate principal amount expected to be approximately $273.75 million; and
+(c) an incremental senior secured term loan A facility to the Parent Borrower in an aggregate principal amount of $1,200.0 million (the “Incremental Term Loan A Facility”), which shall be incurred as a separate tranche of term loans from the Existing Term Loan A Facility.
+As used in this Annex A, (a) “Senior Credit Facilities” shall mean (i) in the event that the Backstopped Amendments are not obtained on or prior to the Closing Date, the New Senior Credit Facilities and (ii) in the event that the Backstopped Amendments are obtained on or prior to the Closing Date, the Existing Revolving Credit Facility, the Existing Term Loan A Facility and the Incremental Term Loan A Facility; (b) “Revolving Credit Facility” shall mean (i) in the event that the Backstopped Amendments are not obtained on or prior to the Closing Date, the New Revolving Credit Facility and (ii) in the event that the Backstopped Amendments are obtained on or prior to the Closing Date, the Existing Revolving Credit Facility; and (c) “Term Loan A Facility” shall mean (i) in the event that the Backstopped Amendments are not obtained on or prior to the Closing Date, each of the New Term Loan A-1 Facility and the New Term Loan A-2 Facility and (ii) in the event that the Backstopped Amendments are obtained on or prior to the Closing Date, each of the Existing Term Loan A Facility and the Incremental Term Loan A Facility.
+
+Annex A – Bank Term Sheet
+
+
+[[NYCORP:3882362v30:12/20/2018--09:36 AM]]
+    
+
+
+Use of Proceeds:
+In the event that the Backstopped Amendments are obtained on or prior to the Closing Date, the proceeds of Existing Credit Agreement Acquisition Draw and the Incremental Term Loan A Facility will be used, together with the proceeds of the Bridge Facility and/or the Notes, as applicable, to finance (a) the Acquisition, (b) the Refinancing and (c) the payment of fees and expenses incurred in connection with the Acquisition, the Refinancing, the Amendments, the Existing Credit Agreement Acquisition Draw, the Incremental Term Loan A Facility and the Bridge Facility and/or the Notes, as applicable.
+In the event that the Backstopped Amendments are not obtained on or prior to the Closing Date, the proceeds of the New Senior Credit Facilities will be used, together with the proceeds of the Bridge Facility and/or the Notes, as applicable, to finance (a) the Acquisition, (b) the Refinancing, (c) the Existing Credit Agreement Replacement and (d) the payment of fees and expenses incurred in connection with the Acquisition, the Refinancing, the New Senior Credit Facilities, the Bridge Facility and/or the Notes, as applicable, and the Existing Credit Agreement Replacement.
+For purposes of this Annex A, the transactions specified in the two immediately preceding paragraphs are referred to herein as the “Transactions”.
+The Revolving Credit Facility will be used to provide a portion of the financing for the Acquisition and the Refinancing and ongoing working capital and for other general corporate purposes of the Parent Borrower and its subsidiaries.
+Availability:
+The Revolving Credit Facility will be available on a revolving basis from and after the Closing Date until the Revolving Credit Maturity Date (as defined below).
+The New Term Loan A Facilities or the Incremental Term Loan A Facility, as applicable, will be available only in a single draw of the full amount thereof on the Closing Date.
+Term Loan Facility and Revolving Credit Facility Increases:
+After the Closing Date, the Parent Borrower will be permitted to request (a) increases in the Term Loan A Facilities and/or (b) increases in the Revolving Credit Facility, in an aggregate principal amount for all such increases not to exceed the sum of (x) $700.0 million and (y) an additional amount if, immediately after giving effect to the incurrence of such additional amount (but without giving effect to any amount incurred simultaneously under the immediately preceding clause (x)) and the application of the proceeds therefrom (and assuming that the full amount of such increase has been funded), the Leverage Ratio (as defined below), recomputed as of the last day of the most recently ended fiscal quarter, is less than or equal to 2.50 to 1.00 (it being understood that the incurrence of indebtedness under the Incremental Term Loan A Facility shall be deemed not to reduce the amount of this basket), in each case on terms and subject to conditions substantially the same as set forth in the Existing Credit Agreement. The modifications to the Existing Credit Agreement described under this heading are Best Efforts Amendments.
+
+Annex A – Bank Term Sheet
+
+
+[[NYCORP:3882362v30:12/20/2018--09:36 AM]]
+    
+
+
+Documentation:
+The documentation for the Senior Credit Facilities will include, among other items, a credit agreement, the Amendments, if applicable, guarantees and appropriate pledge and security agreements (collectively, the “Senior Credit Documentation”), all consistent with this Bank Term Sheet and substantially the same as, but not more restrictive than, the Existing Credit Agreement and the Loan Documents (as defined in the Existing Credit Agreement), except as otherwise expressly provided in this Annex A (collectively, the “Existing Loan Documents”); provided, however, that in the event that the Backstopped Amendments are obtained on or prior to the Closing Date, the Senior Credit Documentation will include the Existing Loan Documents (amended, or amended and restated, to incorporate the Amendments), together with a customary reaffirmation agreement by each of the Loan Parties (as defined below). The Senior Credit Documentation will include customary provisions in respect of the Beneficial Ownership Regulation, limited liability company divisions and lender ERISA representations.
+
+Guarantors:
+To be substantially the same as set forth in the Existing Loan Documents. The obligations of (a) the Borrowers under the Senior Credit Facilities and (b) any Loan Party under any Secured Lender Arrangement or Existing Guaranty (in each case, as defined in the Existing Credit Agreement) (collectively, the “Secured Obligations”) will be unconditionally guaranteed, on a joint and several basis, by the Borrowers and each existing and subsequently acquired or formed direct and indirect subsidiary of the Parent Borrower (each a “Guarantor”; such guarantee being referred to as a “Guarantee”), in each case subject to certain exceptions and limitations substantially the same as set forth in the Existing Loan Documents (including, without limitation, the exclusion of U.S. Joint Venture Subsidiaries). The Borrowers and the Guarantors are herein referred to as the “Loan Parties”.
+Security:
+To be substantially the same as set forth in the Existing Loan Documents. The Secured Obligations will be secured by valid and perfected first priority (subject to certain exceptions and limitations substantially the same as set forth in the Existing Loan Documents) security interests in and liens on the Collateral (as defined in the Existing Loan Documents).
+All such security interests and liens will be created pursuant to, and will comply with, Senior Credit Documentation on terms substantially the same as the Existing Loan Documents.
+Collateral Release Period:
+To be substantially the same as set forth in the Existing Credit Agreement.
+
+Annex A – Bank Term Sheet
+
+
+[[NYCORP:3882362v30:12/20/2018--09:36 AM]]
+    
+
+
+Final Maturity:
+The final maturity of the Existing Revolving Credit Facility (or, if the Backstopped Amendments are not obtained on or prior to the Closing Date, the New Revolving Credit Facility) will occur on the date that is five years after the Closing Date (the “Revolving Credit Maturity Date”) and the commitments with respect to the Existing Revolving Credit Facility (or the New Revolving Credit Facility, as applicable) will automatically terminate on such date.
+The final maturity of the Existing Term Loan Facility (or, if the Backstopped Amendments are not obtained on or prior to the Closing Date, the New Term Loan A-1 Facility) will occur on the date that is five years after the Closing Date (the “Term Loan A-1 Maturity Date”).
+The final maturity of the Incremental Term Loan A Facility (or, if the Backstopped Amendments are not obtained on or prior to the Closing Date, the New Term Loan A-2 Facility) will occur on the date that is five years after the Closing Date (the “Term Loan A-2 Maturity Date”).
+The modifications to the Existing Credit Agreement described under this heading are Best Efforts Amendments (in which case, in the event that the Best Efforts Amendments described under this heading are not obtained, each of the Revolving Credit Maturity Date and the Term Loan A-1 Maturity Date will be November 3, 2021).
+Amortization:
+Each Term Loan A Facility will amortize in equal quarterly installments based on the following amortization table, with the remainder due on the Term Loan A-1 Maturity Date or the Term Loan A-2 Maturity Date, as applicable: (a) 5% per annum in each of the first year and the second year after the Closing Date, and (b) 10% per annum in each of the third year, the fourth year and the fifth year after the Closing Date, with the remaining outstanding principal amount of the Term Loan A Facility to be paid on the Term Loan A-1 Maturity Date or the Term Loan A-2 Maturity Date, as applicable.
+The modifications to the Existing Credit Agreement described under this heading are Best Efforts Amendments (in which case, in the event that the Best Efforts Amendments described under this heading are not obtained, the Existing Term Loan A Facility (or, if the Backstopped Amendments are not obtained on or prior to the Closing Date, the New Term Loan A-1 Facility) will amortize on the basis set forth in the Existing Credit Agreement for the Existing Term Loan A Facility).
+Interest Rates and Fees:
+Interest rates and fees in connection with the Senior Credit Facilities will be as specified in the Fee Letters and on Schedule I attached hereto. The modifications to the Existing Credit Agreement described in such Schedule I are Best Efforts Amendments.
+
+Annex A – Bank Term Sheet
+
+
+[[NYCORP:3882362v30:12/20/2018--09:36 AM]]
+    
+
+
+Mandatory Prepayments:
+To be substantially the same as set forth in the Existing Credit Agreement. Subject to the next paragraph, the Senior Credit Facilities will be required to be prepaid with:
+(a)    100% of the net cash proceeds of the issuance or incurrence of Permitted Additional Indebtedness (as defined in the Existing Credit Agreement), other than any Permitted Refinancing Indebtedness (as defined in the Existing Credit Agreement) in respect thereof, by the Parent Borrower; provided  that the Parent Borrower will not be required to make such mandatory prepayment to the extent that such net cash proceeds (i) were used to pay all or any portion of the consideration for a Permitted Acquisition (as defined in the Existing Credit Agreement) so long as such Permitted Additional Indebtedness is unsecured or (ii) when aggregated with the net cash proceeds of all other Permitted Additional Indebtedness so incurred and not used as a mandatory prepayment pursuant to this clause (other than due to the immediately preceding clause (i)) do not exceed the U.S. dollar equivalent of $10.0 million;
+(b)    100% of the net cash proceeds of any Asset Disposition (as defined in the Existing Credit Agreement) by the Parent Borrower or any of its subsidiaries, subject to reinvestment provisions (including the right to voluntarily prepay the Revolving Credit Facility) and baskets substantially the same as set forth in the Existing Credit Agreement; and
+(c)    75% (or, if a default or event of default then exists or would result therefrom, 100%) of the cash proceeds (i) from Domestic Receivables Securitizations the Receivables Attributable Debt with respect to which exceeds $200.0 million and (ii) from Foreign Receivables Securitizations the Receivables Attributable Debt with respect to which exceeds the Alternate Currency Equivalent of $300.0 million (capitalized terms used in this clause (c) having the meanings set forth in the Existing Credit Agreement).
+All such mandatory prepayments will be applied first, to prepay outstanding loans under the Term Loan A Facilities (to be applied ratably to the outstanding tranches of the Term Loan A Facilities) and second, to prepay outstanding loans (or to cash collateralize letters of credit issued) under the Revolving Credit Facility with no permanent reduction in the commitment under the Revolving Credit Facility, in each case on terms substantially the same as set forth in the Existing Credit Agreement. All such mandatory prepayments of each Term Loan A Facility will be applied to the remaining scheduled amortization payments on a pro rata basis.
+Optional Prepayments and Commitment Reductions:
+Loans under the Senior Credit Facilities may be prepaid and unused commitments under the Revolving Credit Facility may be reduced at any time, in whole or in part, at the option of the Parent Borrower, upon notice and in minimum principal amounts and in multiples substantially the same as set forth in the Existing Credit Agreement, without premium or penalty (except LIBOR breakage costs). Any optional prepayment of a Term Loan A Facility will be applied to the remaining scheduled amortization payments on a pro rata basis.
+
+Annex A – Bank Term Sheet
+
+
+[[NYCORP:3882362v30:12/20/2018--09:36 AM]]
+    
+
+
+Conditions to Closing and Initial Extensions of Credit:
+The making of the initial extensions of credit under the New Senior Credit Facilities, or the Existing Credit Agreement Acquisition Draw and the Incremental Term Loan A Facility, as applicable, will be subject solely to satisfaction of the conditions precedent set forth in the Conditions Annex (collectively, the “Funds Certain Conditions”).
+Conditions to All Extensions of Credit after the Closing Date:
+Each extension of credit under the Senior Credit Facilities after the initial funding on the Closing Date (including the Existing Credit Agreement Acquisition Draw, if applicable) will be subject to satisfaction of the following conditions precedent: (a) all of the representations and warranties in the Senior Credit Documentation shall be true and correct in all material respects (or if qualified by materiality or material adverse effect, in all respects) as of the date of such extension of credit, or if such representation speaks as of an earlier date, as of such earlier date and (b) no default or event of default under the Senior Credit Facilities shall have occurred and be continuing or would result from such extension of credit.
+Representations and Warranties:
+To be substantially the same as set forth in, and not more restrictive than, the Existing Credit Agreement and limited to the following (which will be applicable to the Parent Borrower and its subsidiaries): corporate status; corporate power and authority; no violation of laws, contractual obligations and organizational documentation; no governmental and other approvals; financial statements, solvency, no undisclosed liabilities, no material adverse effect and financial projections; litigation; true and complete disclosure; use of proceeds and margin regulations; taxes; compliance with ERISA; collateral documents; senior notes documents; ownership of property; capitalization of the Parent Borrower; subsidiaries; compliance with law (including the PATRIOT Act); Investment Company Act; environmental matters; labor relations; intellectual property; anti-corruption laws and sanctions; and EEA financial institutions.
+Affirmative Covenants:
+To be substantially the same as set forth in, and not more restrictive than, the Existing Credit Agreement and limited to the following (which will be applicable to the Parent Borrower and its subsidiaries): financial statements (including annual audited and quarterly unaudited financial statements (in the case of the annual audited financial statements, accompanied by a report thereon of independent certified public accountants of recognized national standing, which report shall contain no qualifications with respect to the continuance of the Parent Borrower and its subsidiaries as going concerns)); certificates and other information, including compliance certificates, audit reports, “material weakness” letters, public filings, an annual covenant compliance certificate and other information reasonably requested by the Bank Administrative Agent or any Lender; notices of defaults and events of default or other material events; conduct of business and maintenance of existence; payment of obligations; inspection of property and books and records; ERISA; maintenance of property and insurance; use of proceeds; guarantee obligations and security; further assurances; fiscal year end; foreign pension plan compliance; currency and commodity hedging transactions; limitations on activities of subsidiaries; lien searches; anti-corruption laws and sanctions; and centre of main interest.
+
+Annex A – Bank Term Sheet
+
+
+[[NYCORP:3882362v30:12/20/2018--09:36 AM]]
+    
+
+
+Negative Covenants:
+To be substantially the same as set forth in, and not more restrictive than, the Existing Credit Agreement and limited to the following (which will be applicable to the Parent Borrower and its subsidiaries): limitations on liens; limitations on indebtedness; limitations on fundamental changes; limitations on asset sales; limitations on dividends and other distributions; limitations on the issuance of stock; limitations on loans, investments and acquisitions; limitations on transactions with affiliates; limitations on the engagement in certain businesses by the Insurance Subsidiary (as defined in the Existing Credit Agreement); limitations on the sale or discount of receivables; limitations on changing the Parent Borrower’s fiscal year; limitations on voluntary prepayments and modifications of certain indebtedness and modifications of organizational documents; limitations on certain restrictions on subsidiaries; limitations on accounting changes; limitations on guarantees of senior notes; limitations on use of proceeds; and the engagement in certain businesses by Excluded Immaterial Domestic Subsidiaries.
+Notwithstanding the foregoing, the Senior Credit Documentation shall contain provisions to allow the Parent borrower and its subsidiaries to, subject to customary limitations:
+(a) consummate the Acquisition and the Refinancing;
+(b) incur indebtedness under the Bridge Facility, the Notes and/or the Permanent Financing; and
+(c) consummate Permitted Acquisitions (as defined in the Existing Credit Agreement, except that the pro forma Leverage Ratio test in such definition shall be replaced with a requirement that the pro forma Leverage Ratio be less than or equal to 0.25 to 1.00 inside the Leverage Maintenance Covenant then in effect).
+
+Annex A – Bank Term Sheet
+
+
+[[NYCORP:3882362v30:12/20/2018--09:36 AM]]
+    
+
+
+Limited Condition Acquisitions:
+For purposes of (a) determining compliance with any provision of the Senior Credit Documentation which requires the calculation of the Leverage Ratio or the Consolidated Interest Coverage Ratio (as defined in the Existing Credit Agreement), (b) determining compliance with representations and warranties, or a requirement regarding the absence of defaults or events of default or (c) testing availability under baskets set forth in the Senior Credit Documentation (including baskets measured as a percentage of total assets or Consolidated EBITDA (as defined in the Existing Credit Agreement)), in each case, in connection with an acquisition by one or more of the Parent Borrower and its subsidiaries of any assets, business or person permitted to be acquired by the Senior Credit Documentation, in each case whose consummation is not conditioned on the availability of, or on obtaining, third party financing (any such acquisition, a “Limited Condition Acquisition”), at the option of the Parent Borrower (the Parent Borrower’s election to exercise such option in connection with any Limited Condition Acquisition, an “LCA Election”), the date of determination of whether any such action is permitted under the Senior Credit Documentation shall be deemed to be the date the definitive agreements for such Limited Condition Acquisition are entered into (the “LCA Test Date”), and if, after giving pro forma effect to the Limited Condition Acquisition and the other transactions to be entered into in connection therewith as if they had occurred at the beginning of the most recently completed four fiscal quarter period for which financial statements have been delivered and ended on or prior to the LCA Test Date, the Parent Borrower could have taken such action on the relevant LCA Test Date in compliance with such ratio, representation, warranty, absence of default or event of default or basket, such ratio, representation, warranty, absence of default or event of default or basket shall be deemed to have been complied with.
+For the avoidance of doubt, if the Parent Borrower has made an LCA Election and any of the ratios or baskets for which compliance was determined or tested as of the LCA Test Date are exceeded as a result of fluctuations in any such ratio or basket (including due to fluctuations of the target of any Limited Condition Acquisition) at or prior to the consummation of the relevant transaction or action, such baskets or ratios will not be deemed to have been exceeded as a result of such fluctuations. If the Parent Borrower has made an LCA Election for any Limited Condition Acquisition, then in connection with any subsequent calculation of any ratio or basket on or following the relevant LCA Test Date and prior to the earlier of (a) the date on which such Limited Condition Acquisition is consummated or (b) the date that the definitive agreement for such Limited Condition Acquisition is terminated or expires without consummation of such Limited Condition Acquisition, any such ratio or basket shall be calculated on a pro forma basis assuming such Limited Condition Acquisition and other transactions in connection therewith (including any incurrence of debt and the use of proceeds thereof) had been consummated.
+
+Annex A – Bank Term Sheet
+
+
+[[NYCORP:3882362v30:12/20/2018--09:36 AM]]
+    
+
+
+Financial Covenants:
+To be substantially the same as set forth in the Existing Credit Agreement and limited to the following:
+(a)    Maximum ratio of Consolidated Debt (as defined in the Existing Credit Agreement, except that the Parent Borrower will be permitted to net unrestricted cash of the Parent Borrower and its subsidiaries in calculating Consolidated Debt) to Consolidated EBITDA (the “Leverage Ratio”) of 4.75 to 1.00 (with step-downs to be mutually agreed upon) (the “Leverage Maintenance Covenant”); and
+(b)    Minimum ratio of Consolidated EBITDA to Consolidated Interest Expense (to the extent deducted in computing Consolidated Net Income) (each such term as defined in the Existing Credit Agreement) of 3.00 to 1.00;
+in each case to be tested on a quarterly basis.
+Events of Default:
+To be substantially as set forth in, and not more restrictive than, the Existing Credit Agreement and limited to the following (with materiality thresholds, exceptions and grace periods substantially consistent with those set forth in the Existing Credit Agreement): failure to make payments when due; inaccuracy of representations and warranties in any material respect; breach of covenants; default under other Senior Credit Documentation; voluntary insolvency; involuntary insolvency; default under material indebtedness; invalidity of subordination provisions; material judgments; impairment of security; unenforceability of Guarantees; ERISA events; Change of Control (as defined in the Existing Credit Agreement); and dissolution.
+
+The Senior Credit Documentation shall include a collateral allocation mechanism substantially the same as set forth in the Existing Credit Agreement.
+
+Defaulting Lender Provisions, Yield Protection and Increased Costs:
+To be substantially the same as set forth in the Existing Credit Agreement.
+Assignments and Participations:
+To be substantially the same as set forth in the Existing Credit Agreement.
+Amendments and Waivers:
+To be substantially the same as set forth in the Existing Credit Agreement.
+Indemnification and Expenses:
+To be substantially the same as set forth in the Existing Credit Agreement.
+Governing Law; Exclusive Jurisdiction and Forum:
+The Senior Credit Documentation will provide that each party thereto will submit to the exclusive jurisdiction and venue of the federal and state courts of the State of New York (except to the extent the Bank Administrative Agent or any Lender requires submission to any other jurisdiction in connection with the exercise of any rights under any security document or the enforcement of any judgment). New York law will govern the Senior Credit Documentation, except with respect to certain security documents where applicable local law is necessary for enforceability or perfection.
+Waiver of Jury Trial and Punitive and Consequential Damages:
+All parties to the Senior Credit Documentation shall waive the right to trial by jury and the right to claim punitive or consequential damages.
+Bail-In Provisions:
+To be substantially the same as set forth in the Existing Credit Agreement.
+Counsel for the Lead Arrangers and the Bank Administrative Agent:
+Holland & Knight LLP.
+
+Annex A – Bank Term Sheet
+
+
+[[NYCORP:3882362v30:12/20/2018--09:36 AM]]
+    
+
+
+
+
+SCHEDULE I TO ANNEX A
+INTEREST AND FEES ON
+SENIOR CREDIT FACILITIES
+
+Interest:
+At the relevant Borrower’s option, loans (other than Swingline Loans and loans denominated in a currency other than U.S. dollars) will bear interest based on the Base Rate or LIBOR, as described below:
+A. Base Rate Option
+Interest will be at the Base Rate plus the Applicable Rate (as defined below). The “Base Rate” is defined as the highest of (a) the NYFRB Rate (as defined in the Existing Credit Agreement), plus 1/2 of 1%, (b) the U.S. prime commercial lending rate published by The Wall Street Journal as the “prime rate” and (c) the daily LIBOR (as defined below) for a one month Interest Period (as defined below) plus 1%. Interest shall be payable quarterly in arrears on the last business day of each January, April, July and October and on the Maturity Date and shall be calculated on the basis of the actual number of days elapsed in a year of 365/366 days. Any loan bearing interest at the Base Rate is referred to herein as a “Base Rate Loan”.
+Base Rate Loans will be made on same business day notice and will be in minimum amounts substantially the same as set forth in the Existing Credit Agreement.
+B. LIBOR Option
+Interest will be determined for periods (“Interest Periods”) of one, two, three or six months (or such other period that is twelve months or less requested by the Parent Borrower and consented to by all relevant Lenders) as selected by the Parent Borrower and will be at an annual rate for Eurocurrency deposits for the corresponding deposits of the relevant currency administered by ICE Benchmark Administration Limited (or any applicable successor quoting service) (“LIBOR”) plus the Applicable Rate. LIBOR will be determined by the Bank Administrative Agent at the start of each Interest Period and, other than in the case of LIBOR used in determining the Base Rate, will be fixed through such period. Interest will be paid on the last day of each Interest Period or, in the case of Interest Periods longer than three months, every three months, and will be calculated on the basis of the actual number of days elapsed in a year of 360 days. LIBOR will be adjusted for maximum statutory reserve requirements (if any) and in no event shall be less than 0%. Any loan bearing interest at LIBOR (other than a Base Rate Loan for which interest is determined by reference to LIBOR) is referred to herein as a “LIBOR Rate Loan”.
+LIBOR Rate Loans will be made on three business days’ prior notice (or such longer period as provided in the Existing Credit Agreement) and, in each case, will be in minimum amounts substantially the same as set forth in the Existing Credit Agreement.
+Swingline Loans will bear interest at a rate to be mutually agreed between the Parent Borrower and the Swing Line Lender.
+Loans denominated in a currency other than U.S. dollars will bear interest at LIBOR plus the Applicable Rate.
+The Senior Credit Documentation will contain provisions to be mutually agreed with respect to a replacement LIBOR Rate.
+Default Interest:
+To be substantially as set forth in the Existing Credit Agreement.
+Interest Margins:
+The applicable interest margins (the “Applicable Rate”) will be:
+(a) in the case of the Revolving Credit Facility, 1.400% for LIBOR Rate Loans and 0.400% for Base Rate Loans; and
+(b) in the case of the Term Loan Facilities, 1.750% for LIBOR Rate Loans and 0.750% for Base Rate Loans;
+provided that after the date on which the Parent Borrower will have delivered financial statements and a compliance certificate for the first full fiscal quarter after the Closing Date, the Applicable Rate with respect to the Senior Credit Facilities will be determined in accordance with the Pricing Grid set forth below.
+For the avoidance of doubt, in the event that the Best Efforts Amendments described under this heading are not obtained, the applicable interest rate margins for the Senior Credit Facilities (including, without limitation, the Incremental Term Loan A Facility and the New Senior Credit Facilities) will be the interest rate margins set forth in the Existing Credit Agreement.
+Facility Fee:
+A facility fee (the “Facility Fee”) will accrue on the full amount of the Revolving Credit Facility, regardless of usage, with exclusions for Defaulting Lenders. Such Facility Fee will initially be 0.350% per annum and after delivery of financial statements for the first full fiscal quarter ending after the Closing Date will be determined in accordance with the Pricing Grid set forth below. All accrued Facility Fees will be fully earned and due and payable quarterly in arrears on the last business day of each January, April, July and October (calculated on a 360-day basis) for the account of the Lenders under the Revolving Credit Facility and will accrue from the Closing Date.
+Letter of Credit Fees:
+The Parent Borrower will pay to the Bank Administrative Agent, for the account of the Lenders under the Revolving Credit Facility, letter of credit participation fees equal to the Applicable Rate for LIBOR Rate Loans under the Revolving Credit Facility, in each case, on the undrawn amount of all outstanding Letters of Credit. The Parent Borrower will pay to each L/C issuer with respect to Letters of Credit a fronting fee to be agreed upon by the Parent Borrower and such L/C issuer.
+Other Fees:
+The Lead Arrangers and the Bank Administrative Agent will receive such other fees as will have been agreed in a fee letter among them and the Parent Borrower.
+Pricing Grid:
+The Applicable Rate and the Facility Fee shall be based on the Leverage Ratio pursuant to the following grid:
+
+Level
+Leverage Ratio
+Applicable Rate for LIBOR Rate Loans (Term)
+Applicable Rate for Base Rate Loans (Term)
+Applicable Rate for LIBOR Rate Loans (Revolver)
+Applicable Rate for Base Rate Loans (Revolver)
+Facility
+Fee
+1
+Greater than or equal to 4.00 to 1.00
+2.000%
+1.000%
+1.600%
+0.600%
+0.400%
+2
+Less than 4.00 to 1.00 but greater than or equal to 3.50 to 1.00
+1.750%
+0.750%
+1.400%
+0.400%
+0.350%
+3
+Less than 3.50 to 1.00 but greater than or equal to 3.00 to 1.00
+1.500%
+0.500%
+1.200%
+0.200%
+0.300%
+4
+Less than 3.00 to 1.00 but greater than or equal to 2.50 to 1.00
+1.250%
+0.250%
+1.000%
+0.000%
+0.250%
+5
+Less than 2.50 to 1.00 but greater than or equal to 2.00 to 1.00
+1.000%
+0.000%
+0.775%
+0.000%
+0.225%
+6
+Less than 2.00 to 1.00
+0.750%
+0.000%
+0.550%
+0.000%
+0.200%
+
+
+
+ANNEX B
+$700.0 MILLION SENIOR UNSECURED BRIDGE FACILITY
+SUMMARY OF PROPOSED TERMS AND CONDITIONS
+
+
+Capitalized terms not otherwise defined herein shall have the meanings assigned to them in the Commitment Letter to which this Summary of Proposed Terms and Conditions is attached (the “Commitment Letter”) or, as applicable, Annex A to the Commitment Letter.
+Borrower:
+Grief, Inc., a Delaware corporation (the “Parent Borrower”).
+Joint Lead Arrangers and Joint Bookrunners:
+Wells Fargo Securities, LLC, JPMorgan Chase Bank, N.A. (“JPMorgan”), and Goldman Sachs Bank USA (“GS Bank”) will act as the joint lead arrangers and joint bookrunners (in such capacities, the “Lead Arrangers”).
+Lenders:
+Wells Fargo Bank, National Association (“Wells Fargo Bank”), JPMorgan and GS Bank (or, in each case, one or more of its affiliates) and a syndicate of financial institutions and other entities (the “Bridge Lenders”).
+Bridge Administrative Agent:
+Wells Fargo Bank, National Association (in such capacity, the “Bridge Administrative Agent”).
+Bridge Loans:
+Unsecured senior credit facility (the “Bridge Facility”) consisting of bridge loans (the “Bridge Loans”) in an aggregate principal amount of up to $700.0 million, minus the aggregate principal amount of the Notes, if any, issued on or prior to the Closing Date (including pursuant to an escrow arrangement).
+Use of Proceeds:
+The proceeds of the Bridge Loans will be used, together with the Senior Credit Facilities and the proceeds of the Notes, if any, issued on or prior to the Closing Date (including pursuant to an escrow arrangement), solely to finance (a) the Acquisition, (b) the Refinancing and (c) the payment of fees and expenses incurred in connection with the Transactions.
+Availability:
+The Bridge Facility will be available only in a single draw of the full amount of the Bridge Facility on the Closing Date. Amounts borrowed under the Bridge Facility that are repaid or prepaid may not be reborrowed.
+Documentation:
+The documentation for the Bridge Loans will include, among other items, a bridge loan agreement, guarantees and other appropriate documents, including an exhibit with the form of the indenture in connection with the issuance of any Exchange Notes (as defined below) as contemplated below (collectively, the “Bridge Loan Documentation”), all on terms consistent with this Bridge Term Sheet. The Bridge Loan Documentation will contain such other terms as are usual and customary for bridge loan agreements for comparably rated companies in a similar industry, consistent with the operational requirements of the Parent Borrower and its subsidiaries in light of their size, cash flow, industry business, business practices and operations and with such modifications to reflect the Transaction and market conditions as of the Closing Date. The Bridge Loan Documentation will contain customary high yield covenants, events of default and financial definitions, with basket sizes, exceptions and other modifications as shall be determined by the Lead Arrangers in light of prevailing market conditions on the Closing Date but, except as otherwise set forth herein, in no event shall any of the foregoing be inconsistent with or more restrictive than as set forth in the Existing Credit Agreement. The provisions of this paragraph are referred to as the “Bridge Documentation Principles.”
+Ranking:
+The Bridge Loans and the Guarantees thereof will be unsecured senior debt of the Parent Borrower and the Guarantors, pari passu with all other unsecured senior debt of the Parent Borrower and the Guarantors.
+Guarantors:
+Same guarantors as the guarantors for the Senior Credit Facilities (each a “Guarantor”; and its guarantee is referred to herein as a “Guarantee”). The Parent Borrower and the Guarantors are herein referred to collectively as the “Credit Parties” and each a “Credit Party.”
+Security:
+None.
+Interest:
+Interest rates and fees in connection with the Bridge Loans and the Exchange Notes will be as specified in the Fee Letter and on Schedule I attached hereto.
+Maturity/Exchange:
+The Bridge Loans will mature on the date (the “Initial Maturity Date”) that is twelve months after the Closing Date. If any Bridge Loan has not been repaid in full on or prior to the Initial Maturity Date, subject to payment of the Bridge Rollover Fee (as defined in the Fee Letter) and unless (i) the Borrower or any of its subsidiaries is subject to a bankruptcy or other insolvency proceeding or (ii) there exists a default in the payment when due at final maturity of any indebtedness (of an amount consistent with the terms of the Senior Loan Documentation) of the Borrower or any of its subsidiaries, or the maturity of such indebtedness shall have been accelerated, the Bridge Loans will automatically be converted into term loans (each, an “Extended Term Loan”) due on the date that is 8 years after the Closing Date. The Extended Term Loans will be governed by the provisions of the Bridge Loan Documentation and will have the same terms as the Bridge Loans except as expressly set forth on Schedule II hereto.
+Lenders under the Extended Term Loans will have the option at any time or from time to time to receive exchange notes under an indenture (the “Exchange Notes”) in exchange for such Extended Term Loans having the terms set forth on Schedule III hereto; provided that the Parent Borrower may defer the issuance of Exchange Notes until such time as the Parent Borrower has received requests to issue an aggregate principal amount of Exchange Notes equal to at least $100 million.
+Mandatory Prepayment:
+The Parent Borrower will be required to prepay the Bridge Loans on a pro rata basis, at par plus accrued and unpaid interest with:
+(a)    100% of the net cash proceeds from the issuance of the Notes and/or any other indebtedness (other than the Senior Credit Facilities) by the Parent Borrower or any of its subsidiaries, subject to exceptions to be mutually agreed upon in accordance with the Bridge Documentation Principles;
+(b)    100% of the net cash proceeds from any issuance of equity securities of, or from any capital contribution to, the Parent Borrower or any of its subsidiaries in excess of amounts required to be paid to the Lenders under the Senior Credit Facilities, subject to exceptions to be mutually agreed upon in accordance with the Bridge Documentation Principles; and
+(c)    100% of the net cash proceeds of all non-ordinary course asset sales, insurance proceeds and condemnation recoveries and other asset dispositions by the Parent Borrower or any of its subsidiaries in excess of amounts either reinvested in accordance with the Senior Credit Facilities or required to be paid to the Lenders under the Senior Credit Facilities, subject to exceptions to be mutually agreed upon in accordance with the Bridge Documentation Principles.
+Each such prepayment will be made together with accrued interest to the date of prepayment, but without premium or penalty (except breakage costs related to prepayments not made on the last day of the relevant interest period).
+In the event any Bridge Lender or affiliate of a Bridge Lender purchases Securities (as defined in the Fee Letter) from the Parent Borrower pursuant to the securities demand provisions in the Fee Letter, the net cash proceeds received by the Parent Borrower in respect of such Securities may, at the option of such Bridge Lender or affiliate, be applied first to prepay the Bridge Loans of such Bridge Lender or affiliate rather than pro rata (provided that if there is more than one such Bridge Lender or affiliate then such net cash proceeds will be applied pro rata to prepay the Bridge Loans of all such Bridge Lenders or affiliates in proportion to such Bridge Lenders’ or affiliates’ principal amount of Securities purchased from the Borrower) prior to being applied to prepay the Bridge Loans held by other Bridge Lenders.
+In addition, notwithstanding anything in the Commitment Letter (or any Annex thereto) to the contrary (but subject to the applicable terms of the Senior Credit Documentation), the net cash proceeds of the issuance or incurrence of debt by the Parent Borrower or any of its subsidiaries shall be applied to prepay the Bridge Facility prior to any prepayment under the Senior Credit Facilities.
+Change of Control:
+Upon any change of control (as defined in the Existing Credit Agreement), the Parent Borrower will be required to prepay the entire principal amount of the Bridge Loans (plus any accrued and unpaid interest) at par. Prior to making any such payment, the Parent Borrower will, within 30 days of the change of control, repay all obligations under the Senior Credit Facilities or obtain any required consent of the lenders under the Senior Credit Facilities to make such prepayment of the Bridge Loans.
+Voluntary Prepayment:
+Subject to the provisions of the Senior Credit Facilities, the Bridge Loans may be prepaid at any time, in whole or in part, at the option of the Borrower, upon notice and in a minimum principal amount and in multiples to be agreed upon, at 100% of the principal amount of the Bridge Loans prepaid, plus all accrued and unpaid interest and fees (including any breakage costs) to the date of the repayment.
+Conditions Precedent to Funding:
+The funding of the Bridge Loans will be subject to satisfaction of the conditions precedent set forth in the Conditions Annex.
+Representations and Warranties:
+The Bridge Loan Documentation will contain usual and customary representations and warranties for facilities of this type and substantially similar to the representations and warranties contained in the Senior Credit Documentation, with such changes as are reasonably appropriate in connection with the Bridge Facility, subject to the Bridge Documentation Principles and the Limited Conditionality Provision.
+Covenants:
+The Bridge Loan Documentation will contain affirmative covenants comparable to those contained in the Senior Credit Documentation (and also including a covenant to comply with the securities demand provisions in the Fee Letter, a customary offering cooperation covenant, and a covenant to use all commercially reasonable efforts to refinance the Bridge Loans as soon as practicable) and incurrence-based negative covenants customary for high yield debt securities, subject to the Bridge Documentation Principles; provided that, prior to the Initial Maturity Date, the covenants may be more restrictive than those contained in the Senior Credit Facilities (so long as such covenants are not more restrictive than those contained in the Senior Credit Facilities when taken as a whole). The Bridge Loan Documentation will not include any financial maintenance covenants.
+Events of Default:
+Prior to the Initial Maturity Date, the Bridge Loan Documentation will contain such events of default (and, as appropriate, grace periods and threshold amounts) as are usual and customary for high yield debt securities, subject to the Bridge Documentation Principles (and no more restrictive than those set forth in the Senior Credit Documentation), including without limitation an event of default for failure to pay fees specified in the Fee Letters.
+Yield Protection and Increased Costs:
+Usual and customary for facilities of this type, including customary tax gross up provisions, and substantially the same as those set forth in the Senior Credit Documentation.
+Assignments and Participations:
+Consents. Each Bridge Lender will, subject in certain circumstances to the approval of the Bridge Administrative Agent (such consent not to be unreasonably withheld or delayed), be permitted to make assignments in acceptable minimum amounts; provided, however, that prior to the Initial Maturity Date and so long as no Demand Failure Event (as defined in the Fee Letter), payment or bankruptcy event of default is continuing, the consent of the Borrower (not to be unreasonably withheld or delayed) shall be required with respect to any assignment if, subsequent thereto, the Initial Bridge Lenders would hold, in the aggregate, less than 50.1% of the outstanding Bridge Loans. Participations will be permitted without the consent of the Parent Borrower or the Bridge Administrative Agent, subject to customary restrictions relating to voting rights.
+No Assignment or Participation to Certain Persons. No assignment or participation may be made to natural persons, the Parent Borrower or any of its affiliates or subsidiaries. No assignments may be made to any Defaulting Lender or any Disqualified Lender.
+Notwithstanding anything to the contrary herein, the Bridge Administrative Agent shall not be responsible for or have any liability for, or have any duty to ascertain, inquire into, monitor or enforce compliance with the provisions of the Bridge Facility relating to Disqualified Lenders.
+Required Bridge Lenders:
+On any date of determination, those Bridge Lenders who collectively hold more than 50% of the aggregate outstanding Bridge Loans (the “Required Bridge Lenders”).
+Amendments and Waivers:
+Amendments and waivers of the provisions of the Bridge Loan Documentation will require the approval of the Required Bridge Lenders, except that (a) the consent of all Bridge Lenders directly adversely affected thereby will be required with respect to: (i) reductions of principal, interest, fees or other amounts, (ii) except as provided under “Maturity/Exchange” above, extensions of scheduled maturities or times for payment (other than for purposes of administrative convenience), (iii) increases in the amount of any Bridge Lender’s commitment, (iv) additional restrictions on the right to exchange Extended Term Loans for Exchange Notes or any amendment to the rate of such exchange, (v) changes in call dates or call prices (other than notice provisions) and (vi) changes in pro rata sharing provisions, (b) the consent of 100% of the Bridge Lenders will be required with respect to customary matters, including (i) releases of all or substantially all of the value of the Guarantees (other than in connection with transactions permitted pursuant to the Bridge Loan Documentation) and (ii) modifications in the voting percentages and (c) the consent of the Bridge Administrative Agent will be required to amend, modify or otherwise affect its rights and duties.
+Indemnification and Expenses:
+To be substantially the same as set forth in the Senior Credit Documentation.
+Governing Law and Forum:
+The Bridge Loan Documentation will provide that each party thereto will submit to the exclusive jurisdiction and venue of the federal and state courts of the State of New York (except to the extent the Bridge Administrative Agent or any Lender requires submission to any other jurisdiction in connection with the exercise of any rights under any security document or the enforcement of any judgment). New York law will govern the Bridge Loan Documentation.
+
+Waiver of Jury Trial and Punitive and Consequential Damages:
+All parties to the Bridge Loan Documentation waive the right to trial by jury and the right to claim punitive or consequential damages.
+Bail-In Provision:
+The Bridge Loan Documentation will include a customary contractual recognition provision required under Article 55 of the Bank Recovery and Resolution Directive of the European Union, substantially as set forth in the Senior Credit Documentation.
+Counsel for the Lead Arrangers and the Bridge Administrative Agent:
+Cravath, Swaine & Moore LLP.
+
+
+SCHEDULE I TO ANNEX B
+
+INTEREST RATES ON THE BRIDGE LOANS
+
+Interest Rate:
+The Bridge Loans will bear interest for the first three month period commencing on the Closing Date at a variable rate per annum (the “Applicable Interest Rate”) equal to the sum of (a) the one-month LIBOR Rate plus (b) 4.75%.
+The Applicable Interest Rate will increase by an additional 0.50% following each three month period after the Closing Date. Notwithstanding the foregoing, the interest rate on the Bridge Loans will not at any time prior to the Initial Maturity Date exceed the Total Cap (as defined in the Fee Letter).
+Interest will be payable quarterly in arrears and on the Initial Maturity Date and will be calculated on the basis of the actual number of days elapsed in a year of 360 days.
+Notwithstanding the foregoing, upon the occurrence of (i) a Demand Failure Event (as defined in the Fee Letter) or (ii) an OM Delivery Failure Event, all outstanding Bridge Loans will accrue interest at the Total Cap.
+The “LIBOR Rate” will be defined and calculated as specified in the Term Loan Documentation; provided that at no time will the LIBOR Rate be deemed to be less than 0.0% per annum.
+The Bridge Loan Documentation will contain provisions to be mutually agreed with respect to a replacement LIBOR Rate.
+Default Rate:
+(a) Automatically upon the occurrence and during the continuance of any payment event of default or upon a bankruptcy event of default of the Parent Borrower or any other Credit Party or (b) at the election of the Required Bridge Lenders, upon the occurrence and during the continuance of any other event of default, all outstanding principal, fees and other obligations under the Bridge Facility will bear interest at a rate per annum of 2.00% in excess of the rate then applicable to the past due amounts of the Bridge Loans, payable on demand of the Bridge Administrative Agent. Such Default Rate may be in excess of any cap or limitation on yield or interest rate set forth in this Commitment Letter or in the Fee Letter.
+
+SCHEDULE II TO ANNEX B
+
+EXTENDED TERM LOANS
+SUMMARY OF PROPOSED TERMS AND CONDITIONS
+
+Capitalized terms used herein without definition will have the meanings given to them in the Summary of Proposed Terms and Conditions for the Bridge Facility to which this Schedule II is attached.
+Borrower:
+The Parent Borrower.
+Guarantors:
+Same as the Guarantors of the Bridge Loans.
+Security:
+None.
+Ranking:
+Same as the Bridge Loans.
+Maturity:
+8 years from the Closing Date.
+Interest Rate:
+The Extended Term Loans will bear interest at the Total Cap.
+Default Rate:
+The Extended Term Loans will bear default interest at a rate per annum of 2.00% in excess of the rate otherwise applicable thereto, which may be in excess of the Total Cap.
+Mandatory
+Prepayment:
+
+Same as the mandatory prepayments for the Bridge Loans.
+Change of Control:
+Same as the Bridge Loans, plus a prepayment fee equal to 1.00% of the entire principal amount of the Extended Term Loans outstanding at such time.
+Voluntary Prepayment:
+The Extended Term Loans may be prepaid, in whole or in part, in minimum denominations to be agreed, at par, plus accrued and unpaid interest upon not less than one business day’s prior written notice, at the option of the Parent Borrower at any time.
+Covenants;
+Events of Default; Offers to Repurchase:
+
+The covenants, events of default and offers to repurchase (other than as described in this Schedule II) that would be applicable to the Exchange Notes, if issued, will also be applicable to the Extended Term Loans in lieu of the corresponding provisions applicable to the Bridge Loans.
+   
+
+Annex A – Bank Term Sheet
+
+
+[[NYCORP:3882362v30:12/20/2018--09:36 AM]]
+    
+
+
+SCHEDULE III TO ANNEX B
+
+EXCHANGE NOTES
+SUMMARY OF PROPOSED TERMS AND CONDITIONS
+
+Capitalized terms used herein without definition will have the meanings given to them in the Summary of Proposed Terms and Conditions for the Bridge Facility to which this Schedule III is attached.
+Issuer:
+The Parent Borrower.
+Guarantors:
+Same as the Guarantors of the Bridge Loans.
+Security:
+None.
+Principal Amount:
+The Exchange Notes will be available only in exchange for the Extended Term Loans. The principal amount of the Exchange Notes will equal 100% of the aggregate principal amount of the outstanding Extended Term Loans for which they are exchanged and will have the same ranking as the Extended Term Loans for which they are exchanged.
+Ranking:
+Same as the Bridge Loans.
+Maturity:
+8 years from the Closing Date.
+Interest Rate:
+The Exchange Notes will bear interest at the Total Cap.
+Default Rate:
+The Exchange Notes will bear default interest at a rate per annum of 2.00% in excess of the rate otherwise applicable thereto, which may be in excess of the Total Cap.
+Mandatory
+Redemption; Change of Control:
+No mandatory redemption provisions other than 101% change of control put and asset sale offer to redeem provisions customary for transactions of this type.
+Optional Redemption:
+Non-callable until the date that is three years after the Closing Date and thereafter callable at par plus accrued interest plus a premium equal to 75% of the coupon on such Exchange Notes, which premium shall decline ratably on each subsequent anniversary of the issuance of such Exchange Notes to zero on the date that is two years prior to the maturity of such Exchange Notes.
+Prior to the third anniversary of the Closing Date, the Issuer may redeem up to 40% of the Exchange Notes with proceeds from an equity offering at a redemption price equal to par plus the coupon on such Exchange Notes.
+Registration Rights:
+None.
+Right to Resell Notes:
+Any Bridge Lender (and any subsequent holder) will have the absolute and unconditional right to resell the Exchange Notes to one or more third parties, whether by assignment or participation and subject to compliance with applicable securities laws.
+Representations and
+Warranties; Covenants;
+Events of Default:
+
+Usual and customary for transactions of this type and substantially similar to those for the Bridge Loans, but substantially similar to those set forth in the Existing Credit Agreement (and with a reporting covenant appropriate for this type of transaction).
+Governing Law
+and Forum:
+New York.
+Counsel to the Lead Arrangers:
+Cravath, Swaine & Moore LLP.
+
+Schedule III to Annex B – Exchange Notes
+1
+
+[[NYCORP:3882362v30:12/20/2018--09:36 AM]]
+    
+
+
+
+ANNEX C
+
+$1,200.0 MILLION SENIOR SECURED TERM LOAN A FACILITY
+$1,073.75 MILLION SENIOR SECURED BACKSTOP CREDIT FACILITIES
+$700.0 MILLION SENIOR UNSECURED BRIDGE FACILITY
+CONDITIONS ANNEX
+Capitalized terms not otherwise defined herein shall have the meanings assigned to them in the Commitment Letter to which this Annex is attached (the “Commitment Letter”), Annex A to the Commitment Letter or Annex B to the Commitment Letter.
+Closing and the making of Existing Credit Agreement Acquisition Draw, if applicable, and the initial extensions of credit under the Facilities will be subject solely to the satisfaction of the following conditions precedent (in each case, subject to the Limited Conditionality Provision):
+1.The execution and delivery by the Borrower and the Guarantors of Senior Credit Documentation and Bridge Loan Documentation (collectively, the “Financing Documentation”), which shall be consistent, in each case, with the Commitment Documents and which do not include any additional conditions precedent to the Existing Credit Agreement Acquisition Draw, if applicable, and the initial extensions of credit under the Facilities.
+2.Subject to the Limited Conditionality Provision, each Administrative Agent and the Lead Arrangers shall have received customary legal opinions, evidence of authorization, organizational documents, good standing certificates (with respect to the applicable jurisdiction of incorporation or organization of each Loan Party) and officer’s certificates.
+3.To the extent required by the Financing Documentation and subject to the Limited Conditionality Provision, (a) the Lead Arrangers shall have received all documents and instruments required to perfect the Bank Administrative Agent’s security interest in the Collateral and (b) all filings, recordations and searches necessary or desirable in connection with the security interests in and liens on the Collateral shall have been duly made or obtained and all filing and recording fees and taxes in connection therewith shall have been duly paid (including UCC and other customary lien searches).
+4.Since the date of the Acquisition Agreement, there shall not have occurred any Material Adverse Effect. “Material Adverse Effect” as defined in the Acquisition Agreement (on the date hereof).
+5.The Acquisition shall have been consummated, or shall be consummated substantially concurrently with, the Existing Credit Agreement Acquisition Draw, if applicable, and the initial funding of the Senior Credit Facilities and the issuance of the Notes and/or funding under the Bridge Facility in accordance with applicable law and in accordance with the Acquisition Agreement without giving effect to any waiver, modification or consent thereunder that is materially adverse to the interests of the Lenders unless consented to by the Commitment Parties, such consent not to be unreasonably withheld, conditioned or delayed, it being understood that, without limitation, any change in the third party beneficiary rights applicable to the Lead Arrangers and the Lenders or the governing law shall be deemed to be materially adverse to the interests of the Lenders unless approved by the Lead Arrangers, except that (a) any decrease in the purchase price by less than 10% shall not be deemed to be materially adverse to the interests of the Lenders if such reduction is allocated, on a dollar-for-dollar basis, to a reduction of the Bridge Commitment, (b) any increase in the purchase price shall not be deemed to be materially adverse to the interests of the Lenders if such increase is not funded with indebtedness for borrowed money or disqualified or preferred stock of the Parent Borrower or any of its subsidiaries, and (c) any purchase price adjustment expressly contemplated by the Acquisition Agreement (including any working capital purchase price adjustment) (as in effect on the date hereof) shall not be considered an amendment or waiver of the Acquisition Agreement.
+6.The Refinancing shall have been consummated prior to, or shall be consummated substantially simultaneously with the initial borrowing under the Senior Credit Facilities, and the Lead Arrangers shall have received customary payoff letters in connection therewith confirming that all indebtedness with respect thereto shall have been fully repaid (except to the extent being so repaid with the proceeds of the initial borrowings under the Facilities and to the extent outstanding letters of credit are continued under the Revolving Credit Facility) and all commitments thereunder shall have been terminated and cancelled and all liens in connection therewith shall have been terminated and released, in each case prior to or concurrently with the initial borrowing under the Senior Credit Facilities.
+7.The Lead Arrangers shall have received:
+(a)with respect to the Acquired Company and its subsidiaries, (i) audited consolidated balance sheets and related consolidated statements of income, shareholder’s equity and cash flows for the three most recently completed fiscal years ended at least 90 days prior to the Closing Date and (ii) to the extent provided pursuant to clause (i) of paragraph 11 of this Annex C, the SAS 100 Reviewed September Financials (as defined below), the SAS 100 Reviewed March Financials (as defined below) or the SAS 100 Reviewed June Financials (as defined below), as applicable (it being understood that in no event will the Lead Arrangers be required to have received (A) SAS 100 Reviewed September Financials, if the Acquired Company satisfies the requirements of any of clause (x), clause (y) or clause (z) of clause (i) of paragraph 11 of this Annex C, (B) the SAS 100 Review March Financials, if the Acquired Company satisfies the requirements of any of clause (w), clause (x) or clause (z) of clause (i) of paragraph 11 of this Annex C, or (C) the SAS 100 Reviewed June Financials, if the Acquired Company satisfies the requirements of any of clause (w), clause (x) or clause (y) of clause (i) of paragraph 11 of this Annex C); and
+(b)a certificate from the chief financial officer of the Parent Borrower (in form and substance as set forth on Annex D) certifying that after giving pro forma effect to each element of the Transactions the Parent Borrower and its subsidiaries (on a consolidated basis) are Solvent (as defined in the Existing Credit Agreement).
+8.The Lead Arrangers shall have received, at least three business days prior to the Closing Date, all documentation and other information required by regulatory authorities under applicable “know your customer” and anti-money laundering rules and regulations, including, without limitation, the PATRIOT Act, that has been requested at least 10 business days prior to the Closing Date. To the extent that the Parent Borrower or any other Loan Party qualifies as a “legal entity customer” under the Beneficial Ownership Regulation, at least five days prior to the Closing Date, any Lender that has requested, in a written notice to the Parent Borrower at least 10 days prior to the Closing Date, a certification regarding beneficial ownership as required by the Beneficial Ownership Regulation in relation to the Parent Borrower or any other Loan Party shall have received such certification regarding beneficial ownership.
+9.The Acquisition shall not have been consummated prior to January 28, 2019.
+10.All fees and expenses due to the Lead Arrangers, the Administrative Agents and the Lenders required to be paid on the Closing Date (including the fees and expenses of counsel for the Lead Arrangers and the Administrative Agents) will have been paid.
+11.With respect to the Bridge Facility, the Acquired Company shall have provided to the Parent Borrower and the Lead Arrangers at least 10 business days prior to the Closing Date (which 10 business day period shall not commence prior to January 7, 2019 and, if such 10 business day period has not ended prior to August 16, 2019, then it will not commence prior to September 3, 2019) (the “Compliance Period”):
+(i)     either (w) unaudited consolidated balance sheets and related consolidated statements of income and cash flows for the nine months ended September 30, 2018 and the nine months ended September 30, 2017 (which interim financial statements shall be SAS 100 reviewed and delivered prior to January 28, 2019) (the “SAS 100 Reviewed September Financials”) or, in the alternative, (x) if the SAS 100 Reviewed September Financials are not delivered in accordance with clause (w) prior to January 28, 2019, audited consolidated balance sheets and related consolidated statements of income, shareholder’s equity and cash flows for the fiscal year ended December 31, 2018 (the “Audited FY 2018 Financials”), which audited financial statements will be delivered prior to April 15, 2019, or, in the alternative, (y) if neither the SAS 100 Reviewed September Financials are delivered in accordance with clause (w) prior to January 28, 2019 nor the Audited FY 2018 Financials are delivered in accordance with clause (x) prior to April 15, 2019, the Audited FY 2018 Financials and the unaudited consolidated balance sheets and related consolidated statements of income and cash flows for the three months ended March 31, 2019 and the three months ended March 31, 2018 (which interim financial statements shall be SAS 100 reviewed) (the “SAS 100 Reviewed March Financials”), which shall be delivered prior to June 15, 2019, or, in the alternative, (z) if the SAS 100 Reviewed September Financials are not delivered in accordance with clause (w) prior to January 28, 2019, the Audited FY 2018 Financials are not delivered in accordance with clause (x) prior to April 15, 2019 and the Audited FY 2018 Financials and SAS 100 Reviewed March Financials are not delivered in accordance with clause (y) prior to June 15, 2019, the Audited FY 2018 Financials and the unaudited consolidated balance sheets and related consolidated statements of income and cash flows for the six months ended June 30, 2019 and the six months ended June 30, 2018 (which interim financial statements shall be SAS 100 reviewed) (the “SAS 100 Reviewed June Financials”), which shall be delivered prior to August 31, 2019; and
+(ii)    drafts of customary comfort letters (including “negative assurance” comfort) from the Acquired Company’s independent accountants related thereto that such auditors are prepared to issue at the time of pricing and issuance of the Notes.
+12.The Specified Acquisition Agreement Representations will be true and correct, to the extent required by the Limited Conditionality Provision, and the Specified Representations will be true and correct in all material respects (or if qualified by materiality or material adverse effect, in all respects).
+
+ANNEX D
+
+[FORM OF] SOLVENCY CERTIFICATE
+To the Administrative Agent and each of the Lenders party to the Credit Agreement referred to below:
+I, the undersigned [chief financial officer][interim chief financial officer][vice president of finance][other senior officer with similar title] of _____, a _____ _____ (the “Borrower”), in that capacity only and not in my individual capacity (and without personal liability), do hereby certify as of the date hereof, solely on behalf of the Borrower and based upon facts and circumstances as they exist as of the date hereof (and disclaiming any responsibility for changes in such facts and circumstances after the date hereof), that:
+1.    This certificate is furnished to the Administrative Agent and the Lenders pursuant to Section __ of the ____________, dated as of ____________, among _________ (the “Agreement”). Unless otherwise defined herein, capitalized terms used in this certificate shall have the meanings set forth in the Agreement.
+2.    As of the date hereof after giving effect to the consummation of the Transactions (including the Acquisition) (a) the fair value and present fair saleable of the property of the Borrower and its subsidiaries, on a consolidated basis, is greater than the total amount of liabilities, including contingent liabilities, of the Borrower and its subsidiaries, (b) the present fair salable value of the assets of the Borrower and its subsidiaries, on a consolidated basis, is not less than the amount that will be required to pay the probable liability of the Borrower and its subsidiaries, on a consolidated basis, on their debts as they become absolute and matured, (c) the Borrower and its subsidiaries, on a consolidated basis, do not intend to, and do not believe that they will, incur debts or liabilities beyond the Borrower’s and its subsidiaries’, on a consolidated basis, ability to pay as such debts or liabilities mature, (d) the Borrower and its subsidiaries, on a consolidated basis, are not engaged in business or a transaction, and are not about to engage in business or a transaction, for which the Borrower’s and its subsidiaries’, on a consolidated basis, property would constitute an unreasonably small capital, and (e) the Borrower and its subsidiaries, on a consolidated basis, are able to pay their debts as they become payable.  In computing the amount of contingent or unliquidated liabilities for purposes of this certificate, such liabilities have been computed at the amount that, in light of all the facts and circumstances existing at the date hereof, represents the amount that can reasonably be expected to become an actual or matured liability.
+3.    For purposes of this certificate, I, or officers of Borrower under my direction and supervision, have performed the following procedures as of and for the periods set forth below.
+(a)    I have reviewed the financial statements (including the pro forma financial statements) referred to in Section __ of the Agreement.
+(b)    I have knowledge of and have reviewed to my satisfaction the Agreement.
+(c)    As [chief financial officer][interim chief financial officer][vice president of finance][other senior officer with similar title] of Borrower, I am familiar with the financial condition of Borrower and its subsidiaries.
+* * *
+IN WITNESS WHEREOF, the Borrower has caused this certificate to be executed on its behalf by [chief financial officer][interim chief financial officer][vice president of finance][other senior officer with similar title] as of the date first written above.
+Greif, Inc.
+By:        
+Name:    
+Title:    
+
+
+Schedule III to Annex B – Exchange Notes
+2
+
+[[NYCORP:3882362v30:12/20/2018--09:36 AM]]

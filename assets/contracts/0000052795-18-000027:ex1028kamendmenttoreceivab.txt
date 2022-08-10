@@ -1,0 +1,177 @@
+EX-10.2 3 ex1028kamendmenttoreceivab.htm EXHIBIT 10.2
+Exhibit 10.2
+
+
+
+
+SECOND AMENDMENT TO
+RECEIVABLES FACILITY CREDIT AGREEMENT
+THIS SECOND AMENDMENT TO CREDIT AGREEMENT, dated as of October 29, 2018 (this “Amendment”), is made by and among ANIXTER RECEIVABLES CORPORATION, a Delaware corporation (the “Borrower”), ANIXTER INC., a Delaware corporation, (the “Servicer”), the Lenders (as defined in the Credit Agreement, defined herein) party hereto and JPMORGAN CHASE BANK, N.A., as administrative agent for the Lenders (the “Administrative Agent”).
+R E C I T A L S:
+WHEREAS, reference is made to that certain Credit Agreement, dated as of October 5, 2015, by and among the Borrower, the Servicer, the Lenders (as defined therein) and the Administrative Agent (as amended by that certain Waiver and First Amendment to Receivables Facility Loan Document s dated as of September 29, 2016, and as further amended, restated, amended and restated, supplemented or otherwise modified, the “Credit Agreement”); and
+WHEREAS, the parties hereto desire to amend certain terms of the Credit Agreement as hereinafter provided and the Administrative Agent and the Required Lenders are willing to make such modifications, subject to the terms and conditions of this Amendment;
+NOW, THEREFORE, the parties hereto, in consideration of their mutual covenants and agreements hereinafter set forth and intending to be legally bound hereby, covenant and agree as follows:
+1.Definitions. Defined terms used herein unless otherwise defined herein shall have the meanings ascribed to them in the Credit Agreement and the rules of construction set forth in Section 1.03 of the Credit Agreement shall apply to this Amendment.
+2.Amendment of Credit Agreement.
+(a)The following new definition is hereby added in alphabetical order to Section 1.01 of the Credit Agreement:
+(i)    “2019 Notes Indenture” means an Indenture dated on or about November 12, 2018, between Anixter Inc., Anixter International Inc., as guarantor and Wells Fargo Bank, National Association, as trustee, as the same may be amended or replaced from time to time.
+
+(b)    Section 7.01(a) of the Credit Agreement is hereby amended by deleting the word “and” immediately before clause (xv), deleting the period at the end of clause (xv) thereof and inserting “; and” in lieu thereof and by adding the following immediately after clause (xv):
+
+“(xvi) Indebtedness of Anixter evidenced by the certain Senior Notes due 2025 issued under the 2019 Notes Indenture in an aggregate principal amount of up to $300,000,000, which Indebtedness will be used for the repayment in one or more transactions of a portion of the 5.625% Senior Notes due 2019 issued under the 2012 Notes Indenture.”
+(c)    Section 7.08(b)(iii) of the Credit Agreement is hereby amended and restated in its entirety to read as follows:
+“(iii) (x) refinancing of Indebtedness to the extent permitted by Section 7.01 and (y) payments in respect of the 5.625% Senior Notes due 2019 issued under the 2012 Notes Indenture with the proceeds of the Indebtedness permitted by Section 7.01(a)(xvi);”
+3.Representations and Warranties. Each of the Borrower and the Servicer, by executing this Amendment, hereby certifies and confirms that as of the date hereof and after giving effect to this Amendment: (a) the execution,
+
+1
+
+delivery and performance of this Amendment and any and all other documents executed and/or delivered in connection herewith (i) have been authorized by all requisite action on the part of the Borrower and the Servicer, (ii) will not require any consent or approval of, registration or filing with, or any other action by, any Governmental Authority or (iii) conflict with or violate the Borrower’s Organization Documents; (b) the representations and warranties of the Borrower and the Servicer contained in the Credit Agreement (as amended by this Amendment) and the other Loan Documents are true and correct in all material respects (except that such materiality qualifier shall not be applicable to any representations and warranties that already are qualified or modified by materiality in the text thereof) on the date hereof with the same effect as though such representations and warranties had been made on and as of such date (except representations and warranties which relate solely to an earlier date or time, which representations and warranties shall be true and correct in all material respects (except that such materiality qualifier shall not be applicable to any representations and warranties that already are qualified or modified by materiality in the text thereof) on and as of the specific dates or times referred to therein); (c) no Amortization Event or Potential Amortization Event under the Credit Agreement shall have occurred and be continuing or shall exist which will not be cured by the execution and effectiveness of this Amendment; and (d) the Credit Agreement (as amended by this Amendment) and all other Loan Documents are and remain legal, valid, binding and enforceable obligations in accordance with the terms thereof.
+4.Conditions of Effectiveness of the Amendment. The effectiveness of this Amendment is expressly conditioned upon satisfaction of each of the following conditions precedent:
+(a)Fees and Expenses. The Borrower shall pay to the Administrative Agent the costs and expenses of the Administrative Agent, including reasonable fees of the Administrative Agent’s counsel in connection with this Amendment.
+(b)Execution and Delivery. The Borrower, the Servicer and the Required Lenders shall have executed and delivered to the Administrative Agent counterparts to this Amendment and all agreements, documents and certificates executed and delivered in connection herewith and therewith.
+(c)Inventory Facility Amendment.    The parties to that certain Second Amendment to Inventory Facility Credit Agreement of even date herewith shall have delivered executed counterparts thereto to the Inventory Facility Administrative Agent and all conditions to effectiveness thereto shall have been met to the satisfaction of the Inventory Facility Administrative Agent.
+5.Force and Effect. The Borrower and the Servicer each reconfirms, restates, and ratifies each of Loan Documents to which it is a party and except as amended by this Amendment, each of the Borrower and the Servicer confirms that all such Loan Documents to which it is party remain in full force and effect since the date of their execution.
+6.Governing Law. This Amendment shall be governed by and construed in accordance with the internal laws (and not the law of conflicts) of the State of Illinois, but giving effect to federal laws applicable to national banks.
+7.Counterparts. This Amendment may be signed in any number of counterparts each of which shall be deemed an original, but all of which together shall constitute one and the same instrument, and delivery of executed signature pages hereof by telecopy or other electronic transmission from one party to another shall constitute effective and binding execution and delivery of this Amendment by such party.
+8.Release; Indemnification.
+(a)Release. In further consideration of the Administrative Agent’s and Required Lenders’ execution of this Amendment, the Borrower and the Servicer each individually and on behalf of its respective successors (including any trustees acting on behalf of such party, and any debtor-in-possession with respect to such party) assigns, subsidiaries and affiliates, hereby forever releases the Lenders and the Administrative Agent and their successors, assigns, parents, subsidiaries, and affiliates and their respective officers, employees, directors, agents and attorneys (collectively, the “Releasees”) from any and all debts, claims, demands, liabilities, responsibilities, disputes, causes, damages, actions and causes of actions (whether at law or in equity), and obligations of every nature whatsoever,
+
+2
+
+whether liquidated or unliquidated, whether matured or unmatured, whether fixed or contingent that the Borrower or the Servicer has or may have against the Releasees, or any of them, which arise from or relate to any actions which the Releasees, or any of them, have or may have taken or omitted to take in connection with the Credit Agreement or the other Loan Documents prior to the date hereof (including with respect to the Obligations, any Collateral and any third parties liable in whole or in part for the Obligations). This provision shall survive and continue in full force and effect whether or not the Borrower and the Servicer shall satisfy all other provisions of the Credit Agreement (as amended by this Amendment) or the other Loan Documents.
+(b)Related Indemnity. The Borrower or the Servicer hereby agrees that its release of the Releasees set forth in Section 8(a) shall include an obligation to indemnify and hold the Releasees, or any of them, harmless with respect to any and all liabilities, obligations, losses, penalties, actions, judgments, suits, costs, expenses or disbursements of any kind or nature whatsoever incurred by the Releasees, or any of them, whether direct, indirect or consequential, as a result of or arising from or relating to any proceeding by, or on behalf of any Person, including officers, directors, agents, trustees, creditors, partners or shareholders of the Borrower or the Servicer or any parent, subsidiary or affiliate of the Borrower or the Servicer, whether threatened or initiated, asserting any claim for legal or equitable remedy under any statutes, regulation, common law principle or otherwise arising from or in connection with the negotiation, preparation, execution, delivery, performance, administration and enforcement of this Amendment or any other document executed in connection herewith; provided, that neither the Borrower nor the Servicer shall be liable for any indemnification to a Releasee to the extent that any such liability, obligation, loss, penalty, action, judgment, suit, cost, expense or disbursement results from the applicable Releasee’s gross negligence or willful misconduct, as finally determined by a court of competent jurisdiction. The foregoing indemnity shall survive the payment in full of the Obligations and the termination of the Credit Agreement (as amended by this Amendment) and the other Loan Documents.
+9.Amendment as Loan Document. The parties hereto acknowledge and agree that this Amendment constitutes a Loan Document.
+[SIGNATURES BEGIN ON NEXT PAGE]
+
+3
+
+IN WITNESS WHEREOF and intending to be legally bound hereby, the parties hereto have executed this Amendment as of the date first above written.
+BORROWER:
+
+ANIXTER RECEIVABLES CORPORATION
+
+
+By: /s/ Rodney A. Shoemaker                
+Name: Rodney A. Shoemaker
+Title: Senior Vice President - Treasurer
+
+
+INITIAL SERVICER:
+
+ANIXTER INC.
+
+
+By: /s/ Rodney A. Shoemaker                
+Name: Rodney A. Shoemaker
+Title: Senior Vice President - Treasurer
+
+
+
+Acknowledged and Agreed:
+
+ANIXTER INTERNATIONAL INC.
+
+
+By: /s/ Rodney A. Shoemaker                
+Name: Rodney A. Shoemaker
+Title: Senior Vice President - Treasurer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[SIGNATURE PAGE TO SECOND AMENDMENT TO
+CREDIT AGREEMENT (RECEIVABLES FACILITY)]
+
+
+
+
+JPMORGAN CHASE BANK, N.A., individually as a Lender, as Administrative Agent, Issuing Bank and Swingline Lender
+
+
+By: /s/ Stephanie A. Lis                
+Name:     Stephanie A. Lis
+Title:     Authorized Officer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[SIGNATURE PAGE TO SECOND AMENDMENT TO
+CREDIT AGREEMENT (RECEIVABLES FACILITY)]
+
+
+
+
+WELLS FARGO BANK, NATIONAL ASSOCIATION, individually as a Lender and as an Issuing Bank
+
+
+By: /s/ Cory R. Moore                
+Name:    Cory R. Moore
+Title:    Assistant Vice President
+
+
+
+
+
+
+[SIGNATURE PAGE TO SECOND AMENDMENT TO
+CREDIT AGREEMENT (RECEIVABLES FACILITY)]

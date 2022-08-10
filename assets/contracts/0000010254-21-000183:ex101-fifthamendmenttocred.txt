@@ -1,0 +1,463 @@
+EX-10.1 2 ex101-fifthamendmenttocred.htm EX-10.1
+
+Exhibit 10.1
+    
+    FIFTH AMENDMENT    
+TO
+CREDIT AGREEMENT
+Dated as of December 24, 2021
+Among
+EARTHSTONE ENERGY HOLDINGS, LLC,
+as Borrower,
+
+EARTHSTONE ENERGY, INC.,
+as Parent,
+
+WELLS FARGO BANK, NATIONAL ASSOCIATION,
+as Administrative Agent and Issuing Bank,
+ROYAL BANK OF CANADA,
+as Syndication Agent,
+
+TRUIST BANK, CITIZENS BANK, N.A.,
+KEYBANK NATIONAL ASSOCIATION, U.S. BANK NATIONAL ASSOCIATION,
+FIFTH THIRD BANK, PNC BANK, NATIONAL ASSOCIATION AND
+BANK OF AMERICA, N.A.,
+as Documentation Agents,
+
+and
+
+The Lenders Party Thereto
+________________________________
+
+WELLS FARGO SECURITIES, LLC, RBC CAPITAL MARKETS, SUNTRUST ROBINSON HUMPHREY, INC., CITIZENS CAPITAL MARKETS, INC.,
+KEYBANC CAPITAL MARKETS INC., U.S. BANK NATIONAL ASSOCIATION,
+FIFTH THIRD BANK, PNC CAPITAL MARKETS LLC AND
+MERRILL LYNCH, PIERCE, FENNER & SMITH INCORPORATED,
+Joint Lead Arrangers and Joint Bookrunners
+________________________________
+
+
+
+
+
+
+
+FIFTH AMENDMENT TO CREDIT AGREEMENT
+THIS FIFTH AMENDMENT TO CREDIT AGREEMENT (this “Fifth Amendment”) dated as of December 24, 2021, is among Earthstone Energy Holdings, LLC, a Delaware limited liability company (the “Borrower”); Earthstone Energy, Inc., a Delaware corporation (the “Parent”); each of the undersigned guarantors (the “Guarantors”, and together with the Borrower and the Parent, the “Obligors”); each of the Lenders party hereto; and Wells Fargo Bank, National Association (in its individual capacity, “Wells Fargo”), as administrative agent for the Lenders (in such capacity, together with its successors in such capacity, the “Administrative Agent”).
+R E C I T A L S
+A.    The Borrower, the Parent, the Administrative Agent and the Lenders are parties to that certain Credit Agreement dated as of November 21, 2019 (as amended, restated, amended and restated, supplemented or otherwise modified prior to the date hereof, the “Credit Agreement”), pursuant to which the Lenders have made certain credit available to and on behalf of the Borrower.
+B.    The Borrower and the Guarantors are parties to that certain Guarantee and Collateral Agreement, dated as of November 21, 2019 (as amended, restated, amended and restated, supplemented or otherwise modified), made by each of the Loan Parties party thereto in favor of the Administrative Agent.
+
+C.    The Parent is party to that certain Parent Guarantee, dated as of November 21, 2019 (as amended, restated, amended and restated, supplemented or otherwise modified), in favor of the Administrative Agent.
+D.    The Borrower has requested and the Administrative Agent and the Lenders party hereto have agreed to amend the Credit Agreement, subject to the terms and conditions of this Fifth Amendment.
+E.    NOW, THEREFORE, to induce the Administrative Agent and the Lenders to enter into this Fifth Amendment and in consideration of the promises and the mutual covenants herein contained, for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:
+Section 1.Defined Terms. Each capitalized term used herein but not otherwise defined herein has the meaning given such term in the Credit Agreement, as amended by this Fifth Amendment (unless otherwise indicated). Unless otherwise indicated, all section references in this Fifth Amendment refer to sections of the Credit Agreement.
+Section 2.Amendments to Credit Agreement.
+1.1Amendment to Cover Page. The cover page of the Credit Agreement is hereby amended and restated to read as set forth on Annex II attached hereto.
+1.2Amendment to Introductory Paragraph. The introductory paragraph to the Credit Agreement is hereby amended and restated to read in its entirety as follows:
+THIS CREDIT AGREEMENT dated as of November 21, 2019, is among Earthstone Energy Holdings, LLC, a limited liability company duly formed and existing under the laws of the state of Delaware (the “Borrower”); Earthstone
+1    
+
+Energy, Inc., a Delaware corporation (“Parent”); each of the Lenders from time to time party hereto; Wells Fargo Bank, National Association (in its individual capacity, “Wells Fargo”), as administrative agent for the Lenders (in such capacity, together with its successors in such capacity, the “Administrative Agent”) and as Issuing Bank; BOKF, NA dba Bank of Texas (in its individual capacity, “BOKF”), as Issuing Bank with respect to the Existing Letters of Credit; Royal Bank of Canada, as syndication agent for the Lenders (in such capacity, together with its successors in such capacity, the “Syndication Agent”); and Truist Bank, Citizens Bank, N.A., KeyBank National Association, U.S. Bank National Association, Fifth Third Bank, PNC Bank, National Association and Bank of America, N.A., as documentation agents for the Lenders (each, in such capacity, together with its successors in such capacity, a “Documentation Agent”).
+1.3Amendments to Section 1.02 – Certain Defined Terms.
+(a)The following definitions are hereby amended and restated in their entirety to read as follows:
+“Agents” means, collectively, the Administrative Agent, the Syndication Agent and the Documentation Agents; and “Agent” means either the Administrative Agent, the Syndication Agent or a Documentation Agent, as the context requires.
+“Aggregate Elected Borrowing Base Commitments” means (a) on the Fifth Amendment Effective Date, (i) if the Chisholm Acquisition Senior Notes Trigger Event shall not have occurred, $825,000,000 or (ii) if the Chisholm Acquisition Senior Notes Trigger Event shall have occurred, $650,000,000 and (b) at any time thereafter, an amount determined in accordance with Section 2.07(g).
+“Agreement” means this Credit Agreement, including any schedules and exhibits hereto, as amended by the First Amendment, the Second Amendment, the Third Amendment, the Fourth Amendment and the Fifth Amendment, and as the same may from time to time be amended, modified, supplemented or restated.
+“Alternate Base Rate” means, for any day, a rate per annum equal to the greatest of (a) the Prime Rate in effect on such day, (b) the Federal Funds Effective Rate in effect on such day plus ½ of 1% and (c) Adjusted Term SOFR for a one month Interest Period on such day (or if such day is not a Business Day, the immediately preceding Business Day) plus 1.00% (provided that clause (c) shall not be applicable during any period in which Adjusted Term SOFR is unavailable or unascertainable). Any change in the Alternate Base Rate due to a change in the Prime Rate, the Federal Funds Effective Rate or Adjusted Term SOFR shall be effective from and including the effective date of such change in the Prime Rate, the Federal Funds Effective Rate or Adjusted Term SOFR, respectively. Notwithstanding the foregoing, in no event shall the Alternate Base Rate be less than 1.00%.
+“Applicable Margin” means, for any day, with respect to any ABR Loan or SOFR Loan, or with respect to the Commitment Fee Rate, as the case may be, the rate per annum set forth in the Borrowing Base Utilization Grid below based upon the Borrowing Base Utilization Percentage then in effect:
+2    
+
+Borrowing Base Utilization Grid
+
+<25%
+≥25%, but
+<50%
+≥50%, but
+<75%
+≥75%, but
+<90%
+≥90%
+ABR Loans 1.50% 1.75% 2.00% 2.25% 2.50%
+SOFR Loans 2.50% 2.75% 3.00% 3.25% 3.50%
+Commitment Fee Rate 0.375% 0.375% 0.50% 0.50% 0.50%
+
+Notwithstanding the foregoing, (a) if the Consolidated Leverage Ratio for the Reference Period ending on the last day of any fiscal quarter or fiscal year, as applicable, is greater than 1.50 to 1.00, then the Applicable Margin set forth in the above grid with respect to ABR Loans and SOFR Loans (but, for purposes of clarity, not the Commitment Fee Rate) will, in each case, (and, for the avoidance of doubt, after giving effect to any increase in the Applicable Margin set forth in the above grid pursuant to clause (b) below) increase by 0.25% during the period from and including the first day immediately following the date the financial statements and the related compliance certificate are delivered pursuant to Section 8.01(a) or Section 8.01(b), as applicable, and Section 8.01(c) for such fiscal quarter or fiscal year, as applicable, through and including the date of delivery of the financial statements and the related compliance certificate pursuant to Section 8.01(a) or Section 8.01(b), as applicable, and Section 8.01(c) for the immediately succeeding fiscal quarter; and (b) in addition to any increase to the Applicable Margin provided in clause (a) above, if the Chisholm Acquisition Senior Notes Trigger Event shall not have occurred on or immediately prior to the Fifth Amendment Effective Date and in connection with the Chisholm Acquisition, then effective as of the Fifth Amendment Effective Date and at all times thereafter, the Applicable Margin set forth in the above grid with respect to ABR Loans and SOFR Loans (but, for purposes of clarity, not the Commitment Fee Rate) will, in each case, increase by 0.25%. Each change in the Applicable Margin and Commitment Fee Rate shall apply during the period commencing on the effective date of such change and ending on the date immediately preceding the effective date of the next such change; provided, however, that if at any time the Borrower fails to deliver (i) a Reserve Report pursuant to Section 8.11(a) or (ii) the financial statements and the related compliance certificate pursuant to Section 8.01(a) or Section 8.01(b), as applicable, and Section 8.01(c), then, if so elected by the Majority Lenders, the “Applicable Margin” means the rate per annum set forth on the grid when the Borrowing Base Utilization Percentage is at its highest level.
+    In the event that the certified calculation of the Consolidated Leverage Ratio previously delivered pursuant to Section 8.01(c) was inaccurate (and such inaccuracy is discovered while any Commitments or Loans are outstanding), and such inaccuracy, if corrected, would have led to the application of a higher Applicable Margin for the Loans for any period (an “Applicable Period”) than the Applicable Margin applied for such Applicable Period, then, to the extent any Commitments or Loans are outstanding at such time, (i) the Borrower shall as soon as practicable deliver to the Administrative Agent the correct certified calculation of the Consolidated Leverage Ratio for such Applicable Period, (ii) the Applicable Margin shall be determined as if the level for such higher Applicable Margin were applicable for such Applicable Period, and (iii) the Borrower shall within ten (10) Business Days of written demand thereof by the Administrative Agent pay to the Administrative Agent the accrued additional interest owing as a result of such increased Applicable Margin for the
+3    
+
+Loans for such Applicable Period, which payment shall be promptly applied by the Administrative Agent in accordance with this Agreement.
+“Arrangers” means, collectively, Wells Fargo Securities, LLC, RBC Capital Markets, SunTrust Robinson Humphrey, Inc., Citizens Capital Markets, Inc., KeyBanc Capital Markets Inc., U.S. Bank National Association, Fifth Third Bank, PNC Capital Markets LLC and Merrill Lynch, Pierce, Fenner & Smith Incorporated, in their capacities as the joint lead arrangers and joint bookrunners hereunder.
+“Available Tenor” means, as of any date of determination and with respect to the then-current Benchmark, as applicable, (a) if such Benchmark is a term rate, any tenor for such Benchmark (or component thereof) that is or may be used for determining the length of an interest period pursuant to this Agreement or (b) otherwise, any payment period for interest calculated with reference to such Benchmark (or component thereof) that is or may be used for determining any frequency of making payments of interest calculated with reference to such Benchmark, in each case, as of such date and not including, for the avoidance of doubt, any tenor for such Benchmark that is then-removed from the definition of “Interest Period” pursuant to Section 3.03(b)(iv).
+“Benchmark” means, initially, the Term SOFR Reference Rate; provided that if a Benchmark Transition Event has occurred with respect to the Term SOFR Reference Rate or the then-current Benchmark, then “Benchmark” means the applicable Benchmark Replacement to the extent that such Benchmark Replacement has replaced such prior benchmark rate pursuant to Section 3.03(b)(i).
+“Benchmark Replacement” means, with respect to any Benchmark Transition Event, the sum of: (a) the alternate benchmark rate that has been selected by the Administrative Agent and the Borrower giving due consideration to (i) any selection or recommendation of a replacement benchmark rate or the mechanism for determining such a rate by the Relevant Governmental Body or (ii) any evolving or then-prevailing market convention for determining a benchmark rate as a replacement to the then-current Benchmark for Dollar-denominated syndicated credit facilities and (b) the related Benchmark Replacement Adjustment; provided that, if such Benchmark Replacement as so determined would be less than the Floor, such Benchmark Replacement will be deemed to be the Floor for the purposes of this Agreement and the other Loan Documents.
+“Benchmark Replacement Adjustment” means, with respect to any replacement of the then-current Benchmark with an Unadjusted Benchmark Replacement for any applicable Available Tenor, the spread adjustment, or method for calculating or determining such spread adjustment, (which may be a positive or negative value or zero) that has been selected by the Administrative Agent and the Borrower giving due consideration to (a) any selection or recommendation of a spread adjustment, or method for calculating or determining such spread adjustment, for the replacement of such Benchmark with the applicable Unadjusted Benchmark Replacement by the Relevant Governmental Body or (b) any evolving or then-prevailing market convention for determining a spread adjustment, or method for calculating or determining such spread adjustment, for the replacement of such Benchmark with the applicable
+4    
+
+Unadjusted Benchmark Replacement for Dollar-denominated syndicated credit facilities.
+“Benchmark Replacement Date” means the earliest to occur of the following events with respect to the then-current Benchmark:
+(a)in the case of clause (a) or (b) of the definition of “Benchmark Transition Event,” the later of (i) the date of the public statement or publication of information referenced therein and (ii) the date on which the administrator of such Benchmark (or the published component used in the calculation thereof) permanently or indefinitely ceases to provide all Available Tenors of such Benchmark (or such component thereof); or
+(b)in the case of clause (c) of the definition of “Benchmark Transition Event,” the first date on which such Benchmark (or the published component used in the calculation thereof) has been determined and announced by the regulatory supervisor for the administrator of such Benchmark (or such component thereof) to be non-representative; provided that such non-representativeness will be determined by reference to the most recent statement or publication referenced in such clause (c) and even if any Available Tenor of such Benchmark (or such component thereof) continues to be provided on such date.
+For the avoidance of doubt, the “Benchmark Replacement Date” will be deemed to have occurred in the case of clause (a) or (b) with respect to any Benchmark upon the occurrence of the applicable event or events set forth therein with respect to all then-current Available Tenors of such Benchmark (or the published component used in the calculation thereof).
+“Benchmark Transition Event” means the occurrence of one or more of the following events with respect to the then-current Benchmark:
+(a)a public statement or publication of information by or on behalf of the administrator of such Benchmark (or the published component used in the calculation thereof) announcing that such administrator has ceased or will cease to provide all Available Tenors of such Benchmark (or such component thereof), permanently or indefinitely; provided that, at the time of such statement or publication, there is no successor administrator that will continue to provide any Available Tenor of such Benchmark (or such component thereof);
+(b)a public statement or publication of information by the regulatory supervisor for the administrator of such Benchmark (or the published component used in the calculation thereof), the Board, the Federal Reserve Bank of New York, an insolvency official with jurisdiction over the administrator for such Benchmark (or such component), a resolution authority with jurisdiction over the administrator for such Benchmark (or such component) or a court or an entity with similar insolvency or resolution authority over the administrator for such Benchmark (or such component), which states that the administrator of such Benchmark (or such component) has ceased or will cease to provide all Available Tenors of such Benchmark (or such component thereof) permanently or indefinitely; provided that, at the time of such statement or publication, there is no successor administrator that will continue to provide any Available Tenor of such Benchmark (or such component thereof); or
+5    
+
+(c)a public statement or publication of information by the regulatory supervisor for the administrator of such Benchmark (or the published component used in the calculation thereof) announcing that all Available Tenors of such Benchmark (or such component thereof) are not, or as of a specified future date will not be, representative.
+For the avoidance of doubt, a “Benchmark Transition Event” will be deemed to have occurred with respect to any Benchmark if a public statement or publication of information set forth above has occurred with respect to each then-current Available Tenor of such Benchmark (or the published component used in the calculation thereof).
+“Benchmark Unavailability Period” means the period (if any) (x) beginning at the time that a Benchmark Replacement Date has occurred if, at such time, no Benchmark Replacement has replaced the then-current Benchmark for all purposes hereunder and under any Loan Document in accordance with Section 3.03(b)(i) and (y) ending at the time that a Benchmark Replacement has replaced the then-current Benchmark for all purposes hereunder and under any Loan Document in accordance with Section 3.03(b)(i).
+“Business Day” means any day that (a) is not a Saturday, Sunday or other day on which the Federal Reserve Bank of New York is closed and (b) is not a day on which commercial banks in Houston, Texas are closed.
+“Floor” means a rate of interest equal to 0.00%.
+“Interest Payment Date” means (a) with respect to any ABR Loan (including, for the avoidance of doubt, a Swingline Loan), the last day of each March, June, September and December and (b) with respect to any SOFR Loan, the last day of the Interest Period applicable to the Borrowing of which such Loan is a part and, in the case of a SOFR Borrowing with an Interest Period of more than three months’ duration, each day prior to the last day of such Interest Period that occurs at intervals of three months’ duration after the first day of such Interest Period.
+“Interest Period” means, as to each SOFR Borrowing, the period commencing on the date such Borrowing is disbursed or converted to or continued as a SOFR Borrowing and ending on (a) the date that is one month, three months or six months, or, if available and agreed by all of the Lenders, one week thereafter, or (b) upon consent of all Lenders, such date thereafter as may be requested by the Borrower in its Borrowing Request or Interest Election Request, as applicable; provided that: (i) any Interest Period that would otherwise end on a day that is not a Business Day shall be extended to the next succeeding Business Day unless such Business Day falls in another calendar month, in which case such Interest Period shall end on the next preceding Business Day; (ii) any Interest Period that begins on the last Business Day of a calendar month (or on a day for which there is no numerically corresponding day in the calendar month at the end of such Interest Period) shall end on the last Business Day of the calendar month at the end of such Interest Period; (iii) no Interest Period shall extend beyond the Maturity Date; and (d) no tenor that has been removed from this definition pursuant to Section 3.03(b) shall be available for specification in any Borrowing Request or any Interest Election Request.
+6    
+
+“SOFR” means a rate equal to the secured overnight financing rate as administered by the SOFR Administrator.
+“Term SOFR” means,
+(a)for any calculation with respect to a SOFR Loan, the Term SOFR Reference Rate for a tenor comparable to the applicable Interest Period on the day (such day, the “Periodic Term SOFR Determination Day”) that is two (2) U.S. Government Securities Business Days prior to the first day of such Interest Period, as such rate is published by the Term SOFR Administrator; provided, however, that if as of 5:00 p.m. (Eastern time) on any Periodic Term SOFR Determination Day the Term SOFR Reference Rate for the applicable tenor has not been published by the Term SOFR Administrator and a Benchmark Replacement Date with respect to the Term SOFR Reference Rate has not occurred, then Term SOFR will be the Term SOFR Reference Rate for such tenor as published by the Term SOFR Administrator on the first preceding U.S. Government Securities Business Day for which such Term SOFR Reference Rate for such tenor was published by the Term SOFR Administrator so long as such first preceding U.S. Government Securities Business Day is not more than three (3) U.S. Government Securities Business Days prior to such Periodic Term SOFR Determination Day, and
+(b)for any calculation with respect to an ABR Loan on any day, the Term SOFR Reference Rate for a tenor of one month on the day (such day, the “Alternate Base Rate Term SOFR Determination Day”) that is two (2) U.S. Government Securities Business Days prior to such day, as such rate is published by the Term SOFR Administrator; provided, however, that if as of 5:00 p.m. (Eastern time) on any Alternate Base Rate Term SOFR Determination Day the Term SOFR Reference Rate for the applicable tenor has not been published by the Term SOFR Administrator and a Benchmark Replacement Date with respect to the Term SOFR Reference Rate has not occurred, then Term SOFR will be the Term SOFR Reference Rate for such tenor as published by the Term SOFR Administrator on the first preceding U.S. Government Securities Business Day for which such Term SOFR Reference Rate for such tenor was published by the Term SOFR Administrator so long as such first preceding U.S. Government Securities Business Day is not more than three (3) U.S. Government Securities Business Days prior to such Alternate Base Rate Term SOFR Determination Day;
+provided, further, that if Term SOFR determined as provided above (including pursuant to the proviso under clause (a) or clause (b) above) shall be less than the Floor, then Term SOFR shall be deemed to be the Floor.
+(b)The following definitions are hereby added where alphabetically appropriate to read as follows:
+“Adjusted Term SOFR” means, for any Interest Period, the rate per annum equal to (a) Term SOFR for such Interest Period plus (b) the Term SOFR Adjustment; provided that if Adjusted Term SOFR as so determined shall ever be less than the Floor, then Adjusted Term SOFR shall be deemed to be the Floor.
+“Benchmark Transition Start Date” means, in the case of a Benchmark Transition Event, the earlier of (a) the applicable Benchmark Replacement Date and (b) if such Benchmark Transition Event is a public statement or publication of information of a prospective event, the 90th day prior to the expected date of such
+7    
+
+event as of such public statement or publication of information (or if the expected date of such prospective event is fewer than 90 days after such statement or publication, the date of such statement or publication).
+“Chisholm Acquisition” means the acquisition, directly or indirectly, by the Borrower of the Chisholm Acquisition Properties pursuant to the terms and conditions of the Chisholm Acquisition Documents.
+“Chisholm Acquisition Agreement” means that certain Purchase and Sale Agreement, by and among Chisholm Energy Operating, LLC and Chisholm Energy Agent, Inc., collectively as seller, and the Borrower, as purchaser, dated December 15, 2021, as amended, restated, supplemented or otherwise modified from time to time.
+
+“Chisholm Acquisition Deferred Consideration” means the Deferred Cash Consideration as such term is defined in Section 2.02(a) of the Chisholm Acquisition Agreement, as in effect on the date hereof.
+
+“Chisholm Acquisition Documents” means (a) the Chisholm Acquisition Agreement; and (b) all bills of sale, assignments, agreements, instruments and documents executed and delivered in connection therewith, as amended.
+
+“Chisholm Acquisition Properties” means the Oil and Gas Properties and other Properties acquired by the Borrower or its Subsidiaries pursuant to the Chisholm Acquisition Documents.
+
+“Chisholm Acquisition Senior Notes Trigger Event” means that the Borrower has (a) issued unsecured senior or unsecured senior subordinated notes (the “Chisholm Acquisition Senior Notes”) and has received at least $300,000,000 in gross proceeds therefrom; and (b) delivered to the Administrative Agent true and complete copies of the notes, indenture or other definitive document governing, evidencing or related to or guaranteeing the Chisholm Acquisition Senior Notes.
+“Chisholm Reserve Report” means the reserve report dated October 22, 2021 with an effective date of October 1, 2021 and prepared by the Parent with respect to the Chisholm Acquisition Properties.
+“Conforming Changes” means, with respect to either the use or administration of Term SOFR or the use, administration, adoption or implementation of any Benchmark Replacement, any technical, administrative or operational changes (including changes to the definition of “Alternate Base Rate,” the definition of “Business Day,” the definition of “U.S. Government Securities Business Day,” the definition of “Interest Period” or any similar or analogous definition (or the addition of a concept of “interest period”), timing and frequency of determining rates and making payments of interest, timing of borrowing requests or prepayment, conversion or continuation notices, the applicability and length of lookback periods, the applicability of Section 5.02 and other technical, administrative or operational matters) that the Administrative Agent decides may be appropriate to reflect the adoption and implementation of any such rate or to permit the use and administration thereof by the Administrative Agent in a manner substantially consistent with market practice (or, if the Administrative Agent decides that adoption of any portion of such market practice is not administratively feasible or if the Administrative Agent determines that no market
+8    
+
+practice for the administration of any such rate exists, in such other manner of administration as the Administrative Agent decides is reasonably necessary in connection with the administration of this Agreement and the other Loan Documents).
+“Fifth Amendment” means that certain Fifth Amendment to Credit Agreement, dated as of December 24, 2021, among the Borrower, the Parent, the Guarantors, the Administrative Agent and the Lenders party thereto.
+“Fifth Amendment Effective Date” has the meaning assigned to such term in the Fifth Amendment.
+“Fifth Amendment Effective Date Swap Agreements” has the meaning assigned to such term in the Fifth Amendment.
+“SOFR Loan” means any Loan bearing interest at a rate based on Adjusted Term SOFR as provided in Section 3.02(b).
+“Term SOFR Adjustment” means, for any calculation with respect to an ABR Loan or a SOFR Loan, a percentage per annum as set forth below for the applicable type of such Loan and (if applicable) Interest Period therefor:
+
+ABR Loans:
+0.10%
+
+SOFR Loans:
+Interest Period
+Percentage
+One week
+0.10%
+One month
+0.10%
+Three months
+0.15%
+Six months
+0.25%
+
+“Term SOFR Administrator” means CME Group Benchmark Administration Limited (CBA) (or a successor administrator of the Term SOFR Reference Rate selected by the Administrative Agent in its reasonable discretion).
+“Term SOFR Reference Rate” means the forward-looking term rate based on SOFR.
+“U.S. Government Securities Business Day” means any day except for (a) a Saturday, (b) a Sunday or (c) a day on which the Securities Industry and Financial Markets Association recommends that the fixed income departments of its members be closed for the entire day for purposes of trading in United States government securities; provided, that for purposes of notice requirements in Section 2.03, Section 2.04(b) and Section 2.09(b), in each case, such day is also a Business Day.
+9    
+
+(c)The definition of “Borrowing” is hereby amended by replacing the word “Eurodollar” contained therein with “SOFR”.
+(d)The last sentence of the definition of “EBITDAX” is hereby amended and restated in its entirety to read as follows:
+Notwithstanding anything herein to the contrary: EBITDAX for the Reference Period ending on June 30, 2022 shall be calculated by multiplying EBITDAX for the fiscal quarter ending on such date by four (4); EBITDAX for the Reference Period ending on September 30, 2022 shall be calculated by multiplying EBITDAX for the two consecutive fiscal quarters ending on such date by two (2); and EBITDAX for the Reference Period ending on December 31, 2022 shall be calculated by multiplying EBITDAX for the three consecutive fiscal quarters ending on such date by four-thirds (4/3).
+(e)The definition of “Type” is hereby amended by replacing the reference to “the Adjusted LIBO Rate” contained therein with “Adjusted Term SOFR”.
+(f)Each of the following defined terms is hereby deleted in its entirety: “Adjusted LIBO Rate”, “Announcements”, “Benchmark Replacement Conforming Changes”, “Corresponding Tenor”, “Daily Simple SOFR”, “Eurodollar”, “FCA”, “IBA”, “LIBO Rate”, “Reference Time”, “SOFR Administrator’s Website”, “Statutory Reserve Rate”, “Term SOFR Notice”, “Term SOFR Transition Event” and “USD LIBOR”.
+1.4Amendment to Section 1.03. Section 1.03 is hereby amended by replacing each instance of the word “Eurodollar” contained therein with “SOFR”.
+1.5Amendment to Section 1.08. Section 1.08 is hereby amended and restated in its entirety to read as follows:
+Section 1.08    Rates. The Administrative Agent does not warrant or accept any responsibility for, and shall not have any liability with respect to, (a) the continuation of, administration of, submission of, calculation of or any other matter related to the Term SOFR Reference Rate, Adjusted Term SOFR or Term SOFR, or any component definition thereof or rates referred to in the definition thereof, or with respect to any alternative, successor or replacement rate thereto (including any Benchmark Replacement), including whether the composition or characteristics of any such alternative, successor or replacement rate (including any Benchmark Replacement), as it may or may not be adjusted pursuant to Section 3.03(b), will be similar to, or produce the same value or economic equivalence of, or have the same volume or liquidity as, the Term SOFR Reference Rate, Adjusted Term SOFR, Term SOFR or any other Benchmark prior to its discontinuance or unavailability, or (b) the effect, implementation or composition of any Conforming Changes. The Administrative Agent and its Affiliates or other related entities may engage in transactions that affect the calculation of the Term SOFR Reference Rate, Adjusted Term SOFR, Term SOFR, any alternative, successor or replacement rate (including any Benchmark Replacement) or any relevant adjustments thereto and such transactions may be adverse to the Borrower. The Administrative Agent may select information sources or services in its reasonable discretion to ascertain the Term SOFR Reference Rate, Adjusted Term SOFR or Term SOFR, or any other Benchmark, any component definition thereof or rates referred to in the definition thereof, in each case pursuant to the terms of this Agreement, and shall have no liability to the Borrower, any Lender or any other person or entity for damages of any kind,
+10    
+
+including direct or indirect, special, punitive, incidental or consequential damages, costs, losses or expenses (whether in tort, contract or otherwise and whether at law or in equity), for any error or calculation of any such rate (or component thereof) provided by any such information source or service.
+1.6Amendment to Section 2.02. Section 2.02 is hereby amended by replacing each instance of the word “Eurodollar” contained therein with “SOFR”.
+1.7Amendment to Section 2.03. Section 2.03 is hereby amended by (a) replacing each instance of the word “Eurodollar” contained therein with “SOFR” and (b) replacing the reference to “Business Days” contained therein with “U.S. Government Securities Business Days”.
+1.8Amendment to Section 2.04. Section 2.04 is hereby amended by replacing each instance of the word “Eurodollar” contained therein with “SOFR”.
+1.9Amendment to Section 2.05. Section 2.05 is hereby amended by replacing each instance of the word “Eurodollar” contained therein with “SOFR”.
+1.10Amendment to Section 3.02(b). Section 3.02(b) is hereby amended and restated in its entirety to read as follows:
+(b)    SOFR Loans. The Loans comprising each SOFR Borrowing shall bear interest at Adjusted Term SOFR for the Interest Period in effect for such Borrowing plus the Applicable Margin, but in no event to exceed the Highest Lawful Rate.
+1.11Amendment to Section 3.02(d). Section 3.02(e) is hereby amended by replacing each instance of the word “Eurodollar” contained therein with “SOFR”.
+1.12Amendment to Section 3.02(e). Section 3.02(d) is hereby amended by replacing the phrase “Adjusted LIBO Rate or LIBO Rate” contained therein with “Adjusted Term SOFR or Term SOFR”.
+1.13Amendment to Section 3.02. Section 3.02 is hereby amended by adding a new Section 3.02(f) to the end thereof to read as follows:
+(f)    Term SOFR Conforming Changes. In connection with the use or administration of Term SOFR, the Administrative Agent will have the right to make Conforming Changes from time to time and, notwithstanding anything to the contrary herein or in any other Loan Document, any amendments implementing such Conforming Changes will become effective without any further action or consent of any other party to this Agreement or any other Loan Document. The Administrative Agent will promptly notify the Borrower and the Lenders of the effectiveness of any Conforming Changes in connection with the use or administration of Term SOFR.
+1.14Amendment to Section 3.03. Section 3.03 is hereby amended and restated in its entirety to read as follows:
+Section 3.03    Alternate Rate of Interest.
+11    
+
+(a)Unless and until a Benchmark Replacement is implemented in accordance with Section 3.03(b) below, if prior to the commencement of any Interest Period for a SOFR Borrowing:
+(i)the Administrative Agent determines (which determination shall be conclusive absent manifest error) that adequate and reasonable means do not exist for ascertaining Adjusted Term SOFR for the applicable Interest Period with respect to a proposed SOFR Loan on or prior to the first day of such Interest Period; or
+(ii)the Administrative Agent is advised by the Majority Lenders that Adjusted Term SOFR for such Interest Period will not adequately and fairly reflect the cost to such Lenders of making or maintaining their Loans included in such Borrowing for such Interest Period;
+then, in each case, the Administrative Agent shall give notice thereof to the Borrower and the Lenders by telephone, facsimile or electronic communication as promptly as practicable thereafter and, until the Administrative Agent notifies the Borrower and the Lenders that the circumstances giving rise to such notice no longer exist, (i) any Interest Election Request that requests the conversion of any Borrowing to, or continuation of any Borrowing as, a SOFR Borrowing shall be ineffective, and (ii) if any Borrowing Request requests a SOFR Borrowing, such Borrowing shall be made, as an ABR Borrowing.
+(b)Benchmark Replacement Setting.
+(i)Benchmark Replacement. Notwithstanding anything to the contrary herein or in any other Loan Document, upon the occurrence of a Benchmark Transition Event, the Administrative Agent and the Borrower may amend this Agreement to replace the then-current Benchmark with a Benchmark Replacement. Any such amendment with respect to a Benchmark Transition Event will become effective at 5:00 p.m. on the fifth (5th) Business Day after the Administrative Agent has posted such proposed amendment to all affected Lenders and the Borrower so long as the Administrative Agent has not received, by such time, written notice of objection to such amendment from Lenders comprising the Required Lenders. No replacement of a Benchmark with a Benchmark Replacement pursuant to this Section 3.03(b)(i)(A) will occur prior to the applicable Benchmark Transition Start Date.
+(ii)Benchmark Replacement Conforming Changes. In connection with the use, administration, adoption or implementation of a Benchmark Replacement, the Administrative Agent will have the right to make Conforming Changes from time to time and, notwithstanding anything to the contrary herein or in any other Loan Document, any amendments implementing such Conforming Changes will become effective without any further action or consent of any other party to this Agreement or any other Loan Document.
+(iii)Notices; Standards for Decisions and Determinations. The Administrative Agent will promptly notify the Borrower and the Lenders of (A) the implementation of any Benchmark Replacement and (B) the effectiveness of any Conforming Changes in connection with the use, administration, adoption or implementation of a Benchmark Replacement. The Administrative Agent will promptly notify the Borrower of the removal or reinstatement of any tenor of a Benchmark pursuant to Section 3.03(b)(iv). Any determination, decision or
+12    
+
+election that may be made by the Administrative Agent or, if applicable, any Lender (or group of Lenders) pursuant to this Section 3.03(b), including any determination with respect to a tenor, rate or adjustment or of the occurrence or non-occurrence of an event, circumstance or date and any decision to take or refrain from taking any action or any selection, will be conclusive and binding absent manifest error and may be made in its or their sole discretion and without consent from any other party to this Agreement or any other Loan Document, except, in each case, as expressly required pursuant to this Section 3.03(b).
+(iv)Unavailability of Tenor of Benchmark. Notwithstanding anything to the contrary herein or in any other Loan Document, at any time (including in connection with the implementation of a Benchmark Replacement), (A) if the then-current Benchmark is a term rate (including the Term SOFR Reference Rate) and either (1) any tenor for such Benchmark is not displayed on a screen or other information service that publishes such rate from time to time as selected by the Administrative Agent in its reasonable discretion or (2) the regulatory supervisor for the administrator of such Benchmark has provided a public statement or publication of information announcing that any tenor for such Benchmark is not or will not be representative, then the Administrative Agent may modify the definition of “Interest Period” (or any similar or analogous definition) for any Benchmark settings at or after such time to remove such unavailable or non-representative tenor and (B) if a tenor that was removed pursuant to clause (A) above either (1) is subsequently displayed on a screen or information service for a Benchmark (including a Benchmark Replacement) or (2) is not, or is no longer, subject to an announcement that it is not or will not be representative for a Benchmark (including a Benchmark Replacement), then the Administrative Agent may modify the definition of “Interest Period” (or any similar or analogous definition) for all Benchmark settings at or after such time to reinstate such previously removed tenor.
+(v)Benchmark Unavailability Period. Upon the Borrower’s receipt of notice of the commencement of a Benchmark Unavailability Period, (A) the Borrower may revoke any pending request for a borrowing of, conversion to or continuation of SOFR Loans to be made, converted or continued during any Benchmark Unavailability Period and, failing that, the Borrower will be deemed to have converted any such request into a request for a borrowing of or conversion to ABR Loans and (B) any outstanding affected SOFR Loans will be deemed to have been converted to ABR Loans at the end of the applicable Interest Period. During any Benchmark Unavailability Period or at any time that a tenor for the then-current Benchmark is not an Available Tenor, the component of the Alternate Base Rate based upon the then-current Benchmark or such tenor for such Benchmark, as applicable, will not be used in any determination of the Alternate Base Rate.
+1.15Amendment to Section 3.04. Section 3.04 is hereby amended by (a) replacing each instance of the word “Eurodollar” contained therein with “SOFR” and (b) replacing the phrase “three Business Days” contained therein with “three U.S. Government Securities Business Days”.
+1.16Amendment to Section 3.05. Section 3.05 is hereby amended by replacing each instance of the word “Eurodollar” contained therein with “SOFR”.
+1.17Amendment to Section 5.01(a). Section 5.01(a) is hereby amended and restated in its entirety to read as follows:
+13    
+
+Section 5.01    Changes in Law. If any Change in Law shall:
+(i)impose, modify or deem applicable any reserve, special deposit or similar requirement against assets of, deposits with or for the account of, or credit extended by, any Lender or any Issuing Bank;
+(ii)impose on any Lender or any Issuing Bank any other condition (other than Taxes) affecting this Agreement or SOFR Loans made by such Lender or such Issuing Bank; or
+(iii)subject any Lender or any Issuing Bank to any Taxes (other than (A) Indemnified Taxes and (B) Excluded Taxes) on its loans, loan principal, letters of credit, commitments, or other obligations, or its deposits, reserves, other liabilities or capital attributable thereto;
+and the result of any of the foregoing shall be to increase the cost to such Lender of making, maintaining, converting or continuing any SOFR Loan (or of maintaining its obligation to make any such Loan) or to reduce the amount of any sum received or receivable by such Lender (whether of principal, interest or otherwise), then the Borrower will pay to such Lender such additional amount or amounts as will compensate such Lender for such additional costs incurred or reduction suffered.
+1.18Amendment to Section 5.02. Section 5.02 is hereby amended and restated in its entirety to read as follows:
+Section 5.02    Break Funding Payments. In the event of (a) the payment of any principal of any SOFR Loan other than on the last day of an Interest Period applicable thereto (including as a result of an Event of Default), (b) the conversion of any SOFR Loan into an ABR Loan other than on the last day of the Interest Period applicable thereto, (c) the failure to borrow, convert, continue or prepay any SOFR Loan on the date specified in any notice delivered pursuant hereto, or (d) the assignment of any SOFR Loan other than on the last day of the Interest Period applicable thereto as a result of a request by the Borrower pursuant to Section 5.05, then, in any such event, the Borrower shall compensate each Lender for the loss, cost and expense attributable to such event. A certificate of any Lender setting forth any amount or amounts that such Lender is entitled to receive pursuant to this Section 5.02 shall be delivered to the Borrower and shall be conclusive absent manifest error or bad faith. Except in cases of manifest error or bad faith, the Borrower shall pay such Lender the amount shown as due on any such certificate within 10 days after receipt thereof.
+1.19Amendment to Section 5.06. Section 5.06 is hereby amended and restated in its entirety to read as follows:
+Section 5.06    Illegality. Notwithstanding any other provision of this Agreement, in the event that it becomes unlawful for any Lender or its applicable lending office to honor its obligation to make or maintain SOFR Loans either generally or having a particular Interest Period hereunder or to determine or charge interest based upon SOFR, the Term SOFR Reference Rate, Adjusted Term SOFR or Term SOFR, then (a) such Lender shall promptly notify the Borrower and the Administrative Agent thereof (an “Illegality Notice”) and (i) such Lender’s obligation to make such SOFR Loans shall be suspended and (ii) if necessary to avoid such illegality, the Administrative Agent shall compute the
+14    
+
+Alternate Base Rate without reference to clause (C) of the definition of “Alternate Base Rate”, until such time as such Lender may again make and maintain such SOFR Loans. Upon receipt of an Illegality Notice, the Borrower shall, if necessary to avoid such illegality, upon demand from any Lender (with a copy to the Administrative Agent), prepay or, if applicable, convert all SOFR Loans to ABR Loans (in each case, if necessary to avoid such illegality, the Administrative Agent shall compute the Alternate Base Rate without reference to clause (c) of the definition of “Alternate Base Rate”), on the last day of the Interest Period therefor, if all affected Lenders may lawfully continue to maintain such SOFR Loans to such day, or immediately, if any Lender may not lawfully continue to maintain such SOFR Loans to such day. Upon any such prepayment or conversion, the Borrower shall also pay accrued interest on the amount so prepaid or converted, together with any additional amounts required pursuant to Section 5.02.
+1.20Amendment to Article VIII. Article VIII is hereby amended by adding a new Section 8.20 to read as follows:
+Section 8.20    Fifth Amendment Post-Closing Hedging Requirement. No later than fifteen (15) days after the Fifth Amendment Effective Date (such date, the “Fifth Amendment Post-Closing Hedging Requirement Date”), the Borrower shall have entered into Swap Agreements with one or more Approved Counterparties hedging minimum notional volumes of at least fifty percent (50%) of the reasonably projected production of crude oil and natural gas, each calculated separately, from the Chisholm Acquisition Properties constituting proved developed producing Oil and Gas Properties evaluated in the Chisholm Reserve Report for each full calendar month during the period from and including the second full calendar month following the Fifth Amendment Effective Date through and including December 31, 2023. For the avoidance of doubt, the Fifth Amendment Swap Agreements shall be taken into account for purposes of determining the Borrower’s compliance with this Section 8.20.
+1.21Amendment to Section 9.01(b). Section 9.01(b) is hereby amended and restated in its entirety to read as follows:
+(b)    Current Ratio. The Borrower will not, as of the last day of any fiscal quarter of the Borrower, permit the ratio of (i) consolidated current assets (including unrestricted cash and the unused amount of the total Commitments, but excluding non-cash assets under FASB ASC 815 under GAAP) as of such date to (ii) consolidated current liabilities (excluding (x) non-cash obligations under FASB ASC 815 under GAAP, (y) current maturities under this Agreement, and (z) the amount of any accrued and unpaid Chisholm Acquisition Deferred Consideration that is not then due and payable pursuant to Section 2.02(a) of the Chisholm Acquisition Agreement) as of such date to be less than 1.00 to 1.00.
+1.22Amendment to Section 9.04(a). Section 9.04(a) is hereby amended and restated in its entirety to read as follows:
+(a)    Restricted Payments. The Borrower will not, and will not permit any of its Restricted Subsidiaries to, declare or make, or agree to pay or make, directly or indirectly, any Restricted Payment, return any capital to its holders of Equity Interests or make any distribution of its Property to its Equity Interest holders without the prior approval of the Majority Lenders, except (i) each Loan Party may declare and pay dividends or distributions with respect to its Equity
+15    
+
+Interests payable solely in additional shares of its Equity Interests (other than Disqualified Capital Stock), (ii) Restricted Subsidiaries of the Borrower may declare and pay dividends or distributions ratably with respect to their Equity Interests to the Borrower or any Wholly-Owned Subsidiary Guarantor, (iii) the Permitted Parent Payments shall be permitted, (iv) the Permitted Tax Distributions shall be permitted, so long as both before and after giving effect to each such Permitted Tax Distribution, no Event of Default has occurred and is continuing or would result therefrom, (v) the Borrower may make Restricted Payments in cash (1) if the Chisholm Acquisition Senior Notes Trigger Event has occurred on the Fifth Amendment Effective Date, after the Fifth Amendment Effective Date, or (2) if the Chisholm Acquisition Senior Notes Trigger Event has not occurred on the Fifth Amendment Effective Date, after the date that is the earlier to occur of (x) the date on which the Chisholm Acquisition Senior Notes Trigger Event occurs and (y) the date that is 180 days immediately following the Fifth Amendment Effective Date), in each case, so long as both before and immediately after giving effect to such Restricted Payment, (A) no Default, Event of Default or Borrowing Base Deficiency has occurred and is continuing or would result therefrom, (B) the total Revolving Credit Exposures does not exceed 80% of the Loan Limit then in effect (or, until the Chisholm Acquisition Senior Notes Trigger Event shall have occurred, the total Revolving Credit Exposures does not exceed 75% of the Loan Limit then in effect) and (C) the Consolidated Leverage Ratio is equal to or less than 2.50 to 1.00 (or, until the Chisholm Acquisition Senior Notes Trigger Event shall have occurred, the Consolidated Leverage Ratio is equal to or less than 2.00 to 1.00), as the Consolidated Leverage Ratio is recomputed on such date using (I) Consolidated Total Debt outstanding on such date and (II) EBITDAX for the Reference Period ending on the last day of the fiscal quarter immediately preceding such date for which financial statements are available, and (vi) the Borrower may make Restricted Payments in cash to the Parent (each such Restricted Payment, a “Pass-Through Restricted Payment”), in each case, so long as (A) each such Pass-Through Restricted Payment is funded solely with (and in no greater amount than) the proceeds (such proceeds, the “Pass-Through Restricted Payment Related Proceeds”) of an Unrestricted Subsidiary Cash Distribution received by the Borrower or an Restricted Subsidiary on the same day as the Borrower makes such Pass-Through Restricted Payment to the Parent; and (B) the aggregate amount of each such Pass-Through Restricted Payment does not exceed the Pass-Through Restricted Payment Related Proceeds.
+1.23Amendment to Section 10.01(d). Section 10.01(d) is hereby amended by replacing the reference to “Section 8.19” therein with “Section 8.19, Section 8.20”.
+1.24Amendments to Exhibits. Each of Exhibit B-1 and Exhibit C is hereby amended and restated in its entirety to read as set forth on Exhibit B-1 and Exhibit C attached to this Fifth Amendment.
+Section 3.Borrowing Base Increase. For the period from and including the Fifth Amendment Effective Date to but excluding the next Redetermination Date, the amount of the Borrowing Base shall be $825,000,000 (the “Fifth Amendment Borrowing Base Amount”); provided that, notwithstanding the foregoing or anything to the contrary contained in the Credit Agreement, if, on the Fifth Amendment Effective Date, the Borrower does not acquire at least (i) 95% of the total value of the proved Oil and Gas Properties evaluated in the Chisholm Reserve Report and (ii) 95% of the total value of the proved developed producing Oil and Gas Properties evaluated in the Chisholm Reserve Report, pursuant to the Chisholm Acquisition Agreement, then the Fifth Amendment Borrowing Base Amount shall be reduced, effective immediately on
+16    
+
+the Fifth Amendment Effective Date (for the avoidance of doubt, prior to the funding of any Loans or any other extensions of credit to be made on the Fifth Amendment Effective Date), by an amount equal to the Borrowing Base value attributable to the proved Oil and Gas Properties evaluated in the Chisholm Reserve Report that were not acquired by the Borrower on the Fifth Amendment Effective Date, as determined by the Administrative Agent, and confirmed by the Required Lenders, in each case, in good faith and in the Administrative Agent’s and each such Lender’s sole discretion and in a manner consistent with the Administrative Agent’s and such Lender’s normal oil and gas lending criteria as it exists on the Fifth Amendment Effective Date. The Fifth Amendment Borrowing Base Amount as so reduced shall become the new Borrowing Base immediately, effective and applicable to the Borrower, the Administrative Agent, the Issuing Banks and the Lenders on the Fifth Amendment Effective Date (for the avoidance of doubt, prior to the funding of any Loans or any other extensions of credit to be made on the Fifth Amendment Effective Date) until the next redetermination or modification thereof under the Credit Agreement. For the avoidance of doubt, the redetermination of the Borrowing Base to occur on the Fifth Amendment Effective Date shall not constitute a Scheduled Redetermination or an Interim Redetermination.
+Section 4.Assignment and Assumption. On the Fifth Amendment Effective Date, immediately prior to giving effect to the amendments in Section 2 and the Borrowing Base adjustments contained in Section 3 of this Fifth Amendment, each Lender has, in consultation with the Borrower, agreed to, and, for an agreed consideration, does hereby reallocate its Maximum Credit Amount, Commitment and Loans (and participations in Letters of Credit and LC Disbursements) (the “Reallocation”). On the Fifth Amendment Effective Date, and after giving effect to the Reallocation, the Maximum Credit Amount and Applicable Percentage of each Lender shall be as set forth on Annex I attached to this Fifth Amendment, which Annex I supersedes and replaces Annex I to the Credit Agreement (and Annex I to the Credit Agreement is hereby amended and restated in its entirety to read as set forth on Annex I attached hereto). Each of the Administrative Agent, each Lender, the Issuing Bank and the Borrower hereby consents and agrees to the Reallocation, including each Lender’s assignment of its Maximum Credit Amount, Commitment, Loans and participations in Letters of Credit to the extent necessary to effect the Reallocation. With respect to the Reallocation, each Lender shall be deemed to have sold and assigned its Maximum Credit Amount, Commitment, Loans and participations in Letters of Credit, and each Lender shall be deemed to have acquired the Maximum Credit Amount, Commitment, Loans and participations in Letters of Credit allocated to it from each Lender, pursuant to the terms and conditions of the Assignment and Assumption attached as Exhibit G to the Credit Agreement (the “Assignment Agreement”), as if each Lender had executed such Assignment Agreement with respect to the Reallocation, pursuant to which, (i) each Lender shall be an “Assignee”, (ii) each Lender shall be an “Assignor” and (iii) the term “Effective Date” shall be the Fifth Amendment Effective Date as defined herein. The Administrative Agent hereby waives the fee payable to the Administrative Agent pursuant to Section 12.04(b) of the Credit Agreement in connection with the Reallocation and the Assignment and Assumption. On the Fifth Amendment Effective Date in connection with the Reallocation, the Administrative Agent shall take the actions specified in Section 12.04(b)(iv) of the Credit Agreement, including recording the assignments described herein in the Register, and such assignments shall be effective for purposes of the Credit Agreement.
+Section 5.Conditions of Effectiveness. The provisions of Section 2, Section 3 and Section 4 of this Fifth Amendment will become effective on the date on which each of the following conditions is satisfied or waived in accordance with Section 12.02 of the Credit Agreement (such date, the “Fifth Amendment Effective Date”), which date must occur on or prior to March 31, 2022 (the “Outside Date”):
+(a)Counterparts. The Administrative Agent shall have received from the Borrower, the Parent, each Guarantor and the Lenders, counterparts (in such number as may be
+17    
+
+requested by the Administrative Agent) of this Fifth Amendment signed on behalf of such Person.
+(b)Fees and Expenses. The Administrative Agent and the Lenders shall have received all fees and other amounts due and payable on or prior to the Fifth Amendment Effective Date, including, to the extent invoiced at least two Business Days prior to satisfaction of all other applicable conditions, reimbursement or payment of all reasonable out-of-pocket expenses required to be reimbursed or paid by the Borrower under the Credit Agreement.
+(c)Chisholm Acquisition Closing. The Chisholm Acquisition shall have been (or contemporaneously with the Fifth Amendment Effective Date shall be) consummated in accordance with the terms of the Chisholm Acquisition Documents without giving effect to any waiver, modification or consent thereunder that is adverse to the interests of the Lenders (in their capacities as such) without the written consent of the Administrative Agent, and in connection therewith the Borrower (and/or one or more of its Subsidiaries) shall have acquired (directly or indirectly) at least 85% of the total value of the proved Oil and Gas Properties evaluated in the Chisholm Reserve Report.
+(d)Acquisition Certificate. The Administrative Agent shall have received an officer’s certificate from the Borrower, certifying that (A) the Chisholm Acquisition has been consummated in accordance with applicable law and the terms of the Chisholm Acquisition Agreement without giving effect to any waiver, modification or consent thereunder that is adverse to the interests of the Lenders (in their capacities as such), and in connection therewith, the Borrower has acquired at least 85% of the total value of the proved Oil and Gas Properties evaluated in the Chisholm Reserve Report, (B) as to the final purchase price for the Chisholm Acquisition Properties after giving effect to all adjustments as of the closing date contemplated by the Chisholm Acquisition Documents and specifying, by category, the amount of such adjustment; (C) that attached thereto is a true and complete list of the Properties that have been excluded from the Chisholm Acquisition pursuant to the terms of the Chisholm Acquisition Documents, specifying with respect thereto the basis of exclusion as (1) title defect, (2) preferential purchase right or consent right, (3) environmental or (4) casualty loss; (D) that attached thereto is a true and complete list of the Oil and Gas Properties for which the seller has elected to cure a title defect; (E) that attached thereto is a true and complete list of the Oil and Gas Properties for which Chisholm has elected to remediate an adverse environmental condition; (F) that attached thereto is a true and complete list of the Oil and Gas Properties which are currently pending final decision by a third party regarding purchase of such property in accordance with any preferential right or consent right; (G) that attached thereto is a true, complete and executed copy of the closing settlement statement for the Chisholm Acquisition; and (H) that true and complete executed copies of all Chisholm Acquisition Documents have been delivered to the Administrative Agent (together with all amendments, supplements, waivers or consents with respect to any provision thereof).
+(e)Mortgages. The Administrative Agent shall have received duly executed and notarized deeds of trust and/or mortgages or supplements to existing deeds of trust and/or mortgages in form reasonably satisfactory to the Administrative Agent, to the extent necessary so that the Mortgaged Properties represent at least 85% of the total value of the proved Oil and Gas Properties evaluated in the most recently delivered Reserve Report and the Chisholm Reserve Report (on a combined basis).
+(f)Title. The Administrative Agent shall have received, together with title information previously delivered to the Administrative Agent, title information reasonably satisfactory to the Administrative Agent setting forth the status of title to at least 85% of the total value of the proved Oil and Gas Properties evaluated in the most recently delivered Reserve Report and the Chisholm Reserve Report (on a combined basis)
+18    
+
+(g)Releases. The Administrative Agent shall have received (a) evidence reasonably satisfactory to it that all Liens on the Chisholm Acquisition Properties (provided that Liens permitted under Section 9.03 may exist) have been released or terminated, subject only to the filing of applicable terminations, releases or assignments and (b) duly executed recordable releases and terminations with respect thereto, in form and substance satisfactory to the Administrative Agent.
+(h)Lien Search Results. The Administrative Agent shall have received appropriate UCC search certificates reflecting no prior Liens encumbering the Chisholm Acquisition Properties, other than those being assigned or released on or prior to the Fifth Amendment Effective Date or Liens permitted by Section 9.03 of the Credit Agreement.
+(i)Environmental Condition. The Administrative Agent shall be satisfied with the environmental condition of the Chisholm Acquisition Properties.
+(j)Availability. The Administrative Agent shall have received evidence satisfactory to the Administrative Agent that, after giving effect to the transactions contemplated to occur on the Fifth Amendment Effective Date, the positive difference between the Loan Limit and the total Revolving Credit Exposures equals or exceeds $100,000,000.
+(k)Hedging. The Administrative Agent shall have received evidence satisfactory to the Administrative Agent that the Borrower entered into Swap Agreements (collectively, the “Fifth Amendment Effective Date Swap Agreements”), within thirty (30) days of the execution and delivery of the Chisolm Acquisition Agreement by the parties thereto, with one or more Approved Counterparties hedging minimum notional volumes of at least twenty-five percent (25%) of the reasonably projected production of crude oil and natural gas, each calculated separately, from the Chisholm Acquisition Properties constituting proved developed producing Oil and Gas Properties evaluated in the Chisholm Reserve Report for each full calendar month during the period from and including the second full calendar month following the “Target Closing Date” (as defined in the Chisholm Acquisition Agreement) through and including December 31, 2023.
+(l)No Default. As of the Fifth Amendment Effective Date (both before and immediately after giving effect to the Chisholm Acquisition), no Default shall have occurred and be continuing.
+The Administrative Agent is hereby authorized and directed to declare this Fifth Amendment to be effective when it has received documents confirming compliance with the conditions set forth in this Section 5 or the waiver of such condition in accordance with Section 12.02 of the Credit Agreement. Such declaration shall be final, conclusive and binding upon all parties to the Credit Agreement for all purposes. For purposes of determining compliance with the conditions specified in this Section 5, each Lender that has signed this Amendment shall be deemed to have consented to, approved or accepted, or to be satisfied with, each document or other matter required thereunder to be consented to or approved by or acceptable or satisfactory to such Lender, unless the Administrative Agent shall have received written notice from such Lender prior to the Fifth Amendment Effective Date specifying its objection thereto. Notwithstanding anything to the contrary contained herein, if the Fifth Amendment Effective Date does not occur on or prior to 5:00 p.m. (Houston time) on the Outside Date, then it shall be deemed that none of the conditions contained in this Section 5 shall be satisfied, and the Fifth Amendment Effective Date shall not occur.
+Section 6.Miscellaneous.
+19    
+
+(a)Confirmation. The provisions of the Credit Agreement, as amended by this Fifth Amendment, shall remain in full force and effect following the effectiveness of this Fifth Amendment.
+(b)Ratification and Affirmation; Representations and Warranties. Each Obligor hereby: (a) acknowledges the terms of this Fifth Amendment; (b) ratifies and affirms its obligations under and the Liens granted by, and acknowledges, renews and extends its continued liability under, each Loan Document to which it is a party and agrees that each Loan Document to which it is a party remains in full force and effect, except as expressly amended hereby; (c) agrees that from and after the Fifth Amendment Effective Date each reference to the Credit Agreement in the other Loan Documents shall be deemed to be a reference to the Credit Agreement, as amended by this Fifth Amendment; and (d) represents and warrants to the Lenders that as of the date hereof, after giving effect to the terms of this Fifth Amendment: (i) all of the representations and warranties contained in each Loan Document to which it is a party are true and correct in all material respects (except that any representation and warranty that is qualified by materiality shall be true and correct in all respects), except to the extent any such representations and warranties are expressly limited to an earlier date, in which case, such representations and warranties shall continue to be true and correct in all material respects (except that any representation and warranty that is qualified by materiality shall be true and correct in all respects) as of such specified earlier date and (ii) no Default has occurred and is continuing.
+(c)Counterparts. This Fifth Amendment may be executed by one or more of the parties hereto in any number of separate counterparts, and all of such counterparts taken together shall be deemed to constitute one and the same instrument. Delivery of an executed counterpart of a signature page of this Fifth Amendment by facsimile, electronic communications, as an attachment to an email or other similar electronic means shall be effective as delivery of a manually executed counterpart of this Fifth Amendment.
+(d)NO ORAL AGREEMENT. THIS FIFTH AMENDMENT, THE CREDIT AGREEMENT AND THE OTHER LOAN DOCUMENTS EXECUTED IN CONNECTION HEREWITH AND THEREWITH REPRESENT THE FINAL AGREEMENT BETWEEN THE PARTIES AND MAY NOT BE CONTRADICTED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS, OR UNWRITTEN ORAL AGREEMENTS OF THE PARTIES. THERE ARE NO SUBSEQUENT ORAL AGREEMENTS BETWEEN THE PARTIES.
+(e)GOVERNING LAW. THIS FIFTH AMENDMENT (INCLUDING, BUT NOT LIMITED TO, THE VALIDITY AND ENFORCEABILITY HEREOF) SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF TEXAS.
+(f)Loan Document. This Fifth Amendment is a “Loan Document” as defined and described in the Credit Agreement and all of the terms and provisions of the Credit Agreement relating to Loan Documents shall apply hereto.
+(g)Payment of Expenses. In accordance with Section 12.03 of the Credit Agreement, the Borrower agrees to pay or reimburse the Administrative Agent for all of its reasonable and documented out-of-pocket costs and expenses incurred in connection with this Fifth Amendment, any other documents prepared in connection herewith and the transactions contemplated hereby, including, without limitation, the reasonable fees and disbursements of counsel to the Administrative Agent.
+(h)Severability. Any provision of this Fifth Amendment or any other Loan Document held to be invalid, illegal or unenforceable in any jurisdiction shall, as to such
+20    
+
+jurisdiction, be ineffective to the extent of such invalidity, illegality or unenforceability without affecting the validity, legality and enforceability of the remaining provisions hereof or thereof; and the invalidity of a particular provision in a particular jurisdiction shall not invalidate such provision in any other jurisdiction.
+(i)Successors and Assigns. This Fifth Amendment shall be binding upon and inure to the benefit of the parties hereto and their respective successors and assigns.
+[Signature Pages Follow]
+21    
+
+IN WITNESS WHEREOF, the parties hereto have caused this Fifth Amendment to be duly executed and delivered by their proper and duly authorized officer(s) as of the day and year first above written.
+
+BORROWER:
+EARTHSTONE ENERGY HOLDINGS, LLC
+
+
+
+By: ______________________________________
+Name:
+Title:
+
+By: /s/ Mark Lumpkin, Jr.
+Name: Mark Lumpkin, Jr.
+Title: Executive Vice President and
+Chief Financial Officer
+PARENT:
+EARTHSTONE ENERGY, INC.
+
+
+
+By: ______________________________________
+Name:
+Title:
+
+By: /s/ Mark Lumpkin, Jr.
+Name: Mark Lumpkin, Jr.
+Title: Executive Vice President and
+Chief Financial Officer
+GUARANTORS:
+EARTHSTONE OPERATING, LLC
+By: /s/ Mark Lumpkin, Jr.
+Name: Mark Lumpkin, Jr.
+Title: Executive Vice President and
+Chief Financial Officer
+SABINE RIVER ENERGY, LLC
+By: /s/ Mark Lumpkin, Jr.
+Name: Mark Lumpkin, Jr.
+Title: Executive Vice President and
+Chief Financial Officer
+
+LYNDEN USA OPERATING, LLC
+By: /s/ Mark Lumpkin, Jr.
+Name: Mark Lumpkin, Jr.
+Title: Executive Vice President and
+Chief Financial Officer
+Signature Page – Fifth Amendment to Credit Agreement
+Earthstone Energy Holdings, LLC
+
+
+BOLD ENERGY III LLC
+By: /s/ Mark Lumpkin, Jr.
+Name: Mark Lumpkin, Jr.
+Title: Executive Vice President and
+Chief Financial Officer
+
+BOLD OPERATING, LLC
+By: /s/ Mark Lumpkin, Jr.
+Name: Mark Lumpkin, Jr.
+Title: Executive Vice President and
+Chief Financial Officer
+
+INDEPENDENCE RESOURCES
+MANAGEMENT, LLC
+By: /s/ Mark Lumpkin, Jr.
+Name: Mark Lumpkin, Jr.
+Title: Executive Vice President and
+Chief Financial Officer
+
+INDEPENDENCE RESOURCES
+TECHNOLOGIES, LLC
+By: /s/ Mark Lumpkin, Jr.
+Name: Mark Lumpkin, Jr.
+Title: Executive Vice President and
+Chief Financial Officer
+
+EARTHSTONE PERMIAN, LLC
+By: /s/ Mark Lumpkin, Jr.
+Name: Mark Lumpkin, Jr.
+Title: Executive Vice President and
+Chief Financial Officer
+Signature Page – Fifth Amendment to Credit Agreement
+Earthstone Energy Holdings, LLC
+
+
+ADMINISTRATIVE AGENT,
+WELLS FARGO BANK, NATIONAL
+ISSUING BANK AND LENDER:
+ASSOCIATION
+By: /s/ Edward Pak
+Name: Edward Pak
+Title: Director
+
+
+
+Signature Page – Fifth Amendment to Credit Agreement
+Earthstone Energy Holdings, LLC
+
+LENDER:
+ROYAL BANK OF CANADA
+By: /s/ Kristan Spivey
+Name: Kristan Spivey
+Title: Authorized Signatory
+
+Signature Page – Fifth Amendment to Credit Agreement
+Earthstone Energy Holdings, LLC
+
+LENDER:
+TRUIST BANK
+By: /s/ Benjamin L. Brown
+Name: Benjamin L. Brown
+Title: Director
+
+Signature Page – Fifth Amendment to Credit Agreement
+Earthstone Energy Holdings, LLC
+
+LENDER:
+CITIZENS BANK, N.A.
+By: /s/ Richard Hawthorne
+Name: Richard Hawthorne
+Title: Senior Vice President
+
+
+Signature Page – Fifth Amendment to Credit Agreement
+Earthstone Energy Holdings, LLC
+
+LENDER:
+KEYBANK NATIONAL ASSOCIATION
+By: /s/ Kyle Gruen
+Name: Kyle Gruen
+Title: Vice President
+
+
+Signature Page – Fifth Amendment to Credit Agreement
+Earthstone Energy Holdings, LLC
+
+LENDER:
+PNC BANK, NATIONAL ASSOCIATION
+By: /s/ John Engel
+Name: John Engel
+Title: Senior Vice President
+
+Signature Page – Fifth Amendment to Credit Agreement
+Earthstone Energy Holdings, LLC
+
+LENDER:
+U.S. BANK NATIONAL ASSOCIATION
+By: /s/ John C. Lozano
+Name: John C. Lozano
+Title: Senior Vice President
+
+
+Signature Page – Fifth Amendment to Credit Agreement
+Earthstone Energy Holdings, LLC
+
+LENDER:
+BANK OF AMERICA, N.A.
+By: /s/ Ronald E. McKaig
+Name: Ronald E. McKaig
+Title: Managing Director
+Signature Page – Fifth Amendment to Credit Agreement
+Earthstone Energy Holdings, LLC
+
+LENDER:
+FIFTH THIRD BANK, NATIONAL
+ASSOCIATION
+By: /s/ Dan Condley
+Name: Dan Condley
+Title: Managing Director
+                Signature Page – Fifth Amendment to Credit Agreement
+Earthstone Energy Holdings, LLC
+
+LENDER:
+IBERIABANK, A DIVISION OF FIRST
+HORIZON BANK
+By: /s/ W. Bryan Chapman
+Name: W. Bryan Chapman
+Title: Market President-Energy Lending
+Signature Page – Fifth Amendment to Credit Agreement
+Earthstone Energy Holdings, LLC
+
+LENDER:
+COMERICA BANK
+By: /s/ Britney P. Geidel
+Name: Britney P. Geidel
+Title: Assistant Vice President
+
+Signature Page – Fifth Amendment to Credit Agreement
+Earthstone Energy Holdings, LLC

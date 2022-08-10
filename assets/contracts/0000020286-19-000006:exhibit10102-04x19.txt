@@ -1,0 +1,549 @@
+EX-10.1 2 exhibit10102-04x19.htm EXHIBIT 10.1
+
+
+THIRD AMENDMENT TO AMENDED AND RESTATED CREDIT AGREEMENT
+THIS THIRD AMENDMENT TO AMENDED AND RESTATED CREDIT AGREEMENT (this “Amendment”) is made and entered into effective as of February 4, 2019, by and among CINCINNATI FINANCIAL CORPORATION, an Ohio corporation (the “Company”), CFC INVESTMENT COMPANY, an Ohio corporation (“CFC-I” and together with the Company, each a “Borrower” and together, the “Borrowers”), the Lenders party hereto, and PNC BANK, NATIONAL ASSOCIATION, in its capacity as administrative agent for the Lenders under the Credit Agreement (the “Administrative Agent”).
+R E C I T A L S:
+
+A.    The Administrative Agent, the Lenders and the Borrowers are parties to that certain Amended and Restated Credit Agreement, dated as of May 13, 2014 (as amended, restated, supplemented or otherwise modified prior to the date hereof, the “Credit Agreement”).
+B.    The Administrative Agent, the Lenders and the Borrowers desire to make certain changes to the Credit Agreement as set forth herein.
+NOW, THEREFORE, in consideration of the foregoing recitals, the mutual covenants and agreements contained herein, and other good and valuable considerations, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:
+1.Certain Defined Terms. Capitalized terms which are used herein without definition and which are defined in the Credit Agreement shall have the same meanings herein as in the Credit Agreement.
+2.    Amendments to Credit Agreement. Subject to satisfaction of the conditions set forth in Section 3 of this Amendment, the Credit Agreement is hereby amended as follows:
+(a)The cover page of the Credit Agreement is hereby amended by replacing “$225,000,000” with “$300,000,000.”
+(b)Section 1.1 of the Credit Agreement is hereby amended by adding the following definitions, in appropriate alphabetical order:
+“Bail-In Action shall mean the exercise of any Write-down and Conversion Powers.”
+
+“Bail-In Legislation shall mean:
+
+(a)
+in relation to an EEA Member Country which has implemented, or which at any time implements, Article 55 of Directive 2014/59/EU establishing a framework for the recovery and resolution of credit institutions and
+
+731074755 12403011
+
+investment firms, the relevant implementing law or regulation as described in the EU Bail-In Legislation Schedule from time to time; and
+
+(b)
+in relation to any other state, any analogous law or regulation from time to time which requires contractual recognition of any Write-down and Conversion Powers contained in that law or regulation.”
+
+“Beneficial Owner shall mean, for each Borrower, each of the following: (a) each individual, if any, who, directly or indirectly, owns 25% or more of such Borrower’s equity interests; and (b) a single individual with significant responsibility to control, manage, or direct such Borrower.”
+
+“Beneficial Ownership Regulation shall mean 31 C.F.R. § 1010.230.
+
+“Certificate of Beneficial Ownership shall mean, for each Borrower, a certificate in form and substance acceptable to the Administrative Agent (as amended or modified by the Administrative Agent from time to time in its sole discretion), certifying, among other things, the Beneficial Owner of such Borrower.”
+
+“EEA Member Country shall mean any member state of the European Union, Iceland, Liechtenstein and Norway.”
+
+“EU Bail-In Legislation Schedule shall mean the document described as such and published by the Loan Market Association (or any successor person) from time to time.”
+
+“LIBOR Rate Termination Date shall have the meaning specified in Section 3.4.3.”
+
+“Resolution Authority shall mean any body which has authority to exercise any Write-down and Conversion Powers.”
+
+“Sanctioned Country shall mean a country subject to a sanctions program maintained under any Anti-Terrorism Law.”
+“Sanctioned Person shall mean any individual person, group, regime, entity or thing listed or otherwise recognized as a specially designated, prohibited, sanctioned or debarred person, group, regime, entity or thing, or subject to any limitations or prohibitions (including but not limited to the blocking of property or rejection of transactions), under any Anti-Terrorism Law.”
+“Third Amendment Effective Date shall mean February 4, 2019, the effective date with respect to that certain Third Amendment to Amended and Restated Credit Agreement, by and among the Borrowers, the Lenders party thereto and the Administrative Agent.”
+
+2
+731074755 12403011
+
+“Write-down and Conversion Powers shall mean:
+
+(a)
+in relation to any Bail-In Legislation described in the EU Bail-In Legislation Schedule from time to time, the powers described as such in relation to that Bail-In Legislation in the EU Bail-In Legislation Schedule; and
+
+(b)
+in relation to any other applicable Bail-In Legislation:
+
+i.
+any powers under that Bail-In Legislation to cancel, transfer or dilute shares issued by a person that is a bank or investment firm or other financial institution or affiliate of a bank, investment firm or other financial institution, to cancel, reduce, modify or change the form of a liability of such a person or any contract or instrument under which that liability arises, to convert all or part of that liability into shares, securities or obligations of that person or any other person, to provide that any such contract or instrument is to have effect as if a right had been exercised under it or to suspend any obligation in respect of that liability or any of the powers under that Bail-In Legislation that are related to or ancillary to any of those powers; and
+
+ii.
+any similar or analogous powers under that Bail-In Legislation.”
+
+(c)The definition of “Anti-Terrorism Laws” in Section 1.1 of the Credit Agreement is hereby amended and restated in its entirety to read as follows:
+“Anti-Terrorism Laws shall mean any Laws relating to terrorism, trade sanctions programs and embargoes, import/export licensing, money laundering or bribery, and any regulation, order, or directive promulgated, issued or enforced pursuant to such Laws, including Executive Order No. 13224, the USA Patriot Act, the Laws comprising or implementing the Bank Secrecy Act, and the Laws administered by the United States Treasury Department’s Office of Foreign Asset Control (as any of the foregoing Laws may from time to time be amended, renewed, extended, or replaced).”
+(d)The definitions of “Daily LIBOR Rate” and “LIBOR Rate” in Section 1.1 of the Credit Agreement are hereby amended by adding the following sentence to the end of each such definition:
+“Notwithstanding the foregoing, if such rate would be less than zero (0.00), such rate shall be deemed to be zero (0.00) for purposes of this Agreement.”
+(e)The definition of “Consolidated Debt” in Section 1.1 of the Credit Agreement is hereby amended and restated in its entirety to read as follows:
+
+3
+731074755 12403011
+
+“Consolidated Debt means the consolidated Indebtedness of the Company and its consolidated Subsidiaries, including without limitation the principal amount of the Loans, but excluding any obligation relating to an undrawn letter of credit that is issued in connection with a liability for which a reserve has been established by the Company and its consolidated Subsidiaries in accordance with GAAP.”
+
+(f)The definition of “Consolidated Net Worth” in Section 1.1 of the Credit Agreement is hereby amended and restated in its entirety to read as follows:
+“Consolidated Net Worth means, at any time, the consolidated shareholders’ equity of the Company and its Subsidiaries at such time.”
+
+(g)The definition of “Expiration Date” in Section 1.1 of the Credit Agreement is hereby amended and restated in its entirety to read as follows:
+“Expiration Date shall mean, with respect to the Revolving Credit Commitments, February 4, 2024, or such later date as determined in accordance with Section 2.13.”
+
+(h)The definition of “Permitted Lien” in Section 1.1 of the Credit Agreement is hereby amended by deleting the word “and” at the end of clause (ix)(3) and amending and restating clause (x) in its entirety to read as follows:
+“(x) Liens in connection with funds on deposit with a state, an Applicable Insurance Regulatory Authority or Lloyd’s of London, or in connection with the collateralization of an obligation required by the same; and
+(xi) Liens not otherwise permitted by clauses (i) through (x) hereof; provided that (A) the aggregate amount of Indebtedness at any time secured thereby shall not exceed $25,000,000 and (B) the aggregate book value of the assets at any time subject to such Lien shall not exceed $50,000,000.”
+(i)The definition of “Swing Loan Commitment” in Section 1.1 of the Credit Agreement is hereby amended by replacing “$35,000,000” with “$75,000,000.”
+(j)Section 2.1.2 of the Credit Agreement is hereby amended by replacing “$35,000,000” with “$75,000,000.”
+(k)Section 2.8.1(C)(i) of the Credit Agreement is hereby amended and restated in its entirety to read as follows:
+“(i) the Letter of Credit Obligations exceed, at any time, $300,000,000 (the “Letter of Credit Sublimit”) or”
+
+
+4
+731074755 12403011
+
+(l)Section 2.10.1(iii) of the Credit Agreement is hereby amended and restated in its entirety to read as follows:
+“(iii) Aggregate Revolving Credit Commitments. Each such increase shall be in a minimum amount of $25,000,000 and higher integral multiples of $5,000,000; provided that the aggregate amount of all increases under this Section 2.10.1 shall not exceed $300,000,000.”
+
+(m)A new Section 2.13 is hereby added to the Credit Agreement as follows:
+“2.13 Extension of Expiration Date.
+(i)    Requests; Approval by All Lenders. The Borrowers may, by written notice to the Administrative Agent (who shall promptly notify the Lenders thereof) given no more than seventy-five (75) days nor less than forty-five (45) days prior to the first and second anniversary dates of the Third Amendment Effective Date, request a one-year extension of the Expiration Date (up to a maximum of two such one-year extensions). Each Lender shall thereafter notify the Administrative Agent within thirty (30) of its receipt of such extension request that either (A) such Lender declines to consent to extending the Expiration Date or (B) such Lender consents to extending the Expiration Date; provided that any Lender which fails to respond to such extension request within such time period shall be deemed to have declined to extend the Expiration Date. After receiving responses or deemed responses from all of the Lenders, the Administrative Agent shall notify the Borrowers and the Lenders of the results thereof. If all Lenders elect to extend, the Expiration Date shall be extended for a period of one year. If one or more Lenders decline to extend or do not respond to Borrowers’ request, the provisions of clause (ii) below shall apply.
+(ii)    Approval by Required Lenders. In the event that one or more Lenders declines to consent to the extension of the Expiration Date pursuant to clause (i) above (each a “Lender to be Terminated”), but the Required Lenders agree to such extension, then the Lenders which have consented to such extension under clause (i) above may, with the prior written approval of the Borrowers and the Administrative Agent, arrange to have one or more other Lenders purchase all of the outstanding Loans, if any, of each Lender to be Terminated and succeed to and assume the Commitments and all other rights, interests and obligations of the Lender to be Terminated under this Agreement and the other Loan Documents. Any such purchase and assumption shall be (A) subject to and in accordance with Section 10.8, and (B) effective on the last day of the Interest Period if any Loans are outstanding under the LIBOR Rate Option. In the event that the Loans and Commitments of any Lender to be Terminated are not fully assigned and assumed prior to
+
+5
+731074755 12403011
+
+the Expiration Date (prior to its extension) then such Expiration Date shall not be extended.”
+(n)Section 3.4.3 of the Credit Agreement is hereby amended and restated in its entirety to read as follows:
+“3.4.3    Successor LIBOR Rate Index.
+(i)    Notwithstanding anything herein to the contrary, if the Administrative Agent determines (which determination shall be final and conclusive, absent manifest error) that either (a) (i) the circumstances set forth in Section 3.4.1 have arisen and are unlikely to be temporary, or (ii) the circumstances set forth in Section 3.4.1 have not arisen but the applicable supervisor or administrator (if any) of a LIBOR Rate or an Official Body having jurisdiction over the Administrative Agent has made a public statement identifying the specific date after which the LIBOR Rate shall no longer be used for determining interest rates for loans in Dollars (either such date, a “LIBOR Rate Termination Date”), or (b) a rate other than the LIBOR Rate has become a widely recognized benchmark rate for newly originated loans in Dollars in the U.S. market, then the Administrative Agent may (in consultation with the Borrowers) choose a replacement index for the LIBOR Rate in respect of Loans in Dollars, and make adjustments to applicable margins and related amendments to this Agreement as referred to below such that, to the extent practicable, the all-in interest rate based on the replacement index will be substantially equivalent to the all-in LIBOR Rate-based interest rate in effect prior to its replacement.
+(ii)    The Administrative Agent and the Borrowers shall enter into an amendment to this Agreement to reflect the replacement index, the adjusted margins and such other related amendments as may be appropriate, in the discretion of the Administrative Agent, for the implementation and administration of the replacement index-based rate. Notwithstanding anything to the contrary in this Agreement or the other Loan Documents (including, without limitation, Section 10.1), such amendment shall become effective without any further action or consent of any other party to this Agreement at 5:00 p.m. New York City time on the tenth (10th) Business Day after the date a draft of the amendment is provided to the Lenders, unless the Administrative Agent receives, on or before such tenth (10th) Business Day, a written notice from the Required Lenders stating that such Lenders object to such amendment.
+(iii)    Selection of the replacement index, adjustments to the applicable margins, and amendments to this Agreement (a) will be determined with due consideration to the then-current market practices for determining and implementing a rate of interest for newly originated loans in the United States and loans converted from a LIBOR Rate-based rate to a replacement index-
+
+6
+731074755 12403011
+
+based rate, and (b) may also reflect adjustments to account for (x) the effects of the transition from the LIBOR Rate to the replacement index and (y) yield- or risk-based differences between the LIBOR Rate and the replacement index.
+(iv)    Until an amendment reflecting a new replacement index in accordance with this Section 3.4.3 is effective, each advance, conversion and renewal of a Loan under the LIBOR Rate Option will continue to bear interest with reference to the LIBOR Rate; provided however, that if the Administrative Agent determines (which determination shall be final and conclusive, absent manifest error) that a LIBOR Rate Termination Date has occurred, then following the LIBOR Rate Termination Date, all Loans as to which the LIBOR Rate Option would otherwise apply shall automatically be converted to the Base Rate Option until such time as an amendment reflecting a replacement index and related matters as described above is implemented.
+(v)    Notwithstanding anything to the contrary contained herein, if at any time the replacement index is less than zero, at such times, such index shall be deemed to be zero for purposes of this Agreement.”
+(o)Section 5.1.1(i) of the Credit Agreement is hereby amended and restated in its entirety to read as follows:
+“(i) is a corporation or limited liability company, duly organized, validly existing and in good standing under the laws of its jurisdiction of organization”
+(p)Section 5.1.2 of the Credit Agreement is hereby amended and restated in its entirety to read as follows:
+“5.1.2 Subsidiaries and Owners; Investment Companies. As of the Third Amendment Effective Date, Schedule 5.1.2 states the name of each of the Borrowers’ Subsidiaries (other than Insignificant Subsidiaries), its jurisdiction of organization and the amount, percentage and type of equity interests in such Subsidiary (the “Subsidiary Equity Interests”). Each Borrower and each of their respective Subsidiaries has good and marketable title to all of the Subsidiary Equity Interests it purports to own, free and clear in each case of any Lien and all such Subsidiary Equity Interests have been validly issued, fully paid and nonassessable. No Borrower nor any of their respective Subsidiaries is an “investment company” registered or required to be registered under the Investment Company Act of 1940 or under the “control” of an “investment company” as such terms are defined in the Investment Company Act of 1940 and shall not become such an “investment company” or under such “control.”“
+
+7
+731074755 12403011
+
+(q)A new Section 5.1.16 is hereby added to the Credit Agreement as follows:
+“5.1.16 Certificate of Beneficial Ownership. Each Certificate of Beneficial Ownership executed and delivered to the Administrative Agent or any Lender for each Borrower from time to time, as updated from time to time in accordance with this Agreement, is accurate, complete and correct as of the date thereof. Each Borrower acknowledges and agrees that each Certificate of Beneficial Ownership is a Loan Document.”
+(r)A new Section 5.1.17 is hereby added to the Credit Agreement as follows:
+“5.1.17 Anti-Terrorism Laws. (i) No Borrower nor any of their respective Subsidiaries is a Sanctioned Person, and (ii) no Borrower nor any of their respective Subsidiaries, either in its own right or through any third party, (a) has any of its assets in a Sanctioned Country or in the possession, custody or control of a Sanctioned Person in violation of any Anti-Terrorism Law, (b) does business in or with, or derives any of its income from investments in or transactions with, any Sanctioned Country or Sanctioned Person in violation of any Anti-Terrorism Law; or (c) engages in any dealings or transactions prohibited by any Anti-Terrorism Law.”
+(s)Section 7.1.1 of the Credit Agreement is hereby amended and restated in its entirety to read as follows:
+“7.1.1 Preservation of Existence, Etc. Each Borrower shall, and shall cause each of its Subsidiaries (other than Insignificant Subsidiaries) to, maintain its legal existence as a corporation, limited partnership or limited liability company and its license or qualification and good standing in (a) its jurisdiction of organization and (b) except where the failure to be so qualified would not reasonably be expected to result in a Material Adverse Change, each jurisdiction where the property owned or leased by it or the nature of the business transacted by it or both makes such licensing or qualification necessary, except as otherwise expressly permitted in Section 7.2.5.”
+(t)A new Section 7.1.8 is hereby added to the Credit Agreement as follows:
+“7.1.8 Certificate of Beneficial Ownership and Other Additional Information. Each Borrower shall provide to the Administrative Agent and the Lenders: (i) if required by the Beneficial Ownership Regulation, a fully-executed and delivered copy of a Certificate of Beneficial Ownership; (ii) upon the request of the Administrative Agent confirmation of the accuracy of the information set forth in the most recent Certificate of Beneficial Ownership provided to the Administrative Agent or any Lender, if any; (iii) a new Certificate of Beneficial Ownership, in form and substance acceptable to the Administrative Agent and the Lenders, when the individual(s) to be identified as a Beneficial Owner have changed; and (iv) such other
+
+8
+731074755 12403011
+
+information and documentation as may reasonably be requested by the Administrative Agent or any Lender from time to time for purposes of compliance by the Administrative Agent or such Lender with applicable laws (including without limitation the USA Patriot Act and other “know your customer” and anti-money laundering rules and regulations), and any policy or procedure implemented by the Administrative Agent or such Lender to comply therewith.”
+
+(u)Section 7.2.1(vii) of the Credit Agreement is hereby amended and restated in its entirety to read as follows:
+“(vii) Additional Indebtedness of the Company and each Insurance Company, so long as the Company is in pro forma compliance with Section 7.2.13 and there is no Event of Default or Potential Default after giving effect to such additional Indebtedness.”
+(v)Section 7.2.5 of the Credit Agreement is hereby amended and restated in its entirety to read as follows:
+“7.2.5 Liquidations, Mergers, Consolidations, Acquisitions. Each of the Borrowers shall not, and shall not permit any of its Subsidiaries to, (a) dissolve, liquidate or wind-up its affairs, or become a party to any merger or consolidation, other than dissolution, liquidation, winding up, merger or consolidation by an Insignificant Subsidiary so long as all assets of such Insignificant Subsidiary are transferred to a Borrower or another Subsidiary of a Borrower; provided that any Subsidiary of a Borrower may consolidate or merge into a Borrower or another wholly-owned Subsidiary of the Company, or (b) acquire all or substantially all of the capital stock or assets of another Person, unless, in the case of either (a) or (b), at such time and immediately after giving effect thereto, no Potential Default or Event of Default exists or would result therefrom.”
+(w)Section 7.2.6 of the Credit Agreement is hereby amended and restated in its entirety to read as follows:
+“7.2.6 Dispositions of Assets or Subsidiaries. Each of the Borrowers shall not, and shall not permit any of its Subsidiaries (other than Insignificant Subsidiaries) to, sell, convey, assign, lease, abandon or otherwise transfer or dispose of, voluntarily or involuntarily (any of the foregoing being referred to in this Section 7.2.6 as a “Disposition” and any series of related Dispositions constituting but a single Disposition), any of its assets or sell or assign with or without recourse any receivables, other than any sale, conveyance, assignment, lease or abandonment (a) in the ordinary course of business or (b) to the extent that the fair market value of the assets the subject thereof (as determined in good faith by the board of directors or senior management of the Company), when added to the fair market value of the
+
+9
+731074755 12403011
+
+assets the subject of any such other Disposition or Dispositions permitted by this clause (b) previously consummated during the same fiscal year of the Company (as determined in good faith by the board of directors or senior management of the Company), does not constitute more than 3.0% of the consolidated assets of the Company and its Subsidiaries as of the last day of the most recently ended fiscal year of the Company.”
+(x)Section 7.2.8 of the Credit Agreement is hereby amended and restated in its entirety to read as follows:
+“7.2.8    Continuation of or Change in Business. Each of the Borrowers shall not, and shall not permit any of its Subsidiaries to, (a) engage in any business other than in substantially the same fields of enterprise as it is presently conducted, substantially as conducted and operated by such Borrower or Subsidiary during the present fiscal year, and such Borrower or Subsidiary shall not permit any material change in such business, or (b) change its form of organization, including a division into two or more entities.”
+(y)Section 7.2.10 of the Credit Agreement is hereby amended and restated in its entirety to read as follows:
+“7.2.10 Changes in Organizational Documents. Each of the Borrowers shall not, and shall not permit any of its Subsidiaries (other than Insignificant Subsidiaries) to, amend in any respect its certificate of incorporation (including any provisions or resolutions relating to capital stock), by-laws, certificate of limited partnership, partnership agreement, certificate of formation, limited liability company agreement or other organizational documents in any manner that may be materially adverse to the Administrative Agent or the Lenders without obtaining the prior written consent of the Required Lenders.”
+(z)Section 7.2.13 of the Credit Agreement is amended and restated in its entirety to read as follows:
+“7.2.13 Consolidated Debt to Total Capitalization. Not permit the ratio of (a) the principal amount of Consolidated Debt to (b) the sum of (i) Consolidated Net Worth plus (ii) Consolidated Debt to exceed 0.35 to 1.0 at any time.”
+(aa)Section 7.2.14 of the Credit Agreement is hereby deleted in its entirety.
+(ab)A new Section 10.13 is hereby added to the Credit Agreement as follows:
+“10.13. Contractual Recognition of Bail-In. Notwithstanding any other term of any Loan Document or any other agreement, arrangement or understanding between the parties hereto, each party hereto acknowledges
+
+10
+731074755 12403011
+
+and accepts that any liability of any party hereto to any other party hereto under or in connection with the Loan Documents may be subject to Bail-In Action by the relevant Resolution Authority and acknowledges and accepts to be bound by the effect of:
+(a)
+any Bail-In Action in relation to any such liability, including (without limitation):
+i.
+a reduction, in full or in part, in the principal amount, or outstanding amount due (including any accrued but unpaid interest) in respect of any such liability;
+ii.
+a conversion of all, or part of, any such liability into shares or other instruments of ownership that may be issued to, or conferred on, it; and
+iii.
+a cancellation of any such liability; and
+(b)
+a variation of any term of any Loan Document to the extent necessary to give effect to any Bail-In Action in relation to any such liability.”
+(ac)The pricing grid on Schedule 1.1(A) of the Credit Agreement is hereby amended and restated in its entirety and replaced with Schedule 1.1(A) attached hereto.
+(ad)Schedule 1.1(B) of the Credit Agreement is hereby amended and restated in its entirety and replaced with Schedule 1.1(B) attached hereto.
+(ae)Schedule 5.1.2 of the Credit Agreement is hereby amended and restated in its entirety and replaced with Schedule 5.1.2 attached hereto.
+(af)Exhibit 7.3.3 of the Credit Agreement is hereby amended and restated in its entirety and replaced with Exhibit 7.3.3 attached hereto.
+3.    Conditions Precedent to Amendment. This Amendment shall become effective upon receipt by the Administrative Agent of the following:
+(a)    a fully-executed and delivered copy of this Amendment by Borrowers, Administrative Agent and all Lenders;
+(b)    a certificate dated as of the Third Amendment Effective Date and signed by the Secretary or an Assistant Secretary of each of the Borrowers, certifying as to: (i) all action taken by each Borrower in connection with this Amendment and the other Loan Documents; (ii) the names of the Authorized Officers authorized to sign the Loan Documents and their true signatures; and (iii) copies of its organizational documents as in effect on the Third Amendment Effective Date certified by the appropriate state official where such documents are filed in a state office together
+
+11
+731074755 12403011
+
+with certificates from the appropriate state officials as to the continued existence and good standing of each Borrower in each state where organized or qualified to do business;
+(c)    a written opinion of counsel for the Borrowers, dated the Third Amendment Effective Date and in form and substance satisfactory to the Administrative Agent;
+(d)    copies of Uniform Commercial Code and federal tax lien search reports listing all effective financing statements and other search results run against each Borrower, with copies of such financing statements and other search results;
+(e)    a certificate of each of the Borrowers signed by an Authorized Officer, dated the Third Amendment Effective Date (1) stating that (w) all representations and warranties of the Borrowers set forth in the Credit Agreement are true and correct in all material respects, (x) the Borrowers are in compliance with each of the covenants and conditions under the Credit Agreement, (y) no Event of Default or Potential Default exists, and (z) no Material Adverse Change has occurred since the date of the last audited financial statements of the Company delivered to the Administrative Agent; and (2) attaching a certified copy of all material consents and approvals required to effectuate this Amendment, or certifying that there are none;
+(f)    a duly completed Compliance Certificate as of the last day of the fiscal quarter of the Company most recently ended prior to the Third Amendment Effective Date, signed by an Authorized Officer of the Company;
+(g)    payment by the Borrowers to the Administrative Agent of all fees and expenses payable on or before the Third Amendment Effective Date as required by the Credit Agreement or any other Loan Document; and
+(h)    The Administrative Agent shall have received such other documents and taken such other actions as the Administrative Agent or its counsel may have reasonably requested (including, without limitation, any such documents, instruments and items set forth on that closing checklist last delivered to the Borrowers by the Administrative Agent).
+4.    Representations and Warranties. In order to induce the Administrative Agent and the Lenders to enter into this Amendment, Borrowers hereby represent and warrant that (a) the representations, warranties and agreements contained in Article 5 of the Credit Agreement, are true and correct in all material respects on and as of the date hereof, after giving effect to this Amendment (it being understood and agreed that any representation or warranty which by its terms is made as of a specified date shall be required to be true and correct in all material respects only as of such specified date); (b) no Event of Default or Potential Default exists on the date hereof, both before and after giving effect to this Amendment; (c) the execution, delivery and performance by Borrowers of this Amendment have been duly authorized by all necessary corporate and other action and do not and will not require any registration with, amendment or approval of, notice to or action by, any Person (including any federal, foreign, state or local governmental authority) in order to be effective and enforceable; and (d) no Borrower nor any Subsidiary has any claims against Administrative Agent, any Lender or any of their respective partners, stockholders, officers, directors, employees, successors, assignees, affiliates, agents or attorneys of any nature arising out of or related to the
+
+12
+731074755 12403011
+
+Borrowers, the Subsidiaries, any dealings with such Borrower or any of its Subsidiaries, the Collateral, any of the Loan Documents or any transactions pursuant thereto or contemplated thereby or otherwise.
+5.    Ratification. Except as expressly modified by Section 2 of this Amendment, all of the terms, provisions and conditions of the Credit Agreement and the other Loan Documents to which the Borrowers are a party shall remain unchanged and in full force and effect. The Credit Agreement and each other Loan Document to which the Borrowers are a party are hereby ratified and confirmed and shall remain in full force and effect according to their terms, as expressly modified by Section 2 of this Amendment. The execution, delivery and effectiveness of this Amendment shall not operate as a waiver of any right, power or remedy of Administrative Agent or the Lenders under the Credit Agreement or any of the other Loan Documents, or constitute a waiver of any provision of the Credit Agreement or any of the other Loan Documents. This Amendment shall not constitute a course of dealing with Administrative Agent or the Lenders at variance with the Credit Agreement or the other Loan Documents such as to require further notice by Administrative Agent or the Lenders to require strict compliance with the terms of the Credit Agreement and the other Loan Documents in the future. The Borrowers acknowledge and expressly agree that Administrative Agent or any of the Lenders reserve the right to, and do in fact, require strict compliance with all terms and provisions of the Credit Agreement and the other Loan Documents.
+6.    Entire Agreement. Borrowers acknowledge that: (a) there are no other agreements or representations, either oral or written, express or implied, relating to the amendments to the Credit Agreement and the Loan Documents set forth herein and other provisions hereof that are not embodied in this Amendment; (b) this Amendment represents a complete integration of all prior and contemporaneous agreements and understandings of the Lenders, the Administrative Agent and the Borrowers relating to the matters set forth herein; and (c) all such agreements, understandings, and documents are hereby superseded by this Amendment.
+7.    Inconsistency. In the event of an inconsistency between this Amendment and the Credit Agreement and/or the Loan Documents, the terms of this Amendment shall control.
+8.    Governing Law. THIS AMENDMENT SHALL BE DEEMED TO BE A CONTRACT UNDER THE LAWS OF THE STATE OF OHIO WITHOUT REGARD TO ITS CONFLICT OF LAWS PRINCIPLES.
+9.    Waiver of Jury Trial. EACH PARTY HERETO HEREBY IRREVOCABLY WAIVES, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, ANY RIGHT IT MAY HAVE TO A TRIAL BY JURY IN ANY LEGAL PROCEEDING DIRECTLY OR INDIRECTLY ARISING OUT OF OR RELATING TO THIS AMENDMENT OR ANY OTHER LOAN DOCUMENT OR THE TRANSACTIONS CONTEMPLATED HEREBY OR THEREBY (WHETHER BASED ON CONTRACT, TORT OR ANY OTHER THEORY). EACH PARTY HERETO (A) CERTIFIES THAT NO REPRESENTATIVE, ADMINISTRATIVE AGENT OR ATTORNEY OF ANY OTHER PERSON HAS REPRESENTED, EXPRESSLY OR OTHERWISE, THAT SUCH OTHER PERSON WOULD NOT, IN THE EVENT OF LITIGATION, SEEK TO ENFORCE THE FOREGOING WAIVER AND (B) ACKNOWLEDGES THAT IT AND THE OTHER PARTIES HERETO HAVE BEEN INDUCED TO ENTER INTO THIS AGREEMENT
+
+13
+731074755 12403011
+
+AND THE OTHER LOAN DOCUMENTS BY, AMONG OTHER THINGS, THE MUTUAL WAIVERS AND CERTIFICATIONS IN THIS SECTION.
+10.    Construction. The words “hereof”, “herein”, and “hereunder”, and other words of a similar import refer to this Amendment as a whole and not to the individual Sections in which such terms are used. References to Sections and other subdivisions of this Amendment are to the designated Sections and other subdivisions of this Amendment as originally executed. The headings of this Amendment are for convenience only and shall not define or limit the provisions hereof. Where the context so requires, words used in singular shall include the plural and vice versa, and words of one gender shall include all other genders.
+11.    Successors and Assigns. Upon execution and delivery of this Amendment, the provisions hereof shall be binding upon and inure to the benefit of the Lenders, the Administrative Agent and the Borrowers and their respective successors and assigns, subject to restrictions on assignment contained in the Credit Agreement and the Loan Documents.
+12.    References. From and after the date hereof, all references in the Credit Agreement and in each of the Loan Documents shall be deemed to be references to the Credit Agreement as amended hereby.
+13.    Counterparts; Facsimile Signatures Binding. This Amendment may be executed in counterparts, all of which, when taken together, shall constitute a single instrument. In making proof of this Amendment, it shall not be necessary to produce or account for more than one counterpart signed by each party hereto by and against which enforcement hereof is sought. Delivery of an executed counterpart of this Amendment by email .pdf, telefax or other electronic method of transmission shall be equally as effective as delivery of an original executed counterpart of this Amendment.
+14.    Recitals. The Recitals to this Amendment are incorporated herein as an integral part hereto.
+15.    Lender Allocations; Departing Lenders. On the Third Amendment Effective Date, each Lender shall sell, assign and transfer, or purchase and assume, as the case may be, and receive payments from, or shall make payments to, the Administrative Agent such that after giving effect to all such assignments and purchases the Commitments will be held by the Lenders hereunder and each such Lender shall have funded its portion of its Commitment on the Third Amendment Effective Date. On the Third Amendment Effective Date, all outstanding Commitments, Loans and other outstanding advances under the Credit Agreement shall be reallocated among the Lenders under the Credit Agreement in accordance with such Lenders’ respective revised Ratable Share, as reflected on Schedule 1.1(B) attached hereto. The assignments and purchases provided for in this Section 15 shall be without recourse, warranty or representation, except that each financial institution party hereto as a “Departing Lender” (each, a “Departing Lender”) assigning any interest shall be deemed to have represented that it is the legal and beneficial owner of the interests assigned by it and that such interests are free and clear of any adverse claim. The purchase price for each such assignment and purchase shall equal the principal amount of the Loan purchased and shall be payable to Administrative Agent for distribution to the Lenders and Departing Lenders, respectively.
+
+14
+731074755 12403011
+
+Concurrently with the effectiveness of the assignments and purchases provided for above, each Departing Lender shall cease to be party to the Credit Agreement and shall be released from all further benefits and obligations thereunder.
+Each Departing Lender is signing this Amendment solely for the purpose of evidencing its agreement with the provisions of this Section 15 and not for any other purpose and is not otherwise bound by this Amendment.
+[Signatures Immediately Follow]
+
+
+15
+731074755 12403011
+
+IN WITNESS WHEREOF, the parties have caused this Amendment to be executed pursuant to authority duly granted as of the date and year first written above.
+CINCINNATI FINANCIAL CORPORATION
+
+By: /s/ Michael J. Sewell
+Name: Michael J. Sewell
+Title: Chief Financial Officer
+
+CFC INVESTMENT COMPANY
+
+By: /s/ Michael J. Sewell
+Name: Michael J. Sewell
+Title: Chief Financial Officer
+
+
+Signature Page to Third Amendment to Amended and Restated Credit Agreement
+731074755 12403011
+
+
+PNC BANK, NATIONAL ASSOCIATION, individually and as Administrative Agent
+
+By: /s/ Mary E. Auch
+Name: Mary E. Auch
+Title: Senior Vice President
+
+
+
+Signature Page to Third Amendment to Amended and Restated Credit Agreement
+731074755 12403011
+
+FIFTH THIRD BANK
+
+By: /s/ Michael J. Schaltz, Jr.
+Name: Michael J. Schaltz, Jr.
+Title: Managing Director & Senior Vice President
+
+
+
+Signature Page to Third Amendment to Amended and Restated Credit Agreement
+731074755 12403011
+
+THE HUNTINGTON NATIONAL BANK
+
+By: /s/ Mike Kelly
+Name: Mike Kelly
+Title: V.P
+
+
+
+Signature Page to Third Amendment to Amended and Restated Credit Agreement
+731074755 12403011
+
+U.S. BANK NATIONAL ASSOCIATION
+
+By: /s/ Tenzin Subhar
+Name: Tenzin Subhar
+Title: Vice President
+
+
+
+Signature Page to Third Amendment to Amended and Restated Credit Agreement
+731074755 12403011
+
+BRANCH BANKING AND TRUST COMPANY
+
+By: /s/ Scott Hennessee
+Name: Scott Hennessee
+Title: Senior Vice President
+
+
+
+Signature Page to Third Amendment to Amended and Restated Credit Agreement
+731074755 12403011
+
+The undersigned Departing Lender hereby agrees to be bound by Section 15 hereof.
+
+THE NORTHERN TRUST COMPANY, as a Departing Lender
+
+By: /s/ Joshua Metcalf
+Name: Joshua Metcalf
+Title: VP
+
+
+
+
+Signature Page to Third Amendment to Amended and Restated Credit Agreement
+731074755 12403011
+
+
+SCHEDULE 1.1(A)
+
+PRICING GRID –
+VARIABLE PRICING AND FEES BASED ON DEBT RATINGS
+
+Level
+
+
+ 
+Debt Rating
+ 
+ 
+Commitment 
+Fee
+(bps)
+
+Revolving Credit Base  
+Rate Spread
+(bps)
+Revolving Credit LIBOR Rate Spread and
+Letter of Credit Fee
+(bps)
+ 
+I
+
+A+ / A1 or better
+6.0
+0.0
+69.0
+ 
+ 
+II
+
+A / A2
+8.0
+0.0
+75.0
+
+ 
+III
+
+A- / A3
+10.0
+0.0
+87.5
+ 
+ 
+IV
+
+BBB+ / Baa1
+12.5
+0.0
+100.0
+ 
+ 
+V
+
+
+Less than or equal to BBB / Baa2
+15.0
+12.5
+112.5
+
+
+
+    731074755 12403011
+
+
+
+SCHEDULE 1.1(B)
+COMMITMENTS OF LENDERS AND ADDRESSES FOR NOTICES
+
+Part 1 - Commitments of Lenders and Addresses for Notices to Lenders
+
+    731074755 12403011
+
+
+Lender
+ 
+Commitment
+ 
+Ratable Share
+PNC BANK, NATIONAL ASSOCIATION 
+Address:
+     155 E. Broad Street
+Columbus, OH 43215
+Attention: Mary Auch
+Telephone: (614) 463-8034
+Telecopy: (614) 463-6770
+$85,000,000
+28.333333330%
+      FIFTH THIRD BANK 
+Address:
+38 Fountain Square Plaza
+Cincinnati, OH 45263
+Attention: Megan Szewc
+Telephone: (513) 358-3097
+Telecopy: (513) 358-3480
+$85,000,000
+28.333333330%
+      THE HUNTINGTON NATIONAL BANK 
+Address:
+   41 South High Street-HC0845
+   Columbus, OH 43215
+Attention: Josh Elsea
+Telephone: (614) 480-5429
+Telecopy: (877) 274-8593
+$50,000,000
+16.666666670%
+      U.S. BANK NATIONAL ASSOCIATION 
+Address:  
+   777 E. Wisconsin Avenue 
+   Milwaukee, WI 53202
+Attention: Bonnie Wiskowski
+Telephone: (414) 756-6761
+Telecopy: (414) 765-4632
+$50,000,000
+16.666666670%
+      BRANCH BANKING AND TRUST COMPANY 
+Address:
+   2600 Eastpoint Pkwy
+   Louisville, KY 40223
+ Attention: Greg Branstetter
+Telephone: (502) 614-4246
+Telecopy: (502) 253-2809
+$30,000,000
+10.000000000%
+   Total
+$300,000,000
+100.000000000%
+
+
+Part 2 - Addresses for Notices to Administrative Agent and Borrowers:
+ADMINISTRATIVE AGENT:
+
+    731074755 12403011
+
+
+PNC Bank, National Association
+155 E. Broad Street
+Columbus, OH 43215
+Attention:     Mary Auch
+Telephone:     (614) 463-8034
+Telecopy:     (614) 463-6770
+With a Copy To:
+Agency Services, PNC Bank, National Association
+Mail Stop: P7-PFSC-04-I
+Address: 500 First Avenue
+Pittsburgh, PA 15219
+Attention:    Agency Services
+Telephone:    (412) 762-6442
+Telecopy:    (412) 762-8672
+BORROWERS:
+Cincinnati Financial Corporation
+6200 S. Gilmore Road
+Fairfield, Ohio  45014
+Attention:  Michael J. Sewell and Lisa A. Love, Esq.
+Telephone:  (513) 870-2000
+Telecopy:  (513) 881-8890
+
+
+With a Copy To:
+
+Charles F. Hertlein, Jr., Esq.
+Dinsmore & Shohl LLP
+1900 Chemed Center
+255 East Fifth Street
+Cincinnati, OH  45202-4720
+Telephone:  (513) 977-8315
+Telecopy:  (513) 977-8327
+
+    731074755 12403011
+
+
+
+SCHEDULE 5.1.2
+SUBSIDIARIES
+Cincinnati Financial Corporation, an Ohio corporation, owns 100 percent of the equity of:
+
+1)
+The Cincinnati Insurance Company, an Ohio corporation, which owns 100 percent of the equity of:
+a.
+The Cincinnati Casualty Company, an Ohio corporation
+b.
+The Cincinnati Indemnity Company, an Ohio corporation
+c.
+The Cincinnati Life Insurance Company, an Ohio corporation
+d.
+The Cincinnati Specialty Underwriters Insurance Company, a Delaware corporation
+2)
+CFC Investment Company, an Ohio corporation
+3)
+CSU Producer Resources, Inc., an Ohio corporation
+
+    731074755 12403011
+
+
+
+EXHIBIT 7.3.3
+
+FORM OF
+QUARTERLY COMPLIANCE CERTIFICATE
+
+This certificate is delivered pursuant to Section 7.3.3 of that certain Amended and Restated Credit Agreement dated as of May 13, 2014 (as amended, supplemented or otherwise modified from time to time, the “Credit Agreement”), among Cincinnati Financial Corporation, an Ohio corporation (the “Company”), CFC Investment Company, an Ohio corporation (“CFC-I” and together with the Company, each a “Borrower” and together, the “Borrowers”), each lender from time to time party thereto and PNC Bank, National Association, as administrative agent for the Lenders party thereto (the “Administrative Agent”). Unless otherwise defined herein, terms defined in the Credit Agreement are used herein with the same meanings.
+The undersigned officer, ______________________, the ___________ [Chief Executive Officer /Chief Financial Officer] of the Company, in such capacity does hereby certify on behalf of the Company as of the quarter/year ended _________________, 20___ (the “Report Date”), in each case as determined on a consolidated basis in accordance with GAAP, as follows:
+Maximum Consolidated Debt to Total Capitalization (Section 7.2.13). As of the Report Date, the Consolidated Debt to Total Capitalization Ratio is ___________________ (insert ratio from Item C below), which amount is not greater than 0.35 to 1.00.
+A. Consolidated Debt
+$   
+B. Consolidated Net Worth
+$   
+C. Item A ÷ (Item A + Item B)
+__________ to 1.00
+
+Representations, Warranties and Covenants. The representations and warranties of the Borrowers contained in Section 7 of the Credit Agreement and in the other Loan Documents are true and correct in all material respects on and as of the date hereof with the same effect as though such representations and warranties had been made on and as of such dates (except representations and warranties which expressly relate solely to an earlier date or time, which representations and warranties were true and correct on and as of the specific dates or times referred to therein).
+Event of Default or Potential Default. No Event of Default or Potential Default exists as of the date hereof.
+
+[SIGNATURE PAGE FOLLOWS]
+
+
+
+    731074755 12403011
+
+
+[SIGNATURE PAGE TO QUARTERLY COMPLIANCE CERTIFICATE]
+IN WITNESS WHEREOF, the undersigned has executed this Certificate this      day of         , 20    .
+CINCINNATI FINANCIAL CORPORATION
+
+By:     
+Name:     
+Title:     
+    
+
+
+
+
+731074755 12403011

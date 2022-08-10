@@ -1,0 +1,314 @@
+EX-10.1 2 ablamendment.htm EXHIBIT 10.1
+
+
+AMENDMENT NO. 2 TO REVOLVING CREDIT AGREEMENT
+This Amendment No. 2 to Revolving Credit Agreement, dated as of January 29, 2020 (this “Amendment”), is among BRIGGS & STRATTON CORPORATION, a Wisconsin corporation (the “Lead Borrower”), the other Loan Parties party hereto, JPMORGAN CHASE BANK, N.A., as Administrative Agent (the “Administrative Agent”) and the lenders party hereto (the “Lenders”). Capitalized terms used and not otherwise defined herein have the definitions provided therefor in the Credit Agreement referenced below.
+W I T N E S S E T H:
+WHEREAS, the Lead Borrower, the other Borrowers from time to time party thereto, the Lenders (as defined therein) from time to time party thereto and the Administrative Agent are parties to that certain Revolving Credit Agreement, dated as of September 27, 2019 (as amended, restated, supplemented or otherwise modified from time to time prior to the date hereof, the “Credit Agreement”; the Credit Agreement, as amended by this Amendment, the “Amended Credit Agreement”);
+WHEREAS, pursuant to Section 13.12 of the Credit Agreement, the Loan Parties party to the Credit Agreement, the Administrative Agent and the Required Lenders may amend the Credit Agreement; and
+WHEREAS, the Lead Borrower has requested that the Administrative Agent and the Required Lenders amend, and the Administrative Agent and the Required Lenders have agreed to amend, the Credit Agreement as set forth herein.
+NOW, THEREFORE, in consideration of the mutual agreements, provisions and covenants contained herein, the receipt and sufficiency of which are hereby acknowledged, and subject to the conditions set forth herein, the parties hereto agree as follows:
+1.Amendments to the Credit Agreement. Effective as of the date of satisfaction of the condition precedent set forth in Section 2 below, the parties hereto agree that:
+(a)The definition of “Applicable Margin” in Section 1.01 of the Credit Agreement is hereby amended as follows:
+(i)
+The table therein is hereby amended and restated in its entirety as follows:
+Level
+Consolidated Fixed Charge Coverage Ratio
+Base Rate Loans
+LIBO Rate Loans and Overnight LIBO Rate Loans
+I
+> 1.75:1.00
+0.50%
+1.50%
+II
+> 1.40:1.00 ≤ 1.75:1.00
+0.75%
+1.75%
+III
+> 1.00:1.00 ≤ 1.40:1.00
+1.00%
+2.00%
+IV
+> 0.75:1.00 ≤ 1.00:1.00
+1.25%
+2.25%
+V
+≤ 0.75:1.00
+1.50%
+2.50%
+
+(ii)
+The last paragraph thereof is hereby amended and restated in its entirety as follows:
+Notwithstanding anything to the contrary set forth in this definition, Level III shall be deemed to be applicable until the Administrative Agent’s receipt of the Financial Statements for the Lead Borrower’s first full fiscal quarter ending after the Closing Date (unless such Financial Statements demonstrate that Level IV should have been applicable during such period, in which case Level IV shall be deemed to be applicable during such period) and adjustments to the Level then in effect shall thereafter be effected in accordance with the terms of this definition; provided that, notwithstanding anything to the contrary set forth in this definition, Level V shall be deemed to be applicable from January 29, 2020 until the Administrative Agent’s receipt of the Financial Statements for the Lead Borrower’s fiscal quarter ending on or about March 31, 2020 and adjustments to the Level then in effect shall thereafter be effected in accordance with the terms of this definition.
+
+
+
+
+(b)The definition of “Liquidity Event” in Section 1.01 of the Credit Agreement is hereby amended and restated as follows:
+“Liquidity Event” shall mean the occurrence of a date when (a) Aggregate Availability shall have been less than (i) from the Closing Date until the end of the Lead Borrower’s fiscal quarter ending on or about March 31, 2020, the greater of (x) 7.5% of the Line Cap and (y) $30,000,000 and (ii) thereafter, the greater of (x) 12.5% of the Line Cap and (y) $50,000,000, in each case for five (5) consecutive Business Days, until such date as (b) Aggregate Availability shall have been at least equal to (i) from the Closing Date until the end of the Lead Borrower’s fiscal quarter ending on or about March 31, 2020, the greater of (x) 7.5% of the Line Cap and (y) $30,000,000 and (ii) thereafter, the greater of (x) 12.5% of the Line Cap and (y) $50,000,000, in each case, for thirty (30) consecutive calendar days (it being understood that such consecutive calendar days may occur during the period contemplated by the preceding clause (b)(i), the preceding clause (b)(ii) or a combination thereof).
+(c)The definition of “Payment Conditions” in Section 1.01 of the Credit Agreement is hereby amended and restated as follows:
+“Payment Conditions” shall mean, as to any proposed relevant action to be taken on any date:
+(a)    no Default or Event of Default has then occurred and is continuing or would result from such action; and
+(b)    either:
+(i)    (x) Aggregate Availability on a pro forma basis immediately after giving effect to such action would be at least equal to the greater of the Applicable Seasonal Percentage on such date of the Line Cap and $80,000,000 and (y) over the thirty (30) consecutive days prior to consummation of such action, Aggregate Availability averaged no less than the greater of (A) the Applicable Seasonal Percentage (as of the date of such action) of the Line Cap and (B) $80,000,000 on a pro forma basis for such action; or
+(ii)    (x) Aggregate Availability on a pro forma basis immediately after giving effect to such action would be at least equal to the greater of the Applicable Seasonal Percentage on such date of the Line Cap and $60,000,000, (y) over the thirty (30) consecutive days prior to consummation of such action, Aggregate Availability averaged no less than the greater of (A) the Applicable Seasonal Percentage (as of the date of such action) of the Line Cap and (B) $60,000,000 on a pro forma basis for such action and (z) the Consolidated Fixed Charge Coverage Ratio as of the applicable Test Period would be at least 1.10 to 1.00 on a Pro Forma Basis for such action.
+For purposes of this definition, “Applicable Seasonal Percentage” shall mean (A) solely for purposes of the definitions of “Maturity Date” and “Springing Maturity Date” and determining compliance with Section 10.06(d) solely with respect to repayment or prepayment of the Senior Notes, (x) for purposes of clause (b)(i) above, (i) 20% for any date in January, February or March, (ii) 25% for any date in April, (iii) 30% for any date in May, (iv) 35% for any date in June, July or August, (v) 30% for any date in September, (vi) 25% for any date in October and (vii) 20% for any date in November or December and (y) for purposes of clause (b)(ii) above, (i) 15% for any date in January, February or March, (ii) 20% for any date in April, (iii) 25% for any date in May, (iv) 30% for any date in June, July or August, (v) 25% for any date in September, (vi) 20% for any date in October and (vii) 15% for any date in November or December and (B) for all other purposes, (x) for purposes of clause (b)(i) above, 20% and (y) for purposes of clause (b)(ii) above, 15%.
+(d)The first proviso in Section 9.18(a) of the Credit Agreement is hereby amended and restated as follows:
+(provided that, if requested by the Administrative Agent, from and after the date on which Aggregate Availability is less than (i) from the Closing Date until the end of the Lead Borrower’s
+
+
+
+
+fiscal quarter ending on or about March 31, 2020, the greater of 7.5% of the Line Cap and $30,000,000 and (ii) thereafter, the greater of 15% of the Line Cap and $60,000,000, in each case for five (5) consecutive Business Days and until such subsequent date, if any, on which Aggregate Availability equals or exceeds such threshold for a period of thirty (30) consecutive calendar days (it being understood that such consecutive calendar days may occur during the period contemplated by the preceding clause (i), the preceding clause (ii) or a combination thereof), the Lead Borrower shall deliver to the Administrative Agent weekly Borrowing Base Certificates by Wednesday (or if such date is not a Business Day, the following Business Day) of every week prepared as of the close of business on Friday of the previous week, which weekly Borrowing Base Certificates shall be in standard form unless otherwise reasonably agreed to by the Administrative Agent)
+(e)Section 10.01(k) of the Credit Agreement is hereby amended by replacing the phrase “the greater of $110,000,000 and 7.5% of Consolidated Total Assets” therein with the phrase “the greater of $200,000,000 and 15.0% of Consolidated Total Assets”.
+(f)Section 10.10 of the Credit Agreement is hereby amended and restated as follows:
+Financial Covenant. On any date when Aggregate Availability is less than (a) from the Closing Date until the end of the Lead Borrower’s fiscal quarter ending on or about March 31, 2020, the greater of (i) 7.5% of the Line Cap and (ii) $30,000,000 and (b) thereafter, the greater of (i) 12.5% of the Line Cap and (ii) $50,000,000 (collectively, the “FCCR Test Amount”), have a Consolidated Fixed Charge Coverage Ratio, calculated on a Pro Forma Basis, of less than 1.0 to 1.0, tested for the four fiscal quarter period ending on the last day of the most recently ended fiscal quarter for which the Lead Borrower was required to deliver Financial Statements, and at the end of each succeeding fiscal quarter thereafter until the date on which Aggregate Availability has exceeded the FCCR Test Amount for thirty (30) consecutive days.
+2.Conditions Precedent. The effectiveness of this Amendment is subject to the conditions precedent that:
+(a)the Administrative Agent shall have received counterparts to (i) this Amendment, duly executed by each Loan Party party to the Credit Agreement, the Administrative Agent and Lenders constituting the Required Lenders and (ii) the Consent and Reaffirmation attached hereto, duly executed by each Guarantor;
+(b)the Administrative Agent shall have received, for the account of each Lender that provides its executed signature page hereto by such time as is requested by the Administrative Agent and the Lead Borrower, an amendment fee in an amount previously disclosed to the Lenders; and
+(c)the Administrative Agent and its Affiliates shall have received all fees and other amounts due and payable on or prior to the date hereof, including, to the extent invoiced, reimbursement or payment of all reasonable and documented out-of-pocket expenses (including reasonable and documented fees and expenses of counsel for the Administrative Agent) required to be reimbursed or paid by the Borrowers in connection with this Amendment and the other Loan Documents.
+3.Representations and Warranties. To induce the Administrative Agent to enter into this Amendment, each Loan Party party hereto hereby represents and warrants to the Administrative Agent and the Lenders that:
+(a)This Amendment and the Amended Credit Agreement constitute its legal, valid and binding obligations, enforceable in accordance with their terms, subject to (i) the effects of bankruptcy, insolvency, moratorium, reorganization, administration, examinership, fraudulent conveyance or other similar laws affecting creditors’ rights generally, (ii) general principles of equity (regardless of whether such enforceability is considered in a proceeding in equity or at law) and (iii) implied covenants of good faith and fair dealing; and
+(b)As of the date hereof and immediately after giving effect to the terms of this Amendment, (i) no Default or Event of Default has occurred and is continuing and (ii) the representations and warranties of the Loan Parties set forth in the Credit Agreement are true and correct in all material respects (without duplication of any materiality standard set forth in any such representation or warranty), except to the extent such representations and warranties expressly relate to an earlier date, in which case such representations and
+
+
+
+
+warranties are true and correct in all material respects as of such date (without duplication of any materiality standard set forth in any such representation or warranty).
+4.Reference to and Effect on the Credit Agreement.
+(a)Upon the effectiveness hereof, each reference in the Credit Agreement to “this Agreement,” “hereunder,” “hereof,” “herein,” or words of like import, and each reference in any other Loan Document to the Credit Agreement (including, without limitation, by means of words like “thereunder,” “thereof,” and words of like import), shall mean and be a reference to the Amended Credit Agreement and this Amendment and the Credit Agreement shall be read together and construed as a single instrument referred to herein as the Amended Credit Agreement.
+(b)Except as expressly amended hereby, the Credit Agreement and all other documents, instruments and agreements executed and/or delivered in connection therewith shall remain in full force and effect and are hereby reaffirmed, ratified and confirmed.
+(c)The Liens and security interests in favor of the Collateral Agent for the benefit of the Secured Parties securing payment of the Obligations (and all filings with any Governmental Authority in connection therewith) are in all respects continuing and in full force and effect with respect to all Obligations, in each case in accordance with and to the extent contemplated by the terms of the respective Loan Documents.
+(d)Except with respect to the subject matter hereof, the execution, delivery and effectiveness of this Amendment shall not operate as a waiver of any right, power or remedy of the Administrative Agent or the Lenders, nor constitute a waiver of any provision of the Credit Agreement or any other documents, instruments and agreements executed and/or delivered in connection therewith.
+(e)This Amendment is a Loan Document under (and as defined in) the Credit Agreement.
+5.Miscellaneous.
+(a)Governing Law. This Amendment shall be construed in accordance with and governed by the law of the State of New York.
+(b)Headings. The headings of the several Sections and subsections of this Amendment are inserted for convenience only and shall not in any way affect the meaning or construction of any provision of this Amendment.
+(c)Counterparts. This Amendment may be executed in any number of counterparts and by the different parties hereto on separate counterparts, each of which when so executed and delivered shall be an original, but all of which shall together constitute one and the same instrument. Delivery of an executed counterpart of a signature page of this Amendment by telecopy, e-mailed .pdf or any other electronic means that reproduces an image of the actual executed signature page shall be effective as delivery of a manually executed counterpart of this Amendment.
+
+[Remainder of Page Intentionally Left Blank]
+
+
+
+
+
+
+
+IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be duly executed by their respective authorized officers as of the day and year first above written.
+
+
+BRIGGS & STRATTON CORPORATION, as Lead Borrower
+
+By: /s/ Andrea L. Golvach                         
+Name: Andrea L. Golvach
+Title: Vice President and Treasurer
+
+
+BRIGGS & STRATTON AG, as Subsidiary Borrower
+
+By: /s/ Mark A. Schwertfeger                        
+Name: Mark A. Schwertfeger
+Title: Member of the Board of Directors
+
+
+
+
+
+
+
+JPMORGAN CHASE BANK, N.A., as Administrative Agent and as a Lender
+
+By: /s/ John Morrone                             
+Name: John Morrone
+Title: Authorized Signer
+
+
+
+
+
+
+
+JPMORGAN CHASE BANK, N.A., LONDON BRANCH, as a Swiss Lender
+
+By: /s/ Matthew Sparkes                         
+Name: Matthew Sparkes
+Title: Authorized Officer
+
+
+
+
+BANK OF AMERICA, N.A., as a Lender
+
+By: /s/ Brian Conole                         
+Name: Brian Conole
+Title: Senior VP
+
+
+
+
+
+BANK OF MONTREAL, as a Lender
+
+By: /s/ Brittany Malone                         
+Name: Brittany Malone
+Title: Vice President
+
+
+
+
+
+BANK OF MONTREAL LONDON BRANCH, as a Lender
+
+By: /s/ Scott Matthews                         
+Name: Scott Matthews
+Title: Managing Director, CFO International BMO Financial Group
+
+By: /s/ William K. Smith                    
+Name: William K. Smith
+Title: Head of International, BMO Capital Markets BMO Financial Group
+
+
+
+
+
+
+WELLS FARGO BANK, NATIONAL ASSOCIATION, as a Lender
+
+By: /s/ Nykole Hanna                         
+Name: Nykole Hanna
+Title: Authorized Signatory
+
+
+
+
+WELLS FARGO BANK, NATIONAL ASSOCIATION, LONDON BRANCH, as a Lender
+
+By: /s/ Alison Powell                         
+Name: Alison Powell
+Title: Authorized Signatory
+
+
+
+
+
+U.S. BANK NATIONAL ASSOCIATION, as a Lender
+
+By: /s/ Lynne Ciaccia                         
+Name: Lynne Ciaccia
+Title: Authorized Officer
+
+
+
+
+
+CIBC BANK USA, as a Lender
+
+By: /s/ Peter B. Campbell                         
+Name: Peter B. Campbell
+Title: Managing Director
+
+
+
+
+
+KEYBANK NATIONAL ASSOCIATION, as a Lender
+
+By: /s/ Paul Steiger                         
+Name: Paul Steiger
+Title: Vice President
+
+
+
+
+
+FIRST MIDWEST BANK, as a Lender
+
+By: /s/ Thomas Brennan                         
+Name: Thomas Brennan
+Title: Vice President
+
+
+
+
+
+
+
+
+
+
+CONSENT AND REAFFIRMATION
+
+Each of the undersigned hereby acknowledges receipt of a copy of the foregoing Amendment No. 2 to the Revolving Credit Agreement, dated as of September 27, 2019 (as amended, supplemented or otherwise modified from time to time, the “Credit Agreement”) by and among Briggs & Stratton Corporation, a Wisconsin corporation (the “Lead Borrower”), each of the other Borrowers party thereto from time to time, the Lenders party thereto from time to time, the Issuing Banks party thereto from time to time and JPMorgan Chase Bank, N.A., as the Administrative Agent, the Collateral Agent, the Australian Security Trustee and the Swingline Lender, which Amendment No. 2 is dated as of January 29, 2020 (the “Amendment”). Capitalized terms used in this Consent and Reaffirmation and not defined herein shall have the meanings given to them in the Credit Agreement. Without in any way establishing a course of dealing by the Administrative Agent or any Lender, each of the undersigned consents to the Amendment and reaffirms the terms and conditions of the Guarantee Agreement and any other Loan Document executed by it and acknowledges and agrees that such agreements and each and every such Loan Document executed by the undersigned in connection with the Credit Agreement remains in full force and effect and is hereby reaffirmed, ratified and confirmed. All references to the Credit Agreement contained in the above referenced documents shall be a reference to the Credit Agreement as so modified by the Amendment and as the same may from time to time hereafter be amended, modified or restated.
+
+Dated: January 29, 2020
+
+[Signature Page Follows]
+
+
+
+
+
+
+BRIGGS & STRATTON CORPORATION
+
+By: /s/ Andrea L. Golvach                        
+Name: Andrea L. Golvach
+Title: Vice President and Treasurer
+
+
+BRIGGS & STRATTON AG
+
+By: /s/ Mark A Schwerfeger                        
+Name: Mark A Schwerfeger
+Title: Member of the Board of Directors
+
+
+BRIGGS & STRATTON INTERNATIONAL AG
+
+By: /s/ Mark A Schwerfeger                        
+Name: Mark A Schwerfeger
+Title: Member of the Board of Directors
+
+
+BILLY GOAT INDUSTRIES, INC.
+
+By: /s/ Andrea L. Golvach                        
+Name: Andrea L. Golvach
+Title: Treasurer
+
+
+ALLMAND BROS., INC.
+
+By: /s/ Andrea L. Golvach                        
+Name: Andrea L. Golvach
+Title: Treasurer
+
+
+
+
+
+
+Signed, sealed and delivered by Briggs & Stratton Australia Pty. Limited ACN 006 576 656 in accordance with section 127 of the Corporations Act 2001 (Cth) by:
+    /s/ Mark A. Schwertfeger
+  /s/ Andrea L. Golvach
+Signature of director
+  Signature of director/secretary
+Mark A. Schwertfeger
+  Andrea L. Golvach
+Name of director (print)
+  Name of director/secretary (print)
+
+
+
+
+
+
+Signed, sealed and delivered by VICTA LTD ACN 000 341 640 in accordance with section 127 of the Corporations Act 2001 (Cth) by:
+    /s/ Mark A. Schwertfeger
+  /s/ Harold L. Redman
+Signature of director
+  Signature of director/secretary
+Mark A. Schwertfeger
+  Harold L. Redman
+Name of director (print)
+  Name of director/secretary (print)
