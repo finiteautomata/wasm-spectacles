@@ -2,14 +2,6 @@ import { TokenizerWasm } from "hf-tokenizers-wasm";
 // Import @tensorflow/tfjs or @tensorflow/tfjs-core
 import * as tf from '@tensorflow/tfjs';
 import {loadGraphModel} from '@tensorflow/tfjs-converter';
-// Add the WASM backend to the global backend registry.
-require('@tensorflow/tfjs-backend-wasm');
-import {setWasmPaths} from '@tensorflow/tfjs-backend-wasm';
-
-setWasmPaths("http://localhost:8080/assets/");
-
-// Set the backend to WASM and wait for the module to be ready.
-// tf.setBackend('wasm').then(() => main());
 
 class Tokenizer {
   constructor(json) {
@@ -108,6 +100,18 @@ const loadContract = async (url) => {
     return contract;
 }
 
+const tokensToWord = (tokens) => {
+    let word = "";
+    for (let i = 0; i < tokens.length; i++) {
+        if (i == 0) {
+            word = tokens[i];
+        } else {
+            word += tokens[i].slice(2);
+        }
+    }
+    return word;
+}
+
 const decode = (prediction, tokenizedInput) => {
     // Decode the prediction
     // First, get the prediction for each token
@@ -116,7 +120,11 @@ const decode = (prediction, tokenizedInput) => {
     let wordIds = [-1, ...tokenizedInput.word_ids];
     let currentWordId = null;
 
-    let out = "";
+    let currentTokens = [];
+    let currentLabel = null;
+
+    let wordAndLabels = [];
+
     for (let i = 1; (i < prediction.shape[0]) && (i < tokenizedInput.tokens.length); ++i) {
         // This is because unaligned tokenization
         let token = tokenizedInput.tokens[i-1];
@@ -125,15 +133,17 @@ const decode = (prediction, tokenizedInput) => {
 
         if (wordId !== currentWordId) {
             // Starts new word
+            if (currentWordId !== null)
+                wordAndLabels.push([tokensToWord(currentTokens), currentLabel]);
             currentWordId = wordId;
-            let label = id2label[pred];
-            if (label !== "O")
-                out += `${token} (${label})`;
-            else
-                out += token + " ";
+            currentLabel = id2label[pred];
+            currentTokens = [token];
+        } else {
+            currentTokens.push(token);
         }
     }
-    console.log(out);
+
+    return wordAndLabels;
 }
 
 
@@ -144,7 +154,7 @@ async function main() {
     console.log("Loading model...");
     let model = await loadModel();
     console.log("done!");
-    let url = "assets/flextronics.txt";
+    let url = "https://raw.githubusercontent.com/finiteautomata/wasm-spectacles/master/assets/flextronics.txt";
     let contract = await loadContract(url);
 
     let paragraphs = contract.split("\n").map(normalize).filter(line => line.length > 0);
@@ -164,7 +174,7 @@ async function main() {
 
     for (let [encoding, prediction] of predictions) {
         console.log("==============================");
-        decode(prediction, encoding);
+        console.log(decode(prediction, encoding));
     }
 }
 
