@@ -143,9 +143,63 @@ const decode = (prediction, tokenizedInput) => {
         }
     }
 
+    if (currentWordId !== null)
+        wordAndLabels.push([tokensToWord(currentTokens), currentLabel]);
+
     return wordAndLabels;
 }
 
+const bioToSegments = (wordAndLabels) => {
+
+    let segments = [];
+    let currentWords = [];
+    let currentType = "";
+
+    for (let [word, label] of wordAndLabels) {
+        if (label === 'O'){
+            if (currentType == "text")
+                currentWords.push(word)
+            else {
+                if (currentWords.length > 0)
+                    segments.push({
+                        "text": currentWords.join(" "),
+                        "type": currentType
+                    })
+                currentWords = [word]
+                currentType = "text"
+            }
+        }
+        else if(label[0] === 'B') {
+            if (currentWords.length > 0)
+                segments.push({
+                    "text": currentWords.join(" "),
+                    "type": currentType
+                })
+            currentWords = [word]
+            currentType = label.slice(2)
+        }
+        else  {
+            if (currentType === label.slice(2))
+                currentWords.push(word);
+            else {
+                if (currentWords.length > 0)
+                    segments.push({
+                        "text": currentWords.join(" "),
+                        "type": currentType
+                    })
+                currentWords = [word]
+                currentType = label.slice(2)
+            }
+        }
+    }
+    if (currentWords.length > 0)
+        segments.push({
+            "text": currentWords.join(" "),
+            "type": currentType
+        })
+
+    return segments
+};
 
 async function main() {
 
@@ -154,7 +208,8 @@ async function main() {
     console.log("Loading model...");
     let model = await loadModel();
     console.log("done!");
-    let url = "https://raw.githubusercontent.com/finiteautomata/wasm-spectacles/master/assets/flextronics.txt";
+    //let url = "https://raw.githubusercontent.com/finiteautomata/wasm-spectacles/master/assets/contracts/flextronics.txt";
+    let url = "https://raw.githubusercontent.com/finiteautomata/wasm-spectacles/master/assets/contracts/0000009984-20-000109%3Aexh102form8-kamendment.txt";
     let contract = await loadContract(url);
 
     let paragraphs = contract.split("\n").map(normalize).filter(line => line.length > 0);
@@ -169,13 +224,15 @@ async function main() {
     document.encodedParagraphs = encodedParagraphs;
 
     console.log("Predicting");
-    let predictions = encodedParagraphs.map(encoding => [encoding, predict(model, encoding)]);
-    console.log("done!");
 
-    for (let [encoding, prediction] of predictions) {
+    for (let encoding of encodedParagraphs) {
         console.log("==============================");
-        console.log(decode(prediction, encoding));
+        let prediction = predict(model, encoding);
+        let decoded = decode(prediction, encoding);
+        let segments = bioToSegments(decoded);
+        console.log(segments);
     }
+    console.log("done!");
 }
 
 main();
